@@ -1,0 +1,4610 @@
+[
+    {
+      "code": "APPLICANT_SELF_DECLARATION",
+      "message": "Self Declaration",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "APPLICATION_NO",
+      "message": "Application No",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
+      "message": "Building Plan / Completion Certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "CONNECTION_ACTIVATED",
+      "message": "Connection Activated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ELECTRICITY_BILL",
+      "message": "Electricity Bill",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ERR_CURRENT_READING_DATE_SHOULD_NOT_BE_LESS_THAN_FROM_DATE_AND_NOT_GREATER_THAN_TO_DATE",
+      "message": "Current Reading Date should not be less than from date and not be greater than Today's date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ERR_FAILED_TO_PARSE_METER_READING_DATA",
+      "message": "Failed to parse meter reading data",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ERR_WS_ENTER_ATLEAST_ONE_FIELD",
+      "message": "Enter at least one field",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ERR_WS_FILL_ATLEAST_ONE_FIELD",
+      "message": "Please provide at least one field information to search for connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ERR_WS_FILL_MANDATORY_FIELDS",
+      "message": "Please provide the city and any one other field information to search for connection.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ERR_WS_FILL_VALID_FIELDS",
+      "message": "In addition to City, please provide any one of the other parameters to search for connection.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ERR_WS_PROP_NOT_FOUND",
+      "message": "No Property records found, please search or create a new property",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ERR_WS_PROP_STATUS_INACTIVE",
+      "message": "Property Status is INworklow",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "ERR_WS_PROVIDE_VALID_PROP_ID",
+      "message": "Please enter a valid Property ID",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "INITIATED",
+      "message": "Initiated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "NONRESIDENTIAL.INSTITUTIONAL",
+      "message": "Non Residential Institutional",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "OWNER_AUTHORIZATION_AGREEMENT",
+      "message": "Agreement",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "OWNER.AUTHORIZATION.AGREEMENT",
+      "message": "Agreement",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "OWNER_AUTHORIZATION_NOTARY",
+      "message": "Notary",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "OWNER.AUTHORIZATION.NOTARY",
+      "message": "Notary",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "OWNER_AUTHORIZATION_TENANCY",
+      "message": "Tenancy",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "OWNER.AUTHORIZATION.TENANCY",
+      "message": "Tenancy",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PDF_STATIC_LABEL_WS_BILL_IF_THE_TAX",
+      "message": "6. Interest & late payment charges calculated based on the payment date will reflect in next bill.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PDF_STATIC_LABEL_WS_BILL_PAYMENT_RECEIVED",
+      "message": "1. Minimum charges will be applied in case of meter status is locked.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PDF_STATIC_LABEL_WS_BILL_PLEASE_DEPOSIT",
+      "message": "5. Late payment charges will be applied after the due date.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PDF_STATIC_LABEL_WS_BILL_THIS_DOCUMENT",
+      "message": "2. In case of meter status is breakdown, please get new meter before next billing.Otherwise three times the average bill will be applied.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PDF_STATIC_LABEL_WS_BILL_THIS_IS",
+      "message": "3. If last day to pay bill is a holiday. Kindly pay your bills either online or offline on previous working day to avoid penalty.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PENDING_APPROVAL_FOR_CONNECTION",
+      "message": "Pending For Approval Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PENDING_FOR_APPROVAL",
+      "message": "Pending for Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PENDING_FOR_CITIZEN_ACTION",
+      "message": "Pending For Citizen Action",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PENDING_FOR_CONNECTION_ACTIVATION",
+      "message": "Pending For Connection Activation",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PENDING_FOR_DOCUMENT_VERIFICATION",
+      "message": "Pending For Document Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PENDING_FOR_FIELD_INSPECTION",
+      "message": "Pending For Field Inspection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PENDING_FOR_PAYMENT",
+      "message": "Pending For Payment",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PLUMBER_REPORT_DRAWING",
+      "message": "Plumber Report / Drawing",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PROPERTY_TAX_RECIEPT",
+      "message": "Property Tax Reciept",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "PT_NOTIFICATIONS_WATER_SEWERAGE_TAX_PAID",
+      "message": "Your Water & Sewerage tax has been paid successfully.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SEWERAGE_CONNECTION_BILL_GENERATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your <Service>  Bill has been generated. Please pay the amount due: <bill amount> by due date <Due Date>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SEWERAGE_CONNECTION_BILL_GENERATION_MESSAGE",
+      "message": "Dear <Owner Name>, Your<Service>  Bill for <Billing Period> has been generated. Please pay the amount due: <bill amount> by due date <Due Date>. Following is the link to your bill: <Link to Bill>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SEWERAGE_CONNECTION_BILL_GENERATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your <Service>  Bill has been generated. Please pay the amount due: <bill amount> by due date <Due Date>. Following is the link to your bill: <Link to Bill>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
+      "message": "Dear <Owner Name> click here <Action Button>Connection Detail Page</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_ADHOC_PENALTY",
+      "message": "Penalty",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_ADHOC_REBATE",
+      "message": "Rebate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
+      "message": "Dear <Owner Name> please click on PAY NOW .<Action Button>PAY NOW</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please click on <payment link> . Log in to <mseva URL> or download <mseva app link> for more details.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_DUE_AMOUNT_SHOULD_BE_ZERO",
+      "message": "Please collect pending Sewerage Service dues before proceeding to modify the connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_EDIT_IN_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been edited. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been edited. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_EDIT_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been edited. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_EDIT_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for Modification of the Connection has been approved. Changes will be effective from <Date effective from>. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
+      "message": "Dear <Owner Name>,\nplease log in to <mseva URL> or download <mseva app link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_MODIFY_IN_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for Modification of the Connection has been edited. Click here for more details. View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_MODIFY_REJECT_REJECTED_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for Modification of the Connection has been rejected. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_MODIFY_REJECT_REJECTED_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for Modification of the Connection has been rejected. For more details, please log in to <mseva URL> or download <mseva app link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_MODIFY_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for Modification of the Connection has been edited. For more details, please log in to <mseva URL> or download <mseva app link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
+      "message": "Dear <Owner Name>, You have successfully submitted your application for Modification of the Connection. Your Application No. is <Application number> . <Action Button>Download Application</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, You have successfully submitted your application for Modification of the Connection. Your Application No. is <Application number>. Click here to download your application <Application download link>. For more information, please log in to <mseva URL> or download <mseva app link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_MODIFY_TASK_DETAILS",
+      "message": "Task Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_PAYMENT_NOTIFICATION_APP",
+      "message": "Your payment of <Amount paid> toward <Service> Bill for <Billing Period> has been received. <Action Button>DOWNLOAD RECEIPT</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_PAYMENT_NOTIFICATION_SMS",
+      "message": "Dear <Owner Name>, Your payment of <Amount paid> toward <Service>  Bill for <Billing Period> has been received. Following is the link to your receipt: <receipt download link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_APP_MESSAGE",
+      "message": "Dear <Owner Name> , Your payment for New <Service> connection against the application <Application number> has been been succesfully recorded. You can download the receipt by clicking DOWNLOAD RECEIPT.<Action Button>DOWNLOAD RECEIPT</Action Button> Your connection will be activated within <SLA> days. <Plumber Info>Concerned plumber alloted to you is <Plumber name>, Licence No. <Plumber Licence No.>, Contact No. <Plumber Mobile No.>.</Plumber Info>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> , Your payment for New <Service> connection against the application <Application number> has been been succesfully recorded. Download your receipt using this link <receipt download link>. Your connection will be activated within <SLA> days.<Plumber Info> Concerned plumber alloted to you is <Plumber name>, Licence No. <Plumber Licence No.>, Contact No. <Plumber Mobile No.>.</Plumber Info>For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_REJECT_REJECTED_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been rejected. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_REJECT_REJECTED_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been rejected. For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_Round_Off",
+      "message": "Sewerage Round Off",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been sent back. For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, You have successfully submitted your application for a New <Service> Connection. Your Application No. is <Application number> . <Action Button>Download Application</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, You have successfully submitted your application for a New <Service> Connection. Your Application No. is <Application number>. Click here to download your application <Application download link>. For more information, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Status of your application <Application number> for a New <Service> Connection has changed to PENDING APPROVAL FOR CONNECTION from PENDING FOR FIELD INSPECTION. To track your application, click on View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Status of your application <Application number> for a New <Service> Connection has changed to PENDING APPROVAL FOR CONNECTION from PENDING FOR FIELD INSPECTION. To track your application, click on <View History Link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Status of your application <Application number> for a New <Service> Connection has changed to PENDING FOR FIELD INSPECTION from PENDING FOR DOCUMENT VERIFICATION. To track your application, click on View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Status of your application <Application number> for a New <Service> Connection has changed to PENDING FOR FIELD INSPECTION from PENDING FOR DOCUMENT VERIFICATION. For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Status of your application <Application number> for a New <Service> Connection has changed to ‘Pending for field inspection' from 'Pending for document verification’. To track your application, click on View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Status of your application <Application number> for a New <Service> Connection has changed to ‘Pending for field inspection' from 'Pending for document verification’. For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "TL_OWNERPHOTO_NOTE",
+      "message": "Allowed documents are Passport size photos.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WATER_CONNECTION_BILL_GENERATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your <Service>  Bill has been generated. Please pay the amount due: <bill amount> by due date <Due Date>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WATER_CONNECTION_BILL_GENERATION_MESSAGE",
+      "message": "Dear <Owner Name>, Your<Service> Bill for <Billing Period> has been generated. Please pay the amount due: <bill amount> by due date <Due Date>. Following is the link to your bill: <Link to Bill>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WATER_CONNECTION_BILL_GENERATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your <Service>  Bill has been generated. Please pay the amount due: <bill amount> by due date <Due Date>. Following is the link to your bill: <Link to Bill>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_ACTIVATE_CONNECTION_APPLICATION",
+      "message": "Activate Connection Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_APPROVE_CONNECTION_APPLICATION",
+      "message": "Approve Modify Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_APPROVE_FOR_CONNECTION_APPLICATION",
+      "message": "Approve For Connection Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_CITIZEN_NEWSW1_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_CITIZEN_NEWSW1_PAY",
+      "message": "Pay",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_CITIZEN_NEWSW1_RESUBMIT_APPLICATION",
+      "message": "Resubmit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_CITIZEN_NEWWS1_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_CITIZEN_NEWWS1_PAY",
+      "message": "Pay",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_CITIZEN_NEWWS1_RESUBMIT_APPLICATION",
+      "message": "Resubmit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_CITIZEN_NEWWS1_SUBMIT_APPLICATION",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_APPROVE_CONNECTION",
+      "message": "Approve",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_SEND_BACK",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_SUBMIT_APPLICATION",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_APPROVE_CONNECTION",
+      "message": "Approve",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_SEND_BACK",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_SUBMIT_APPLICATION",
+      "message": "Submit Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_ACTIVATE_CONNECTION",
+      "message": "Activate Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_APPROVE_FOR_CONNECTION",
+      "message": "Approve Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_CONNECTION_ACTIVATED",
+      "message": "Connection Activated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_INITIATED",
+      "message": "Initiated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_MODIFY_APPLICATION",
+      "message": "Modify",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_PAY",
+      "message": "Collect",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_PENDING_APPROVAL_FOR_CONNECTION",
+      "message": "Pending for Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_CITIZEN_ACTION",
+      "message": "Pending For Citizen Action",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_CONNECTION_ACTIVATION",
+      "message": "Pending For Connection Activation",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_DOCUMENT_VERIFICATION",
+      "message": "Pending for Document Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_FIELD_INSPECTION",
+      "message": "Pending for Field inspection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_PAYMENT",
+      "message": "Pending For Payment",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_REJECTED",
+      "message": "Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_RESUBMIT_APPLICATION",
+      "message": "Resubmit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_SEND_BACK_FOR_FIELD_INSPECTION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_SEND_BACK_TO_CITIZEN",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_SUBMIT_APPLICATION",
+      "message": "Submit Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_SUBMIT_APPLICATION_APPLICATION",
+      "message": "Submit Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_VERIFY_AND_FORWARD",
+      "message": "Verify and Forward",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWSW1_VERIFY_AND_FORWORD",
+      "message": "Verify and Forword",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_ACTIVATE_CONNECTION",
+      "message": "Activate Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_APPROVE_FOR_CONNECTION",
+      "message": "Approve Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_CONNECTION_ACTIVATED",
+      "message": "Connection Activated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_INITIATED",
+      "message": "Initiated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_MODIFY_APPLICATION",
+      "message": "Modify",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_PAY",
+      "message": "Collect",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_PENDING_APPROVAL_FOR_CONNECTION",
+      "message": "Pending for Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_CITIZEN_ACTION",
+      "message": "Pending For Citizen Action",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_CONNECTION_ACTIVATION",
+      "message": "Pending For Connection Activation",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_DOCUMENT_VERIFICATION",
+      "message": "Pending for Document Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_FIELD_INSPECTION",
+      "message": "Pending for Field inspection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_PAYMENT",
+      "message": "Pending For Payment",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_REJECTED",
+      "message": "Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_RESUBMIT_APPLICATION",
+      "message": "Resubmit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_SEND_BACK_FOR_FIELD_INSPECTION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_SEND_BACK_TO_CITIZEN",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_SUBMIT_APPLICATION",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_VERIFY_AND_FORWARD",
+      "message": "Verify and Forward",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_EMPLOYEE_NEWWS1_VERIFY_AND_FORWORD",
+      "message": "Verify and Forword",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYSWCONNECTION_APPROVE_CONNECTION",
+      "message": "Approve Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYSWCONNECTION_PENDING_FOR_APPROVAL",
+      "message": "Pending For Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYSWCONNECTION_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYSWCONNECTION_SEND_BACK",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYSWCONNECTION_SUBMIT_APPLICATION",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYWSCONNECTION_APPROVE_CONNECTION",
+      "message": "Approve",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYWSCONNECTION_APPROVED",
+      "message": "Approved",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYWSCONNECTION_PENDING_FOR_APPROVAL",
+      "message": "Pending For Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYWSCONNECTION_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYWSCONNECTION_SEND_BACK",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_MODIFYWSCONNECTION_SUBMIT_APPLICATION",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_ACTIVATE_CONNECTION",
+      "message": "Activate Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_APPROVE_FOR_CONNECTION",
+      "message": "Approve Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_CONNECTION_ACTIVATED",
+      "message": "Connection Activated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_ACTIVATE_CONNECTION",
+      "message": "Activate Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_APPROVE_FOR_CONNECTION",
+      "message": "Approve Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_CONNECTION_ACTIVATED",
+      "message": "Connection Activated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_INITIATED",
+      "message": "Initiated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_MODIFY_APPLICATION",
+      "message": "Modify",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_PAY",
+      "message": "Collect",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_PENDING_APPROVAL_FOR_CONNECTION",
+      "message": "Pending for Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_CITIZEN_ACTION",
+      "message": "Pending For Citizen Action",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_CONNECTION_ACTIVATION",
+      "message": "Pending For Connection Activation",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_DOCUMENT_VERIFICATION",
+      "message": "Pending for Document Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_FIELD_INSPECTION",
+      "message": "Pending for Field inspection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_PAYMENT",
+      "message": "Pending For Payment",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_REJECTED",
+      "message": "Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_RESUBMIT_APPLICATION",
+      "message": "Resubmit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_SEND_BACK_FOR_FIELD_INSPECTION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_SEND_BACK_TO_CITIZEN",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_SUBMIT_APPLICATION",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_SUBMIT_APPLICATION_APPLICATION",
+      "message": "Submit Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_VERIFY_AND_FORWARD",
+      "message": "Verify and Forward",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_EMPLOYEE_VERIFY_AND_FORWORD",
+      "message": "Verify and Forword",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_MODIFY_APPLICATION",
+      "message": "Modify",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_PAY",
+      "message": "Pay",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_PENDING_APPROVAL_FOR_CONNECTION",
+      "message": "Pending for Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_PENDING_FOR_DOCUMENT_VERIFICATION",
+      "message": "Pending for Document Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_PENDING_FOR_FIELD_INSPECTION",
+      "message": "Pending for Field inspection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_REJECTED",
+      "message": "Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_RESUBMIT_APPLICATION",
+      "message": "Resubmit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_SEND_BACK_FOR_FIELD_INSPECTION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_SEND_BACK_TO_CITIZEN",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_SUBMIT_APPLICATION",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_VERIFY_AND_FORWARD",
+      "message": "Verify and Forward",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWSW1_VERIFY_AND_FORWORD",
+      "message": "Verify and Forward",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_ACTIVATE_CONNECTION",
+      "message": "Activate Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_APPROVE_FOR_CONNECTION",
+      "message": "Approve Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_CONNECTION_ACTIVATED",
+      "message": "Connection Activated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_ACTIVATE_CONNECTION",
+      "message": "Activate Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_APPROVE_FOR_CONNECTION",
+      "message": "Approve Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_CONNECTION_ACTIVATED",
+      "message": "Connection Activated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_INITIATED",
+      "message": "Initiated",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_MODIFY_APPLICATION",
+      "message": "Modify",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_PAY",
+      "message": "Collect",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_PENDING_APPROVAL_FOR_CONNECTION",
+      "message": "Pending for Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_CITIZEN_ACTION",
+      "message": "Pending For Citizen Action",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_CONNECTION_ACTIVATION",
+      "message": "Pending For Connection Activation",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_DOCUMENT_VERIFICATION",
+      "message": "Pending for Document Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_FIELD_INSPECTION",
+      "message": "Pending for Field inspection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_PAYMENT",
+      "message": "Pending For Payment",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_REJECTED",
+      "message": "Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_RESUBMIT_APPLICATION",
+      "message": "Resubmit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_SEND_BACK_FOR_FIELD_INSPECTION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_SEND_BACK_TO_CITIZEN",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_SUBMIT_APPLICATION",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_VERIFY_AND_FORWARD",
+      "message": "Verify and Forward",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_EMPLOYEE_VERIFY_AND_FORWORD",
+      "message": "Verify and Forword",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_MODIFY_APPLICATION",
+      "message": "Modify",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_PAY",
+      "message": "Pay",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_PENDING_APPROVAL_FOR_CONNECTION",
+      "message": "Pending for Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_PENDING_FOR_DOCUMENT_VERIFICATION",
+      "message": "Pending for Document Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_PENDING_FOR_FIELD_INSPECTION",
+      "message": "Pending for Field inspection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_REJECTED",
+      "message": "Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_RESUBMIT_APPLICATION",
+      "message": "Resubmit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_SEND_BACK_FOR_FIELD_INSPECTION",
+      "message": "Send back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_SEND_BACK_TO_CITIZEN",
+      "message": "Send Back",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_SUBMIT_APPLICATION",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_NEWWS1_VERIFY_AND_FORWARD",
+      "message": "Verify and Forward",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_RESUBMIT_APPLICATION_APPLICATION",
+      "message": "Resubmit Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_SEND_BACK_APPLICATION",
+      "message": "Send Back Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_SEND_BACK_FOR_DOCUMENT_VERIFICATION_APPLICATION",
+      "message": "Send Back For Document Verification Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_SEND_BACK_FOR_FIELD_INSPECTION_APPLICATION",
+      "message": "Send Back For Field Inspection Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_SUBMIT_APPLICATION_APPLICATION",
+      "message": "Submit Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WF_VERIFY_AND_FORWARD_APPLICATION",
+      "message": "Verify and Forward Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ACK_COMMON_APP_NO_LABEL",
+      "message": "Application Number.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ACKNO_APP_NO_LABEL",
+      "message": "Water Application No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ACKNO_CONNECTION_NO_LABEL",
+      "message": "Consumer No",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ACKNO_SEW_APP_NO_LABEL",
+      "message": "Sewerage Application No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
+      "message": "Dear <Owner Name> click here <Action Button>Connection Detail Page</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ACTIVATE_SUCCESS_MESSAGE_MAIN",
+      "message": "Connection Activated Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ACTIVATION_DETAILS",
+      "message": "Activation Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_BUTTON_ADD",
+      "message": "ADD",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_BUTTON_CANCEL",
+      "message": "CANCEL",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_COMMENT_LABEL",
+      "message": "Enter Comments",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_HEAD",
+      "message": "Add Adhoc Penalty/Rebate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_PEN_AMT_LABEL",
+      "message": "Adhoc Penalty Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_PEN_AMT_PLACEHOLDER",
+      "message": "Enter Adhoc Charge Amoun",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_RBT_AMT_LABEL",
+      "message": "Adhoc Rebate Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_RBT_AMT_PLACEHOLDER",
+      "message": "Enter Adhoc Rebate Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_SUB_FIRST",
+      "message": "Adhoc Penalty",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADD_HOC_CHARGES_POPUP_SUB_SEC",
+      "message": "Adhoc Rebate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAIL_METER_INSTALL_DATE",
+      "message": "Meter Installation Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAIL_ROAD_TYPE",
+      "message": "Road Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_AREA_LABEL",
+      "message": "Area (in sq ft)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_AREA_PLACEHOLDER",
+      "message": "Enter Area",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_CONN_TYPE_PLACEHOLDER",
+      "message": "Select Connection Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_INITIAL_METER_READING",
+      "message": "Initial Meter Reading (KL)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_INITIAL_METER_READING_PLACEHOLDER",
+      "message": "Enter Initial Meter Reading (KL)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_METER_ID_PLACEHOLDER",
+      "message": "Enter Meter ID",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_NO_OF_TOILETS",
+      "message": "No. of Toilets",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_NO_OF_TOILETS_PLACEHOLDER",
+      "message": "Enter No. of toilets",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_NO_OF_WATER_CLOSETS",
+      "message": "No. of Water Closets",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_NO_OF_WATER_CLOSETS_PLACEHOLDER",
+      "message": "Enter No. of water closets",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_PLUMBER_LICENCE_NO_LABEL",
+      "message": "Plumber Licence No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_PLUMBER_LICENCE_NO_PLACEHOLDER",
+      "message": "Enter Plumber Licence No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_PLUMBER_MOB_NO_LABEL",
+      "message": "Plumber Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_PLUMBER_MOB_NO_LABEL_PLACEHOLDER",
+      "message": "Enter Plumber Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_PLUMBER_NAME_LABEL",
+      "message": "Plumber Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_PLUMBER_NAME_PLACEHOLDER",
+      "message": "Enter Plumber Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_PLUMBER_PROVIDED_BY",
+      "message": "Plumber Provided By",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_ROAD_TYPE_PLACEHOLDER",
+      "message": "Select Road Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_WARER_SOURCE_PLACEHOLDER",
+      "message": "Select Water Source",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADDN_DETAILS_WARER_SUB_SOURCE_PLACEHOLDER",
+      "message": "Select Water Sub Source",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADHOC_MISCALCULATION",
+      "message": "Miscalculation of earlier assessment",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADHOC_ONE_TIME_PENALTY",
+      "message": "One time Penalty",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADHOC_OTHER",
+      "message": "Others",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADHOC_PENALTY",
+      "message": "Penalty",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADHOC_PENDING_DUES",
+      "message": "Pending dues from earlier",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ADHOC_REBATE",
+      "message": "Rebate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLICANT.SELF_DECLARATION",
+      "message": "Self Declaration",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLICATION",
+      "message": "Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLICATION_FEE_HEADER",
+      "message": "Application Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLICATION_FORWARD_SUCCESS_SUBHEAD",
+      "message": "A notification regarding above application status has been sent to registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLICATION_NEW_CONNECTION_HEADER",
+      "message": "Application for New Water and Sewerage Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLICATION_SUCCESS_ACKO_MESSAGE_SUB",
+      "message": "A notification regarding application submission has been sent at registered mobile no. Please note the application no. for future reference.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLICATION_SUCCESS_MESSAGE_MAIN",
+      "message": "Thank you for submitting the Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLICATION_TYPE_LABEL",
+      "message": "Application Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLY_CLICK_HERE",
+      "message": "Click Here",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLY_CREATE_MSG",
+      "message": "To Find/Create Property ID",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLY_FOR",
+      "message": "Apply For",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLY_NEW_CONNECTION_HEADER",
+      "message": "Apply for New Water and Sewerage Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLY_SEWERAGE",
+      "message": "Sewerage",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPLY_WATER",
+      "message": "Water",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPROVAL_CHECKLIST_MESSAGE_HEAD",
+      "message": "Application is Approved Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPROVAL_CHECKLIST_MESSAGE_SUB",
+      "message": "A notification regarding Approval connection has been sent to registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPROVAL_REJ_MESSAGE_HEAD",
+      "message": "Application Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPROVAL_REJ_MESSAGE_SUBHEAD",
+      "message": "A notification regarding Application Rejection has been sent to registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
+      "message": "Dear <Owner Name> please click on PAY NOW .<Action Button>PAY NOW</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please click on <payment link> . Log in to <mseva URL> or download <mseva app link> for more details.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
+      "message": "Building Plan / Completion Certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CALCULATION_BREAKUP",
+      "message": "Calculation BreakUp",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_ADDN_DETAILS",
+      "message": "Additional Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_ADDN_DETAILS_HEADER",
+      "message": "Additional Details (to be filled by Municipal Employee)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_APPLICATION_NO_LABEL",
+      "message": "Application No",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_APPLICATION_SUMMARY_LABEL",
+      "message": "Application Summary",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_APPLICATION_TYPE_PLACEHOLDER",
+      "message": "Select Application Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_APPL_NEW_CONNECTION",
+      "message": "Apply For New Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_APPLY",
+      "message": "Apply",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_DOWNLOAD",
+      "message": "DOWNLOAD",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_DOWNLOAD_RECEIPT",
+      "message": "DOWNLOAD RECEIPT",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_HOME",
+      "message": "HOME",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_MAKE_PAYMENT",
+      "message": "MAKE PAYMENT",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_NXT_STEP",
+      "message": "NEXT STEP",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_PREV_STEP",
+      "message": "Previous Step",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_PRINT",
+      "message": "PRINT",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_PRINT_RECEIPT",
+      "message": "PRINT RECEIPT",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_PRINT_RECIEPT",
+      "message": "PRINT RECIEPT",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_SAVE",
+      "message": "SAVE",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_BUTTON_SUBMIT",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_COLLECT_LABEL",
+      "message": "Collect",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_CONNECTION_DETAIL",
+      "message": "Connection Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_CONNECTION_DETAILS",
+      "message": "Connection Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_CONNECTION_HOLDER_DETAILS_HEADER",
+      "message": "Connection Holder Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_CONSUMER_NO_LABEL",
+      "message": "Consumer No",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_DOCS",
+      "message": "Documents",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_DOWNLOAD_BILL",
+      "message": "DOWNLOAD BILL",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_FROM_DATE_LABEL",
+      "message": "From Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_HEADER",
+      "message": "Water & Sewerage",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_NOT_PAID",
+      "message": "Not Paid",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_OWN_DETAIL",
+      "message": "Owner Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_OWNER_NAME_LABEL",
+      "message": "Owner Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_PAID_SUCCESS",
+      "message": "Paid Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_PAST_PAYMENTS",
+      "message": "Past Payments",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_PAY",
+      "message": "PAY",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_PAY_WS_BILL_HEADER",
+      "message": "Pay Water and Sewerage Bill",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_PLUMBER_DETAILS",
+      "message": "Plumber Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_PROP_DETAIL",
+      "message": "Property Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_PROP_DETAIL_HEADER",
+      "message": "Property Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_PROPERTY_DETAILS",
+      "message": "Property Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_PROP_LOC_DETAIL_HEADER",
+      "message": "Property Location Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_SERV_DETAIL",
+      "message": "Service Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_SEWERAGE_BILL_HEADER",
+      "message": "Sewerage Bill",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_SUMMARY",
+      "message": "Summary",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_TABLE_APP_NO_LABEL",
+      "message": "Application No",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_TABLE_COL_APPLICATION_STATUS_LABEL",
+      "message": "Application Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_TABLE_COL_CONNECTIONTYPE_LABEL",
+      "message": "Connection Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_TABLE_COL_DUE_LABEL",
+      "message": "Due",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_TABLE_COL_STATUS",
+      "message": "Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_TABLE_COL_TENANTID_LABEL",
+      "message": "TenantID",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_TO_DATE_LABEL",
+      "message": "To Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_TO_DATE_PLACEHOLDER",
+      "message": "Select to Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_TOTAL_AMT",
+      "message": "Total Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_COMMON_WATER_BILL_HEADER",
+      "message": "Water Bill",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_DETAIL_NO_OF_TAPS",
+      "message": "No. of taps proposed",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_DETAIL_NO_OF_WATER_CLOSETS",
+      "message": "No. of Water Closets",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_DETAIL_NO_OF_WATER_CLOSETS_PLACEHOLDER",
+      "message": "Enter No. of water closets",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_DETAIL_PIPE_SIZE",
+      "message": "Pipe Size proposed (in inches)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONNECTION_ACTIVATE_SUCCESS_SUBHEAD",
+      "message": "A notification regarding above application status has been sent to registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONNECTION_DETAILS_CONNECTION_STATUS_HEADER",
+      "message": "Connection Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONNECTION_DETAILS_STATUS_HEADER",
+      "message": "Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONNECTION_DETAILS_STATUS_LABEL",
+      "message": "STATUS",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONNECTION_DETAILS_VIEW_CONSUMPTION_LABEL",
+      "message": "View Consumption Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_COMMON_ENTER_FATHER_OR_HUSBAND_NAME_PLACEHOLDER",
+      "message": "Enter Guardian Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_COMMON_FATHER_OR_HUSBAND_NAME",
+      "message": "Guardian Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_COMMON_GENDER_FEMALE",
+      "message": "Female",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_COMMON_GENDER_MALE",
+      "message": "Male",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_COMMON_GENDER_TRANSGENDER",
+      "message": "Transgender",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_CROSADD",
+      "message": "Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_CROSADD_PLACEHOLDER",
+      "message": "Enter Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_GENDER_LABEL",
+      "message": "Gender",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_MOBILE_NO_LABEL",
+      "message": "Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_MOBILE_NO_PLACEHOLDER",
+      "message": "Enter Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_OWN_NAME_LABEL",
+      "message": "Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_OWN_NAME_PLACEHOLDER",
+      "message": "Enter Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_RELATION_LABEL",
+      "message": "Relationship",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_RELATION_PLACEHOLDER",
+      "message": "Select Relationship",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_SPECIAL_APPLICANT_LABEL",
+      "message": "Special Applicant Category",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_OWN_DETAIL_SPECIAL_APPLICANT_PLACEHOLDER",
+      "message": "Select Special Applicant Category",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONN_HOLDER_SAME_AS_OWNER_DETAILS",
+      "message": "Same As Owner Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_ADDRESS_LABEL",
+      "message": "Address",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_BILLING_PERIOD_LABEL",
+      "message": "Billing Period",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_BUTTON_METER_READING",
+      "message": "ADD METER READING",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_CONSUMPTION_LABEL",
+      "message": "Consumption (KL)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_CONSUMPTION_READING_PLACEHOLDER",
+      "message": "Enter Consumption",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_CURRENT_READING_DATE_LABEL",
+      "message": "Current Reading Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_CURRENT_READING_LABEL",
+      "message": "Current Reading(KL)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_CURRENT_READING_PLACEHOLDER",
+      "message": "Enter Current Reading",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_ENTER_DATE_PLACEHOLDER",
+      "message": "Enter Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_HEADER",
+      "message": "Consumption Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_LAST_CURRENT_READING_DATE_LABEL",
+      "message": "Current Reading Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_LAST_CURRENT_READING_LABEL",
+      "message": "Current Reading(KL)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_LAST_READING_DATE_LABEL",
+      "message": "Last Reading Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_LAST_READING_LABEL",
+      "message": "Last Reading(KL)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_METER_STATUS_LABEL",
+      "message": "Meter Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_CONSUMPTION_DETAILS_METER_STATUS_PLACEHOLDER",
+      "message": "Enter Meter Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_DOCUMENT_DETAILS_BUTTON_UPLOAD_FILE",
+      "message": "UPLOAD FILE",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_DOCUMENT_DETAILS_HEADER",
+      "message": "Required Documents",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_DOCUMENT_DETAILS_SUBTEXT",
+      "message": "Only one file can be uploaded for one document. If multiple files need to be uploaded then please combine all files in a pdf and then upload.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_DUE_AMOUNT_SHOULD_BE_ZERO",
+      "message": "Please collect pending Water Service dues before proceeding to modify the connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been edited. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been edited. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ELECTRICITY_BILL",
+      "message": "Electricity Bill",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ESTIMATION_NOTICE",
+      "message": "Estimation Notice",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_FILL_MANDATORY_FIELDS",
+      "message": "Please fill all mandatory fields!",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_FILL_REQUIRED_FIELDS",
+      "message": "Please fill required details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_FILL_REQUIRED_HOLDER_FIELDS",
+      "message": "Please fill connection holder details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_FORWARD_SUCCESS_MESSAGE_MAIN",
+      "message": "Application Verified and Forwarded Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_FROM_DATE_PLACEHOLDER",
+      "message": "Select From Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_APPLICATION_RESULTS_TABLE_HEADING",
+      "message": "Search Results for Water & Sewerage Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_CONN_RESULTS_DESC",
+      "message": "Provide at least one parameter to search for a connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_APP_NO_LABEL",
+      "message": "Water Application No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_APP_NO_PLACEHOLDER",
+      "message": "Enter Application No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_APP_STATUS_LABEL",
+      "message": "Application status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_APP_STATUS_PLACEHOLDER",
+      "message": "Select Application Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+      "message": "SEARCH",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_CONSUMER_NO_LABEL",
+      "message": "Consumer No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_CONSUMER_NO_PLACEHOLDER",
+      "message": "Enter Consumer No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_DESC",
+      "message": "Provide at least one parameter to search for an application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_NEW_APP_BUTTON",
+      "message": "NEW APPLICATION",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_OWN_MOB_LABEL",
+      "message": "Owner Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_OWN_MOB_PLACEHOLDER",
+      "message": "Enter your mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_TABLE_HEADING",
+      "message": "Search Results for Water & Sewerage Connections",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_TL_NO_LABEL",
+      "message": "Trade Licence No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_HOME_SEARCH_RESULTS_TL_NO_PLACEHOLDER",
+      "message": "Enter Trade Licence No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFICATIONS_EFFECTIVE_FROM",
+      "message": "Modification Effective From",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for Modification of the Connection has been approved. Changes will be effective from <Date effective from>. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
+      "message": null,
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_CONNECTION_HEADER",
+      "message": "Modify Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_IN_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for Modification of the Connection has been edited. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_PROPERTY",
+      "message": "MODIFY PROPERTY",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_REJECT_REJECTED_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for Modification of the Connection has been rejected. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_REJECT_REJECTED_SMS_MESSAGE",
+      "message": null,
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_SMS_MESSAGE",
+      "message": null,
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
+      "message": "Dear <Owner Name>, You have successfully submitted your application for Modification of the Connection. Your Application No. is <Application number> . <Action Button>Download Application</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
+      "message": null,
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MODIFY_TASK_DETAILS",
+      "message": "Modify Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MYAPPLICATIONS_HEADER",
+      "message": "My Applications ({0})",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MYCONNECTION_ADDRESS",
+      "message": "Address",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MYCONNECTIONS_APPLICATION_NO",
+      "message": "Application number",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MYCONNECTIONS_CONSUMER_NO",
+      "message": "Consumer number",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MYCONNECTIONS_DUE",
+      "message": "Due",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MYCONNECTIONS_HEADER",
+      "message": "My Connections",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MYCONNECTIONS_OWNER_NAME",
+      "message": "Owner Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MYCONNECTIONS_SERVICE",
+      "message": "Service",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_MYCONNECTIONS_STATUS",
+      "message": "Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_NO_PAST_PAYMENTS_MESSAGE",
+      "message": "You have no past payments",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OLD_LABEL_NAME",
+      "message": "Old Value:",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_CATEGORY_LABEL",
+      "message": "Owner Category",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_CROSADD",
+      "message": "Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_DOB_LABEL",
+      "message": "Date Of Birth",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_FATHER_OR_HUSBAND_NAME",
+      "message": "Father / Husband's Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_GENDER_LABEL",
+      "message": "Gender",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_GUARDIAN_LABEL",
+      "message": "Guardian",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_GUARDIAN_NAME_LABEL",
+      "message": "Guardian Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_HEADER_INFO",
+      "message": "Owner Information",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_MOBILE_NO_LABEL",
+      "message": "Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_MOBILE_NO_PLACEHOLDER",
+      "message": "Enter your mobile No",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_NAME",
+      "message": "Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_OWN_EMAIL_LABEL",
+      "message": "Email",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_OWNERSHIP_TYPE_LABEL",
+      "message": "Ownership Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_OWN_NAME_LABEL",
+      "message": "Owner Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_RELATION_LABEL",
+      "message": "Relationship",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWN_DETAIL_SPECIAL_APPLICANT_LABEL",
+      "message": "Special Applicant Category",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER",
+      "message": "Owner",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.ADDRESSPROOF",
+      "message": "Owner Address Proof",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.ADDRESSPROOF.AADHAAR",
+      "message": "Address Proof Aadhaart",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.ADDRESSPROOF.DL",
+      "message": "Driving License",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.ADDRESSPROOF.PAN",
+      "message": "Address Proof PAN Card",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.ADDRESSPROOF.PASSPORT",
+      "message": "Address Proof Passport",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.ADDRESSPROOF.VOTERID",
+      "message": "Address Proof Voter ID",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.AUTHORIZATION.AFFIDAVIT",
+      "message": "Owner's Affidavit",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.AUTHORIZATION.AGREEMENT",
+      "message": "Owner's Agreement",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.AUTHORIZATION.NOTARY",
+      "message": "Owner's Notary",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.AUTHORIZATION.TENANCY",
+      "message": "Owner's Tenancy",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER_DETAILS_EMAIL_LABEL",
+      "message": "Email",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER_HEADER_LABEL",
+      "message": "Owner",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.IDENTITYPROOF",
+      "message": "Owner's ID Proof",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.IDENTITYPROOF.AADHAAR",
+      "message": "Aadhaar",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.IDENTITYPROOF.DRIVING",
+      "message": "Identity Proof Driving License",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.IDENTITYPROOF.DRIVINGR",
+      "message": "Identity Proof Driving License",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.IDENTITYPROOF.PAN",
+      "message": "Identity Proof Pancard",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.IDENTITYPROOF.PASSPORT",
+      "message": "Identity Proof Passport",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNER.NOC",
+      "message": "Owner's NOC",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_INDIVIDUAL",
+      "message": "Individual(s)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_INDIVIDUAL_MULTIPLEOWNERS",
+      "message": "Multiple Owners",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_INDIVIDUAL_SINGLEOWNER",
+      "message": "Individual - SingleOwner",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALGOVERNMENT",
+      "message": "Institutional - Government",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALGOVERNMENT_ULBGOVERNMENT",
+      "message": "ULB Government",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE",
+      "message": "Institutional - Private",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_NGO",
+      "message": "NGO",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_PRIVATECOMPANY",
+      "message": "Private Company",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_PRIVATETRUST",
+      "message": "Private Trust",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_OWNERSHIPCATEGORY_NA",
+      "message": "NA",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAST_PAYMENTS_AMOUNT_PAID_LABEL",
+      "message": "Amount Paid",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAST_PAYMENTS_BILL_AMOUNT_LABEL",
+      "message": "Bill Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_ADD_REBATE_PENALTY",
+      "message": "ADD REBATE/PENALTY",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_NOTIFICATION_APP",
+      "message": "Your payment of <Amount paid> toward <Service> Bill for <Billing Period> has been received. <Action Button>DOWNLOAD RECEIPT</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_NOTIFICATION_SMS",
+      "message": "Dear <Owner Name>, Your payment of <Amount paid> toward <Service> Bill for <Billing Period> has been received. Following is the link to your receipt: <receipt download link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_PENALTY_REASON",
+      "message": "Reason for Adhoc Penalty",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_PENALTY_REASON_SELECT",
+      "message": "Select reason for Adhoc Penalty",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_REBATE_REASON",
+      "message": "Select Reason for Adhoc Rebate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_REBATE_REASON_SELECT",
+      "message": "Select Reason for Adhoc Rebate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_SUCCESS_MESSAGE_MAIN",
+      "message": "Thank you for making Payment",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_SUCCESS_MESSAGE_SUB",
+      "message": "Your Payment is recorded successfully.Payment Acknowledgement has been sent to the registered mobile number of the consumer.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAYMENT_VIEW_BREAKUP",
+      "message": "VIEW BREAKUP",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_APP_MESSAGE",
+      "message": "Dear <Owner Name> Licence No. <Plumber Licence No.> Contact No. <Plumber Mobile No.>.</Plumber Info>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> Licence No. <Plumber Licence No.> Contact No. <Plumber Mobile No.>.</Plumber Info>For more details please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PLUMBER_REPORT_DRAWING",
+      "message": "Plumber Report / Drawing",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PLUMBER_SELF",
+      "message": "Self",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PLUMBER_ULB",
+      "message": "ULB",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PMT_RCPT_NO",
+      "message": "Payment Receipt No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_BUILD_COLONY_NAME_LABEL",
+      "message": "Building/Colony Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_BUILD_COMP_NAME",
+      "message": "Building / Company Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_BUILD_NAME_LABEL",
+      "message": "Building / Colony Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_CITY",
+      "message": "City",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_CITY_PLACEHOLDER",
+      "message": "Select City",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_DHNO",
+      "message": "Door / House No",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_LOCALITY_LABEL",
+      "message": "Locality",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_LOCALITY_MOHALLA_LABEL",
+      "message": "Locality / Mohalla",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_MAP_LOC",
+      "message": "Location on Map",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_MOHALLA",
+      "message": "Mohalla",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_PHNO_LABEL",
+      "message": "House / Plot No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_PH_SURVEYNO_LABEL",
+      "message": "Plot / House / Survey No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_PINCODE",
+      "message": "Pincode",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_PLOT_SIZE_LABEL",
+      "message": "Plot Size (in sq meters)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROP_DETAIL_STREET_NAME",
+      "message": "Street Name",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPERTY_ID_LABEL",
+      "message": "Property ID",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPERTY_ID_PLACEHOLDER",
+      "message": "Enter Property ID",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPERTY_NO_OF_FLOOR_LABEL",
+      "message": "No. of Floors",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPERTY_SUB_USAGE_TYPE_LABEL",
+      "message": "Property Sub Usage Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPERTY_TAX_RECIEPT",
+      "message": "Property Tax Reciept",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPERTY_TYPE_LABEL",
+      "message": "Property Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPERTY_USAGE_TYPE_LABEL",
+      "message": "Property Usage Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_MIXED",
+      "message": "Mixed",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NA",
+      "message": "NA",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL",
+      "message": "NonResidential",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL",
+      "message": "Commercial",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_ENTERTAINMENT_MOVIETHEATRE",
+      "message": "Movie Theatre",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_ENTERTAINMENT_MULTIPLEX",
+      "message": "Multiplex",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_EVENTSPACE_MARRIAGEPALACE",
+      "message": "Marriage Palace",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS",
+      "message": "Food Joints",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS_ACRESTAURANT",
+      "message": "AC Restaurant",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS_NONACRESTAURANT",
+      "message": "Non AC Restaurant",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_HOTELS",
+      "message": "Hotels",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_MEDICALFACILITY_PVTDISPENSARY",
+      "message": "Private Dispensary",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_MEDICALFACILITY_PVTHOSPITAL",
+      "message": "Private Hospital",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_OFFICESPACE",
+      "message": "Office Space",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_OTHERCOMMERCIALSUBMINOR_OTHERCOMMERCIAL",
+      "message": "Other Commercial Usage",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL",
+      "message": "Retail",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_ESTABLISHMENTSINMALLS",
+      "message": "Malls",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_ESTABLISHMENTSINMULTIPLEX",
+      "message": "Establishment In Multiplex",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_GROCERY",
+      "message": "Grocery Store",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_MALLS",
+      "message": "Malls",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_PHARMACY",
+      "message": "Pharmcy",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_SHOWROOM",
+      "message": "Showroom",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_STATUTORY_STATUTORYORGANISATION",
+      "message": "Statutory Organisation",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL",
+      "message": "Industrial",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_MANUFACTURINGFACILITY_MANUFACTURINGFACILITY",
+      "message": "Manufacturing Facility",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_OTHERCOMMERCIALSUBMINOR",
+      "message": "Other Commercial Usage",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_OTHERCOMMERCIALSUBMINOR_OTHERCOMMERCIAL",
+      "message": "Industrial Other Commercial Usage",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_OTHERCOMMERCIALSUBMINOR_OTHERINDUSTRIAL",
+      "message": "Other Industrial Usage",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_RETAIL_SHOWROOM",
+      "message": "Industrial Showroom",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_WAREHOUSE_WAREHOUSE",
+      "message": "Godown/Warehouse",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL",
+      "message": "Institutional",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_COLLEGES",
+      "message": "Colleges",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONALGOVAIDED_GOVAIDEDEDUCATIONAL",
+      "message": "Govt. Aided Educational Institute",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_OTHEREDUCATIONAL",
+      "message": "Other Private Educational Institute",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_POLYTECHNICS",
+      "message": "Polytechnic",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_SCHOOL",
+      "message": "School",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_TRAININGINSTITUTES",
+      "message": "Training Institute",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HISTORICAL_HISTORICAL",
+      "message": "Historical Building",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HOMESFORSPECIALCARE_ANIMALCARE",
+      "message": "Stray Animal Care Center",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HOMESFORSPECIALCARE_DISABLEDHOME",
+      "message": "Home for the disabled / destitute",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HOMESFORSPECIALCARE_OLDAGEHOMES",
+      "message": "Old Age Homes",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HOMESFORSPECIALCARE_ORPHANAGE",
+      "message": "Orphanage",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_OTHERINSTITUTIONALSUBMINOR_OTHERINSTITUTIONAL",
+      "message": "Other Instituation",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_PUBLICFACILITY_COMMUNITYHALL",
+      "message": "Community Hall",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_PUBLICFACILITY_GOVTHOSPITAL",
+      "message": "Govt. Hospital & Dispensary",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_PUBLICFACILITY_LIBRARIES",
+      "message": "Public Libraries",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RECREATIONAL_GOLFCLUB",
+      "message": "Golf Club",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RECREATIONAL_SOCIALCLUB",
+      "message": "Social Club",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RECREATIONAL_SPORTSSTADIUM",
+      "message": "Sports Stadium",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RELIGIOUSINSTITUITION_RELIGIOUS",
+      "message": "Religious",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RELIGIOUSINSTITUTION",
+      "message": "Religious Institution",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_OTHERS",
+      "message": "Other Non-Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_OTHERS_PUBLICSPACES_CREMATION/BURIAL",
+      "message": "Cremation/ Burial Ground",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_RESIDENTIAL",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_RESIDENTIAL_COMMERCIAL_OTHERCOMMERCIALSUBMINOR_OTHERCOMMERCIAL",
+      "message": "Other Commercial Usage",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPSUBUSGTYPE_RESIDENTIAL_OFFICESPACE",
+      "message": "Residential Officespace",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPTYPE_BUILTUP",
+      "message": "Built Up",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPTYPE_BUILTUP_INDEPENDENTPROPERTY",
+      "message": "Independent Building",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPTYPE_BUILTUP_SHAREDPROPERTY",
+      "message": "Flat/Part of the building",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPTYPE_VACANT",
+      "message": "Vacant Land",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPTYPE_VACANT_INDEPENDENTPROPERTY",
+      "message": "Vacant Independent Building",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_MIXED",
+      "message": "Mixed",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NA",
+      "message": "NA",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL",
+      "message": "NonResidential",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL",
+      "message": "Commercial",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS",
+      "message": "Food Joints",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS_ACRESTAURANT",
+      "message": "AC Restaurant",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS_NONACRESTAURANT",
+      "message": "Non AC Restaurant",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_HOTELS",
+      "message": "Hotels",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_OFFICESPACE",
+      "message": "Office Space",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL",
+      "message": "Retail",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_MALLS",
+      "message": "Malls",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_SHOWROOM",
+      "message": "Showroom",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_INDUSTRIAL",
+      "message": "Industrial",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL",
+      "message": "Institutional",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_COLLEGES",
+      "message": "Colleges",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_OTHERS",
+      "message": "Other Non-Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_RESIDENTIAL",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_PROPUSGTYPE_RESIDENTIAL_OFFICESPACE",
+      "message": "Residential Officespace",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_REBATE_ADDITIONAL_AMOUNT_CHARGED",
+      "message": "Additional amount charged from the citizen",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_REBATE_ADVANCED_PAID",
+      "message": "Advance paid by citizen earlier",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_REBATE_BY_COMMISSIONER",
+      "message": "Rebate provided by commissioner/EO",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_REBATE_HEADER",
+      "message": "Rebate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_REJECT_REJECTED_APP_MEESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been rejected. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_REJECT_REJECTED_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been rejected. Click here for more details <View History Link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_REJECT_REJECTED_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_REVIEW_TRADE_LICENSE",
+      "message": "Application Review",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ROADTYPE_BERMCUTTINGKATCHA",
+      "message": "Berm Cutting (Katcha)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ROADTYPE_BMPREMIXROAD",
+      "message": "BM and Premix Road",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ROADTYPE_BRICKPAVING",
+      "message": "Brick Paving",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ROADTYPE_CCROAD",
+      "message": "CC Road",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ROADTYPE_INTERLOCKINGPAVERBLOCK",
+      "message": "Interlocking Paver Block",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ROADTYPE_OPENPIPE",
+      "message": "Open Pipe",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_ROADTYPE_PREMIXCARPET",
+      "message": "Premix Carpet",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SANCTION_LETTER",
+      "message": "Sanction letter",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_APPLICATIONS",
+      "message": "SEARCH APPLICATIONS",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_APPLICATION_SUB_HEADER",
+      "message": "Search Water & Sewerage Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNECTION_HEADER",
+      "message": "Search Water & Sewerage Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNECTION_RESET_BUTTON",
+      "message": "Reset",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNECTIONS",
+      "message": "SEARCH CONNECTIONS",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNECTIONS_APPLICATION_NO",
+      "message": "Enter Application Number",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNECTIONS_APPLICATION_NO_LABEL",
+      "message": "Enter Application Number",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNECTIONS_APPLICATION_NO_PLACEHOLDER",
+      "message": "Enter Application Number",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNECTIONS_DETAILS_HEADER",
+      "message": "Connections Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNECTION_SEARCH_BUTTON",
+      "message": "SEARCH",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNECTION_SUB_HEADER",
+      "message": "Search Water & Sewerage Connection",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNNECTION_CONSUMER_PLACEHOLDER",
+      "message": "Enter Consumer Number",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNNECTION_OLD_CONSUMER_LABEL",
+      "message": "Old Consumer Number",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_CONNNECTION_OLD_CONSUMER_PLACEHOLDER",
+      "message": "Enter Old Consumer Number",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEARCH_PROPERTY",
+      "message": "SEARCH PROPERTY",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SELECT_DOC_DD_LABEL",
+      "message": "Select Documents",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SELECT_METER_STATUS_PLACEHOLDER",
+      "message": "Select Meter Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SENDBACK_CHECKLIST_MESSAGE_HEAD",
+      "message": "Application is sent back Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SENDBACK_CHECKLIST_MESSAGE_SUB",
+      "message": "A notification regarding above application status has been sent to registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MEESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details <View History Link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MEESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details <View History Link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MEESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details <View History Link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. For more details, please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MEESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details <View History Link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MEESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Your Application <Application number> for a New <Service> Connection has been sent back. Click here for more details <View History Link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_CONN_CATEGORY",
+      "message": "Connection Category",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_CONN_EXECUTION_DATE",
+      "message": "Connection Execution Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_CONN_RAIN_WATER_HARVESTING_FAC",
+      "message": "Rainwater harvesting Facility",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_CONN_TYPE",
+      "message": "Connection Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_CONSUMP",
+      "message": "Consumption",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_CUR_METER_READ",
+      "message": "Current Meter Reading",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_LAST_METER_READ",
+      "message": "Last Meter Reading",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_METER_ID",
+      "message": "Meter ID",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_METER_READ_DATE_LABEL",
+      "message": "Meter reading date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_METER_READ_STAT",
+      "message": "Meter Reading Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_METER_STAT",
+      "message": "Meter Status",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_NO_OF_TAPS",
+      "message": "Number of Taps",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_NO_OF_TAPS_PLACEHOLDER",
+      "message": "Enter No. of taps",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_NO_OF_TOILETS",
+      "message": "Number of Toilets",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_PIPE_SIZE",
+      "message": "Pipe Size",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_PIPE_SIZE_PLACEHOLDER",
+      "message": "Select Size",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_PROP_USE_TYPE",
+      "message": "Property Usage Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_SERV_LABEL",
+      "message": "Service",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_SERV_TYPE",
+      "message": "Service Type",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_WATER_SOURCE",
+      "message": "Water Source",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERV_DETAIL_WATER_SUB_SOURCE",
+      "message": "Water Sub Source",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICE_FEE_HEADER",
+      "message": "Service Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_DESCRIPTION_NOTE",
+      "message": "* In case of multiple floors/units please provide the Occupancy Proof of all floors/units",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_HEADING",
+      "message": "Construction Proof",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_LABEL",
+      "message": "1. Building Plan / Completion Certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_COMMON_BUTTON_APPLY",
+      "message": "APPLY",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_COMMON_BUTTON_PRINT",
+      "message": "PRINT",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_ELECTRICITY_BILL_DESCRIPTION_NOTE",
+      "message": "* In case of multiple floors/units please provide the Usage Proof of all floors/units",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_ELECTRICITY_BILL_HEADING",
+      "message": "Usage Proof",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_ELECTRICITY_BILL_LABEL",
+      "message": "1. Electricity Bill",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_AADHAAR_LABEL",
+      "message": "4. Aadhar Card",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_ADDRESSPROOF_DESCRIPTION_NOTE",
+      "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_DL_LABEL",
+      "message": "2. Driving Licence",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_ELECTRICITYBILL_LABEL",
+      "message": "1. Electricity Bill",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_HEADING",
+      "message": "Address Proof",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_IDENTITYPROOF_DESCRIPTION_NOTE",
+      "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_PAN_LABEL",
+      "message": "5. Pan Card",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_PASSPORT_LABEL",
+      "message": "6. Passport",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_VOTERID_LABEL",
+      "message": "3. Voter Id",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_AADHAAR_LABEL",
+      "message": "1. Aadhar Card",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_DRIVING_LABEL",
+      "message": "3. Driving Licence",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_HEADING",
+      "message": "Identity Proof",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_PAN_LABEL",
+      "message": "4. Pan Card",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_PASSPORT_LABEL",
+      "message": "5. Passport",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_VOTERID_LABEL",
+      "message": "2. Voter Id",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_PLUMBER_REPORT_DRAWING_DESCRIPTION_NOTE",
+      "message": "* In case of multiple floors/units please provide the Usage Proof of all floors/units",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_PLUMBER_REPORT_DRAWING_HEADING",
+      "message": "Plumbing Report Proof",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_PLUMBER_REPORT_DRAWING_LABEL",
+      "message": "1. Plumber Report / Drawing",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_PROPERTY_TAX_RECIEPT_DESCRIPTION_NOTE",
+      "message": "* In case of multiple floors/units please provide the Occupancy Proof of all floors/units",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_PROPERTY_TAX_RECIEPT_HEADING",
+      "message": "Occupancy Proof",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_PROPERTY_TAX_RECIEPT_LABEL",
+      "message": "1. Property Tax Receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_REQ_DOCS_HEADER",
+      "message": "Required Documents - Water & Sewerage",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SERVICES_MASTERS_WATERSOURCE_TEST",
+      "message": "Test",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, You have successfully submitted your application for a New <Service> Connection. Your Application No. is <Application number> . <Action Button>Download Application</Action Button>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_SUMMARY_EDIT",
+      "message": "EDIT",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TASK_DETAILS",
+      "message": "Water & Sewerage Application",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TASK_DETAILS_CONN_DETAIL_NO_OF_CLOSETS_PROPOSED",
+      "message": "No. of water closets proposed",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TASK_DETAILS_CONN_DETAIL_NO_OF_TAPS_PROPOSED",
+      "message": "No. Of taps proposed",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TASK_DETAILS_CONN_DETAIL_NO_OF_TOILETS_PROPOSED",
+      "message": "No. of water toilets proposed",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TASK_DETAILS_CONN_DETAIL_PIPE_SIZE_PROPOSED",
+      "message": "Pipe Size proposed (in inches)",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TASK_DETAILS_FEE_ESTIMATE",
+      "message": "Fee Estimate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TASK_DETAILS_OLD_CONSUMER_NO",
+      "message": "Old Consumer No.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TASK_PROP_OWN_HEADER",
+      "message": "Property Owner Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TIME_ADHOC_PENALTY",
+      "message": "Adhoc Penalty",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_TIME_ADHOC_REBATE",
+      "message": "Adhoc Rebate",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_UPDATE_PROPERTY_INFO_AT_ULB",
+      "message": "Update your property information in Property module",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_UPLOAD_MANDATORY_DOCUMENTS",
+      "message": "Please uplaod mandatory documents!",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VERIFY_AND_FARWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name> click on View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VERIFY_AND_FARWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name> click on View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> click on <View History Link>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name> click on View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+      "message": "Dear <Owner Name>, Status of your application <Application number> for a New <Service> Connection has changed to ‘Pending for field inspection' from 'Pending for document verification’. To track your application, click on View History Link .<Action Button>View History Link</Action Button>",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+      "message": "Dear <Owner Name> please log in to <mseva URL> or download <mseva app link>.",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VIEW_BILL_BILLING_PERIOD_LABEL",
+      "message": "Billing Period",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VIEWBILL_DETAILS_HEADER",
+      "message": "Bill Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS.VIEWBILL.DETAILS.HEADER",
+      "message": "Bill Details",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VIEW_BILL_DUE_DATE_LABEL",
+      "message": "Due Date",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VIEW_BILL_IMP_DATE_HEADER",
+      "message": "Important Dates",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VIEW_BREAK_UP_TOTAL",
+      "message": "Total",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_VIEW_DETAILS",
+      "message": "VIEW DETAIL",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    },
+    {
+      "code": "WS_WORKFLOW_ALREADY_INITIATED",
+      "message": "Application already exists!",
+      "locale": "en_IN",
+      "module": "rainmaker-ws"
+    }
+  ]
