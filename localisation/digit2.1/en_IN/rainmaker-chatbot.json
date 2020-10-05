@@ -1,0 +1,255 @@
+{
+    "RequestInfo": {
+        "authToken": "{{access_token}}"
+    },
+    "tenantId": "pb",
+    "messages": [
+    {
+      "code": "chatbot.message.common.api.errormessage",
+      "message": "Something is not right. +",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.message.noComplaintFoundMessage",
+      "message": "There are no open complaints.\\nPlease type and send *mseva* to go to the main menu options.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.message.numberNameSeparatorLocalizationCodeFor",
+      "message": ".",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.message.numberNameSeparatorLocalizationCodeTo",
+      "message": ".",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.message.numberPostfixLocalizationCode",
+      "message": ".*",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.message.numberPrefixLocalizationCode",
+      "message": "*",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.message.pgrTrackComplaintEndHeader",
+      "message": "Your Open Complaints",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.contactAdditionalInfo",
+      "message": "\\n\\nYou can also reach us at 1800 1800 0172 for any clarifications.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.contactMessage",
+      "message": "Please save the attached contact to file or track the status of complaints. +",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.continueMessage",
+      "message": "To continue chatting send \"Hi\"",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.nextBatchKeyword",
+      "message": "Next",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateAdditionalDetails",
+      "message": "Please send any additional information about the complaint. Else, type and send “No”.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateAddress",
+      "message": "Could you please enter the address?",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateComplaintType",
+      "message": "Please type and send the number of your complaint type:\\n",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateComplaintTypeError",
+      "message": "Sorry, I did not understand.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateLandmark",
+      "message": "Please send the address/landmark of the complaint. Else, type and send “No”.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateLocality",
+      "message": "Please select the locality of your complaint from the link below. Tap on the link to search and select a locality.\\n\\n",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateLocalityError",
+      "message": "Sorry, I did not understand.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateLocation",
+      "message": "Please share your location",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreatePhoto",
+      "message": "Please attach a picture of the complaint. Else, type and send “No”.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateTenantId",
+      "message": "Please type and send the number of your city:\\n",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.pgrCreateTenantIdError",
+      "message": "Sorry, I did not understand.\\n",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.rootErrorMessage",
+      "message": "Sorry, I did not understand.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.rootMessage",
+      "message": "Please type and send the number of your option:\\n",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.welcomeError",
+      "message": "Sorry, I did not understand. Please type and send “mseva” to start.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.welcomeMessage",
+      "message": "Welcome to mSeva Punjab. Now you can file a complaint and track it’s status over WhatsApp.\\n\\nAt any stage, type and send “mseva” to go to the main menu options.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.messages.wrongConversationStartKeywordError",
+      "message": "Sorry, I did not understand. Please send “mseva” to start.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.message.trackend.exist",
+      "message": "\\n\\nThese are your recent open complaints.\\nTo view all your complaints, please tap on the link below.\\n",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric0",
+      "message": 0,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric1",
+      "message": 1,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric2",
+      "message": 2,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric3",
+      "message": 3,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric4",
+      "message": 4,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric5",
+      "message": 5,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric6",
+      "message": 6,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric7",
+      "message": 7,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric8",
+      "message": 8,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.numbers.numeric9",
+      "message": 9,
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.template.citizen",
+      "message": "Citizen",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.template.pgrCreateComplaintEndMessage",
+      "message": "Thank You! You have successfully filed a complaint through mSeva Punjab.\\nYour Complaint No is : {{complaintNumber}}\\nYou can view and track your complaint through the link below:\\n{{url}}\\n\\nPlease type and send “mseva” whenever you need my assistance.",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    },
+    {
+      "code": "chatbot.template.pgrTrackComplaintSummary",
+      "message": "*{{complaintCategory}}*\\n\\tComplaint No: {{complaintNumber}}\\n\\tFiled Date: {{filedDate}}\\n\\tCurrent Complaint Status: *{{status}}*\\n\\tTap on the link below to view the complaint{{url}}",
+      "locale": "en_IN",
+      "module": "rainmaker-chatbot"
+    }
+  ]
+}
+

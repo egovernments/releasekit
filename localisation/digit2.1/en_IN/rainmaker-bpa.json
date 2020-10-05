@@ -1,0 +1,4634 @@
+[
+    {
+      "code": "AIRPORT_AUTHORITY",
+      "message": "Airport Authority",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL",
+      "message": "Applicant details and other General documents",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_ADDRESSPROOF",
+      "message": "Address proof",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.ADDRESSPROOF",
+      "message": "Address proof",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_ADDRESSPROOF_ELECTRICITYBILL",
+      "message": "Electricity Bill",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.ADDRESSPROOF.ELECTRICITYBILL",
+      "message": "Electricity Bill",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_ADDRESSPROOF_PASSPORT",
+      "message": "Passport",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.ADDRESSPROOF.PASSPORT",
+      "message": "Passport",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_BUILDING_DIAGRAM",
+      "message": "Building Diagram",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_BUILDING_DIAGRAM_ELEVATION",
+      "message": "Elevation Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_BUILDING_DIAGRAM_ELEVATION_PLAN",
+      "message": "Elevation Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.BUILDING_DIAGRAM.ELEVATION_PLAN",
+      "message": "Elevation Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_BUILDING_DIAGRAM_FLOOR",
+      "message": "Floor Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_BUILDING_DIAGRAM_FLOOR_PLAN",
+      "message": "Floor Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.BUILDING_DIAGRAM.FLOOR_PLAN",
+      "message": "Floor Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_BUILDING_DIAGRAM_SECTION",
+      "message": "Section Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_BUILDING_DIAGRAM_SECTION_PLAN",
+      "message": "Section Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.BUILDING_DIAGRAM.SECTION_PLAN",
+      "message": "Section Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPLICATION_CREATE_MSG",
+      "message": "Dear <1>, Your Application for <2> (Service type) is created.Please use the Application number <3> for future reference.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPLICATION_FEE_PENDING_MSG",
+      "message": "Dear <1>, Your Application for <2> (Service type) is created with application number <3>. Please pay the application fee of Rs.<4>/- to process the application further.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPLICATION_NUMBER_ALREADY_EXISTS",
+      "message": "Application Number already exists",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPLICATION_REJECTED_MSG",
+      "message": "Dear <1>, Your Application for <2> (Service type) <3> is rejected. You can login to the portal and check the reason for rejection.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_IDENTITYPROOF",
+      "message": "Identity proof",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.IDENTITYPROOF",
+      "message": "Identity proof",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_IDENTITYPROOF_AADHAAR",
+      "message": "Aadhaar",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.IDENTITYPROOF.AADHAAR",
+      "message": "Aadhaar",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_IDENTITYPROOF_DRIVINGLICENSE",
+      "message": "Driving License",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.IDENTITYPROOF.DRIVINGLICENSE",
+      "message": "Driving License",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_IDENTITYPROOF_PASSPORT",
+      "message": "Passport",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.IDENTITYPROOF.PASSPORT",
+      "message": "Passport",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LAC",
+      "message": "Layout approval copy",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.LAC",
+      "message": "Layout approval copy",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LAC_LAC",
+      "message": "Layout approval copy",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.LAC.LAC",
+      "message": "Layout approval copy",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LOCALBODY",
+      "message": "Local Body",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LOCALBODY_DTCP",
+      "message": "DTCP Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LOCALBODY_DTCP_APPROVAL",
+      "message": "DTCP Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.LOCALBODY.DTCP_APPROVAL",
+      "message": "DTCP Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LOCALBODY_MUNCIPAL",
+      "message": "Muncipal Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LOCALBODY_MUNCIPAL_APPROVAL",
+      "message": "Muncipal Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.LOCALBODY.MUNCIPAL_APPROVAL",
+      "message": "Muncipal Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LOCALBODY_PANCHAYAT",
+      "message": "Panchayat Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LOCALBODY_PANCHAYAT_APPROVAL",
+      "message": "Panchayat Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.LOCALBODY.PANCHAYAT_APPROVAL",
+      "message": "Panchayat Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LSVS",
+      "message": "Location sketch and village sketch",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.LSVS",
+      "message": "Location sketch and village sketch",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LSVS_LSVS",
+      "message": "Location sketch and village sketch",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.LSVS.LSVS",
+      "message": "Location sketch and village sketch",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LTR",
+      "message": "Land tax receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.LTR",
+      "message": "Land tax receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_LTR_LTR",
+      "message": "Land tax receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.LTR.LTR",
+      "message": "Land tax receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_SSC",
+      "message": "Structural stability certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.SSC",
+      "message": "Structural stability certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_SSC_SSC",
+      "message": "Structural stability certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.SSC.SSC",
+      "message": "Structural stability certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_TDP",
+      "message": "Title deed of the property",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.TDP",
+      "message": "Title deed of the property",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL_TDP_TDP",
+      "message": "Title deed of the property",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPL.TDP.TDP",
+      "message": "Title deed of the property",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "APPROVED_AND_PERMIT_GENERATED_MSG",
+      "message": "Dear <1>, Building permit order for your Application for <2> (Service type) <3> is generated. You can login to the portal and download the permit order.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "AUTO_APPROVED",
+      "message": "Auto Approved",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BIHAR_TENANT",
+      "message": "Punjab",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BOA_PDF_WRT_TXT",
+      "message": "With respect to your Application No",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ACTUAL_BUILDING_ABSTRACT_HEADER",
+      "message": "Actual building abstract",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ACTUAL_BUILDING_DETAILS_LABEL",
+      "message": "Actual Building details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ADD_ANOTHER_FI_REPORT_LABEL",
+      "message": "Add Another Field Inspection Report",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ADD_HOC_CHARGES_POPUP_BUTTON_NO",
+      "message": "NO",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ADD_HOC_CHARGES_POPUP_BUTTON_YES",
+      "message": "YES",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ADD_MORE",
+      "message": "Add More",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ADD_OWNER",
+      "message": "Add Owner",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ADD_OWNER_LABEL",
+      "message": "Add Owner",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ANNUAL_EXPECTED_EXPENDITURE_LABEL",
+      "message": "Annual Expected Expenditure",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ANNUAL_EXPECTED_EXPENDITURE_PLACEHOLDER",
+      "message": "Enter Annual Expected Expenditure",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APP_DETAILS_DEMOLITION_DETAILS_LABEL",
+      "message": "Demolition Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APP_DETAILS_PROPOSED_BUILDING_DETAILS_LABEL",
+      "message": "Proposed Building Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APP_FEE_RECEIPT",
+      "message": "Application Fee Receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPL_FEE",
+      "message": "Application Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_CORRESPONDENCE_ADDRESS_LABEL",
+      "message": "Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_DETAILS_HEADER",
+      "message": "Owner Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_DOB_LABEL",
+      "message": "Date Of Birth",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_EMAIL_LABEL",
+      "message": "Email",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_FATHER_HUSBAND_NAME_LABEL",
+      "message": "Father/Husband's Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_GENDER_LABEL",
+      "message": "Gender",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_GENDER_PLACEHOLDER",
+      "message": "Select Gender",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_GUARDIAN_NAME_LABEL",
+      "message": "Guardian Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_GUARDIAN_NAME_PLACEHOLDER",
+      "message": "Enter Guardian Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_MOBILE_NO_LABEL",
+      "message": "Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_PAN_LABEL",
+      "message": "PAN No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_RELATIONSHIP_FATHER_RADIOBUTTON",
+      "message": "Father",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_RELATIONSHIP_HUSBAND_RADIOBUTTON",
+      "message": "Husband",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICANT_RELATIONSHIP_LABEL",
+      "message": "Relationship",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION",
+      "message": "Application",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_APPROVED_ARCT_SUCCESS_BODY_MESSAGE",
+      "message": "Notification regarding application approval by citizen will be sent to the stakeholder registered mobile no.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_APPROVED_ARCT_SUCCESS_MESSAGE_MAIN",
+      "message": "Citizen approved the application Successfully!",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_APPROVED_SUCCESS_MESSAGE_MAIN",
+      "message": "Application Approved Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_BLOCK1_LABEL",
+      "message": "Block 1",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_BLOCK_WISE_OCCUPANCY_SUB_OCCUPANCY_USAGE_TITLE",
+      "message": "Block wise occupancy /sub occupancy and usage details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_BUILDING_PERMIT_NO_LABEL",
+      "message": "Building permit application Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_BUTTON_DOWN_CONF",
+      "message": "DOWNLOAD CONFIRMATION FORM",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_BUTTON_PRINT_CONF",
+      "message": "PRINT CONFIRMATION FORM",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_DEMOLITION_AREA_LABEL",
+      "message": "Demolition Area",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_FORWARD_SUCCESSFULLY",
+      "message": "Application Forward Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_HIGH_FROM_GROUND",
+      "message": "High From Ground Level From Mumty (In Mtrs)",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_MARKED_SUCCESS",
+      "message": "Application has been marked successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_NO_OF_FLOORS",
+      "message": "Number Of Floors",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_OCCUPANCY_PLACEHOLDER",
+      "message": "Select Occupancy",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_OC_PERMIT_NO_CODE",
+      "message": "Occupancy certificate number {0}",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_PERMIT_NO_CODE",
+      "message": "Permit No. {0}",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_PROPOSED_BUILDING_LABEL",
+      "message": "Proposed Building Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_RESIDENTIAL_LABEL",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_SCRUNITY_DETAILS_TITLE",
+      "message": "Building Plan Scrutiny Application Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_SCRUNITY_REPORT_LABEL",
+      "message": "Scrutiny Report",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_SENDBACK_SUCCESS",
+      "message": "Application has been send back successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_SEND_TO_ARCHITECT_SUCCESS_MESSAGE_MAIN",
+      "message": "Application Send To Architect Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_SENT_TO_CITIZEN_SUCCESS_MESSAGE_MAIN",
+      "message": "Application Successfully Sent To Citizen",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_TOTAL_BUILDUP_AREA",
+      "message": "Total Buildup Area (sq.mtrs)",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATIONTYPE_BUILDING_OC_PLAN_SCRUTINY",
+      "message": "Building OC Plan Scrutiny",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATIONTYPE_BUILDING_PLAN_SCRUTINY",
+      "message": "Building permit",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLICATION_UPLOAD_DIAGRAM_LABEL",
+      "message": "Uploaded Diagram",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLY_FOR_BUILDING_PERMIT_OC_HEADER",
+      "message": "Apply for Building OC Permit",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPLY_SERVICE",
+      "message": "BPA",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_CHECKLIST_BUTTON_DOWN_LIC",
+      "message": "DOWNLOAD BPA",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_CHECKLIST_HEAD",
+      "message": "Verification Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_CHECKLIST_PRINT_LIC",
+      "message": "PRINT BPA",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_OC_REVOCATED_MESSAGE_HEAD",
+      "message": "Application for Occupancy Certificate is revocated",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_REJECTED_MESSAGE_HEAD",
+      "message": "Application for permit order is rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_REJE_MESSAGE_SUBHEAD",
+      "message": "A notification regarding building permit application rejection has been sent to applicant at registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_REV_MESSAGE_SUBHEAD",
+      "message": "A notification regarding building permit application revocation has been sent to applicant at registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_REVOCATED_MESSAGE_HEAD",
+      "message": "Application for permit order is revocated",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_SEND_TO_ARCHITECT_SUBHEAD",
+      "message": "Application Send To Architect Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_SENT_TO_CITIZEN_SUBHEAD",
+      "message": "Application Successfully Sent To Citizen",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_UPLOAD_HEAD",
+      "message": "Supporting Documents",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVAL_UPLOAD_SUBHEAD",
+      "message": "Only .jpg and .pdf files. 5MB max file size.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_APPROVE_BUTTON",
+      "message": "APPROVE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_AUTHORIZED_PERSON_EMAIL_LABEL",
+      "message": "Email of Authorized Person",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_AUTHORIZED_PERSON_EMAIL_PLACEHOLDER",
+      "message": "Enter Email of Authorized Person",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_AUTHORIZED_PERSON_LABEL",
+      "message": "Name of Authorized Person",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_AUTHORIZED_PERSON_MOBILE_LABEL",
+      "message": "Mobile No. of Authorized Person",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_AUTHORIZED_PERSON_MOBILE_PLACEHOLDER",
+      "message": "Enter Mobile No. of Authorized Person",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_AUTHORIZED_PERSON_PLACEHOLDER",
+      "message": "Enter Name of Authorized Person",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_APP_DATE_LABEL",
+      "message": "Application Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_APP_FEE_LABEL",
+      "message": "Application Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_APPLICATION_TYPE_LABEL",
+      "message": "Application type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_APPLICATION_TYPE_PLACEHOLDER",
+      "message": "Select Application type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_OCCUPANCY_LABEL",
+      "message": "Occupancy",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_OCCUPANCY_PLACEHOLDER",
+      "message": "Select Occupancy",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_REMARKS_LABEL",
+      "message": "Remarks",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_REMARKS_PLACEHOLDER",
+      "message": "Enter Remarks Here",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_RISK_TYPE_LABEL",
+      "message": "Risk Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_SCRUTINY_NO_LABEL",
+      "message": "Building plan scrutiny number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_SCRUTINY_NUMBER_LABEL",
+      "message": "Building plan scrutiny number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_SCRUTINY_NUMBER_PLACEHOLDER",
+      "message": "Enter Scrutiny Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_SCRUTINY_NUMBER_SEARCH_TITLE",
+      "message": "Please search scrutiny details linked to the scrutiny number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_SCRUTINY_REPORT",
+      "message": "Scrutiny Report",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_SCRUTINY_REPORT_PDF",
+      "message": "ScrutinyReport.pdf",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_SERVICE_TYPE_LABEL",
+      "message": "Service type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_SERVICE_TYPE_PLACEHOLDER",
+      "message": "Select service type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_TITLE",
+      "message": "Basic Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_UPLOADED_DIAGRAM",
+      "message": "Uploaded Diagram",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_DETAILS_UPLOADED_DIAGRAM_DXF",
+      "message": "UploadedDiagram.dxf",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BASIC_RISK_TYPE_PLACEHOLDER",
+      "message": "Select Risk Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BLOCK_A",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_CIRCLE_LABEL",
+      "message": "Circle",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_CIRCLE_PLACEHOLDER",
+      "message": "Select Circle",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_CITY_TOWN_LABEL",
+      "message": "City/Town",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_CITY_TOWN_PLACEHOLDER",
+      "message": "Enter city/town Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_DETAILS_TITLE",
+      "message": "Boundary Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_GOVT_QUASI_LABEL",
+      "message": "Whether Government or Quasi Government",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_GOVT_QUASI_PLACEHOLDER",
+      "message": "Select Government",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_HOLDING_NO_LABEL",
+      "message": "Holding No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_HOLDING_NO_PLACEHOLDER",
+      "message": "Enter Holding No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_KHATA_NO_LABEL",
+      "message": "Khata No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_KHATA_NO_PLACEHOLDER",
+      "message": "Enter Khata No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_LAND_REG_DETAIL_LABEL",
+      "message": "Land Registration Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_LAND_REG_DETAIL_PLACEHOLDER",
+      "message": "Enter Land Registration Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_PLOT_AREA_LABEL",
+      "message": "Plot Area",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_PLOT_DETAILS_TITLE",
+      "message": "Details Of Plot",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_PLOT_NO_LABEL",
+      "message": "Plot No(MSP)",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_PLOT_NO_PLACEHOLDER",
+      "message": "Enter Plot No(MSP)",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_REVENUE_WARD_LABEL",
+      "message": "Revenue Ward",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_REVENUE_WARD_PLACEHOLDER",
+      "message": "Select Revenue Ward",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BOUNDARY_SUMMARY",
+      "message": "Plot & Boundary Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BPA_APPL_FEES",
+      "message": "Application Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_BPA_SANC_FEES",
+      "message": "Sanction Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CANCEL_CHECKLIST_HEAD",
+      "message": "Cancellation Remarks",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CERTIFICATE",
+      "message": "TL Certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CHECK_LIST_DETAILS",
+      "message": "Checklist",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CITIZEN_1_DECLARAION_LABEL",
+      "message": "I hereby Solemnly affirm and declare that the information as furnished is true and correct to the best of my knowledge and belief. I further undertake that if any information at any stage shall be found to be false, my application registration shall be liable to be canceled without any prior notice in that regard and I shall not claim any compensation etc.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CITIZEN_2_DECLARAION_LABEL",
+      "message": "for such default on my part. In case of any discrepancies found later, I shall be liable for punishment under the relevant provisions of Law as also under Municipal Act and the Act.  I hereby authorize the technical empanelled person to Submit a building plan application on my behalf.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CITIZEN_APPROVE_BUTTON",
+      "message": "APPROVE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CITIZEN_CANCEL_BUTTON",
+      "message": "CANCEL",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CITIZEN_MAKE_PAYMENT",
+      "message": "MAKE PAYMENT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CITIZEN_SELECT_BUTTON",
+      "message": "SELECT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CITY_LABEL",
+      "message": "City",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CITY_PLACEHOLDER",
+      "message": "Select City",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CITY_SELECT_TITLE",
+      "message": "Select Your City",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COL_ASSIGNEDTO",
+      "message": "Assigned To",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COL_MODULE_SERVICE",
+      "message": "Module/Service",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_APPLY_BPA_HEADER_LABEL",
+      "message": "Application for Building permit Order",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_APPLY_BPA_OC_HEADER_LABEL",
+      "message": "Application for Occupancy certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_BUTTON_BACK",
+      "message": "BACK",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_BUTTON_HOME",
+      "message": "GO TO HOME",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_BUTTON_NXT_STEP",
+      "message": "Next Step",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_BUTTON_PREV_STEP",
+      "message": "Previous Step",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_BUTTON_SUBMIT",
+      "message": "Submit",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_APP_DATE_LABEL",
+      "message": "Application Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_APP_NO",
+      "message": "Application No",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_APP_STATUS_LABEL",
+      "message": "Application Status",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_BUILD_AREA",
+      "message": "Buildup Area",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_CARPET_AREA",
+      "message": "Carpet Area",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_FLOOR_AREA",
+      "message": "Floor Area",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_FLOOR_DES",
+      "message": "Floor Description",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_OCCUP",
+      "message": "Occupancy/Sub Occupancy",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_OWN_NAME_LABEL",
+      "message": "Applicant Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TABLE_COL_STATUS_LABEL",
+      "message": "Status",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMMON_TOTAL_AMT",
+      "message": "Total Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_COMPARISON_REPORT_LABEL",
+      "message": "Comparison report",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CONFIRMATION_MESSAGE_MAIN",
+      "message": "Payment has been collected successfully!",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_CONFIRMATION_MESSAGE_SUB",
+      "message": "A notification regarding Payment Collection has been sent to trade owner at registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DECLARATION_COMMON_LABEL",
+      "message": "Please check the checkbox below to proceed",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DECLARATION_TITLE",
+      "message": "Declaration",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_BLDG_NAME_LABEL",
+      "message": "Building/Colony Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_BLDG_NAME_PLACEHOLDER",
+      "message": "Enter Building/Colony Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_DOOR_NO_LABEL",
+      "message": "Door/House No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_DOOR_NO_PLACEHOLDER",
+      "message": "Enter Door/House No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_GIS_CORD_LABEL",
+      "message": "GIS Coordinates",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_GIS_CORD_PLACEHOLDER",
+      "message": "Select your trade location on map",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_MOHALLA_LABEL",
+      "message": "Mohalla",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_MOHALLA_PLACEHOLDER",
+      "message": "Select Mohalla",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_PIN_LABEL",
+      "message": "Pincode",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_PIN_PLACEHOLDER",
+      "message": "Enter Pincode",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_SRT_NAME_LABEL",
+      "message": "Street Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DETAILS_SRT_NAME_PLACEHOLDER",
+      "message": "Enter Street Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOB_ERROR_MESSAGE",
+      "message": "Invalid DOB",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOC_DETAILS_HEADER",
+      "message": "Required Documents",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOC_DETAILS_SUMMARY",
+      "message": "Document details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOC_DETAILS_TEXT",
+      "message": "Only one file can be uploaded for one document. If multiple files need to be uploaded then please combine all files in a pdf and then upload",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOC_DET_BTN_UPLOAD_FILE",
+      "message": "UPLOAD FILE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOCUMENT_AND_NOC_DETAILS_HEADER",
+      "message": "Document and NOC details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOCUMENT_DETAILS_HEADER",
+      "message": "Required Documents",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOCUMENT_DETAILS_SUBTEXT",
+      "message": "Only one file can be uploaded for one document. If multiple files need to be uploaded then please combine all files in a pdf and then upload",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOC_UPLOAD_BUTTON",
+      "message": "UPLOAD FILE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_DOWNLOAD",
+      "message": "DOWNLOAD",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_EDCR_NO_LABEL",
+      "message": "eDCR Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_EDCR_SEARCH_RESULTS_FOR_APP",
+      "message": "Search Results for eDCR Applications",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ENTER_APPLICANT_CORR_ADDR_PLACEHOLDER",
+      "message": "Enter Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ENTER_APPLICANT_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
+      "message": "Enter Applicant Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ENTER_APPLICANT_DOB_PLACEHOLDER",
+      "message": "DD/MM/YYYY",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ENTER_APPLICANT_EMAIL_PLACEHOLDER",
+      "message": "Enter Email",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ENTER_APPLICANT_MOBILE_NO_PLACEHOLDER",
+      "message": "Enter Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ENTER_APPLICANT_NAME_PLACEHOLDER",
+      "message": "Enter Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ENTER_APPLICANT_PAN_PLACEHOLDER",
+      "message": "Enter Applicant's PAN No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_ENTER_QSTN_PLACEHOLDER",
+      "message": "Enter Permit Condition",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FEE_RECEIPT",
+      "message": "Fee Reciept",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FI_DATE_LABEL",
+      "message": "Inspection Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FI_DATE_LABEL_NAME",
+      "message": "Inspection Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FIELD_INSPECTION_DETAILS_TITLE",
+      "message": "Field Inspection Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FIELD_INSPECTION_DOCUMENTS",
+      "message": "Documents",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FI_REPORT",
+      "message": "Inspection Report",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FI_TIME_LABEL",
+      "message": "Inspection Time",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FI_TIME_LABEL_NAME",
+      "message": "Inspection Time",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FOOTER_BUTTON_NXT_STEP",
+      "message": "Next Step",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FOOTER_BUTTON_PREV_STEP",
+      "message": "Previous Step",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FOOTER_SELECT_DOC_TYPE",
+      "message": "Please select type of Document!",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FOOTER_UPLOAD_MANDATORY_DOC",
+      "message": "Please upload mandatory documents!",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FORWARD_BUTTON",
+      "message": "FORWARD",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FROM_DATE_LABEL",
+      "message": "From Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_FROM_DATE_PLACEHOLDER",
+      "message": "From Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_GENDER_FEMALE_RADIOBUTTON",
+      "message": "Female",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_GENDER_LABEL",
+      "message": "Gender",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_GENDER_MALE_RADIOBUTTON",
+      "message": "Male",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_GENDER_TRANSGENDER_RADIOBUTTON",
+      "message": "Transgender",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_HOME_BUTTON",
+      "message": "GO TO HOME",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_HOME_SEARCH_RESET_BUTTON",
+      "message": "Reset",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_HOME_SEARCH_RESULTS_APP_NO_LABEL",
+      "message": "Application number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_HOME_SEARCH_RESULTS_APP_NO_PLACEHOLDER",
+      "message": "Enter Application number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_HOME_SEARCH_RESULTS_APP_STATUS_LABEL",
+      "message": "Application status",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_HOME_SEARCH_RESULTS_APP_STATUS_PLACEHOLDER",
+      "message": "Select Application Status",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_HOME_SEARCH_RESULTS_BPA_NO_LABEL",
+      "message": "BPA No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+      "message": "SEARCH",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_HOME_SEARCH_RESULTS_NEW_APP_BUTTON",
+      "message": "NEW APPLICATION",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_INCORRECT_SCRUTINY_NUMBER",
+      "message": "Incorrect Scrutiny Number!",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_INSTITUTION_DESIGNATION_LABEL",
+      "message": "Designation in Institution",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_INSTITUTION_DESIGNATION_PLACEHOLDER",
+      "message": "Enter designation of Institution",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_INSTITUTION_LABEL",
+      "message": "Name of Institution",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_INSTITUTION_PLACEHOLDER",
+      "message": "Enter Name of Institution",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_INVALID_ADDRESS",
+      "message": "Invalid Address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_INVALID_EMIAL",
+      "message": "Invalid Email",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_IS_AFFRORADABLE_HOUSING_LABEL",
+      "message": "Is Affordable Housing Scheme ?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_IS_CHARITABLE_TRUSTBUILDING_LABEL",
+      "message": "Is Charitable Trust Building ?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_IS_PRIMARY_OWNER_LABEL",
+      "message": "Is Primary Owner ?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_LICENSE_TYPE_LABEL",
+      "message": "License Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_MAP_CLOSE_LABEL",
+      "message": "Close",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_MAP_PICK_LABEL",
+      "message": "Pick your city.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_MARK_SUCCESS_MESSAGE_MAIN",
+      "message": "Application Marked Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_MY_APPLICATIONS",
+      "message": "My Applications",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_NEW_OWNER_DETAILS_HEADER",
+      "message": "Trade Owner Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_NOC_APPLICATION_HEADER",
+      "message": "NOC Application",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_NOC_APP_NO_LABEL",
+      "message": "Application No",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_NOC_DETAILS",
+      "message": "Noc Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_NOC_DETAILS_SUMMARY",
+      "message": "NOC Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_NOC_MODULE_SOURCE_LABEL",
+      "message": "Source Module",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_NOC_STATUS_LABEL",
+      "message": "Status",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_NOC_VIEW_APP_BUTTON",
+      "message": "VIEW APPLICATION",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_NO_REC_FOUND_LABEL",
+      "message": "Sorry, no matching records found",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC",
+      "message": "BPA OC",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC_APPROVAL_REJECTED_MESSAGE_HEAD",
+      "message": "Application for Occupancy Certificate is rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC_CER_SCRUNITY_DETAILS_TITLE",
+      "message": "Occupancy certificate scrutiny details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC_CERTIFICATE",
+      "message": "Occupancy Certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC_COMMON_APPL_NEW_CONSTRUCTION",
+      "message": "Occupancy Certificate New Building Construction",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OCCUPANCY_TYPE",
+      "message": "Occupancy Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OCCUPANCYTYPE_A",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OCCUPANCY_TYPE_NA",
+      "message": "NA",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OCCUPANCYTYPE_NA",
+      "message": "NA",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OCCUPANCY_TYPE_PLACEHOLDER",
+      "message": "Select Occupancy Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OCCUPANCYTYPE_RESIDENTIAL",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC_DEV_PEN_RECEIPT",
+      "message": "Deviation Penality Receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC_PERMIT_ORDER",
+      "message": "Occupancy Certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC_SCRUTINY_NO_LABEL",
+      "message": "Occupancy Certificate Scrutiny Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC_SCRUTINY_NUMBER_PLACEHOLDER",
+      "message": "Enter OC Scrutiny Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OC_SCRUTINY_TITLE",
+      "message": "Occupancy Certificate eDCR Scrutiny",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OFFICIAL_ADDRESS_LABEL",
+      "message": "Official Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OFFICIAL_ADDRESS_PLACEHOLDER",
+      "message": "Enter Official Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_ADDRESS_LABEL",
+      "message": "Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_ADDRESS_PLACEHOLDER",
+      "message": "Enter Correspondence Address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_CATEGORY_LABEL",
+      "message": "Special Owner Category",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_CATEGORY_PLACEHOLDER",
+      "message": "Select Special Owner Category",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_DETAILS_TITLE",
+      "message": "Owner Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_DOB_LABEL",
+      "message": "Date Of Birth",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_EMAIL_LABEL",
+      "message": "Email address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_EMAIL_PLACEHOLDER",
+      "message": "Enter Email address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_FATHER_HUSBAND_NAME_LABEL",
+      "message": "Father/Husband's Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_FATHER_HUSBAND_NAME_PLACEHOLDER",
+      "message": "Enter Father/Husband's Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_FATHER_RADIOBUTTON",
+      "message": "Father",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_HUSBAND_RADIOBUTTON",
+      "message": "Husband",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_INFORMATION",
+      "message": "Owner Information",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_INFORMATION_SUBHEADER",
+      "message": "Owner Information",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_INFO_TITLE",
+      "message": "Owner Information",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_MOBILE_NO_LABEL",
+      "message": "Mobile Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_MOBILE_NO_PLACEHOLDER",
+      "message": "Enter Mobile Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_NAME_LABEL",
+      "message": "Owner Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_NAME_PLACEHOLDER",
+      "message": "Enter Owner Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_PAN_LABEL",
+      "message": "PAN No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_PAN_PLACEHOLDER",
+      "message": "Enter Owner's PAN No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_RELATIONSHIP_LABEL",
+      "message": "Relationship",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_SUB_TYPE_LABEL",
+      "message": "Type of Owner - Subtype",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_SUBTYPE_LABEL",
+      "message": "Type of Owner – Subtype",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_SUB_TYPE_PLACEHOLDER",
+      "message": "Select Owner Subtype",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_SUBTYPE_PLACEHOLDER",
+      "message": "Select Owner – Subtype",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_TYPE",
+      "message": "Owner Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_TYPE_LABEL",
+      "message": "Owner Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_OWNER_TYPE_PLACEHOLDER",
+      "message": "Select Owner Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PAYMENT_FAILED",
+      "message": "Payment has failed!",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PAYMENT_FAILURE_MESSAGE_SUB",
+      "message": "A notification regarding payment failure has been sent to the building owner and applicant.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PAYMENT_NOTIFICATION",
+      "message": "A notification regarding payment failure has been sent to the trade owner and applicant.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PAYMENT_SUCCESS_MESSAGE_SUB",
+      "message": "A notification regarding Payment Collection has been sent to building owner at registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_AMOUNT_TXT",
+      "message": "Amount (Rs)",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_APPENDIX",
+      "message": "APPENDIX H",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_APPLICATIONNO",
+      "message": "Application number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_APPROVED_BY",
+      "message": "Approved By",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_AST_ENGR",
+      "message": "Assistant engineer",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_AUTH_DSCR",
+      "message": "The application will be scrutinized for provided documents and field inspection would be conducted at the site. If discrepancies are found in the information provided your order would be Revocated.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_AUTH_OFFICER",
+      "message": "Authorised Officer",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_BPA_REVOCATION_TITLE",
+      "message": "REVOCATION OF BUILDING PERMIT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_BYELAWS",
+      "message": "BYELAWS NO.-8(4)",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_BY_ORDER",
+      "message": "By Order",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_CERTIFICATE_USE",
+      "message": "USE CERTIFICATE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_CERTIFIED_TXT",
+      "message": "Certified that the New Construction or work under the permit No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_COMMISSIONER",
+      "message": "Commissioner",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_CONDNS_TXT",
+      "message": "subject to the following conditions/restrictions.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_CONTACT_ULB",
+      "message": "Please contact ULB officials for further action",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_CS_PLOT",
+      "message": "(CS)",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_DATED",
+      "message": "Dated",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_DATED_SMALL",
+      "message": "dated",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_DSCR",
+      "message": "Construction of a Residential building in respect of",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_FEE_DSCR",
+      "message": "Fee Description",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_FOR",
+      "message": "for",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_FORM",
+      "message": "FORM-VIII A",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_FORM_APPROVAL_TXT",
+      "message": "FORM OF APPROVAL OF BUILDING PERMIT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_FROM",
+      "message": "from",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_GENERATED_ON",
+      "message": "Generated On",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_HOLDINGNO_TXT",
+      "message": "Holding No",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_IS_REVOCATED",
+      "message": "is revocated",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_ISSUED_TO",
+      "message": "issued to",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_KHATANO_TXT",
+      "message": "Khata No",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_MSP_PLOT",
+      "message": "(MSP)",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_MUNCIPAL",
+      "message": "Muncipal Council",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_NOT_AUTH_TXT",
+      "message": "You are not authorized to construct the building",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_NOTE",
+      "message": "Note",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_OCNAME",
+      "message": "OCCUPANCY CERTIFICATE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_OC_SUMMARY",
+      "message": "has been inspected by me and the work executed is in accordance with the permit and the New Construction is now fit for occupation/use.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_OF",
+      "message": "of",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_ONLY",
+      "message": "Only",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_OR",
+      "message": "OR",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_PERMISSION_GRANT_TXT",
+      "message": "permission is hereby granted in favour of",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_PERMISSION_ISSUED",
+      "message": "The plan permission issued",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_PERMITFEE_DETAILS_TXT",
+      "message": "Permit fee details as follows",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_PLACE",
+      "message": "Place",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_PLANPERMISSION_NO",
+      "message": "Plan Permission No",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_PLOTNO_TXT",
+      "message": "Plot No",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_PROPOSE_LAND",
+      "message": "Proposed Land Use",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_REASON_REVOCATION_TXT",
+      "message": "The reason for revocation is",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_REF",
+      "message": "Ref",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_REPORT_RUNDATE",
+      "message": "Report run date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_SALUTATION",
+      "message": "Smt/Sri",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_SEERULE",
+      "message": "See Rule 22 (3) and 142 (2)",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_SERVEYNO_TXT",
+      "message": "Servey No",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_SUMMARY1",
+      "message": "The owner as well as the architect/licensed engineer are fully responsible for adhering to the provisions of the bye laws in both the building plan as well as in the actual construction.In case it is found that the permission has been secured through misrepresentation or fraud",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_SUMMARY2",
+      "message": "Municipal Act 2007 and/or cancelled under byelaw 14 of the bye laws",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_SUPERVISED_BY",
+      "message": "supervised by",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_TOTAL",
+      "message": "Total",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_TOWN_PLANNING_TXT",
+      "message": "Town Planning Scheme of",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_VALIDITY_DSCR",
+      "message": "Validity : This certificate is valid upto",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PDF_WRT_APPNO",
+      "message": "with reference to the application number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PERMIT_CONDITIONS",
+      "message": "Permit Conditions",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PERMIT_CONDITIONS_LABEL",
+      "message": "Building Permit Conditions",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PICK_YOUR_CITY_CITIZEN",
+      "message": "Pick your city.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PMT_RCPT_NO",
+      "message": "Payment Receipt No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PRINT",
+      "message": "PRINT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_PROPOSED_BUILDING_ABSTRACT_HEADER",
+      "message": "Proposed Building Abstract",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_RECEIPT",
+      "message": "Receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPAREG_SERVICE",
+      "message": "Stakeholder",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_REMARKS",
+      "message": "Remarks",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_REMARKS_LABEL",
+      "message": "Comments are mandatory",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_RETRY",
+      "message": "RETRY",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_REVOCATION_PDF_LABEL",
+      "message": "Revocation PDF",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_RISK_TYPE_VALIDATION_WARNING",
+      "message": "Permit Risk Type Is not matched with OC Risk Type. Do u want to proceed?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SANC_FEE",
+      "message": "Sanction Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SAN_FEE_RECEIPT",
+      "message": "Sanction Fee Receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SCRUNITY_SUMMARY",
+      "message": "Scrutiny Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_APPLICATION_NO_LABEL",
+      "message": "Application number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_APPLICATION_NO_PLACEHOLDER",
+      "message": "Enter Application number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_APPLICATION_STATUS_LABEL",
+      "message": "Application status",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_APPLICATION_STATUS_PLACEHOLDER",
+      "message": "Select Application Status",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_APPLICATION_TYPE_LABEL",
+      "message": "Application Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_APPLICATION_TYPE_PLACEHOLDER",
+      "message": "Select Application Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_BUTTON",
+      "message": "Search",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_FROM_DATE_LABEL",
+      "message": "From Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_FROM_DATE_PLACEHOLDER",
+      "message": "Pick From Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_MOBILE_NO_LABEL",
+      "message": "Mobile Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_MOBILE_NO_PLACEHOLDER",
+      "message": "Enter your mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_PAGE_DESC",
+      "message": "Provide at least one parameter to search for an application",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_PAGE_TITLE",
+      "message": "Search BPA Application",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_RESET_BUTTON",
+      "message": "Reset",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_RESULTS_FOR_APP",
+      "message": "Search Results for BPA Applications",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_RESULTS_HEADING",
+      "message": "Application for Building permit Order",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_RISK_TYPE_LABEL",
+      "message": "Risk Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_SELECT_AT_LEAST_ONE_TOAST_MESSAGE",
+      "message": "Please fill at least one field to start search",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_SERVICE_TYPE_PLACEHOLDER",
+      "message": "Select Risk Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_TO_DATE_LABEL",
+      "message": "To Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEARCH_TO_DATE_PLACEHOLDER",
+      "message": "Pick To Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SECOND_STAKEHOLDER_DECLARAION_LABEL",
+      "message": "I am responsible for any defects/errors/omissions made while submitting the application",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SELECT_CITY",
+      "message": "Select City",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SELECT_LICENSE_TYPE_LABEL",
+      "message": "Select License Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SENDBACK_CHECKLIST_MESSAGE_HEAD",
+      "message": "Application is sent back Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SENDBACK_SUCCESS_MESSAGE_MAIN",
+      "message": "Application Send Back Successfully",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEND_TO_ARCHITECT_BUTTON",
+      "message": "SEND TO ARCHITECT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SEND_TO_CITIZEN_BUTTON",
+      "message": "SEND TO CITIZEN",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SERVICETYPE_NEW_CONSTRUCTION",
+      "message": "New construction",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_STAKEHOLDER_2_DECLARAION_LABEL",
+      "message": "I am responsible for any defects/errors/omissions made while submitting the application",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_STATUS_LABEL",
+      "message": "Status",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_STATUS_PLACEHOLDER",
+      "message": "Select Status",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_STEPPER_BASIC_DETAILS_HEADER",
+      "message": "Basic Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_STEPPER_DOCUMENT_NOC_DETAILS_HEADER",
+      "message": "Document and NOC details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_STEPPER_OWNER_INFO_HEADER",
+      "message": "Owner Info",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_STEPPER_SCRUTINY_DETAILS_HEADER",
+      "message": "Scrutiny Details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_STEPPER_SUMMARY_HEADER",
+      "message": "Summary",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A2",
+      "message": "Old Age Home",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A_AF",
+      "message": "Apartment/Flat",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A-AF",
+      "message": "Apartment/Flat",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A_FH",
+      "message": "Farm House",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A-FH",
+      "message": "Farm House",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A_HE",
+      "message": "Hostel Educational",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A-HE",
+      "message": "Hostel Educational",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_APARTMENT_FLAT",
+      "message": "Appartment/Flat",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A_PO",
+      "message": "Professional Office",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A-PO",
+      "message": "Professional Office",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_APPARTMENT_FLAT",
+      "message": "Apartment/Flat",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A_R",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A-R",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A_SA",
+      "message": "Service Apartment",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A-SA",
+      "message": "Service Apartment",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A_SR",
+      "message": "Special Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_A-SR",
+      "message": "Special Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_FARM_HOUSE",
+      "message": "Farm House",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_HOSTEL_EDUCATIONAL",
+      "message": "Hostel Educational",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_NA",
+      "message": "NA",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_OLD_AGE_HOME",
+      "message": "Old Age Home",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_PROFESSIONAL_OFFICE",
+      "message": "Professional Office",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_RESIDENTIAL",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_SERVICE_APARTMENT",
+      "message": "Service Appartment",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUBOCCUPANCYTYPE_SPECIAL_RESIDENTIAL",
+      "message": "Special Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUB_OCCUP_TYPE_LABEL",
+      "message": "Sub Occupancy Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUB_OCCUP_TYPE_PLACEHOLDER",
+      "message": "Select Sub Occupancy Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUMMARY_EDIT",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUMMARY_EDIT_BTN",
+      "message": "Edit",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUMMARY_FEE_EST",
+      "message": "Fee Estimate",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_SUMMARY_HEADER",
+      "message": "Application Summary",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_TASK_DETAILS_HEADER",
+      "message": "Application details",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_TELEPHONE_NUMBER_LABEL",
+      "message": "Official Telephone No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_TELEPHONE_NUMBER_PLACEHOLDER",
+      "message": "Enter Official Telephone No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_TL_CANCELLED_MESSAGE_HEAD",
+      "message": "Trade License Cancelled",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_TL_CANCELLED_MESSAGE_SUBHEAD",
+      "message": "A notification regarding Trade License cancellation has been sent to trade owner at registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_TO_DATE_LABEL",
+      "message": "To Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_TO_DATE_PLACEHOLDER",
+      "message": "To Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_UPLOAD_FILES_BUTTON",
+      "message": "UPLOAD FILES",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_USAGES_TYPE",
+      "message": "Usages",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPA_USAGES_TYPE_PLACEHOLDER",
+      "message": "Select usages",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD",
+      "message": "Building Plan Diagram",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_EP",
+      "message": "Elevation plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.EP",
+      "message": "Elevation plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_EP_EP",
+      "message": "Elevation plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.EP.EP",
+      "message": "Elevation plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_FP",
+      "message": "Floor plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.FP",
+      "message": "Floor plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_FP_FP",
+      "message": "Floor plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.FP.FP",
+      "message": "Floor plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_PP",
+      "message": "Parking plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.PP",
+      "message": "Parking plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_PP_PP",
+      "message": "Parking plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.PP.PP",
+      "message": "Parking plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_RP",
+      "message": "Roof plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.RP",
+      "message": "Roof plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_RP_RP",
+      "message": "Roof plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.RP.RP",
+      "message": "Roof Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_SCP",
+      "message": "Service Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.SCP",
+      "message": "Service Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_SCP_SCP",
+      "message": "Service Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.SCP.SCP",
+      "message": "Service Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_SECP",
+      "message": "Section plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.SECP",
+      "message": "Section plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_SECP_SECP",
+      "message": "Section plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.SECP.SECP",
+      "message": "Section plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_SP",
+      "message": "Site plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.SP",
+      "message": "Site plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD_SP_SP",
+      "message": "Site Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BPD.SP.SP",
+      "message": "Site Plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_NEAR_GOVT_BLDG",
+      "message": "Whether building near government building?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_NEAR_MONUMENT",
+      "message": "Whether building present near monument?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+      "message": "Dear <1> , Your Application for New Construction (Service type) is created with application number <3>. Click on Pay button to pay the application fee of Rs.<AMOUNT_TO_BE_PAID>/- to process the application further or You can navigate to my applications page to make payment.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+      "message": "Dear <1> , Occupancy certificate for your Application for New Construction (Service type) <3> is generated. You can navigate to my applications page to download the OC.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+      "message": "Dear <1> , Your Occupancy certificate  application <3> is accepted by the applicant. You can now submit the application for department processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+      "message": "Dear <1> , Your Application for New Construction (Service type) is created with application number <3>. Click on Pay button to pay the application fee with deviation penalty of Rs.<AMOUNT_TO_BE_PAID>/- to process the application further or You can navigate to my applications page to make payment.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+      "message": "Dear <1> , NOC verification is done for your New Construction (Service type) application <3>. Application is pending for approval. You can navigate to my applications page to know the status of the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+      "message": "Dear <1> , Documents are verified for your New Construction (Service type) application <3>. Application will be processed for field verification shortly.You can navigate to my applications page to know the status of the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+      "message": "Dear <1> , Field verification is done for your New Construction (Service type) application <3>.Application will be processed for NOC now. You can navigate to my applications page to know the status of the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+      "message": "Dear <1> , Your Application for New Construction(Service type) is created with application number <3>. You can view the status of the application from your portal login under 'My applications' link.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+      "message": "Dear <1> , Occupancy certificate for your Application for New Construction (Service type) <3> is generated. You can navigate to my applications page to download the OC.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+      "message": "Dear <1> , Application fee is received for your New Construction (Service type) application <3>.Application will be processed for Document verification shortly.You can navigate to my applications page to know the status of the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is rejected. You can login to the portal and check the reason for rejection.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+      "message": "Dear <1> , Your Occupancy certificate application <3> is reviewed by the applicant. You can now process the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+      "message": "Dear <1> , Your Application for New Construction (Service type) is created with application number <3>. You can navigate to my applications page to review the application and send back to Architect for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY",
+      "message": "Building plan scrutiny",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+      "message": "Dear <1>, Your Application for New Construction (Service type) is created with application number <3>. Please pay the application fee of Rs.<AMOUNT_TO_BE_PAID>/- to process the application further.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_FEE",
+      "message": "Dear <1>, Your Application for <2> (Service type) is created with application number <3>. Please pay the application fee of Rs.<AMOUNT_TO_BE_PAID>/- to process the application further.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+      "message": "Dear <1>, Building permit order for your Application for New Construction (Service type) <3> is generated. You can login to the portal and download the permit order.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+      "message": "Dear <1> , Your Building permit application <3> is accepted by the applicant. You can now submit the application for department processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is approved. Please pay the building permit fee of Rs.<AMOUNT_TO_BE_PAID>/- to process the building permit order.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+      "message": "Dear <1>, NOC verification is done for your New Construction (Service type) application <3>. Application is pending for approval.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+      "message": "Dear <1>, Documents are verified for your New Construction (Service type) application <3>. Application will be processed for field verification shortly.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+      "message": "Dear <1>, Field verification is done for your New Construction (Service type) application <3>. Application will be processed for NOC now.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+      "message": "Dear <1>, Your Application for New Construction (Service type) is created.Please use the Application number <3> for future reference.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+      "message": "Dear <1>, Building permit order for your Application for New Construction (Service type) <3> is generated. You can login to the portal and download the permit order.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+      "message": "Dear <1>, Application fee is received for your New Construction (Service type) application <3>. Application will be processed for Document verification shortly.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is rejected. You can login to the portal and check the reason for rejection.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is revocated. You can login to the portal and check the reason for revocation.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+      "message": "Dear <1>, Your Application for New Construction (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+      "message": "Dear <1>, Your Building permit application <3> is reviewed by the applicant. You can now process the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+      "message": "Dear <1>, Your Application for New Construction (Service type) is created with application number <3>. You can login to the portal and navigate to the my applications page to review the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "CITIZEN_APPROVED_MSG",
+      "message": "Dear <1> , Your Building permit application <3> is accepted by the applicant. You can now submit the application for department processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "DOC_VERIFICATION_DONE_MSG",
+      "message": "Dear <1>, Documents are verified for your <2> (Service type) application <3>. Application will be processed for field verification shortly.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_BUILDING_HEIGHT_LABEL",
+      "message": "Building Height",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_BUILDING_PERMIT_DATE_LABEL",
+      "message": "Building Permit Date",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_BUILDING_PERMIT_NUM_LABEL",
+      "message": "Building Permit Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_BUILDING_PERMIT_NUM_PLACEHOLDER",
+      "message": "Enter Building Permit Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_COMMON_APPL_NEW_OC",
+      "message": "Occupancy Certificate eDCR Scrutiny For New Building",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_CREATE_APP_BUTTON",
+      "message": "Create Building Permit Application",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_OC_ABORTED_COMMENT",
+      "message": "The uploaded plan is not drawn as per the standard's , please check the layers and colour coding standards and try again",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_OC_ABORTED_MESSAGE",
+      "message": "Occupancy Certificate eDCR is Aborted",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_OC_ACKNOWLEDGEMENT_SUCCESS_COMMENT",
+      "message": "This plan can now be used for creating oc permit application",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_OC_ACKNOWLEDGEMENT_SUCCESS_MESSAGE",
+      "message": "Occupancy Certificate eDCR Scrutiny is Accepted",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_OC_CREATE_APP_BUTTON",
+      "message": "CREATE OCUPANCY CERTIFICATE APPLICATION",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_OC_NUMBER_LABEL",
+      "message": "OC Plan Number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_OC_REJECTION_COMMENT",
+      "message": "Please make corrections in the diagram and try again",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_OC_REJECTION_MESSAGE",
+      "message": "Occupancy Certificate eDCR is Not Accepted",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_SH_NAME_LABEL",
+      "message": "Stake Holder Name",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "EDCR_TOTAL_BUILD_UP_AREA_LABEL",
+      "message": "Total Build Up Area",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "ENTER_NOC_NUMBER",
+      "message": "Enter NOC number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "ENTER_SOURCE_MODULE_NUMBER",
+      "message": "Enter Source Application number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "ERR_FILL_BPA_FIELDS",
+      "message": "Please fill all mandatory fields for Stakeholder Registration",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "ERR_FILL_EDCR_PERMIT_INCORRECT_DATE",
+      "message": "Entered permit date is not correct",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "ERR_FILL_MANDATORY_FIELDS_PERMIT_SEARCH",
+      "message": "Please fill the mandetory fields",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "ERR_PRIMARY_ONE_OWNER_TOAST",
+      "message": "Please check only one primary owner",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "ERR_PRIMARY_OWNER_TOAST",
+      "message": "Please check Is primary owner",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "ERR_WF_UPDATE_ERROR",
+      "message": "Workflow update error!",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI",
+      "message": "Feild Inspection",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_AGRICULTURE",
+      "message": "Agriculture",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.AGRICULTURE.LANDUSE",
+      "message": "Agriculture Landuse",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_AGRICULTURE_WATERBODY_FTL",
+      "message": "Agriculture Water body FTL",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_AGRICULTURE_WATERBODY.FTL",
+      "message": "Agriculture Water body FTL",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.AGRICULTURE_WATERBODY.FTL",
+      "message": "Agriculture Water body FTL",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_FIR",
+      "message": "Field inspection report",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.FIR",
+      "message": "Field inspection report",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_FIR_FIR",
+      "message": "Field inspection report",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.FIR.FIR",
+      "message": "Field inspection report",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FIRE_NOC",
+      "message": "Fire Noc",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_SIES",
+      "message": "Site Image East side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.SIES",
+      "message": "Site Image East side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_SIES_SIES",
+      "message": "Site Image East side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.SIES.SIES",
+      "message": "Site Image East side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_SINS",
+      "message": "Site image North side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.SINS",
+      "message": "Site image North side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_SINS_SINS",
+      "message": "Site image North side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.SINS.SINS",
+      "message": "Site image North side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_SISS",
+      "message": "Site Image South side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.SISS",
+      "message": "Site Image South side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_SISS_SISS",
+      "message": "Site Image South side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.SISS.SISS",
+      "message": "Site Image South side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_SIWS",
+      "message": "Site Image West Side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.SIWS",
+      "message": "Site Image West Side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI_SIWS_SIWS",
+      "message": "Site Image West Side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FI.SIWS.SIWS",
+      "message": "Site Image West side",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FLOOR_NAME_0",
+      "message": "Ground Floor",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FLOOR_NAME_1",
+      "message": "Upper Floor",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FLOOR_NAME_2",
+      "message": "Upper Floor",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FLOOR_NAME_3",
+      "message": "Upper Floor",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FLOOR_NAME_4",
+      "message": "Upper Floor",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "FLOOR_NAME_5",
+      "message": "Upper Floor",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_APPLICATION_CREATE_MSG",
+      "message": "Dear <1> , Your Application for <2> (Service type) is created with application number <3>.You can view the status of the application from your portal login under “My applications” link.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_APPLICATION_FEE_PENDING_MSG",
+      "message": "Dear <1> , Your Application for <2> (Service type) is created with application number <3>. Click on Pay button to pay the application fee of Rs.<4>/- to process the application further or You can navigate to my applications page to make payment.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_APPLICATION_REJECTED_MSG",
+      "message": "Dear <1> , Your Application for <2> (Service type) <3> is rejected. You can navigate to my applications page to know the reason for rejection.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_APPROVED_AND_PERMIT_GENERATED_MSG",
+      "message": "Dear <1> , Building permit order for your Application for <2> (Service type) <3> is generated. You can navigate to my applications page to download the building permit order.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_CITIZEN_APPROVED_MSG",
+      "message": "Dear <1> , Your Building permit application <3> is accepted by the applicant. You can now submit the application for department processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_DOC_VERIFICATION_DONE_MSG",
+      "message": "Dear <1> , Documents are verified for your <2> (Service type) application <3>.Application will be processed for field verification shortly.You can navigate to my applications page to know the status of the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_NOC_APPROVED_MSG",
+      "message": "Dear <1> , NOC verification is done for your <2> (Service type) application <3>.Application is pending for approval.You can navigate to my applications page to know the status of the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_NOC_FIELD_VERIFICATION_DONE_MSG",
+      "message": "Dear <1> , Field verification is done for your <2> (Service type) application <3>.Application will be processed for NOC now. You can navigate to my applications page to know the status of the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_PAYMENT_RECEIVED_MSG",
+      "message": "Dear <1> , Application fee is received for your <2> (Service type) application <3>.Application will be processed for Document verification shortly.You can navigate to my applications page to know the status of the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_PERMIT_FEE_GENERATED_MSG",
+      "message": "Dear <1> , Your Application for <2> (Service type) <3> is approved. Click on Pay button to pay the building permit fee of Rs.<4>/- for processing the building permit order.or You can navigate to my applications page to make payment.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_SEND_TO_ARCHITECT_MSG",
+      "message": "Dear <1> , Your Building permit application <3> is reviewed by the applicant. You can now process the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "M_SEND_TO_CITIZEN_MSG",
+      "message": "Dear <1> , Your Application for <2> (Service type) is created with application number <3>. You can navigate to my applications page to review the application and send back to Architect for processing.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_AGRICULTURE",
+      "message": "Agriculture Noc",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_AGRICULTURE_LANDUSE",
+      "message": "Agriculture Landuse",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC.AGRICULTURE.LANDUSE",
+      "message": "Agriculture Landuse",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_AGRICULTURE_WATERBODY_FTL",
+      "message": "Agriculture Water body FTL",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_AIRPORT",
+      "message": "Airport Authority of India",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_AIRPORT_CERTIFICATE",
+      "message": "Airport Authority NOC",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC.AIRPORT.CERTIFICATE",
+      "message": "Airport Authority NOC",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_APPLICATION_APPROVAL_NO_CODE",
+      "message": "Noc Approval No. {0}",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_APP_OVER_VIEW_HEADER",
+      "message": "Application Overview",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_APPROVED_MSG",
+      "message": "Dear <1>, NOC verification is done for your <2> (Service type) application <3>. Application is pending for approval.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_BPA_APPROVAL_REJECTED_MESSAGE_HEAD",
+      "message": "Application for NOC is rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_BPA_APPROVAL_REJE_MESSAGE_SUBHEAD",
+      "message": "Application for NOC is rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_COLLECTOR_GVT_LAND",
+      "message": "NOC from Tahsildar / Collector if the land under reference is recorded as Government land as per records available in Authority available?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_COMMON_HEADER_LABEL",
+      "message": "Application for NOC",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_FIELD_VERIFICATION_DONE_MSG",
+      "message": "Dear <1>, Field verification is done for your <2> (Service type) application <3>. Application will be processed for NOC now.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_FIRE",
+      "message": "Fire department",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_FIRE_CERTIFICATE",
+      "message": "Fire NOC",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC.FIRE.CERTIFICATE",
+      "message": "Fire NOC",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_FOR_CONSTRUCTION_NEAR_AIRPORT",
+      "message": "NOC from the concerned airport authority if site under reference falling air funnel zone or within vicinity of airport available?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_FOR_CONSTRUCTION_NEAR_DEFENCE_AERODOMES",
+      "message": "NOC from the Defense Institutions in case the site is located in the vicinity of defence Aerodromes of Defense Area) available?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_IRRIGATION_DEPT",
+      "message": "NOC to be submitted issued by the Irrigation Department available?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_NOC_TYPE_AIRPORT_AUTHORITY",
+      "message": "Airport Authority",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_NOC_TYPE_FIRE_NOC",
+      "message": "Fire Noc",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_NUMBER",
+      "message": "NOC number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOCRAILWAYS",
+      "message": "NOC from Railways available?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_RESULTS_HEADER",
+      "message": "Application for NOC",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_STATE_ENV_IMPACT",
+      "message": "NOC from State Environmental Impact Assessment Authority available?",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "NOC_TYPE",
+      "message": "NOC Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "OCCUPANCY_A1",
+      "message": "Residential",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "PAYMENT_RECEIVED_MSG",
+      "message": "Dear <1>, Application fee is received for your <2> (Service type) application <3>. Application will be processed for Document verification shortly.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "pb.derabassi",
+      "message": "Derabassi",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "PERMIT_FEE_GENERATED_MSG",
+      "message": "Dear <1>, Your Application for <2> (Service type) <3> is approved. Please pay the building permit fee of Rs.<4>/- to process the building permit order.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "PLAN_AS_PER_THE_SITE",
+      "message": "Whether key plan submitted by the application is as per site",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "RIVER_EXISTS_ON_SITE",
+      "message": "Are there any River /lake near the site",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "ROADWIDTH_AS_PER_THE_PLAN",
+      "message": "Is road width as per the scrutinised plan",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "SELECT_DOCUMENTS",
+      "message": "Select Document Type",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "SEND_TO_ARCHITECT_MSG",
+      "message": "Dear <1> , Your Building permit application <3> is reviewed by the applicant. You can now process the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "SEND_TO_CITIZEN_MSG",
+      "message": "Dear <1> , Your Application for <2> (Service type) is created with application number <3>. You can login to the portal and navigate to the my applications page to review the application.",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "SOURCE_MODULE_NUMBER",
+      "message": "Source Application number",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "TAXHEADCODE_BPA_SANC_FEES",
+      "message": "Sanction Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "TL_SEARCH_ADDRESS_MAP_PLACEHOLDER",
+      "message": "Search Address",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "TREE_EXISTS_ON_SITE",
+      "message": "Are there any trees on the site",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_AIRPORT_NOC_OFFLINE_AUTO_APPROVED",
+      "message": "Auto Approved",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_AIRPORT_NOC_OFFLINE_INITIATED",
+      "message": "Initiated",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_AIRPORT_NOC_OFFLINE_INPROGRESS",
+      "message": "Inprogress",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_AIRPORT_NOC_OFFLINE_VOIDED",
+      "message": "Voided",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA",
+      "message": "BPA",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_BPAREG_SERVICE",
+      "message": "BPAREG",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPAbuttonLabel",
+      "message": "FORWARD",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_CANCELLED",
+      "message": "Cancelled",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_LOW_APPROVE",
+      "message": "Approve",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_LOW_FIELDINSPECTION_PENDING",
+      "message": "Field Inspection Pending",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_LOW_FIELDINSPECTION_PENDING1",
+      "message": "Field Inspection Pending",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_LOW_FORWARD",
+      "message": "FORWARD",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_LOW_REVOCATE",
+      "message": "REVOCATE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_LOW_SEND_TO_CITIZEN",
+      "message": "Pending for Stakeholders update",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_MARK",
+      "message": "MARK",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_MEDIUM",
+      "message": "Medium",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_NEW_CONSTRUCTION",
+      "message": "New Construction",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_NOC_VERIFICATION_INPROGRESS",
+      "message": "NOC Verification Is InProgress",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC",
+      "message": "BPA OC",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_APPROVAL_INPROGRESS",
+      "message": "Approval In Progress",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_APPROVE",
+      "message": "APPROVE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_BUILDING_OC_PLAN_SCRUTINY",
+      "message": "Building OC Plan Scrutiny",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_CITIZEN_APPROVAL_INPROCES",
+      "message": "Citizen Approval Inprogress",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_FORWARD",
+      "message": "VERIFY AND FORWARD",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_MARK",
+      "message": "MARK",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_REJECT",
+      "message": "REJECT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_REVOCATED",
+      "message": "REVOCATED",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_SEND_BACK_TO_CITIZEN",
+      "message": "SEND BACK TO CITIZEN",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_SEND_TO_ARCHITECT",
+      "message": "SEND_TO_ARCHITECT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_OC_SEND_TO_CITIZEN",
+      "message": "Pending for Stakeholders update",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_PAID",
+      "message": "Paid",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_PAY",
+      "message": "PAY",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_PENDING_APPL_FEE",
+      "message": "Pending Application Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_PENDINGAPPROVAL",
+      "message": "Pending For Approval",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_PENDING_FEE",
+      "message": "Pending For Payment",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_PENDING_FEE_PAYMENT",
+      "message": "Pending Fee Payment",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_PERMIT REVOCATION",
+      "message": "PERMIT REVOCATION",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_REJECT",
+      "message": "REJECT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_REJECTED",
+      "message": "Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_REVOCATED",
+      "message": "Revocated",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_SEND_BACK_TO_CITIZEN",
+      "message": "Send Back To Citizen",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_SEND_TO_ARCHITECT",
+      "message": "SEND TO ARCHITECT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_BPA_SEND_TO_CITIZEN",
+      "message": "Pending for Stakeholders update",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_APPROVE",
+      "message": "APPROVE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_FORWARD",
+      "message": "FORWARD",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_LOW_APPROVE",
+      "message": "APPROVE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_LOW_FORWARD",
+      "message": "FORWARD",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_LOW_PAY",
+      "message": "PAY",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_LOW_REVOCATE",
+      "message": "REVOCATE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_OC_APPROVE",
+      "message": "APPROVE",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_OC_FORWARD",
+      "message": "FORWARD",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_OC_PAY",
+      "message": "PAY",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_OC_REJECT",
+      "message": "REJECT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_OC_SEND_BACK_TO_CITIZEN",
+      "message": "SEND BACK TO CITIZEN",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_PAY",
+      "message": "PAY",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_REJECT",
+      "message": "REJECT",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_BPA_SEND_BACK_TO_CITIZEN",
+      "message": "SEND BACK TO CITIZEN",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_FIRE_NOC_SRV_APPROVE",
+      "message": "Approve",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_FIRENOC_SRV_APPROVE",
+      "message": "Approve",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_FIRE_NOC_SRV_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_EMPLOYEE_FIRENOC_SRV_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRE_NOC_SRV_APPROVE",
+      "message": "Approve",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRENOC_SRV_APPROVE",
+      "message": "Approve",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRE_NOC_SRV_APPROVED",
+      "message": "Approved",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRE_NOC_SRV_INITIATED",
+      "message": "Intiated",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRENOC_SRV_INITIATED",
+      "message": "Initiated",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRE_NOC_SRV_INPROGRESS",
+      "message": "Inprogress",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRENOC_SRV_INPROGRESS",
+      "message": "Inprogess",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRE_NOC_SRV_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRENOC_SRV_REJECT",
+      "message": "Reject",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRE_NOC_SRV_REJECTED",
+      "message": "Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRENOC_SRV_REJECTED",
+      "message": "Rejected",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRE_NOC_SRV_VOIDED",
+      "message": "Voided",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_FIRENOC_SRV_VOIDED",
+      "message": "Voided",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WF_REVOCATE_APPLICATION",
+      "message": "Revocate Application",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WfState : BACK_FROM_DOC_VERIFICATION",
+      "message": "Back From Document Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WfState : BACK_FROM_FI_VERIFICATION",
+      "message": "Back From FI Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WfState : BACK_FROM_NOC_VERIFICATION",
+      "message": "Back From NOC Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WfState : DOC_VERIFICATION_PENDING",
+      "message": "Document Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WfState : NOC_VERIFICATION_PENDING",
+      "message": "NOC Verification",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WfState : SEND_TO_CITIZEN",
+      "message": "Pending for Stakeholders update",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    },
+    {
+      "code": "WP_BPA_APPLIED",
+      "message": "Applied",
+      "locale": "en_IN",
+      "module": "rainmaker-bpa"
+    }
+  ]

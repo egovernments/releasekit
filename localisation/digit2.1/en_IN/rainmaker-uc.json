@@ -1,0 +1,6488 @@
+[
+    {
+      "code": "ACTION_TEST_DEPARTMENTS",
+      "message": "Description Report",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ACTION_TEST_MISCELLANEOUS_CANCELLED_RECEIPTS",
+      "message": "Misc Cancelled Receipts",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ACTION_TEST_MISCELLANEOUS_COLLECTION",
+      "message": "Universal Collection",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ACTION_TEST_MISCELLANEOUS_COLLECTION_REGISTER",
+      "message": "Miscellaneous Collection State",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ACTION_TEST_SOURCE",
+      "message": "Source Wise Report",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ACTION_TEST_ULB_EMPLOYEES",
+      "message": "ULB Employee Wise Report",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_ELECTION_RALLY_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ELECTION_RALLY_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ELECTION_RALLY_FEES_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_ELECTION_RALLY_FEES_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ELECTION_RALLY_FEES_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_ELECTION_RALLY_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ELECTION_RALLY_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ELECTION_RALLY_FEES_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_ELECTION_RALLY_FEES_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ELECTION_RALLY_FEES_TAX",
+      "message": "Election rally fees Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_NO_DUES_CERTIFICATE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.NO_DUES_CERTIFICATE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.NO_DUES_CERTIFICATE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_NO_DUES_CERTIFICATE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.NO_DUES_CERTIFICATE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_NO_DUES_CERTIFICATE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.NO_DUES_CERTIFICATE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.NO_DUES_CERTIFICATE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_NO_DUES_CERTIFICATE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.NO_DUES_CERTIFICATE_TAX",
+      "message": "NDC - No Dues Certificate Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_PARKING_BOOKING_FEE_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_PARKING_BOOKING_FEE_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_PARKING_BOOKING_FEE_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_PARKING_BOOKING_FEE_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_PARKING_DURING_ELECTION_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.PARKING_DURING_ELECTION_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.PARKING_DURING_ELECTION_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_PARKING_DURING_ELECTION_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.PARKING_DURING_ELECTION_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_PARKING_DURING_ELECTION_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.PARKING_DURING_ELECTION_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.PARKING_DURING_ELECTION_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_PARKING_DURING_ELECTION_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.PARKING_DURING_ELECTION_TAX",
+      "message": "Parking during election Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_ROAD_SHOW_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ROAD_SHOW_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ROAD_SHOW_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_ROAD_SHOW_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ROAD_SHOW_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_ROAD_SHOW_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ROAD_SHOW_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ROAD_SHOW_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_ROAD_SHOW_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.ROAD_SHOW_TAX",
+      "message": "Road show Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_RTI_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.RTI_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.RTI_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_RTI_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.RTI_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_RTI_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.RTI_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.RTI_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN_RTI_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADMN.RTI_TAX",
+      "message": "RTI Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_CANOPY_FEE_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_CANOPY_FEE_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_CANOPY_FEE_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_CANOPY_FEE_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_TAX",
+      "message": "Gas Balloon Advertisement Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_HOARDINGS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.HOARDINGS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.HOARDINGS_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_HOARDINGS_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.HOARDINGS_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_HOARDINGS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.HOARDINGS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.HOARDINGS_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_HOARDINGS_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.HOARDINGS_TAX",
+      "message": "Hoardings Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_LIGHT_WALA_BOARD_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.LIGHT_WALA_BOARD_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.LIGHT_WALA_BOARD_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_LIGHT_WALA_BOARD_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.LIGHT_WALA_BOARD_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_LIGHT_WALA_BOARD_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.LIGHT_WALA_BOARD_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.LIGHT_WALA_BOARD_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_LIGHT_WALA_BOARD_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.LIGHT_WALA_BOARD_TAX",
+      "message": "Light Wala Board Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_OUTDOOR_MEDIA_DISPLAY_FEE_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_OUTDOOR_MEDIA_DISPLAY_FEE_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_OUTDOOR_MEDIA_DISPLAY_FEE_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_OUTDOOR_MEDIA_DISPLAY_FEE_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_UNIPOLLS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.UNIPOLLS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.UNIPOLLS_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_UNIPOLLS_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.UNIPOLLS_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_UNIPOLLS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.UNIPOLLS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.UNIPOLLS_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_UNIPOLLS_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.UNIPOLLS_TAX",
+      "message": "Unipolls Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_WALL_PAINT_ADVERTISEMENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_WALL_PAINT_ADVERTISEMENT_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_WALL_PAINT_ADVERTISEMENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT_WALL_PAINT_ADVERTISEMENT_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ADVT.WALL_PAINT_ADVERTISEMENT_TAX",
+      "message": "Wall Paint Advertisement Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADMN",
+      "message": "Admin Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADMN_ELECTION_RALLY_FEES",
+      "message": "Election rally fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADMN_NO_DUES_CERTIFICATE",
+      "message": "NDC - No Dues Certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADMN_PARKING_BOOKING_FEE",
+      "message": "Parking Booking Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADMN_PARKING_DURING_ELECTION",
+      "message": "Parking during election",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADMN_ROAD_SHOW",
+      "message": "Road show",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADMN_RTI",
+      "message": "RTI",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT",
+      "message": "Advertisement Fee (OMD)",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_CANOPY_FEE",
+      "message": "Canopy Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_GAS_BALLOON_ADVERTISEMENT",
+      "message": "Gas Balloon Advertisement",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_HOARDINGS",
+      "message": "Hoardings",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_LIGHT_WALA_BOARD",
+      "message": "Light Wala Board",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_OUTDOOR_MEDIA_DISPLAY_FEE",
+      "message": "Outdoor Media Display Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_UNIPOLLS",
+      "message": "Unipolls",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_WALL_PAINT_ADVERTISEMENT",
+      "message": "Wall Paint Advertisement",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH",
+      "message": "Challans",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_BIDI_&_CIGRETTE_CHALLAN",
+      "message": "Bidi & Cigrette Challan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_CATTLE_CHALLAN",
+      "message": "Cattle Challan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_CHALLAN_FOR_MISUSE_OF_WATER",
+      "message": "Challan for Misuse of Water",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_DAIRY_ANIMALS_CHALLAN",
+      "message": "Dairy Animals Challan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_DENGUE_CHALLAN",
+      "message": "Dengue Challan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_LITTERING_CHALLAN",
+      "message": "Littering Challan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_PLASTIC_CHALLAN",
+      "message": "Plastic Challan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_REHRI_CHALLAN",
+      "message": "Rehri Challan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_SANTITATION_DUMPING_GARBAGE",
+      "message": "Santitation dumping garbage",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN",
+      "message": "SBM garbage plastic polythene challan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CSS",
+      "message": "Cess",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CSS_COW_CESS",
+      "message": "Cow Cess",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_CSS_LABOR_CESS",
+      "message": "Labor Cess",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FN",
+      "message": "Finance Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_ADVANCE_PROVIDENT_FUND",
+      "message": "Advance Provident Fund",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_CPF_RECEIVED_CHECK",
+      "message": "CPF received check",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_GPF",
+      "message": "GPF",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_GRANTS_CHEQUE",
+      "message": "Grants cheque",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_PF_TRANSFER_(ACCOUNTS)",
+      "message": "PF transfer (Accounts)",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_RECOVERY_EMPLOYEE_CONTRACTOR",
+      "message": "Recovery employee contractor",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_RECOVERY_EMPLOYEE/CONTRACTOR",
+      "message": "Recovery employee/contractor",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP",
+      "message": "Fee Town Planning",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_ARCHITECT_LICENSE_FEE",
+      "message": "Architect license fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_BUILDING_PLANNER_RENEW",
+      "message": "Building planner renew",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_COMPREMASING_FEES",
+      "message": "Compremasing fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_CONSTRUCTION_WASTE",
+      "message": "Construction Waste",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_DEMOLITION_WASTE",
+      "message": "Demolition Waste",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_DRAFTSMEN_FEES",
+      "message": "Draftsmen fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_LEAVE_ENCASHMENT_AND_GRATUTY",
+      "message": "Leave encashment and gratuty",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_LICENSE_FEES_BUILDING_BRANCH",
+      "message": "License fees building branch",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_TELECOM_TOWER_FEES",
+      "message": "Telecom tower fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_LCF",
+      "message": "License Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_LCF_MANUAL_RIKSHAW",
+      "message": "Manual Rikshaw",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS",
+      "message": "Naksha/Building Manual Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA",
+      "message": "2 year time limit of Renewal Building Naksha",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_ALTERATION_ADDITIONAL_CHARGE",
+      "message": "Alteration additional charge",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_BOUNDARY_WALL_FEES",
+      "message": "Boundary Wall Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_BUILDING_FEES",
+      "message": "Building Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_CHANGE_OF_LAND_USE_FEES",
+      "message": "Change Of Land Use Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_COLONY_SAMBANDHI_FEES",
+      "message": "Colony Sambandhi fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_DEVELOPMENT_FEES",
+      "message": "Development Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_HADUD_CERTIFICATE_FEES",
+      "message": "Hadud Certificate Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_MALBA_FEES",
+      "message": "Malba Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_NAKSHA_CHANGES",
+      "message": "Naksha changes",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_NAKSHA_FEES",
+      "message": "Naksha fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_NAKSHA_RENEW_FEES",
+      "message": "Naksha renew fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_NAKSHA_SAMJOTA_FEES",
+      "message": "Naksha samjota fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_NOC_COMPLETION_OF_BUILDING_APPROVAL",
+      "message": "NOC completion of building approval",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_NOC/COMPLETION_OF_BUILDING_APPROVAL",
+      "message": "NOC/Completion of building approval",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_NO_DUE_CERTIFICATE_FEES",
+      "message": "No Due Certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_OUTDOOR_BUILDING_FEES",
+      "message": "Outdoor Building Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_RAIN_HARVESTING_CHARGES",
+      "message": "Rain Harvesting Charges",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_REGULARISATION_OF_BUILDINGS",
+      "message": "Regularisation of Buildings",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_UNDER_DEVELOPMENT_FEES",
+      "message": "Under Development Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OM",
+      "message": "O&M Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OM_PLUMBER_LICENSE_FEE",
+      "message": "Plumber License Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OM_ROAD_CUT_FEES",
+      "message": "Road Cut Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OM_WATER_CONNECTION_DISCONNECTION_FEES",
+      "message": "Water connection disconnection fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OM_WATER_CONNECTION/DISCONNECTION_FEES",
+      "message": "Water connection/disconnection fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER",
+      "message": "Other Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_BUS_ADDA_FEE",
+      "message": "Bus Adda Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_FIRE_CALL_REPORT_FEE",
+      "message": "Fire Call Report Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_FIRE_NOC_FEE",
+      "message": "Fire NOC Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_FIRE_TENDER_FEE",
+      "message": "Fire Tender Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_MISC_CHALLANS",
+      "message": "Misc. Challans",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_NOC_FEE",
+      "message": "NOC Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_NO_DUE_CERTIFICATE_ELECTRICITY",
+      "message": "No due certificate electricity",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_OTHERS_FEE",
+      "message": "Others Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_REGISTERY_AND_BANK_LOAN",
+      "message": "Registery and bank loan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_WATER_CHARGES",
+      "message": "Water Charges",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_PT_MUTATION",
+      "message": "Transfer of Ownership",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT",
+      "message": "Rents",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_COMMERCIAL_USE_OF_MUNICIPAL_LAND",
+      "message": "Commercial Use of Municipal Land",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_COMMUNITY_CENTRE_BOOKING_FEE",
+      "message": "Community Centre Booking Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_JAMIN_THEKA",
+      "message": "Jamin Theka",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_LAND_RENT",
+      "message": "Land Rent",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_MUNICIPAL_SHOPS_RENT",
+      "message": "Municipal Shops Rent",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_PARKING_FEE",
+      "message": "Parking Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_STREET_VENDOR",
+      "message": "Street Vendor",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_TOWER_ANNUAL_RENT",
+      "message": "Tower Annual Rent",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_TOWER_INSTALLATION",
+      "message": "Tower Installation",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_TOWER_RENT",
+      "message": "Tower Rent",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_SNT",
+      "message": "Sanitation",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_SNT_CLEAN_SAFAI_SANITATION",
+      "message": "Clean/Safai Sanitation",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_SNT_DEAD_ANIMALS_CONTRACT",
+      "message": "Dead animals contract",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_SNT_LICENCE_PURE_FOOD",
+      "message": "Licence Pure food",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ST",
+      "message": "Stationary",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ST_EXPENDITURE_SANTITATION_NOT_INCOME",
+      "message": "Expenditure santitation (Not Income)",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_ST_STATIONARY_NOT_INCOME",
+      "message": "Stationary (Not Income)",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_SW_ONE_TIME_FEE",
+      "message": "Sewerage Connection One Time Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TB",
+      "message": "Tehbazaari Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TB_ADVERTISEMENT_FEE",
+      "message": "Advertisement fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TB_CHALLAN_UNDER_SECTION_156",
+      "message": "Challan Under section 156,121 etc",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TB_REHRI_CHALLAN",
+      "message": "Rehri Challan",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TB_TEHBAZAARI",
+      "message": "Tehbazaari",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TEHBAZAARI_FEE_CHALLAN_UNDER_SECTION_156",
+      "message": "Challan Under section 156,121 etc",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TL",
+      "message": "Trade License",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_ELECTRICITY_CHUNGI",
+      "message": "Electricity Chungi",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_HOUSE_TAX",
+      "message": "House Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_NO_DUES_CERTIFICATE",
+      "message": "NDC - No Dues Certificate",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_PROPERTY_TAX_2013_14",
+      "message": "Property Tax 2013-14",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_TRANSFER_PROPERTY_FEES",
+      "message": "Transfer Property Fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_TS1_COPY_REGISTER_FOR_OLD_SURVEY",
+      "message": "TS1 copy register for old survey",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_WF",
+      "message": "Work Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_WF_CONTRACTOR_ENLISTMENT",
+      "message": "Contractor Enlistment",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_WF_OFC_PERMISSION_FEES",
+      "message": "OFC Permission fees",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_WF_TENDER_FORM_FEE",
+      "message": "Tender Form Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_BUSINESSSERVICE_WS_ONE_TIME_FEE",
+      "message": "Water Connection One Time Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_SERVICECATEGORY_LABEL",
+      "message": "Service Category",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_SERVICECATEGORY_PLACEHOLDER",
+      "message": "Select Service Category",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_SERVICETYPE_LABEL",
+      "message": "Service Type",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "BILLINGSERVICE_SERVICETYPE_PLACEHOLDER",
+      "message": "Select Service Type",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_BIDI_&_CIGRETTE_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.BIDI_&_CIGRETTE_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.BIDI_&_CIGRETTE_CHALLAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_BIDI_&_CIGRETTE_CHALLAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.BIDI_&_CIGRETTE_CHALLAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_BIDI_&_CIGRETTE_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.BIDI_&_CIGRETTE_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.BIDI_&_CIGRETTE_CHALLAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_BIDI_&_CIGRETTE_CHALLAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.BIDI_&_CIGRETTE_CHALLAN_TAX",
+      "message": "Bidi & Cigrette Challan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_CATTLE_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CATTLE_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CATTLE_CHALLAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_CATTLE_CHALLAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CATTLE_CHALLAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_CATTLE_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CATTLE_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CATTLE_CHALLAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_CATTLE_CHALLAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CATTLE_CHALLAN_TAX",
+      "message": "Cattle Challan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_CHALLAN_FOR_MISUSE_OF_WATER_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CHALLAN_FOR_MISUSE_OF_WATER_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CHALLAN_FOR_MISUSE_OF_WATER_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_CHALLAN_FOR_MISUSE_OF_WATER_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CHALLAN_FOR_MISUSE_OF_WATER_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_CHALLAN_FOR_MISUSE_OF_WATER_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CHALLAN_FOR_MISUSE_OF_WATER_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CHALLAN_FOR_MISUSE_OF_WATER_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_CHALLAN_FOR_MISUSE_OF_WATER_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.CHALLAN_FOR_MISUSE_OF_WATER_TAX",
+      "message": "Challan for Misuse of Water Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_DAIRY_ANIMALS_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DAIRY_ANIMALS_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DAIRY_ANIMALS_CHALLAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_DAIRY_ANIMALS_CHALLAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DAIRY_ANIMALS_CHALLAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_DAIRY_ANIMALS_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DAIRY_ANIMALS_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DAIRY_ANIMALS_CHALLAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_DAIRY_ANIMALS_CHALLAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DAIRY_ANIMALS_CHALLAN_TAX",
+      "message": "Dairy Animals Challan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_DENGUE_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DENGUE_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DENGUE_CHALLAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_DENGUE_CHALLAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DENGUE_CHALLAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_DENGUE_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DENGUE_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DENGUE_CHALLAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_DENGUE_CHALLAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.DENGUE_CHALLAN_TAX",
+      "message": "Dengue Challan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_LITTERING_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.LITTERING_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.LITTERING_CHALLAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_LITTERING_CHALLAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.LITTERING_CHALLAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_LITTERING_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.LITTERING_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.LITTERING_CHALLAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_LITTERING_CHALLAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.LITTERING_CHALLAN_TAX",
+      "message": "Littering Challan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_PLASTIC_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.PLASTIC_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.PLASTIC_CHALLAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_PLASTIC_CHALLAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.PLASTIC_CHALLAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_PLASTIC_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.PLASTIC_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.PLASTIC_CHALLAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_PLASTIC_CHALLAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.PLASTIC_CHALLAN_TAX",
+      "message": "Plastic Challan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_REHRI_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.REHRI_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.REHRI_CHALLAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_REHRI_CHALLAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.REHRI_CHALLAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_REHRI_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.REHRI_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.REHRI_CHALLAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_REHRI_CHALLAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.REHRI_CHALLAN_TAX",
+      "message": "Rehri Challan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_SANTITATION_DUMPING_GARBAGE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SANTITATION_DUMPING_GARBAGE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SANTITATION_DUMPING_GARBAGE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_SANTITATION_DUMPING_GARBAGE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SANTITATION_DUMPING_GARBAGE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_SANTITATION_DUMPING_GARBAGE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SANTITATION_DUMPING_GARBAGE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SANTITATION_DUMPING_GARBAGE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_SANTITATION_DUMPING_GARBAGE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SANTITATION_DUMPING_GARBAGE_TAX",
+      "message": "Santitation dumping garbage Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH_SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CH.SBM_GARBAGE_PLASTIC_POLYTHENE_CHALLAN_TAX",
+      "message": "SBM garbage plastic polythene challan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS_COW_CESS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS.COW_CESS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS.COW_CESS_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS_COW_CESS_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS.COW_CESS_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS_COW_CESS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS.COW_CESS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS.COW_CESS_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS_COW_CESS_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS.COW_CESS_TAX",
+      "message": "Cow Cess Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS_LABOR_CESS_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS_LABOR_CESS_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS_LABOR_CESS_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "CSS_LABOR_CESS_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ERR_FILL_MANDATORY_FIELDS",
+      "message": "Please fill all mandatory fields and upload the documents !",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ERR_FILL_ONE_MORE_SEARCH_FIELD",
+      "message": "Please fill at least one more field apart from service category !",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_ADVANCE_PROVIDENT_FUND_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.ADVANCE_PROVIDENT_FUND_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.ADVANCE_PROVIDENT_FUND_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_ADVANCE_PROVIDENT_FUND_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.ADVANCE_PROVIDENT_FUND_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_ADVANCE_PROVIDENT_FUND_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.ADVANCE_PROVIDENT_FUND_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.ADVANCE_PROVIDENT_FUND_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_ADVANCE_PROVIDENT_FUND_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.ADVANCE_PROVIDENT_FUND_TAX",
+      "message": "Advance Provident Fund Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_CPF_RECEIVED_CHECK_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.CPF_RECEIVED_CHECK_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.CPF_RECEIVED_CHECK_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_CPF_RECEIVED_CHECK_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.CPF_RECEIVED_CHECK_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_CPF_RECEIVED_CHECK_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.CPF_RECEIVED_CHECK_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.CPF_RECEIVED_CHECK_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_CPF_RECEIVED_CHECK_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.CPF_RECEIVED_CHECK_TAX",
+      "message": "CPF received check Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_GPF_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GPF_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GPF_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_GPF_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GPF_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_GPF_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GPF_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GPF_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_GPF_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GPF_TAX",
+      "message": "GPF Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_GRANTS_CHEQUE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GRANTS_CHEQUE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GRANTS_CHEQUE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_GRANTS_CHEQUE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GRANTS_CHEQUE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_GRANTS_CHEQUE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GRANTS_CHEQUE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GRANTS_CHEQUE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_GRANTS_CHEQUE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.GRANTS_CHEQUE_TAX",
+      "message": "Grants cheque Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_PF_TRANSFER_(ACCOUNTS)_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.PF_TRANSFER_(ACCOUNTS)_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.PF_TRANSFER_(ACCOUNTS)_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_PF_TRANSFER_(ACCOUNTS)_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.PF_TRANSFER_(ACCOUNTS)_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_PF_TRANSFER_(ACCOUNTS)_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.PF_TRANSFER_(ACCOUNTS)_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.PF_TRANSFER_(ACCOUNTS)_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_PF_TRANSFER_(ACCOUNTS)_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.PF_TRANSFER_(ACCOUNTS)_TAX",
+      "message": "PF transfer (Accounts) Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_RECOVERY_EMPLOYEE_CONTRACTOR_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.RECOVERY_EMPLOYEE_CONTRACTOR_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.RECOVERY_EMPLOYEE/CONTRACTOR_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_RECOVERY_EMPLOYEE_CONTRACTOR_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.RECOVERY_EMPLOYEE/CONTRACTOR_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_RECOVERY_EMPLOYEE_CONTRACTOR_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.RECOVERY_EMPLOYEE_CONTRACTOR_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.RECOVERY_EMPLOYEE/CONTRACTOR_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN_RECOVERY_EMPLOYEE_CONTRACTOR_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FN.RECOVERY_EMPLOYEE/CONTRACTOR_TAX",
+      "message": "Recovery employee/contractor Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_ARCHITECT_LICENSE_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.ARCHITECT_LICENSE_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.ARCHITECT_LICENSE_FEE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_ARCHITECT_LICENSE_FEE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.ARCHITECT_LICENSE_FEE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_ARCHITECT_LICENSE_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.ARCHITECT_LICENSE_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.ARCHITECT_LICENSE_FEE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_ARCHITECT_LICENSE_FEE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.ARCHITECT_LICENSE_FEE_TAX",
+      "message": "Architect license fee Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_BUILDING_PLANNER_RENEW_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.BUILDING_PLANNER_RENEW_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.BUILDING_PLANNER_RENEW_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_BUILDING_PLANNER_RENEW_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.BUILDING_PLANNER_RENEW_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_BUILDING_PLANNER_RENEW_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.BUILDING_PLANNER_RENEW_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.BUILDING_PLANNER_RENEW_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_BUILDING_PLANNER_RENEW_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.BUILDING_PLANNER_RENEW_TAX",
+      "message": "Building planner renew Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_COMPREMASING_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.COMPREMASING_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.COMPREMASING_FEES_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_COMPREMASING_FEES_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.COMPREMASING_FEES_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_COMPREMASING_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.COMPREMASING_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.COMPREMASING_FEES_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_COMPREMASING_FEES_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.COMPREMASING_FEES_TAX",
+      "message": "Compremasing fees Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_CONSTRUCTION_WASTE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.CONSTRUCTION_WASTE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.CONSTRUCTION_WASTE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_CONSTRUCTION_WASTE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.CONSTRUCTION_WASTE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_CONSTRUCTION_WASTE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.CONSTRUCTION_WASTE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.CONSTRUCTION_WASTE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_CONSTRUCTION_WASTE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.CONSTRUCTION_WASTE_TAX",
+      "message": "Construction Waste Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_DEMOLITION_WASTE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DEMOLITION_WASTE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DEMOLITION_WASTE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_DEMOLITION_WASTE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DEMOLITION_WASTE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_DEMOLITION_WASTE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DEMOLITION_WASTE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DEMOLITION_WASTE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_DEMOLITION_WASTE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DEMOLITION_WASTE_TAX",
+      "message": "Demolition Waste Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_DRAFTSMEN_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DRAFTSMEN_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DRAFTSMEN_FEES_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_DRAFTSMEN_FEES_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DRAFTSMEN_FEES_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_DRAFTSMEN_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DRAFTSMEN_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DRAFTSMEN_FEES_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_DRAFTSMEN_FEES_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.DRAFTSMEN_FEES_TAX",
+      "message": "Draftsmen fees Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_LEAVE_ENCASHMENT_AND_GRATUTY_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LEAVE_ENCASHMENT_AND_GRATUTY_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LEAVE_ENCASHMENT_AND_GRATUTY_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_LEAVE_ENCASHMENT_AND_GRATUTY_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LEAVE_ENCASHMENT_AND_GRATUTY_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_LEAVE_ENCASHMENT_AND_GRATUTY_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LEAVE_ENCASHMENT_AND_GRATUTY_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LEAVE_ENCASHMENT_AND_GRATUTY_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_LEAVE_ENCASHMENT_AND_GRATUTY_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LEAVE_ENCASHMENT_AND_GRATUTY_TAX",
+      "message": "Leave encashment and gratuty Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_LICENSE_FEES_BUILDING_BRANCH_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LICENSE_FEES_BUILDING_BRANCH_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LICENSE_FEES_BUILDING_BRANCH_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_LICENSE_FEES_BUILDING_BRANCH_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LICENSE_FEES_BUILDING_BRANCH_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_LICENSE_FEES_BUILDING_BRANCH_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LICENSE_FEES_BUILDING_BRANCH_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LICENSE_FEES_BUILDING_BRANCH_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_LICENSE_FEES_BUILDING_BRANCH_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.LICENSE_FEES_BUILDING_BRANCH_TAX",
+      "message": "License fees building branch Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_TELECOM_TOWER_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.TELECOM_TOWER_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.TELECOM_TOWER_FEES_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_TELECOM_TOWER_FEES_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.TELECOM_TOWER_FEES_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_TELECOM_TOWER_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.TELECOM_TOWER_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.TELECOM_TOWER_FEES_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP_TELECOM_TOWER_FEES_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "FTP.TELECOM_TOWER_FEES_TAX",
+      "message": "Telecom tower fees Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF_MANUAL_RIKSHAW_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF.MANUAL_RIKSHAW_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF.MANUAL_RIKSHAW_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF_MANUAL_RIKSHAW_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF.MANUAL_RIKSHAW_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF_MANUAL_RIKSHAW_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF.MANUAL_RIKSHAW_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF.MANUAL_RIKSHAW_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF_MANUAL_RIKSHAW_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "LCF.MANUAL_RIKSHAW_TAX",
+      "message": "Manual Rikshaw Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA_TAX",
+      "message": "2 year time limit of Renewal Building Naksha Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_ALTERATION_ADDITIONAL_CHARGE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.ALTERATION_ADDITIONAL_CHARGE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.ALTERATION_ADDITIONAL_CHARGE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_ALTERATION_ADDITIONAL_CHARGE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.ALTERATION_ADDITIONAL_CHARGE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_ALTERATION_ADDITIONAL_CHARGE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.ALTERATION_ADDITIONAL_CHARGE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.ALTERATION_ADDITIONAL_CHARGE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_ALTERATION_ADDITIONAL_CHARGE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.ALTERATION_ADDITIONAL_CHARGE_TAX",
+      "message": "Alteration additional charge Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_BOUNDARY_WALL_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_BOUNDARY_WALL_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_BOUNDARY_WALL_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_BOUNDARY_WALL_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_BUILDING_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_BUILDING_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_BUILDING_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_BUILDING_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_CHANGE_OF_LAND_USE_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_CHANGE_OF_LAND_USE_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_CHANGE_OF_LAND_USE_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_CHANGE_OF_LAND_USE_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_COLONY_SAMBANDHI_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_COLONY_SAMBANDHI_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_COLONY_SAMBANDHI_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_COLONY_SAMBANDHI_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_DEVELOPMENT_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_DEVELOPMENT_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_DEVELOPMENT_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_DEVELOPMENT_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_HADUD_CERTIFICATE_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_HADUD_CERTIFICATE_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_HADUD_CERTIFICATE_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_HADUD_CERTIFICATE_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_MALBA_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_MALBA_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_MALBA_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_MALBA_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_CHANGES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_CHANGES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_CHANGES_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_CHANGES_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_CHANGES_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_CHANGES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_CHANGES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_CHANGES_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_CHANGES_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_CHANGES_TAX",
+      "message": "Naksha changes Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_RENEW_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_RENEW_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_RENEW_FEES_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_RENEW_FEES_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_RENEW_FEES_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_RENEW_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_RENEW_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_RENEW_FEES_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_RENEW_FEES_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_RENEW_FEES_TAX",
+      "message": "Naksha renew fees Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_SAMJOTA_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_SAMJOTA_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_SAMJOTA_FEES_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_SAMJOTA_FEES_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_SAMJOTA_FEES_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_SAMJOTA_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_SAMJOTA_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_SAMJOTA_FEES_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NAKSHA_SAMJOTA_FEES_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NAKSHA_SAMJOTA_FEES_TAX",
+      "message": "Naksha samjota fees Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NOC_COMPLETION_OF_BUILDING_APPROVAL_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NOC_COMPLETION_OF_BUILDING_APPROVAL_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NOC/COMPLETION_OF_BUILDING_APPROVAL_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NOC_COMPLETION_OF_BUILDING_APPROVAL_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NOC/COMPLETION_OF_BUILDING_APPROVAL_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NOC_COMPLETION_OF_BUILDING_APPROVAL_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NOC_COMPLETION_OF_BUILDING_APPROVAL_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NOC/COMPLETION_OF_BUILDING_APPROVAL_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NOC_COMPLETION_OF_BUILDING_APPROVAL_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.NOC/COMPLETION_OF_BUILDING_APPROVAL_TAX",
+      "message": "NOC/Completion of building approval Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NO_DUE_CERTIFICATE_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NO_DUE_CERTIFICATE_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NO_DUE_CERTIFICATE_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_NO_DUE_CERTIFICATE_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_REGULARISATION_OF_BUILDINGS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.REGULARISATION_OF_BUILDINGS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.REGULARISATION_OF_BUILDINGS_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_REGULARISATION_OF_BUILDINGS_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.REGULARISATION_OF_BUILDINGS_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_REGULARISATION_OF_BUILDINGS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.REGULARISATION_OF_BUILDINGS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.REGULARISATION_OF_BUILDINGS_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_REGULARISATION_OF_BUILDINGS_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS.REGULARISATION_OF_BUILDINGS_TAX",
+      "message": "Regularisation of Buildings Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_UNDER_DEVELOPMENT_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_UNDER_DEVELOPMENT_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_UNDER_DEVELOPMENT_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "NKS_UNDER_DEVELOPMENT_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_PLUMBER_LICENSE_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.PLUMBER_LICENSE_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.PLUMBER_LICENSE_FEE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_PLUMBER_LICENSE_FEE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.PLUMBER_LICENSE_FEE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_PLUMBER_LICENSE_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.PLUMBER_LICENSE_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.PLUMBER_LICENSE_FEE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_PLUMBER_LICENSE_FEE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.PLUMBER_LICENSE_FEE_TAX",
+      "message": "Plumber License Fee Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_ROAD_CUT_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_ROAD_CUT_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_ROAD_CUT_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_ROAD_CUT_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_WATER_CONNECTION_DISCONNECTION_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.WATER_CONNECTION_DISCONNECTION_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.WATER_CONNECTION/DISCONNECTION_FEES_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_WATER_CONNECTION_DISCONNECTION_FEES_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.WATER_CONNECTION/DISCONNECTION_FEES_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_WATER_CONNECTION_DISCONNECTION_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.WATER_CONNECTION_DISCONNECTION_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.WATER_CONNECTION/DISCONNECTION_FEES_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM_WATER_CONNECTION_DISCONNECTION_FEES_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OM.WATER_CONNECTION/DISCONNECTION_FEES_TAX",
+      "message": "Water connection/disconnection fees Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_CALL_REPORT_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_CALL_REPORT_FEE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_CALL_REPORT_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_CALL_REPORT_FEE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_NOC_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_NOC_FEE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_NOC_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_NOC_FEE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_TENDER_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_TENDER_FEE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_TENDER_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_FIRE_TENDER_FEE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_MISC_CHALLANS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.MISC_CHALLANS_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.MISC_CHALLANS_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_MISC_CHALLANS_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.MISC_CHALLANS_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_MISC_CHALLANS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.MISC_CHALLANS_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.MISC_CHALLANS_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_MISC_CHALLANS_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.MISC_CHALLANS_TAX",
+      "message": "Misc. Challans Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_NCO_FEE_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_NCO_FEE_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_NOC_FEE_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_NOC_FEE_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_NO_DUE_CERTIFICATE_ELECTRICITY_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.NO_DUE_CERTIFICATE_ELECTRICITY_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.NO_DUE_CERTIFICATE_ELECTRICITY_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_NO_DUE_CERTIFICATE_ELECTRICITY_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.NO_DUE_CERTIFICATE_ELECTRICITY_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_NO_DUE_CERTIFICATE_ELECTRICITY_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.NO_DUE_CERTIFICATE_ELECTRICITY_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.NO_DUE_CERTIFICATE_ELECTRICITY_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_NO_DUE_CERTIFICATE_ELECTRICITY_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_OTHERS_FEE_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_OTHERS_FEE_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_OTHERS_FEE_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_OTHERS_FEE_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_REGISTERY_AND_BANK_LOAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.REGISTERY_AND_BANK_LOAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.REGISTERY_AND_BANK_LOAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_REGISTERY_AND_BANK_LOAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.REGISTERY_AND_BANK_LOAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_REGISTERY_AND_BANK_LOAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.REGISTERY_AND_BANK_LOAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.REGISTERY_AND_BANK_LOAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_REGISTERY_AND_BANK_LOAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER.REGISTERY_AND_BANK_LOAN_TAX",
+      "message": "Regisry and Bank Loan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_WATER_CHARGES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_WATER_CHARGES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_WATER_CHARGES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "OTHER_WATER_CHARGES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_COMMERCIAL_USE_OF_MUNICIPAL_LAND_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMERCIAL_USE_OF_MUNICIPAL_LAND_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMERCIAL_USE_OF_MUNICIPAL_LAND_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_COMMERCIAL_USE_OF_MUNICIPAL_LAND_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMERCIAL_USE_OF_MUNICIPAL_LAND_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_COMMERCIAL_USE_OF_MUNICIPAL_LAND_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMERCIAL_USE_OF_MUNICIPAL_LAND_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMERCIAL_USE_OF_MUNICIPAL_LAND_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_COMMERCIAL_USE_OF_MUNICIPAL_LAND_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMERCIAL_USE_OF_MUNICIPAL_LAND_TAX",
+      "message": "Commercial Use of Municipal Land Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_COMMUNITY_CENTRE_BOOKING_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMUNITY_CENTRE_BOOKING_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMUNITY_CENTRE_BOOKING_FEE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_COMMUNITY_CENTRE_BOOKING_FEE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMUNITY_CENTRE_BOOKING_FEE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_COMMUNITY_CENTRE_BOOKING_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMUNITY_CENTRE_BOOKING_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMUNITY_CENTRE_BOOKING_FEE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_COMMUNITY_CENTRE_BOOKING_FEE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.COMMUNITY_CENTRE_BOOKING_FEE_TAX",
+      "message": "Community Centre Booking Fee Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_JAMIN_THEKA_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.JAMIN_THEKA_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.JAMIN_THEKA_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_JAMIN_THEKA_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.JAMIN_THEKA_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_JAMIN_THEKA_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.JAMIN_THEKA_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.JAMIN_THEKA_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_JAMIN_THEKA_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.JAMIN_THEKA_TAX",
+      "message": "Jamin Theka Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_LAND_RENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.LAND_RENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.LAND_RENT_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_LAND_RENT_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.LAND_RENT_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_LAND_RENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.LAND_RENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.LAND_RENT_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_LAND_RENT_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.LAND_RENT_TAX",
+      "message": "Land Rent Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_MUNICIPAL_SHOPS_RENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.MUNICIPAL_SHOPS_RENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.MUNICIPAL_SHOPS_RENT_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_MUNICIPAL_SHOPS_RENT_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.MUNICIPAL_SHOPS_RENT_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_MUNICIPAL_SHOPS_RENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.MUNICIPAL_SHOPS_RENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.MUNICIPAL_SHOPS_RENT_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_MUNICIPAL_SHOPS_RENT_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.MUNICIPAL_SHOPS_RENT_TAX",
+      "message": "Municipal Shops Rent Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_PARKING_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.PARKING_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.PARKING_FEE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_PARKING_FEE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.PARKING_FEE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_PARKING_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.PARKING_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.PARKING_FEE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_PARKING_FEE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.PARKING_FEE_TAX",
+      "message": "Parking Fee Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_STREET_VENDOR_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.STREET_VENDOR_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.STREET_VENDOR_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_STREET_VENDOR_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.STREET_VENDOR_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_STREET_VENDOR_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.STREET_VENDOR_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.STREET_VENDOR_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_STREET_VENDOR_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.STREET_VENDOR_TAX",
+      "message": "Street Vendor Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_ANNUAL_RENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_ANNUAL_RENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_ANNUAL_RENT_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_ANNUAL_RENT_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_ANNUAL_RENT_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_ANNUAL_RENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_ANNUAL_RENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_ANNUAL_RENT_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_ANNUAL_RENT_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_ANNUAL_RENT_TAX",
+      "message": "Tower Annual Rent Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_INSTALLATION_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_INSTALLATION_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_INSTALLATION_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_INSTALLATION_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_INSTALLATION_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_INSTALLATION_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_INSTALLATION_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_INSTALLATION_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_INSTALLATION_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_INSTALLATION_TAX",
+      "message": "Tower Installation Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_RENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_RENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_RENT_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_RENT_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_RENT_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_RENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_RENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_RENT_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT_TOWER_RENT_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "RT.TOWER_RENT_TAX",
+      "message": "Tower Rent Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_CLEAN_SAFAI_SANITATION_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.CLEAN_SAFAI_SANITATION_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.CLEAN_SAFAI_SANITATION_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_CLEAN_SAFAI_SANITATION_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.CLEAN_SAFAI_SANITATION_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_CLEAN_SAFAI_SANITATION_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.CLEAN_SAFAI_SANITATION_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.CLEAN_SAFAI_SANITATION_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_CLEAN_SAFAI_SANITATION_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.CLEAN_SAFAI_SANITATION_TAX",
+      "message": "Clean/Safai Sanitation Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_DEAD_ANIMALS_CONTRACT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.DEAD_ANIMALS_CONTRACT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.DEAD_ANIMALS_CONTRACT_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_DEAD_ANIMALS_CONTRACT_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.DEAD_ANIMALS_CONTRACT_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_DEAD_ANIMALS_CONTRACT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.DEAD_ANIMALS_CONTRACT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.DEAD_ANIMALS_CONTRACT_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_DEAD_ANIMALS_CONTRACT_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.DEAD_ANIMALS_CONTRACT_TAX",
+      "message": "Dead animals contract Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_LICENCE_PURE_FOOD_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.LICENCE_PURE_FOOD_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.LICENCE_PURE_FOOD_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_LICENCE_PURE_FOOD_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.LICENCE_PURE_FOOD_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_LICENCE_PURE_FOOD_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.LICENCE_PURE_FOOD_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.LICENCE_PURE_FOOD_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT_LICENCE_PURE_FOOD_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "SNT.LICENCE_PURE_FOOD_TAX",
+      "message": "Licence Pure food Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST_EXPENDITURE_SANTITATION_NOT_INCOME_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.EXPENDITURE_SANTITATION_NOT_INCOME_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.EXPENDITURE_SANTITATION_NOT_INCOME_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST_EXPENDITURE_SANTITATION_NOT_INCOME_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.EXPENDITURE_SANTITATION_NOT_INCOME_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST_EXPENDITURE_SANTITATION_NOT_INCOME_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.EXPENDITURE_SANTITATION_NOT_INCOME_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.EXPENDITURE_SANTITATION_NOT_INCOME_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST_EXPENDITURE_SANTITATION_NOT_INCOME_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.EXPENDITURE_SANTITATION_NOT_INCOME_TAX",
+      "message": "Expenditure santitation (Not Income) Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST_STATIONARY_NOT_INCOME_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.STATIONARY_NOT_INCOME_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.STATIONARY_NOT_INCOME_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST_STATIONARY_NOT_INCOME_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.STATIONARY_NOT_INCOME_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST_STATIONARY_NOT_INCOME_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.STATIONARY_NOT_INCOME_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.STATIONARY_NOT_INCOME_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST_STATIONARY_NOT_INCOME_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "ST.STATIONARY_NOT_INCOME_TAX",
+      "message": "Stationary (Not Income) Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_ADVERTISEMENT_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.ADVERTISEMENT_FEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.ADVERTISEMENT_FEE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_ADVERTISEMENT_FEE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.ADVERTISEMENT_FEE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_ADVERTISEMENT_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.ADVERTISEMENT_FEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.ADVERTISEMENT_FEE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_ADVERTISEMENT_FEE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.ADVERTISEMENT_FEE_TAX",
+      "message": "Advertisement fee Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_1424_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_156666_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_CHALLAN_UNDER_SECTION_156_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_156_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_156_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_CHALLAN_UNDER_SECTION_156_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_156_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_CHALLAN_UNDER_SECTION_156_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_156_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_156_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_CHALLAN_UNDER_SECTION_156_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_156_TAX",
+      "message": "Challan Under section 156,121 etc Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_1733_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_1770_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_1788_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_187_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_196_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_2146_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_2320_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_2358_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_249_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_2510_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_2570_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_2581_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_2821_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_3528_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_369_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_3863_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_397_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_399_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_4179_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_4455_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_4549_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_4666_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_4957_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_5031_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_5197_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_5261_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_5303_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_600_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_6615_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_7533_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_7608_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_7709_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_7786_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_7928_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_8009_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_8273_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_8333_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_8499_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_9106_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_9177_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.CHALLAN_UNDER_SECTION_971_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_REHRI_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.REHRI_CHALLAN_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.REHRI_CHALLAN_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_REHRI_CHALLAN_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.REHRI_CHALLAN_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_REHRI_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.REHRI_CHALLAN_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.REHRI_CHALLAN_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_REHRI_CHALLAN_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.REHRI_CHALLAN_TAX",
+      "message": "Rehri Challan Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_TEHBAZAARI_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.TEHBAZAARI_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.TEHBAZAARI_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_TEHBAZAARI_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.TEHBAZAARI_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_TEHBAZAARI_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.TEHBAZAARI_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.TEHBAZAARI_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB_TEHBAZAARI_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TB.TEHBAZAARI_TAX",
+      "message": "Tehbazaari Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TEHBAZAARI FEE.CHALLAN_UNDER_SECTION_156_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TEHBAZAARI FEE.CHALLAN_UNDER_SECTION_156_TAX",
+      "message": "Challan Under section 156,121 etc Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_ELECTRICITY_CHUNGI_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.ELECTRICITY_CHUNGI_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.ELECTRICITY_CHUNGI_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_ELECTRICITY_CHUNGI_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.ELECTRICITY_CHUNGI_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_ELECTRICITY_CHUNGI_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.ELECTRICITY_CHUNGI_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.ELECTRICITY_CHUNGI_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_ELECTRICITY_CHUNGI_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.ELECTRICITY_CHUNGI_TAX",
+      "message": "Electricity Chungi Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_HOUSE_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_HOUSE_TAX_CGST",
+      "message": "CGST (If applicable)",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_HOUSE_TAX_FIELD_FEE",
+      "message": "Field Collection Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_HOUSE_TAX_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_NO_DUES_CERTIFICATE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.NO_DUES_CERTIFICATE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.NO_DUES_CERTIFICATE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_NO_DUES_CERTIFICATE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.NO_DUES_CERTIFICATE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_NO_DUES_CERTIFICATE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.NO_DUES_CERTIFICATE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.NO_DUES_CERTIFICATE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_NO_DUES_CERTIFICATE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.NO_DUES_CERTIFICATE_TAX",
+      "message": "NDC - No Dues Certificate Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_PROPERTY_TAX_2013_14_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_PROPERTY_TAX_2013_14_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_PROPERTY_TAX_2013_14_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_PROPERTY_TAX_2013_14_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_TRANSFER_PROPERTY_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TRANSFER_PROPERTY_FEES_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TRANSFER_PROPERTY_FEES_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_TRANSFER_PROPERTY_FEES_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TRANSFER_PROPERTY_FEES_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_TRANSFER_PROPERTY_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TRANSFER_PROPERTY_FEES_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TRANSFER_PROPERTY_FEES_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_TRANSFER_PROPERTY_FEES_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TRANSFER_PROPERTY_FEES_TAX",
+      "message": "Transfer Property Fees Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_TS1_COPY_REGISTER_FOR_OLD_SURVEY_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_TS1_COPY_REGISTER_FOR_OLD_SURVEY_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_TS1_COPY_REGISTER_FOR_OLD_SURVEY_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX_TS1_COPY_REGISTER_FOR_OLD_SURVEY_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "TX.TS1_COPY_REGISTER_FOR_OLD_SURVEY_TAX",
+      "message": "TS1 copy register for old survey Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_AMOUNT_TO_BE_ COLLECTED_LABEL",
+      "message": "Amount To Be Collected",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_AMOUNT_TO_BE_COLLECTED_LABEL",
+      "message": "Amount To Be Collected",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_AMOUNT_TO_BE_COLLECTED_PLACEHOLDER",
+      "message": "Enter Amount To be Collected",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_BUTTON_GENERATE_RECEIPT",
+      "message": "GENERATE RECEIPT",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_BUTTON_GO_TO_HOME",
+      "message": "Go To Home",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_BUTTON_NEXT",
+      "message": "NEXT",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_BUTTON_VIEW_RECEIPT",
+      "message": "VIEW RECEIPT",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_CAPTURE_PAYMENT_HEADER",
+      "message": "Capture Payment",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_CHEQUE_DATE_LABEL",
+      "message": "Cheque Date",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_CHEQUE_NO_LABEL",
+      "message": "Cheque No",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_CHEQUE_NO_PLACEHOLDER",
+      "message": "Enter cheque No",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_CITIZEN_NO_RECEIPT_FOUND",
+      "message": "No receipt found !",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_COMMENT_LABEL",
+      "message": "Comments",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_COMMENT_PLACEHOLDER",
+      "message": "Enter Comments",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_COMMON_HEADER",
+      "message": "New Collection",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_COMMON_HEADER_SEARCH",
+      "message": "Universal Collection",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_COMMON_TABLE_COL_SERVICE_TYPE",
+      "message": "Service Type",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_COMMON_TOTAL_AMT",
+      "message": "Total Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_CONS_MOBILE_NO_LABEL",
+      "message": "Consumer Mobile No",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_CONS_MOBILE_NO_PLACEHOLDER",
+      "message": "Enter Consumer Mobile No",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_CONS_NAME_LABEL",
+      "message": "Consumer Name",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC _CONS_NAME_LABEL_PLACEHOLDER",
+      "message": "Enter Consumer Name",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_ENTER_RECEPIT_NO_PLACEHOLDER",
+      "message": "Enter Receipt No.",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_ESTIMATE_NOC_FEE",
+      "message": "UC Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_ESTIMATE_PENALTY",
+      "message": "Penalty",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_ESTIMATE_REABATE",
+      "message": "Rebate",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_FEE_ESTIMATE_HEADER",
+      "message": "Fee Estimate",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_FIELD_COLLECTION_FEE_LABEL",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_FIELD_COLLECTION_FEE_PLACEHOLDER",
+      "message": "Enter Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_FROM_DATE_LABEL",
+      "message": "From Date",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_G8_RECEIPT_DETAILS_HEADER",
+      "message": "G8 Receipt Details(optional)",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_G8_RECEIPT_ISSUE_DATE",
+      "message": "g8 receipt issue Date",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_G8_RECEIPT_NO_LABEL",
+      "message": "g8 Receipt No",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_G8_RECEIPT_NO_PLACEHOLDER",
+      "message": "Enter G8 receipt No",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_IFSC_CODE_LABEL",
+      "message": "IFSC Code",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_IFSC_CODE_PLACEHOLDER",
+      "message": "Enter IFSC code",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_MOBILE_NO_LABEL",
+      "message": "Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_MOBILE_NO_PLACEHOLDER",
+      "message": "Enter Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_NEW_COLLECTION_ATLEAST_ONE_TAX_MSG",
+      "message": "Please fill atleast one tax amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_NEW_COLLECTION_HEADER",
+      "message": "New Collection",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_NEW_COLLECTION_WRONG_TAX_PERIOD_MSG",
+      "message": "Please select the right tax period",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_PAY_GO_BACK",
+      "message": "GO BACK",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_PAY_HEADER",
+      "message": "New Universal collection",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_PAYMENT_COLLECTED_SUCCESS_MESSAGE_MAIN",
+      "message": "Payment has been collected successfully!",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_PAYMENT_FAILED",
+      "message": "Payment Collection failed!",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_PAYMENT_NO_LABEL",
+      "message": "Payment Receipt No.",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_PAYMENT_NOTIFICATION",
+      "message": "Payment Collection has been failed!",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_PAYMENT_OPTION_LABEL",
+      "message": "Payment Option",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_PAYMENT_SUCCESS_MESSAGE_SUB",
+      "message": "A notification regarding Payment Collection has been sent to the consumer at registered Mobile No.",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_RECEIPT",
+      "message": "Receipts",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_RECEIPT_ISSUE_DATE_LABEL",
+      "message": "g8 receipt issue Date",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_RECEIPT_NO_LABEL",
+      "message": "g8 Receipt No",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_RECEPIT_NO_LABEL",
+      "message": "Receipt Number.",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_REQUIRED_FIELDS_ERROR_MSG",
+      "message": "Please fill the required fields",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_RESET_BUTTON",
+      "message": "RESET",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SEARCH_BUTTON",
+      "message": "SEARCH",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SEARCH_COMMON_HEADER",
+      "message": "Search Receipt",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SEARCH_COMMON_SUB_HEADER",
+      "message": "Provide at least one parameter to search for an application",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SEARCH_HEADER",
+      "message": "Universal Collection",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SEARCH_RESULTS_NEW_COLLECTION_BUTTON",
+      "message": "NEW COLLECTION",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SEARCH_SELECT_AT_LEAST_ONE_TOAST_MESSAGE",
+      "message": "Please fill at least one field to start search",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SEARCH_SELECT_AT_LEAST_VALID_FIELD",
+      "message": "Please fill valid fields to start search",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SELECT_CHEQUE_DATE_PLACEHOLDER",
+      "message": "DD/MM/YY",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SELECT_FROM_DATE_PLACEHOLDER",
+      "message": "Enter from Date",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SELECT_G8_RECEIPT_ISSUE_DATE_PLACEHOLDER",
+      "message": "Enter g8 receipt Issue Date",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SELECT_RECEIPT_ISSUE_DATE_PLACEHOLDER",
+      "message": "Enter g8 receipt Issue Date",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SELECT_TO_DATE_PLACEHOLDER",
+      "message": "Enter to Date",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SERVICE_CATEGORY_LABEL",
+      "message": "Service Category",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SERVICE_CATEGORY_PLACEHOLDER",
+      "message": "Select Service Category",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SERVICE_OPTION_PLACEHOLDER",
+      "message": "Select payment option",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_SERVICE_TYPE_PLACEHOLDER",
+      "message": "Select Service Type",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "UC_TO_DATE_LABEL",
+      "message": "To Date",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_CONTRACTOR_ENLISTMENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.CONTRACTOR_ENLISTMENT_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.CONTRACTOR_ENLISTMENT_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_CONTRACTOR_ENLISTMENT_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.CONTRACTOR_ENLISTMENT_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_CONTRACTOR_ENLISTMENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.CONTRACTOR_ENLISTMENT_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.CONTRACTOR_ENLISTMENT_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_CONTRACTOR_ENLISTMENT_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.CONTRACTOR_ENLISTMENT_TAX",
+      "message": "Contractor Enlistment Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_OFC_PERMISSION_FEES_CGST",
+      "message": "CGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_OFC_PERMISSION_FEES_FIELD_FEE",
+      "message": "Field Fee:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_OFC_PERMISSION_FEES_SGST",
+      "message": "SGST:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_OFC_PERMISSION_FEES_TAX",
+      "message": "Tax:",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_TENDERFORMFEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.TENDERFORMFEE_CGST",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.TENDERFORMFEE_CGST_TAX",
+      "message": "CGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_TENDERFORMFEE_FIELD_FEE",
+      "message": "Field Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.TENDER FORM FEE_FIELD_FEE",
+      "message": "Field Collection Fee",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_TENDERFORMFEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.TENDERFORMFEE_SGST",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.TENDERFORMFEE_SGST_TAX",
+      "message": "SGST (If applicable):",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF_TENDERFORMFEE_TAX",
+      "message": "Tax",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    },
+    {
+      "code": "WF.TENDER FORM FEE_TAX",
+      "message": "Tender Form Fee Tax Amount",
+      "locale": "en_IN",
+      "module": "rainmaker-uc"
+    }
+  ]
