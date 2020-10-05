@@ -6463,7 +6463,7 @@
     },
     {
       "code": "EVENT_ADD_SUCCESS_MESSAGE_SUB",
-      "message": null,
+      "message": "EVENT_ADD_SUCCESS_MESSAGE_SUB",
       "locale": "en_IN",
       "module": "rainmaker-common"
     },
@@ -6817,7 +6817,7 @@
     },
     {
       "code": "LANGUAGE_HI_IN",
-      "message": null,
+      "message": "Hindi",
       "locale": "en_IN",
       "module": "rainmaker-common"
     },
@@ -6835,7 +6835,7 @@
     },
     {
       "code": "LANGUAGE_PN_IN",
-      "message": null,
+      "message": "Punjabi",
       "locale": "en_IN",
       "module": "rainmaker-common"
     },
@@ -6859,7 +6859,7 @@
     },
     {
       "code": "MESSAGE_ADD_SUCCESS_MESSAGE_SUB",
-      "message": null,
+      "message": "MESSAGE_ADD_SUCCESS_MESSAGE_SUB",
       "locale": "en_IN",
       "module": "rainmaker-common"
     },
@@ -7549,7 +7549,7 @@
     },
     {
       "code": "MODULE_SERVICETYPE",
-      "message": null,
+      "message": "Service type",
       "locale": "en_IN",
       "module": "rainmaker-common"
     },
@@ -9283,7 +9283,7 @@
     },
     {
       "code": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_5",
-      "message": null,
+      "message": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_5",
       "locale": "en_IN",
       "module": "rainmaker-common"
     },
@@ -14668,5 +14668,23 @@
       "message": "Water Cess",
       "locale": "en_IN",
       "module": "rainmaker-common"
+    },
+    {
+        "code": "ACTION_TEST_TRADELICENSE",
+        "message": "Trade License",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_APPLICATION_TYPE_LABEL",
+        "message": "Application Type",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_NEW_TRADE_DETAILS_ACC_PLACEHOLDER",
+        "message": "Select Accessories",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
     }
   ]
