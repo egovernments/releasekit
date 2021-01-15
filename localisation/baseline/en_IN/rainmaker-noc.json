@@ -1,2462 +1,3122 @@
 [
-    {
-      "code": "ACTION_TEST_APPLICATION_STATUS_REPORT",
-      "message": "Application Status Report",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "ACTION_TEST_CHANNELS_REPORT",
-      "message": "Channels Report",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "ACTION_TEST_COLLECTION_REPORT",
-      "message": "Collection Report",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "ACTION_TEST_FIRENOC",
-      "message": "Fire Noc",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "BUILDING_BUILDING_PLAN_BUILTUP_AREA_STATEMENT",
-      "message": "Builtup area statement",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "BUILDING_BUILDING_PLAN_ELEVATION_PLAN",
-      "message": "Elevation plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "BUILDING_BUILDING_PLAN_GROUND_FLOOR_PLAN",
-      "message": "Ground floor plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "BUILDING_BUILDING_PLAN_SECTION_PLAN",
-      "message": "Section plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "BUILDING_BUILDING_PLAN_SITE_PLAN",
-      "message": "Site plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "BUILDING_FIRE_FIGHTING_PLAN",
-      "message": "Fire Fighting plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "BUILDING_OWNERS_CHECKLIST",
-      "message": "Checklist",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "COMMON-MASTERS_APPLICANTSUBTYPE_LABEL",
-      "message": "Type of Applicant - Subtype",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "COMMON-MASTERS_APPLICANTSUBTYPE_PLACEHOLDER",
-      "message": "Select Applicant Subtype",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "COMMON-MASTERS_APPLICANTTYPE_LABEL",
-      "message": "Applicant Type",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "COMMON-MASTERS_APPLICANTTYPE_PLACEHOLDER",
-      "message": "Select Applicant Type",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "CS_LANDING_PAGE_NOC_DESCRIPTION",
-      "message": "You can apply for Pre-construction (Provisional) and Post Construction (New) Fire NOC online and track status of your application.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "ERR_FILL_MULTIPLE_OWNER",
-      "message": "Please add all the owner details",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "ERR_FIRENOC_FILL_VALID_FIELDS",
-      "message": "Please fill valid fields to search",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "ERR_FIRENOC_NUMBER_INCORRECT",
-      "message": "Provisional Fire NOC Number not found in the system",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_ADHOC_PENALTY",
-      "message": "Adhoc Penalty",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_ADHOC_REBATE",
-      "message": "Adhoc Rebate",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPLICATION_FORWARD_SUCCESS",
-      "message": "Application has been forwarded successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPLICATION_MARKED_SUCCESS",
-      "message": "Application has been marked successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPLICATION_REFER_SUCCESS",
-      "message": "Application has been referred successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPLICATION_SENDBACK_SUCCESS",
-      "message": "Application has been sent back successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPLICATION_SUCCESS_MESSAGE_MAIN",
-      "message": "Application Submitted Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPLICATION_SUCCESS_MESSAGE_SUB",
-      "message": "A notification regarding application submission has been sent to the applicant at registered mobile no.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPROVAL_CHECKLIST_MESSAGE_HEAD",
-      "message": "Fire NOC Approved Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPROVAL_CHECKLIST_MESSAGE_SUB",
-      "message": "A notification regarding Fire NOC Approval has been sent to building owner at registered Mobile No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPROVAL_REJ_MESSAGE_HEAD",
-      "message": "Fire NOC Application Rejected",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_APPROVAL_REJ_MESSAGE_SUBHEAD",
-      "message": "A notification regarding Fire NOC Rejection has been sent to building owner at registered Mobile No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_BUILDING_PLAN_BUILDING_PLAN_DESCRIPTION_NOTE",
-      "message": "* In case of multiple buildings please provide Building plans for all buildings",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_BUILDING_PLAN_BUILTUP_AREA_STATEMENT_LABEL",
-      "message": "5 Built-up Area Statement",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_BUILDING_PLAN_ELEVATION_PLAN_LABEL",
-      "message": "4 Elevation Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_BUILDING_PLAN_GROUND_FLOOR_PLAN_LABEL",
-      "message": "2 Ground Floor Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_BUILDING_PLAN_HEADING",
-      "message": "Building Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_BUILDING_PLAN_SECTION_PLAN_LABEL",
-      "message": "3 Section Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_BUILDING_PLAN_SITE_PLAN_LABEL",
-      "message": "1 Site Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_FIRE_FIGHTING_PLAN_FIRE_FIGHTING_PLAN_DESCRIPTION_NOTE",
-      "message": "* In case of multiple buildings please provide Building plans for all buildings",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_FIRE_FIGHTING_PLAN_HEADING",
-      "message": "Fire-Fighting Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_FIRE_FIGHTING_PLAN_SD_FIRE_DETECTING_SYSTEM_LABEL",
-      "message": "2 Schematic drawing of fire detecting system",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_FIRE_FIGHTING_PLAN_SD_FIRE_FIGHTING_SYSTEM_LABEL",
-      "message": "1 Schematic drawing of fire fighting system",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_OWNERS_CHECKLIST_COPY_PROVISIONAL_NOC_LABEL",
-      "message": "2 Copy of Provisional for NoC (if applying for New)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_OWNERS_CHECKLIST_FLS_CHECKLIST_LABEL",
-      "message": "1 Fire and life safety checklist",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDING_OWNERS_CHECKLIST_HEADING",
-      "message": "Owners Checklist",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGSUBUSAGETYPE_LABEL",
-      "message": "Building Usage Subtype as per NBC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGSUBUSAGETYPE_PLACEHOLDER",
-      "message": "Select Building Usage Subtype",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL",
-      "message": "Group A Residential",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_1",
-      "message": "Subdivision A-1 Lodging and rooming houses",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_2",
-      "message": "Subdivision A-2 One or two family private dwellings",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_3",
-      "message": "Subdivision A-3 Dormitories",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_4",
-      "message": "Subdivision A-4 Apartment houses",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_5",
-      "message": "Subdivision A-5 Hotels",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_6",
-      "message": "Subdivision A-6 Starred hotels",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_B_EDUCATIONAL",
-      "message": "Group B Educational",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_B_EDUCATIONAL_SUBDIVISIONB_1",
-      "message": "Subdivision B-1 Schools up to senior secondary level",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_B_EDUCATIONAL_SUBDIVISIONB_2",
-      "message": "Subdivision B-2 All others/training institutions",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_C_INSTITUTIONAL",
-      "message": "Group C Institutional",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_1",
-      "message": "Subdivision C-1 Hospitals and sanatoria",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_2",
-      "message": "Subdivision C-2 Custodial institutions",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_3",
-      "message": "Subdivision C-3 Penal and mental institutions",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY",
-      "message": "Group D Assembly",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_1",
-      "message": "Subdivision D-1 Buildings having a theatrical or motion picture or any other stage and fixed seats for over 1 000 persons",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_2",
-      "message": "Subdivision D-2 Buildings having a theatrical or motion picture or any other stage and fixed seats up to 1 000 persons",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_3",
-      "message": "Subdivision D-3 Buildings without a permanent stage having accommodation for 300 or more persons but no permanent seating arrangement",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_4",
-      "message": "Subdivision D-4 Buildings without a permanent stage having accommodation for less than 300 persons with no permanent seating arrangement",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_5",
-      "message": "Subdivision D-5 All other structures including temporary structures designed for assembly of people not covered by Subdivisions D-1 to D-4, at ground level",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_6",
-      "message": "Subdivision D-6 Buildings having mixed occupancies of assembly and mercantile (for example cinema theatres multiplexes and restaurants/food courts)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_7",
-      "message": "Subdivision D-7 Underground and elevated mass rapid transit system",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS",
-      "message": "Group E Business",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_1",
-      "message": "Subdivision E-1 Offices, banks, professional establishments, like offices of architects, engineers, doctors, lawyers, post offices and police stations",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_2",
-      "message": "Subdivision E-2 Laboratories, outpatient clinics, research establishments, libraries and test houses",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_3",
-      "message": "Subdivision E-3 Electronic data processing centres, computer installations, information technology parks and call centres",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_4",
-      "message": "Subdivision E-4 Telephone exchanges",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_5",
-      "message": "Subdivision E-5 Broadcasting stations, T.V. stations and air traffic control towers",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_F_MERCANTILE",
-      "message": "Group F Mercantile",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_F_MERCANTILE_SUBDIVISIONF_1",
-      "message": "Subdivision F-1 Shops departmental stores markets (any with covered area up to 500 m2 )",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_F_MERCANTILE_SUBDIVISIONF_2",
-      "message": "Subdivision F-2 Shops departmental stores markets (any with covered area more than 500 m2 )",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_F_MERCANTILE_SUBDIVISIONF_3",
-      "message": "Subdivision F-3 Underground shopping centres",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_G_INDUSTRIAL",
-      "message": "Group G Industrial",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_G_INDUSTRIAL_SUBDIVISIONG_1",
-      "message": "Subdivision G-1 Buildings used for low hazard industries",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_G_INDUSTRIAL_SUBDIVISIONG_2",
-      "message": "Subdivision G-2 Buildings used for moderate hazard industries",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_G_INDUSTRIAL_SUBDIVISIONG_3",
-      "message": "Subdivision G-3 Buildings used for high hazard industries",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_H_STORAGE",
-      "message": "Group H Storage",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_H_STORAGE_GROUP_H_STORAGE",
-      "message": "NA",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_J_HAZARDOUS",
-      "message": "Group J Hazardous",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGTYPE_GROUP_J_HAZARDOUS_GROUP_J_HAZARDOUS",
-      "message": "NA",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGUSAGETYPE_LABEL",
-      "message": "Building Usage Type as per NBC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_BUILDINGUSAGETYPE_PLACEHOLDER",
-      "message": "Select Building Usage Type",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_CANCELLED_MESSAGE_HEAD",
-      "message": "Fire NOC Cancelled",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_CANCELLED_MESSAGE_SUBHEAD",
-      "message": "A notification regarding Fire NOC cancellation has been sent to building owner at registered Mobile No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_COMMON_APPLY_HEADER_LABEL",
-      "message": "Application for Fire NOC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_COMMON_BUTTON_APPLY",
-      "message": "Apply",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_COMMON_BUTTON_PRINT",
-      "message": "Print",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_FEES",
-      "message": "NOC Fees",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_FIRESTATIONS_FS_AMRITSAR_01",
-      "message": "Amritsar Firestation",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_FIRESTATIONS_FS_JALANDHAR_01",
-      "message": "Jalandhar Firestation",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_FIRESTATIONS_FS_MOHALI_01",
-      "message": "Mohali Firestation",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_FORWARD_SUCCESS_MESSAGE_MAIN",
-      "message": "Application Forwarded Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_HOME_SEARCH_RESULTS_APP_NO_LABEL",
-      "message": "Application No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_HOME_SEARCH_RESULTS_NOC_NO_LABEL",
-      "message": "Fire NOC No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_HOME_SEARCH_RESULTS_NO_LABEL",
-      "message": "Fire NOC No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_MARK_SUCCESS_MESSAGE_MAIN",
-      "message": "Application Marked Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_ADDRESSPROOF_AADHAAR_LABEL",
-      "message": "4 Aadhar Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_ADDRESSPROOF_ADDRESSPROOF_DESCRIPTION_NOTE",
-      "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_ADDRESSPROOF_DL_LABEL",
-      "message": "2 Driving License",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_ADDRESSPROOF_ELECTRICITYBILL_LABEL",
-      "message": "1 Electricity Bill",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_ADDRESSPROOF_HEADING",
-      "message": "Proof of Address (Any 1)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_ADDRESSPROOF_IDENTITYPROOF_DESCRIPTION_NOTE",
-      "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_ADDRESSPROOF_PAN_LABEL",
-      "message": "5 Pan Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_ADDRESSPROOF_PASSPORT_LABEL",
-      "message": "6 Passport",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_ADDRESSPROOF_VOTERID_LABEL",
-      "message": "3 Voter ID Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_IDENTITYPROOF_AADHAAR_LABEL",
-      "message": "1 Aadhar card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_IDENTITYPROOF_DRIVING_LABEL",
-      "message": "3 Driving License",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_IDENTITYPROOF_HEADING",
-      "message": "Proof of Identity (Any 1)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_IDENTITYPROOF_PAN_LABEL",
-      "message": "4 Pan Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_IDENTITYPROOF_PASSPORT_LABEL",
-      "message": "5 Passport",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_OWNER_IDENTITYPROOF_VOTERID_LABEL",
-      "message": "2 Voter ID Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_PAYMENT_COLLECTION_SUCCESS_MESSAGE_MAIN",
-      "message": "Payment has been collected successfully!",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_PAYMENT_FAILURE_MESSAGE_MAIN",
-      "message": "Payment has failed!",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_PAYMENT_FAILURE_MESSAGE_SUB",
-      "message": "A notification regarding payment failure has been sent to the building owner and applicant.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_PAYMENT_SUCCESS_MESSAGE_SUB",
-      "message": "A notification regarding Payment Collection has been sent to building owner at registered Mobile No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_PMT_RCPT_NO",
-      "message": "Payment Receipt No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_REFER_SUCCESS_MESSAGE_MAIN",
-      "message": "Application referred Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_REQ_DOCS_HEADER",
-      "message": "Required Documents-Fire NOC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_ROUNDOFF",
-      "message": "Round off Amount",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRE_NOC_SENDBACK_SUCCESS_MESSAGE_MAIN",
-      "message": "Application sent back Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "FIRENOC_TAXES",
-      "message": "Taxes",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_APPLICANT_LABEL",
-      "message": "Add Applicant",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_BUTTON_ADD",
-      "message": "Add",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_BUTTON_CANCEL",
-      "message": "Cancel",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_COMMENT_LABEL",
-      "message": "Enter Comments",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_HEAD",
-      "message": "Add Adhoc Composition Fee/Penalty/Rebate",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_PEN_AMT_LABEL",
-      "message": "Adhoc Penalty Amount",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_PEN_AMT_PLACEHOLDER",
-      "message": "Adhoc Penalty Amount",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_RBT_AMT_LABEL",
-      "message": "Adhoc Rebate",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_RBT_AMT_PLACEHOLDER",
-      "message": "Adhoc Rebate Amount",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_SUB_FIRST",
-      "message": "Adhoc Penalty",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADD_HOC_CHARGES_POPUP_SUB_SEC",
-      "message": "Adhoc Rebate",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADDRESS_PROOF_NOTE",
-      "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADHOC_MISCALCULATION",
-      "message": "Miscalculation of earlier assessment",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADHOC_ONE_TIME_PENALTY",
-      "message": "One time penalty",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADHOC_OTHER",
-      "message": "Others",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ADHOC_PENDING_DUES",
-      "message": "Pending dues from earlier",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_CORRESPONDENCE_ADDRESS_LABEL",
-      "message": "Correspondence Address",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
-      "message": "Enter Correspondence Address",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_FATHER_HUSBAND_NAME_LABEL",
-      "message": "Father/Husband's Name",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_FATHER_HUSBAND_NAME_PLACEHOLDER",
-      "message": "Enter Father/Husband's Name",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_INFORMATION_SUBHEADER",
-      "message": "Applicant Information",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_MOBILE_NO_TOOLTIP_MESSAGE",
-      "message": "Please search profile linked to the mobile no.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_SUBTYPE_LABEL",
-      "message": "Type of Applicant - Subtype",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_SUBTYPE_PLACEHOLDER",
-      "message": "Select Applicant Subtype",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_TYPE_LABEL",
-      "message": "Applicant Type",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICANT_TYPE_PLACEHOLDER",
-      "message": "Select Applicant Type",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICATION",
-      "message": "Application Confirmation Form",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICATION_FORWARD_SUCCESS",
-      "message": "Application has been forwarded successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICATION_MARKED_SUCCESS",
-      "message": "Application has been marked successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICATION_NOC_LABEL",
-      "message": "Application status",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICATION_PLACEHOLDER",
-      "message": "Select Application Status",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLICATION_REFER_SUCCESS",
-      "message": "Application has been referred successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLIED",
-      "message": "Applied",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPLY",
-      "message": "Apply",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPROVAL_CHECKLIST_BUTTON_DOWN_LIC",
-      "message": "DOWNLOAD FIRE-NOC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPROVAL_CHECKLIST_MESSAGE_HEAD",
-      "message": "Fire NOC Approved Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPROVAL_CHECKLIST_MESSAGE_SUB",
-      "message": "A notification regarding Fire NOC Approval has been sent to building owner at registered Mobile No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPROVAL_CHECKLIST_PRINT_LIC",
-      "message": "PRINT FIRE-NOC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPROVAL_REJ_MESSAGE_HEAD",
-      "message": "Fire NOC Application Rejected",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPROVAL_REJ_MESSAGE_SUBHEAD",
-      "message": "A notification regarding Fire NOC Rejection has been sent to building owner at registered Mobile No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_APPROVED",
-      "message": "Approved",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_PERSON_EMAIL_LABEL",
-      "message": "Email of Authorized Person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_PERSON_EMAIL_PLACEHOLDER",
-      "message": "Enter Email of Authorized Person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_PERSON_LABEL",
-      "message": "Name of Authorized Person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_PERSON_MOBILE_LABEL",
-      "message": "Mobile No. of Authorized Person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_PERSON_MOBILE_PLACEHOLDER",
-      "message": "Enter Mobile No. of Authorized Person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_PERSON_NAME_LABEL",
-      "message": "Authorized Person Name",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_REFER_PERSON_COMMENTS_LABEL",
-      "message": "Comments",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_REFER_PERSON_COMMENTS_PLACEHOLDER",
-      "message": "Enter Comments",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_REFER_PERSON__LABEL",
-      "message": "Refer To",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_AUTHORIZED_REFER_PERSON_PLACEHOLDER",
-      "message": "Select Name of Employee",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_BUILDING_PLAN_BUILDING_PLAN_DESCRIPTION_NOTE",
-      "message": "* In case of multiple buildings please provide Building plans for all buildings",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_BUILDING_PLAN_BUILTUP_AREA_STATEMENT_LABEL",
-      "message": "5 Built-up Area Statement",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_BUILDING_PLAN_ELEVATION_PLAN_LABEL",
-      "message": "4 Elevation Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_BUILDING_PLAN_GROUND_FLOOR_PLAN_LABEL",
-      "message": "2 Ground Floor Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_BUILDING_PLAN_HEADING",
-      "message": "Building Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_BUILDING_PLAN_SECTION_PLAN_LABEL",
-      "message": "3 Section Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_BUILDING_PLAN_SITE_PLAN_LABEL",
-      "message": "1 Site Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_BUILTUP_AREA_LABEL",
-      "message": "5 Built-up Area Statement",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_FIRE_FIGHTING_PLAN_FIRE_FIGHTING_PLAN_DESCRIPTION_NOTE",
-      "message": "* In case of multiple buildings please provide Building plans for all buildings",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_FIRE_FIGHTING_PLAN_HEADING",
-      "message": "Fire-Fighting Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_FIRE_FIGHTING_PLAN_SD_FIRE_DETECTING_SYSTEM_LABEL",
-      "message": "2 Schematic drawing of fire detecting system",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_FIRE_FIGHTING_PLAN_SD_FIRE_FIGHTING_SYSTEM_LABEL",
-      "message": "1 Schematic drawing of fire fighting system",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_OWNERS_CHECKLIST_COPY_PROVISIONAL_NOC_LABEL",
-      "message": "2 Copy of Provisional for NoC (if applying for New)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_OWNERS_CHECKLIST_FLS_CHECKLIST_LABEL",
-      "message": "1 Fire and life safety checklist",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_OWNERS_CHECKLIST_HEADING",
-      "message": "Owners Checklist",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_PLAN_ELEVATION_PLAN_LABEL",
-      "message": "4 Elevation Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_PLAN_GROUND_FLOOR_PLAN_LABEL",
-      "message": "2 Ground Floor Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_PLAN_HEADING",
-      "message": "Building Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_PLAN_NOTE",
-      "message": "* In case of multiple buildings please provide building plans for all buildings",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_PLAN_SECTION_PLAN_LABEL",
-      "message": "3 Section Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_BUILDING_PLAN_SITE_PLAN_LABEL",
-      "message": "1 Site Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_CANCELLED",
-      "message": "Cancelled",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_CERTIFICATE",
-      "message": "NOC Certificate",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_APPLICANT_DETAILS",
-      "message": "Applicant Details",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_APPLY_FIRE_NOC_HEADER_LABEL",
-      "message": "Application for Fire NOC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_APPLY_NOC",
-      "message": "Application for Fire NOC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_BUTTON_APPLY",
-      "message": "Apply",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_BUTTON_CITIZEN_MAKE_PAYMENT",
-      "message": "Make Payment",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_BUTTON_MAKE_PAYMENT",
-      "message": "MAKE PAYMENT",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_DOCUMENTS",
-      "message": "Documents",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_NOC",
-      "message": "Fire NOC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_NOC_DETAILS",
-      "message": "NOC Details",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_NOT_PAID",
-      "message": "Not Paid",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_PAID_SUCCESS",
-      "message": "Paid Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_PROPERTY_DETAILS",
-      "message": "Property Details",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_TABLE_COL_APP_NO_LABEL",
-      "message": "Application No",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_COMMON_TABLE_COL_BUILDING_NAME_LABEL",
-      "message": "Building Name",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_CONFIRMATION_BUTTON_DOWNLOAD_RECEIPT",
-      "message": "DOWNLOAD RECEIPT",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_CONFIRMATION_BUTTON_PRINT_RECEIPT",
-      "message": "PRINT RECEIPT",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_CURRENT_OWNER_LABEL",
-      "message": "Current Owner",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_CURRENT_STATUS_LABEL",
-      "message": "Status",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_DESIGNATION_LABEL",
-      "message": "Designation in Institute",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_DOCUMENTVERIFY",
-      "message": "Pending for Document Verification",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ENTER_AUTHORIZED_PERSON_PLACEHOLDER",
-      "message": "Enter Name of Authorized Person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ENTER_INSTITUTION_DESIGNATION_PLACEHOLDER",
-      "message": "Enter designation of Institution",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ENTER_INSTITUTION_PLACEHOLDER",
-      "message": "Enter Name of Institution",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ENTER_OFFICIAL_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
-      "message": "Enter Official Correspondence Address",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ENTER_TELEPHONE_NUMBER_PLACEHOLDER",
-      "message": "Enter Official Telephone No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ESTIMATE_NOC_FEE",
-      "message": "NOC Fee",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ESTIMATE_PENALTY",
-      "message": "Penalty",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_ESTIMATE_REABATE",
-      "message": "Rebate",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_FIRE_FIGHTING_PLAN_HEADING",
-      "message": "Fire-Fighting Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_FIRE_FIGHTING_PLAN_NOTE",
-      "message": "* In case of multiple buildings please provide building plans for all buildings",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_FIREFIGHTING_SCHEMATIC_DETECTING_SYSTEM_LABEL",
-      "message": "2 Schematic drawing of fire detecting system",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_FIREFIGHTING_SCHEMATIC_LABEL",
-      "message": "1 Schematic drawing",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_GENDER_FEMALE_RADIOBUTTON",
-      "message": "Female",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_GENDER_LABEL",
-      "message": "Gender",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_GENDER_MALE_RADIOBUTTON",
-      "message": "Male",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_GENDER_TRANSGENDER_RADIOBUTTON",
-      "message": "Transgender",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_HOME_SEARCH_RESULTS_HEADING",
-      "message": "Search Fire NOC Application",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_HOME_SEARCH_RESULTS_NOC_NO_LABEL",
-      "message": "Fire NOC No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_HOME_SEARCH_RESULTS_NOC_NO_PLACEHOLDER",
-      "message": "Enter NOC No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_IDENTITY_PROOF_AADHAR_LABEL",
-      "message": "3 Aadhar card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_IDENTITY_PROOF_DRIVING_LIC_LABEL",
-      "message": "5 Driving License",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_IDENTITY_PROOF_ELECTRICITY_BILL_LABEL",
-      "message": "6 Electricity Bill",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_IDENTITY_PROOF_HEADING",
-      "message": "Proof of Identity (Any 1)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_IDENTITY_PROOF_NOTE",
-      "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_IDENTITY_PROOF_PAN_LABEL",
-      "message": "1 PAN Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_IDENTITY_PROOF_PASSPORT_LABEL",
-      "message": "2 Passport",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_IDENTITY_PROOF_VOTER_ID_LABEL",
-      "message": "4 Voter ID Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_INITIATED",
-      "message": "Initiated",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_INSTITUTION_DESIGNATION_LABEL",
-      "message": "Designation in Institution",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_INSTITUTION_DETAILS_HEADER",
-      "message": "Institution Details",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_INSTITUTION_LABEL",
-      "message": "Name of Institution",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_INSTITUTION_TYPE_LABEL",
-      "message": "Institution Type",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_MARK_SUCCESS_MESSAGE_MAIN",
-      "message": "Application Marked Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_MY_APPLICATIONS",
-      "message": "My Applications",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_MY_APPLICATIONS_HEADER",
-      "message": "My Applications",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_NAME_OF_BUILDING_LABEL",
-      "message": "Name Of Building",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_NAME_OF_INSTITUTION_LABEL",
-      "message": "Name of Institution",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_NEW_NOC_DETAILS_HEADER",
-      "message": "NOC Details",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_NOC_DETAILS_HEADER",
-      "message": "NOC Details",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_NO_OF_BUILDINGS_LABEL",
-      "message": "No. of Buildings",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_NO_OF_BUILDINGS_MULTIPLE_RADIOBUTTON",
-      "message": "Multiple Buildings",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_NO_OF_BUILDINGS_SINGLE_RADIOBUTTON",
-      "message": "Single Building",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_NO_OF_FLOORS_LABEL",
-      "message": "No. Of Floors",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OFFICIAL_CORRESPONDENCE_ADDRESS_LABEL",
-      "message": "Official Correspondence Address",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OFFICIAL_TELEPHONE_LABEL",
-      "message": "Official Telephone Number",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_ADDRESSPROOF_AADHAAR_LABEL",
-      "message": "4 Aadhar Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_ADDRESSPROOF_ADDRESSPROOF_DESCRIPTION_NOTE",
-      "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_ADDRESSPROOF_DL_LABEL",
-      "message": "2 Driving License",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_ADDRESSPROOF_ELECTRICITYBILL_LABEL",
-      "message": "1 Electricity Bill",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_ADDRESSPROOF_HEADING",
-      "message": "Proof of Address (Any 1)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_ADDRESSPROOF_IDENTITYPROOF_DESCRIPTION_NOTE",
-      "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_ADDRESSPROOF_PAN_LABEL",
-      "message": "5 Pan Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_ADDRESSPROOF_PASSPORT_LABEL",
-      "message": "6 Passport",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_ADDRESSPROOF_VOTERID_LABEL",
-      "message": "3 Voter ID Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_CHECK_LIST_FIRE_SAFETY_LABEL",
-      "message": "1 Fire and Safety Checklist",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_CHECK_LIST_HEADING",
-      "message": "Owners Checklist",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_CHECK_LIST_PROVISIONAL_COPY_LABEL",
-      "message": "2 Copy of Provisional for NoC (if applying for New)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_IDENTITYPROOF_AADHAAR_LABEL",
-      "message": "1 Aadhar card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_IDENTITYPROOF_DRIVING_LABEL",
-      "message": "3 Driving License",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_IDENTITYPROOF_HEADING",
-      "message": "Proof of Identity (Any 1)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_IDENTITYPROOF_PAN_LABEL",
-      "message": "4 Pan Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_IDENTITYPROOF_PASSPORT_LABEL",
-      "message": "5 Passport",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_OWNER_IDENTITYPROOF_VOTERID_LABEL",
-      "message": "2 Voter ID Card",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PAYMENT_ADD_RBT_PEN",
-      "message": "Add rebate/penalty",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PMT_RCPT_NO",
-      "message": "Payment Receipt No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_CITY_LABEL",
-      "message": "City",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_CITY_PLACEHOLDER",
-      "message": "Select City",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_ACCOMODATION_CAPACITY_(NO_OF_PEOPLE)_LABEL",
-      "message": "Accomodation Capacity",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_ACCOMODATION_CAPACITY_(NO_OF_PEOPLE)_PLACEHOLDER",
-      "message": "Enter Accomodation Capacity",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_ADD_BUILDING_LABEL",
-      "message": "ADD BUILDING",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_BLDG_NAME_LABEL",
-      "message": "Building/Colony Name",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_BLDG_NAME_PLACEHOLDER",
-      "message": "Enter Building/Colony Name",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_BUILDING_USAGE_SUBTYPE_LABEL",
-      "message": "Building Usage Subtype as per NBC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_BUILDING_USAGE_SUBTYPE_PLACEHOLDER",
-      "message": "Select Building Usage Subtype",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_BUILDING_USAGE_TYPE_LABEL",
-      "message": "Building Usage Type as per NBC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_BUILDING_USAGE_TYPE_PLACEHOLDER",
-      "message": "Select Building Usage Type",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_BUILTUP_AREA_LABEL",
-      "message": "Ground floor builtup area(in sq. meter)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_BUILTUP_AREA_PLACEHOLDER",
-      "message": "Enter Ground floor builtup area(in sq. meter)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_FIRESTATION_LABEL",
-      "message": "Applicable Fire Station",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_FIRESTATION_PLACEHOLDER",
-      "message": "Enter Applicable Fire Station",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_GIS_CORD_LABEL",
-      "message": "Locate on Map",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_GIS_CORD_PLACEHOLDER",
-      "message": "Select your property location on map",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_GROUND_FLOOR_BUILTUP_AREA_LABEL",
-      "message": "Ground Floor Builtup Area (in Sq meters)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_GROUND_FLOOR_BUILTUP_AREA_PLACEHOLDER",
-      "message": "Enter Ground Floor Builtup Area in Sq meters",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_HEIGHT_OF_BUILDING_LABEL",
-      "message": "Height of the Building from Ground level (in meters)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_HEIGHT_OF_BUILDING_PLACEHOLDER",
-      "message": "Enter Height of the Building in meters",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_MOHALLA_LABEL",
-      "message": "Mohalla",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_MOHALLA_PLACEHOLDER",
-      "message": "Enter Mohalla",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_NAME_OF_BUILDING_LABEL",
-      "message": "Name of the Building",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_NAME_OF_BUILDING_PLACEHOLDER",
-      "message": "Enter Name of the Building",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_NO_OF_BASEMENTS_PLACEHOLDER",
-      "message": "Select No. Of Basements",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_NO_OF_BEDS_LABEL",
-      "message": "No. of Beds",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_NO_OF_BEDS_PLACEHOLDER",
-      "message": "Enter No. of Beds",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_NO_OF_FLOORS_PLACEHOLDER",
-      "message": "Select No. of Floors",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_NO_OF_STUDENTS_LABEL",
-      "message": "No. of Students",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_NO_OF_STUDENTS_PLACEHOLDER",
-      "message": "Enter No. of Students",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_PIN_LABEL",
-      "message": "Pincode",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_PIN_PLACEHOLDER",
-      "message": "Enter Pincode",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_PLOT_SIZE_LABEL",
-      "message": "Plot Size (in Sq meters)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_PLOT_SIZE_PLACEHOLDER",
-      "message": "Enter Plot Size (in Sq meters)",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_SEATING_CAPACITY_LABEL",
-      "message": "Seating Capacity",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_SEATING_CAPACITY_PLACEHOLDER",
-      "message": "Enter Seating Capacity",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_SRT_NAME_LABEL",
-      "message": "Street Name",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_DETAILS_SRT_NAME_PLACEHOLDER",
-      "message": "Enter Street Name",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_ID_LABEL",
-      "message": "Property ID",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_ID_PLACEHOLDER",
-      "message": "Enter Property ID",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_LOCATION_DETAILS_HEADER",
-      "message": "Property Location Details",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_PLOT_NO_LABEL",
-      "message": "Plot/Survey No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_PLOT_NO_PLACEHOLDER",
-      "message": "Enter Plot/Survey No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROPERTY_TYPE_LABEL",
-      "message": "Property Type",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROVISIONAL_FIRE_NOC_NO_LABEL",
-      "message": "Provisional fire NoC number",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_PROVISIONAL_FIRE_NOC_NO_PLACEHOLDER",
-      "message": "Enter Provisional fire NoC number",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_REBATE_ADDITIONAL_AMOUNT_CAHNGED",
-      "message": "Additional amount charged from citizen",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_REBATE_ADVANCED_PAID",
-      "message": "Advance paid by citizen earlier",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_REBATE_BY_COMMISSIONER",
-      "message": "Rebate provided by commissioner earlier",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_RECEIPT",
-      "message": "Payment Receipt",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_REFER_OPINION_BUTTON_LABEL",
-      "message": "REFER FOR OPINION",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_REFER_OPINION_HEADER",
-      "message": "Refer For opinion",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_REFER_SUCCESS_MESSAGE_MAIN",
-      "message": "Application referred Successfully",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_REJECTED",
-      "message": "Rejected",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_REQ_DOCS_HEADER",
-      "message": "Required Documents-Fire NOC",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_SEARCH_SELECT_AT_LEAST_ONE_TOAST_MESSAGE",
-      "message": "Please fill at least one field to start search",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_SELECT_DOC_DD_LABEL",
-      "message": "Select Documents",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_SPECIAL_APPLICANT_CATEGORY_LABEL",
-      "message": "Special Applicant Category",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_SPECIAL_APPLICANT_CATEGORY_PLACEHOLDER",
-      "message": "Select Special Applicant Category",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_STATUS_COMMENTS",
-      "message": "Comments",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_STATUS_DATE_LABEL",
-      "message": "Date",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_SUMMARY_DOCUMENTS_HEADER",
-      "message": "Documents",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_SUMMARY_HEADER",
-      "message": "Fire NOC - Application Summary",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_SUMMARY_PROPERTY__LOCATION_DOOR_HOUSE_NO_LABEL",
-      "message": "Door/House No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_SUPPORTING_DOCUMENTS_LABEL",
-      "message": "Supporting Documents",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_TASK_STATUS_HEADER",
-      "message": "Task Status",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_TELEPHONE_NUMBER_LABEL",
-      "message": "Official Telephone No.",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_TO_DATE_LABEL",
-      "message": "To Date",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_TYPE_NEW_RADIOBUTTON",
-      "message": "New",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_TYPE_PROVISIONAL_RADIOBUTTON",
-      "message": "Provisional",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_UPDATER_NAME_LABEL",
-      "message": "Updated by",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_UPLOAD_BUTTON_LABEL",
-      "message": "UPLOAD FILES",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "NOC_VIEW_HISTORY",
-      "message": "VIEW HISTORY",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "OC_BUILDING_BUILDING_PLAN_GROUND_FLOOR_PLAN_LABEL",
-      "message": "2 Ground Floor Plan",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "OWNER",
-      "message": "Applicant",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "PROPERTY_DETAILS_HEADER",
-      "message": "Property Details",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.applicationstatusreport.appStatus",
-      "message": "Application Status",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.applicationstatusreport.fromDate",
-      "message": "From Date",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.applicationstatusreport.noofapplications",
-      "message": "Number of Application",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.applicationstatusreport.toDate",
-      "message": "To Date",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.applicationstatusreport.ulb",
-      "message": "ULB",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.channelsreport.applicationNo",
-      "message": "Number of Applications",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.channelsreport.channel",
-      "message": "Channels",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.channelsreport.fromDate",
-      "message": "From Date",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.channelsreport.percentage",
-      "message": "Percentage of Total Application",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.channelsreport.toDate",
-      "message": "To Date",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.channelsreport.ulb",
-      "message": "ULB",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.collectionreport.channel",
-      "message": "Collection Channel",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.collectionreport.fees_counter",
-      "message": "Fees Collected at ULB counter",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.collectionreport.fees_online",
-      "message": "Fees Collected online",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.collectionreport.fromDate",
-      "message": "From Date",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.collectionreport.paymentMode",
-      "message": "Payment Mode",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.collectionreport.toDate",
-      "message": "To Date",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.collectionreport.transactionNumber",
-      "message": "Total Transactions",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.collectionreport.ulb",
-      "message": "ULB",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "reports.noc.collectionreport.usagetype",
-      "message": "Building Usage Type",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_CANCEL_APPLICATION",
-      "message": "Cancel Application",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_EMPLOYEE_FIRENOC_APPROVE",
-      "message": "APPROVE",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_EMPLOYEE_FIRENOC_FORWARD",
-      "message": "FORWARD",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_EMPLOYEE_FIRENOC_PAY",
-      "message": "PAY",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_EMPLOYEE_FIRENOC_REFER",
-      "message": "REFER",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_EMPLOYEE_FIRENOC_REJECT",
-      "message": "REJECT",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_EMPLOYEE_FIRENOC_SENDBACK",
-      "message": "SENDBACK",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_APPROVED",
-      "message": "Approved",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_CANCEL",
-      "message": "Cancel",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_CANCELLED",
-      "message": "Cancelled",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_DOCUMENTVERIFY",
-      "message": "Pending for Document Verification",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_FIELDINSPECTION",
-      "message": "Pending for Field Inspection",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_FORWARD",
-      "message": "Verify and Forward",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_INITIATED",
-      "message": "Initiated",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_PAY",
-      "message": "Collect Payment",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_PENDINGAPPROVAL",
-      "message": "Pending for Approval",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_PENDINGPAYMENT",
-      "message": "Pending for Payment",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_REFER",
-      "message": "Refer for Opinion",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_REJECT",
-      "message": "Reject",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_REJECTED",
-      "message": "Rejected",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_FIRENOC_SENDBACK",
-      "message": "Send Back",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_NEWNOC_FIELDINSPECTION",
-      "message": "Pending for Field Inspection",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_NEWNOC_PAID",
-      "message": "Paid",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_NEWNOC_PENDINGAPPROVAL",
-      "message": "Pending for Approval",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_NEWNOC_PENDINGPAYMENT",
-      "message": "Pending payment",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    },
-    {
-      "code": "WF_PAYMENT_ADD_RBT_PEN",
-      "message": "Add rebate/penalty",
-      "locale": "en_IN",
-      "module": "rainmaker-noc"
-    }
-  ]
+  {
+    "code": "ACTION_TEST_APPLICATION_STATUS_REPORT",
+    "message": "Application Status Report",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_CHANNELS_REPORT",
+    "message": "Channels Report",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_COLLECTION_REPORT",
+    "message": "Collection Report",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_FIRENOC",
+    "message": "Fire Noc",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BUILDING_BUILDING_PLAN_BUILTUP_AREA_STATEMENT",
+    "message": "Builtup area statement",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BUILDING_BUILDING_PLAN_ELEVATION_PLAN",
+    "message": "Elevation plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BUILDING_BUILDING_PLAN_GROUND_FLOOR_PLAN",
+    "message": "Ground floor plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BUILDING_BUILDING_PLAN_SECTION_PLAN",
+    "message": "Section plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BUILDING_BUILDING_PLAN_SITE_PLAN",
+    "message": "Site plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BUILDING_FIRE_FIGHTING_PLAN",
+    "message": "Fire Fighting plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BUILDING_OWNERS_CHECKLIST",
+    "message": "Checklist",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON-MASTERS_APPLICANTSUBTYPE_LABEL",
+    "message": "Type of Applicant - Subtype",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON-MASTERS_APPLICANTSUBTYPE_PLACEHOLDER",
+    "message": "Select Applicant Subtype",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON-MASTERS_APPLICANTTYPE_LABEL",
+    "message": "Applicant Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON-MASTERS_APPLICANTTYPE_PLACEHOLDER",
+    "message": "Select Applicant Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_LANDING_PAGE_NOC_DESCRIPTION",
+    "message": "You can apply for Pre-construction (Provisional) and Post Construction (New) Fire NOC online and track status of your application.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EMPLOYEE_SUCCESS_FIRENOC_PAYMENT_MESSAGE",
+    "message": "Payment has been collected successfully!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EMPLOYEE_SUCCESS_FIRENOC_PAYMENT_MESSAGE_DETAIL",
+    "message": "A notification regarding Payment Collection has been sent to the registered Mobile No. of the user/owner.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EMPLOYEE_SUCCESS_FIRENOC_PAYMENT_RECEIPT_NO",
+    "message": "Payment Receipt No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_DEFAULT_INPUT_FIELD_MSG",
+    "message": "input field invalid",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_FILL_ALL_MANDATORY_FIELDS_APPLICANT_TOAST",
+    "message": "Please fill all mandatory fields for Applicant Details, then proceed!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_FILL_ALL_MANDATORY_FIELDS_PROPERTY_TOAST",
+    "message": "Please check the Missing/Invalid field for Property Details, then proceed!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_FILL_MULTIPLE_OWNER",
+    "message": "Please add all the owner details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_FIRENOC_FILL_VALID_FIELDS",
+    "message": "Please fill valid fields to search",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_FIRENOC_NUMBER_INCORRECT",
+    "message": "Provisional Fire NOC Number not found in the system",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_MOBILE_NUMBER_INCORRECT",
+    "message": "Provided mobile number not found in the system, Please fill all details manually",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_MOBILE_NUMBER_NOT_REGISTERED",
+    "message": "This mobile number is not registered!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_OWNER_ALREADY_ADDED_1",
+    "message": "Owner already added!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_OWNER_ALREADY_ADDED_TOGGLE_MSG",
+    "message": "Owner has been added already!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ERR_UPLOAD_MANDATORY_DOCUMENTS_TOAST",
+    "message": "Please fill all mandatory fields and upload the documents!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_ADHOC_PENALTY",
+    "message": "Adhoc Penalty",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_ADHOC_REBATE",
+    "message": "Adhoc Rebate",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGSUBUSAGETYPE_LABEL",
+    "message": "Building Usage Subtype as per NBC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGSUBUSAGETYPE_PLACEHOLDER",
+    "message": "Select Building Usage Subtype",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL",
+    "message": "Group A Residential",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_1",
+    "message": "Subdivision A-1 Lodging and rooming houses",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_2",
+    "message": "Subdivision A-2 One or two family private dwellings",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_3",
+    "message": "Subdivision A-3 Dormitories",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_4",
+    "message": "Subdivision A-4 Apartment houses",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_5",
+    "message": "Subdivision A-5 Hotels",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_A_RESIDENTIAL_SUBDIVISIONA_6",
+    "message": "Subdivision A-6 Starred hotels",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_B_EDUCATIONAL",
+    "message": "Group B Educational",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_B_EDUCATIONAL_SUBDIVISIONB_1",
+    "message": "Subdivision B-1 Schools up to senior secondary level",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_B_EDUCATIONAL_SUBDIVISIONB_2",
+    "message": "Subdivision B-2 All others/training institutions",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_C_INSTITUTIONAL",
+    "message": "Group C Institutional",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_1",
+    "message": "Subdivision C-1 Hospitals and sanatoria",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_2",
+    "message": "Subdivision C-2 Custodial institutions",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_3",
+    "message": "Subdivision C-3 Penal and mental institutions",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY",
+    "message": "Group D Assembly",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_1",
+    "message": "Subdivision D-1 Buildings having a theatrical or motion picture or any other stage and fixed seats for over 1 000 persons",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_2",
+    "message": "Subdivision D-2 Buildings having a theatrical or motion picture or any other stage and fixed seats up to 1 000 persons",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_3",
+    "message": "Subdivision D-3 Buildings without a permanent stage having accommodation for 300 or more persons but no permanent seating arrangement",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_4",
+    "message": "Subdivision D-4 Buildings without a permanent stage having accommodation for less than 300 persons with no permanent seating arrangement",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_5",
+    "message": "Subdivision D-5 All other structures including temporary structures designed for assembly of people not covered by Subdivisions D-1 to D-4, at ground level",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_6",
+    "message": "Subdivision D-6 Buildings having mixed occupancies of assembly and mercantile (for example, shopping malls providing facilities such as shopping, cinema theatres, multiplexes and restaurants/food courts)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_D_ASSEMBLY_SUBDIVISIOND_7",
+    "message": "Subdivision D-7 Underground and elevated mass rapid transit system",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS",
+    "message": "Group E Business",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_1",
+    "message": "Subdivision E-1 Offices, banks, professional establishments, like offices of architects, engineers, doctors, lawyers, post offices and police stations",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_2",
+    "message": "Subdivision E-2 Laboratories, outpatient clinics, research establishments, libraries and test houses",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_3",
+    "message": "Subdivision E-3 Electronic data processing centres, computer installations, information technology parks and call centres",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_4",
+    "message": "Subdivision E-4 Telephone exchanges",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_E_BUSINESS_SUBDIVISIONE_5",
+    "message": "Subdivision E-5 Broadcasting stations, T.V. stations and air traffic control towers",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_F_MERCANTILE",
+    "message": "Group F Mercantile",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_F_MERCANTILE_SUBDIVISIONF_1",
+    "message": "Subdivision F-1 Shops, stores, departmental stores, markets (any with covered area up to 500 m2 )",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_F_MERCANTILE_SUBDIVISIONF_2",
+    "message": "Subdivision F-2 Shops, stores, departmental stores, markets (any with covered area more than 500 m2 )",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_F_MERCANTILE_SUBDIVISIONF_3",
+    "message": "Subdivision F-3 Underground shopping centres",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_G_INDUSTRIAL",
+    "message": "Group G Industrial",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_G_INDUSTRIAL_SUBDIVISIONG_1",
+    "message": "Subdivision G-1 Buildings used for low hazard industries",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_G_INDUSTRIAL_SUBDIVISIONG_2",
+    "message": "Subdivision G-2 Buildings used for moderate hazard industries",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_G_INDUSTRIAL_SUBDIVISIONG_3",
+    "message": "Subdivision G-3 Buildings used for high hazard industries",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_H_STORAGE",
+    "message": "Group H Storage",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_H_STORAGE_GROUP_H_STORAGE",
+    "message": "NA",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_J_HAZARDOUS",
+    "message": "Group J Hazardous",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGTYPE_GROUP_J_HAZARDOUS_GROUP_J_HAZARDOUS",
+    "message": "NA",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGUSAGETYPE_LABEL",
+    "message": "Building Usage Type as per NBC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDINGUSAGETYPE_PLACEHOLDER",
+    "message": "Select Building Usage Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_BUILDING_PLAN_BUILDING_PLAN_DESCRIPTION_NOTE",
+    "message": "* In case of multiple buildings please provide Building plans for all buildings",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_BUILDING_PLAN_BUILTUP_AREA_STATEMENT_LABEL",
+    "message": "5  Built-up Area Statement",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_BUILDING_PLAN_ELEVATION_PLAN_LABEL",
+    "message": "4  Elevation Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_BUILDING_PLAN_GROUND_FLOOR_PLAN_LABEL",
+    "message": "2  Ground Floor Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_BUILDING_PLAN_HEADING",
+    "message": "Building Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_BUILDING_PLAN_SECTION_PLAN_LABEL",
+    "message": "3  Section Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_BUILDING_PLAN_SITE_PLAN_LABEL",
+    "message": "1  Site Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_FIRE_FIGHTING_PLAN_FIRE_FIGHTING_PLAN_DESCRIPTION_NOTE",
+    "message": "* In case of multiple buildings please provide Building plans for all buildings",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_FIRE_FIGHTING_PLAN_HEADING",
+    "message": "Fire-Fighting Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_FIRE_FIGHTING_PLAN_SD_FIRE_DETECTING_SYSTEM_LABEL",
+    "message": "2  Schematic drawing of fire detecting system",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_FIRE_FIGHTING_PLAN_SD_FIRE_FIGHTING_SYSTEM_LABEL",
+    "message": "1  Schematic drawing of fire fighting system",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_OWNERS_CHECKLIST_COPY_PROVISIONAL_NOC_LABEL",
+    "message": "2 Copy of Provisional for NoC (if applying for New)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_OWNERS_CHECKLIST_FLS_CHECKLIST_LABEL",
+    "message": "1  Fire and life safety checklist",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_BUILDING_OWNERS_CHECKLIST_HEADING",
+    "message": "Owners Checklist",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_COMMON_BUTTON_APPLY",
+    "message": "Apply",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_COMMON_BUTTON_PRINT",
+    "message": "Print",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_FEES",
+    "message": "NOC Fees",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_FIRESTATIONS_FS_AMRITSAR_01",
+    "message": "Amritsar Firestation",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_FIRESTATIONS_FS_JALANDHAR_01",
+    "message": "Jalandhar Firestation",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_FIRESTATIONS_FS_MOHALI_01",
+    "message": "Mohali Firestation",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_ADDRESSPROOF_AADHAAR_LABEL",
+    "message": "4 Aadhar Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_ADDRESSPROOF_ADDRESSPROOF_DESCRIPTION_NOTE",
+    "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_ADDRESSPROOF_DL_LABEL",
+    "message": "2 Driving License",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_ADDRESSPROOF_ELECTRICITYBILL_LABEL",
+    "message": "1 Electricity Bill",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_ADDRESSPROOF_HEADING",
+    "message": "Proof of Address (Any 1)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_ADDRESSPROOF_IDENTITYPROOF_DESCRIPTION_NOTE",
+    "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_ADDRESSPROOF_PAN_LABEL",
+    "message": "5 Pan Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_ADDRESSPROOF_PASSPORT_LABEL",
+    "message": "6 Passport",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_ADDRESSPROOF_VOTERID_LABEL",
+    "message": "3  Voter ID Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_IDENTITYPROOF_AADHAAR_LABEL",
+    "message": "1 Aadhar card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_IDENTITYPROOF_DRIVING_LABEL",
+    "message": "3 Driving License",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_IDENTITYPROOF_HEADING",
+    "message": "Proof of Identity (Any 1)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_IDENTITYPROOF_PAN_LABEL",
+    "message": "4 Pan Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_IDENTITYPROOF_PASSPORT_LABEL",
+    "message": "5 Passport",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_IDENTITYPROOF_VOTERID_LABEL",
+    "message": "2 Voter ID Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_REQ_DOCS_HEADER",
+    "message": "Required Documents-Fire NOC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_ROUNDOFF",
+    "message": "Round off Amount",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_TAXES",
+    "message": "Taxes",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPLICATION_FORWARD_SUCCESS",
+    "message": "Application has been forwarded successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPLICATION_MARKED_SUCCESS",
+    "message": "Application has been marked successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPLICATION_REFER_SUCCESS",
+    "message": "Application has been referred successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPLICATION_SENDBACK_SUCCESS",
+    "message": "Application has been sent back successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPLICATION_SUCCESS_MESSAGE_MAIN",
+    "message": "Application Submitted Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPLICATION_SUCCESS_MESSAGE_SUB",
+    "message": "A notification regarding application submission has been sent to the applicant at registered mobile no.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPROVAL_CHECKLIST_MESSAGE_HEAD",
+    "message": "Fire NOC Approved Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPROVAL_CHECKLIST_MESSAGE_SUB",
+    "message": "A notification regarding Fire NOC Approval has been sent to building owner at registered Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPROVAL_REJ_MESSAGE_HEAD",
+    "message": "Fire NOC Application Rejected",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_APPROVAL_REJ_MESSAGE_SUBHEAD",
+    "message": "A notification regarding Fire NOC Rejection has been sent to building owner at registered Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_CANCELLED_MESSAGE_HEAD",
+    "message": "Fire NOC Cancelled",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_CANCELLED_MESSAGE_SUBHEAD",
+    "message": "A notification regarding Fire NOC cancellation has been sent to building owner at registered Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_COMMON_APPLY_HEADER_LABEL",
+    "message": "Application for Fire NOC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_FORWARD_SUCCESS_MESSAGE_MAIN",
+    "message": "Application Forwarded Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_HOME_SEARCH_RESULTS_APP_NO_LABEL",
+    "message": "Application No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_HOME_SEARCH_RESULTS_NOC_NO_LABEL",
+    "message": "Fire NOC No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_HOME_SEARCH_RESULTS_NO_LABEL",
+    "message": "Fire NOC No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_MARK_SUCCESS_MESSAGE_MAIN",
+    "message": "Application Marked Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_PAYMENT_COLLECTION_SUCCESS_MESSAGE_MAIN",
+    "message": "Payment has been collected successfully!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_PAYMENT_FAILURE_MESSAGE_MAIN",
+    "message": "Payment has failed!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_PAYMENT_FAILURE_MESSAGE_SUB",
+    "message": "A notification regarding payment failure has been sent to the building owner and applicant.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_PAYMENT_SUCCESS_MESSAGE_SUB",
+    "message": "A notification regarding Payment Collection has been sent to building owner at registered Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_PMT_RCPT_NO",
+    "message": "Payment Receipt No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_REFER_SUCCESS_MESSAGE_MAIN",
+    "message": "Application referred Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRE_NOC_SENDBACK_SUCCESS_MESSAGE_MAIN",
+    "message": "Application sent back Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "Fire_NOC_CANCELLED_MESSAGE_HEAD",
+    "message": "Fire NOC Cancelled",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "Fire_NOC_CANCELLED_MESSAGE_SUBHEAD",
+    "message": "A notification regarding Fire NOC cancellation has been sent to building owner at registered Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADDRESS_PROOF_NOTE",
+    "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_APPLICANT_LABEL",
+    "message": "Add Applicant",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_BUTTON_ADD",
+    "message": "Add",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_BUTTON_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_COMMENT_LABEL",
+    "message": "Enter Comments",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_HEAD",
+    "message": "Add Adhoc Composition Fee/Penalty/Rebate",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_PEN_AMT_LABEL",
+    "message": "Adhoc Penalty Amount",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_PEN_AMT_PLACEHOLDER",
+    "message": "Adhoc Penalty Amount",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_RBT_AMT_LABEL",
+    "message": "Adhoc Rebate",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_RBT_AMT_PLACEHOLDER",
+    "message": "Adhoc Rebate Amount",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_SUB_FIRST",
+    "message": "Adhoc Penalty",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADD_HOC_CHARGES_POPUP_SUB_SEC",
+    "message": "Adhoc Rebate",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADHOC_MISCALCULATION",
+    "message": "Miscalculation of earlier assessment",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADHOC_ONE_TIME_PENALTY",
+    "message": "One time penalty",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADHOC_OTHER",
+    "message": "Others",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ADHOC_PENDING_DUES",
+    "message": "Pending dues from earlier",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_CORRESPONDENCE_ADDRESS_LABEL",
+    "message": "Correspondence Address",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
+    "message": "Enter Correspondence Address",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_DETAILS_HEADER",
+    "message": "Applicant Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_FATHER_HUSBAND_NAME_LABEL",
+    "message": "Father/Husband's Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_FATHER_HUSBAND_NAME_PLACEHOLDER",
+    "message": "Enter Father/Husband's Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_INFORMATION_SUBHEADER",
+    "message": "Applicant Information",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_MOBILE_NO_TOOLTIP_MESSAGE",
+    "message": "Please search profile linked to the mobile no.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_PAN_LABEL",
+    "message": "PAN No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_RELATIONSHIP_FATHER_RADIOBUTTON",
+    "message": "Father",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_RELATIONSHIP_HUSBAND_RADIOBUTTON",
+    "message": "Husband",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_RELATIONSHIP_LABEL",
+    "message": "Relationship",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_SUBTYPE_LABEL",
+    "message": "Type of Applicant - Subtype",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_SUBTYPE_PLACEHOLDER",
+    "message": "Select Applicant Subtype",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_TYPE_LABEL",
+    "message": "Applicant Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICANT_TYPE_PLACEHOLDER",
+    "message": "Select Applicant Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICATION",
+    "message": "Application Confirmation Form",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICATION_FORWARD_SUCCESS",
+    "message": "Application has been forwarded successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICATION_MARKED_SUCCESS",
+    "message": "Application has been marked successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICATION_NOC_LABEL",
+    "message": "Application status",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICATION_PLACEHOLDER",
+    "message": "Select Application Status",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICATION_REFER_SUCCESS",
+    "message": "Application has been referred successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICATION_SUCCESS_MESSAGE_MAIN",
+    "message": "Application Submitted Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLICATION_SUCCESS_MESSAGE_SUB",
+    "message": "A notification regarding application submission has been sent to the applicant at registered mobile no.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLIED",
+    "message": "Applied",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPLY",
+    "message": "Apply",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPROVAL_CHECKLIST_BUTTON_DOWN_LIC",
+    "message": "DOWNLOAD FIRE-NOC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPROVAL_CHECKLIST_MESSAGE_HEAD",
+    "message": "Fire NOC Approved Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPROVAL_CHECKLIST_MESSAGE_SUB",
+    "message": "A notification regarding Fire NOC Approval has been sent to building owner at registered Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPROVAL_CHECKLIST_PRINT_LIC",
+    "message": "PRINT FIRE-NOC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPROVAL_REJ_MESSAGE_HEAD",
+    "message": "Fire NOC Application Rejected",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPROVAL_REJ_MESSAGE_SUBHEAD",
+    "message": "A notification regarding Fire NOC Rejection has been sent to building owner at registered Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_APPROVED",
+    "message": "Approved",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_PERSON_EMAIL_LABEL",
+    "message": "Email of Authorized Person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_PERSON_EMAIL_PLACEHOLDER",
+    "message": "Enter Email of Authorized Person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_PERSON_LABEL",
+    "message": "Name of Authorized Person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_PERSON_MOBILE_LABEL",
+    "message": "Mobile No. of Authorized Person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_PERSON_MOBILE_PLACEHOLDER",
+    "message": "Enter Mobile No. of Authorized Person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_PERSON_NAME_LABEL",
+    "message": "Authorized Person Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_REFER_PERSON_COMMENTS_LABEL",
+    "message": "Comments",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_REFER_PERSON_COMMENTS_PLACEHOLDER",
+    "message": "Enter Comments",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_REFER_PERSON_PLACEHOLDER",
+    "message": "Select Name of Employee",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AUTHORIZED_REFER_PERSON__LABEL",
+    "message": "Refer To",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_BUILDING_PLAN_BUILDING_PLAN_DESCRIPTION_NOTE",
+    "message": "* In case of multiple buildings please provide Building plans for all buildings",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_BUILDING_PLAN_BUILTUP_AREA_STATEMENT_LABEL",
+    "message": "5  Built-up Area Statement",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_BUILDING_PLAN_ELEVATION_PLAN_LABEL",
+    "message": "4  Elevation Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_BUILDING_PLAN_GROUND_FLOOR_PLAN_LABEL",
+    "message": "2 Ground Floor Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_BUILDING_PLAN_HEADING",
+    "message": "Building Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_BUILDING_PLAN_SECTION_PLAN_LABEL",
+    "message": "3  Section Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_BUILDING_PLAN_SITE_PLAN_LABEL",
+    "message": "1  Site Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_BUILTUP_AREA_LABEL",
+    "message": "5  Built-up Area Statement",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_FIRE_FIGHTING_PLAN_FIRE_FIGHTING_PLAN_DESCRIPTION_NOTE",
+    "message": "* In case of multiple buildings please provide Building plans for all buildings",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_FIRE_FIGHTING_PLAN_HEADING",
+    "message": "Fire-Fighting Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_FIRE_FIGHTING_PLAN_SD_FIRE_DETECTING_SYSTEM_LABEL",
+    "message": "2  Schematic drawing of fire detecting system",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_FIRE_FIGHTING_PLAN_SD_FIRE_FIGHTING_SYSTEM_LABEL",
+    "message": "1  Schematic drawing of fire fighting system",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_OWNERS_CHECKLIST_COPY_PROVISIONAL_NOC_LABEL",
+    "message": "2   Copy of Provisional for NoC (if applying for New)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_OWNERS_CHECKLIST_FLS_CHECKLIST_LABEL",
+    "message": "1  Fire and life safety checklist",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_OWNERS_CHECKLIST_HEADING",
+    "message": "Owners Checklist",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_PLAN_ELEVATION_PLAN_LABEL",
+    "message": "4  Elevation Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_PLAN_GROUND_FLOOR_PLAN_LABEL",
+    "message": "2  Ground Floor Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_PLAN_HEADING",
+    "message": "Building Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_PLAN_NOTE",
+    "message": "* In case of multiple buildings please provide building plans for all buildings",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_PLAN_SECTION_PLAN_LABEL",
+    "message": "3  Section Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_BUILDING_PLAN_SITE_PLAN_LABEL",
+    "message": "1  Site Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_CANCELLED",
+    "message": "Cancelled",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_CERTIFICATE",
+    "message": "NOC Certificate",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_APPLICANT_DETAILS",
+    "message": "Applicant Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_APPLY_FIRE_NOC_HEADER_LABEL",
+    "message": "Application for Fire NOC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_APPLY_NOC",
+    "message": "Application for Fire NOC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_BUTTON_APPLY",
+    "message": "Apply",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_BUTTON_CITIZEN_MAKE_PAYMENT",
+    "message": "Make Payment",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_BUTTON_MAKE_PAYMENT",
+    "message": "MAKE PAYMENT",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_BUTTON_NXT_STEP",
+    "message": "Next Step",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_BUTTON_PREV_STEP",
+    "message": "Previous Step",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_BUTTON_PRINT",
+    "message": "Print",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_BUTTON_SUBMIT",
+    "message": "Submit",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_DOCUMENTS",
+    "message": "Documents",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_NOC",
+    "message": "Fire NOC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_NOC_DETAILS",
+    "message": "NOC Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_NOT_PAID",
+    "message": "Not Paid",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_PAID_SUCCESS",
+    "message": "Paid Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_PROPERTY_DETAILS",
+    "message": "Property Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_TABLE_COL_APP_DATE_LABEL",
+    "message": "Application Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_TABLE_COL_APP_NO_LABEL",
+    "message": "Application No",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_TABLE_COL_BUILDING_NAME_LABEL",
+    "message": "Building Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_TABLE_COL_NOC_NO_LABEL",
+    "message": "NOC No",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_TABLE_COL_OWN_NAME_LABEL",
+    "message": "Applicant Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_COMMON_TABLE_COL_STATUS_LABEL",
+    "message": "Status",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_CONFIRMATION_BUTTON_DOWNLOAD_RECEIPT",
+    "message": "DOWNLOAD RECEIPT",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_CONFIRMATION_BUTTON_PRINT_RECEIPT",
+    "message": "PRINT RECEIPT",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_CURRENT_OWNER_LABEL",
+    "message": "Current Owner",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_CURRENT_STATUS_LABEL",
+    "message": "Status",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_DESIGNATION_LABEL",
+    "message": "Designation in Institute",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_DOCUMENTVERIFY",
+    "message": "Pending for Document Verification",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_DOCUMENT_DETAILS_BUTTON_UPLOAD_FILE",
+    "message": "UPLOAD FILE",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_DOCUMENT_DETAILS_HEADER",
+    "message": "Required Documents",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_DOCUMENT_DETAILS_SUBTEXT",
+    "message": "Only one file can be uploaded for one document. If multiple files need to be uploaded then please combine all files in a pdf and then upload",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ENTER_APPLICANT_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
+    "message": "Enter Applicant Correspondence Address",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ENTER_APPLICANT_PAN_PLACEHOLDER",
+    "message": "Enter Applicant's PAN No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ENTER_AUTHORIZED_PERSON_PLACEHOLDER",
+    "message": "Enter Name of Authorized Person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ENTER_INSTITUTION_DESIGNATION_PLACEHOLDER",
+    "message": "Enter designation of Institution",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ENTER_INSTITUTION_PLACEHOLDER",
+    "message": "Enter Name of Institution",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ENTER_OFFICIAL_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
+    "message": "Enter Official Correspondence Address",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ENTER_TELEPHONE_NUMBER_PLACEHOLDER",
+    "message": "Enter Official Telephone No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ESTIMATE_NOC_FEE",
+    "message": "NOC Fee",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ESTIMATE_PENALTY",
+    "message": "Penalty",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ESTIMATE_REABATE",
+    "message": "Rebate",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_FEE_ESTIMATE_HEADER",
+    "message": "Fee Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_FIREFIGHTING_SCHEMATIC_DETECTING_SYSTEM_LABEL",
+    "message": "2  Schematic drawing of fire detecting system",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_FIREFIGHTING_SCHEMATIC_LABEL",
+    "message": "1 Schematic drawing",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_FIRE_FIGHTING_PLAN_HEADING",
+    "message": "Fire-Fighting Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_FIRE_FIGHTING_PLAN_NOTE",
+    "message": "* In case of multiple buildings please provide building plans for all buildings",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_FORWARD_SUCCESS_MESSAGE_MAIN",
+    "message": "Application Forwarded Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_FROM_DATE_LABEL",
+    "message": "From Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_FROM_DATE_PLACEHOLDER",
+    "message": "From Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_GENDER_FEMALE_RADIOBUTTON",
+    "message": "Female",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_GENDER_LABEL",
+    "message": "Gender",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_GENDER_MALE_RADIOBUTTON",
+    "message": "Male",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_GENDER_TRANSGENDER_RADIOBUTTON",
+    "message": "Transgender",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESET_BUTTON",
+    "message": "Reset",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_APP_NO_LABEL",
+    "message": "Application No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_APP_NO_PLACEHOLDER",
+    "message": "Enter Application No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+    "message": "Search",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_DESC",
+    "message": "Provide at least one parameter to search for an application",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_HEADING",
+    "message": "Search Fire NOC Application",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_NOC_NO_LABEL",
+    "message": "Fire NOC No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_NOC_NO_PLACEHOLDER",
+    "message": "Enter NOC No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_OWN_MOB_LABEL",
+    "message": "Owner Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_OWN_MOB_PLACEHOLDER",
+    "message": "Enter your mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_HOME_SEARCH_RESULTS_TABLE_HEADING",
+    "message": "Search Results for NOC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_IDENTITY_PROOF_AADHAR_LABEL",
+    "message": "3  Aadhar card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_IDENTITY_PROOF_DRIVING_LIC_LABEL",
+    "message": "5 Driving License",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_IDENTITY_PROOF_ELECTRICITY_BILL_LABEL",
+    "message": "6 Electricity Bill",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_IDENTITY_PROOF_HEADING",
+    "message": "Proof of Identity (Any 1)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_IDENTITY_PROOF_NOTE",
+    "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_IDENTITY_PROOF_PAN_LABEL",
+    "message": "1 PAN Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_IDENTITY_PROOF_PASSPORT_LABEL",
+    "message": "2  Passport",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_IDENTITY_PROOF_VOTER_ID_LABEL",
+    "message": "4  Voter ID Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_INITIATED",
+    "message": "Initiated",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_INSTITUTION_DESIGNATION_LABEL",
+    "message": "Designation in Institution",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_INSTITUTION_DETAILS_HEADER",
+    "message": "Institution Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_INSTITUTION_LABEL",
+    "message": "Name of Institution",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_INSTITUTION_TYPE_LABEL",
+    "message": "Institution Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_MARK_SUCCESS_MESSAGE_MAIN",
+    "message": "Application Marked Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_MY_APPLICATIONS",
+    "message": "My Applications",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_MY_APPLICATIONS_HEADER",
+    "message": "My Applications",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NAME_OF_BUILDING_LABEL",
+    "message": "Name Of Building",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NAME_OF_INSTITUTION_LABEL",
+    "message": "Name of Institution",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NEW_NOC_DETAILS_HEADER",
+    "message": "NOC Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NOC_DETAILS_HEADER",
+    "message": "NOC Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NO_OF_BUILDINGS_LABEL",
+    "message": "No. of Buildings",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NO_OF_BUILDINGS_MULTIPLE_RADIOBUTTON",
+    "message": "Multiple Buildings",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NO_OF_BUILDINGS_SINGLE_RADIOBUTTON",
+    "message": "Single Building",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NO_OF_FLOORS_LABEL",
+    "message": "No. Of Floors",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OFFICIAL_CORRESPONDENCE_ADDRESS_LABEL",
+    "message": "Official Correspondence Address",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OFFICIAL_TELEPHONE_LABEL",
+    "message": "Official Telephone Number",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_ADDRESSPROOF_AADHAAR_LABEL",
+    "message": "4 Aadhar Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_ADDRESSPROOF_ADDRESSPROOF_DESCRIPTION_NOTE",
+    "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_ADDRESSPROOF_DL_LABEL",
+    "message": "2 Driving License",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_ADDRESSPROOF_ELECTRICITYBILL_LABEL",
+    "message": "1 Electricity Bill",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_ADDRESSPROOF_HEADING",
+    "message": "Proof of Address (Any 1)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_ADDRESSPROOF_IDENTITYPROOF_DESCRIPTION_NOTE",
+    "message": "* In case of multiple/institutional Applicant please provide ID of primary or authorized person",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_ADDRESSPROOF_PAN_LABEL",
+    "message": "5 Pan Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_ADDRESSPROOF_PASSPORT_LABEL",
+    "message": "6 Passport",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_ADDRESSPROOF_VOTERID_LABEL",
+    "message": "3  Voter ID Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_CHECK_LIST_FIRE_SAFETY_LABEL",
+    "message": "1 Fire and Safety Checklist",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_CHECK_LIST_HEADING",
+    "message": "Owners Checklist",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_CHECK_LIST_PROVISIONAL_COPY_LABEL",
+    "message": "2   Copy of Provisional for NoC (if applying for New)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_IDENTITYPROOF_AADHAAR_LABEL",
+    "message": "1 Aadhar card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_IDENTITYPROOF_DRIVING_LABEL",
+    "message": "3 Driving License",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_IDENTITYPROOF_HEADING",
+    "message": "Proof of Identity (Any 1)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_IDENTITYPROOF_PAN_LABEL",
+    "message": "4 Pan Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_IDENTITYPROOF_PASSPORT_LABEL",
+    "message": "5 Passport",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_OWNER_IDENTITYPROOF_VOTERID_LABEL",
+    "message": "2 Voter ID Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_ADD_RBT_PEN",
+    "message": "Add rebate/penalty",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_BANK_BRANCH_LABEL",
+    "message": "Bank Branch",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_BANK_BRANCH_PLACEHOLDER",
+    "message": "Enter bank branch",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_BANK_NAME_LABEL",
+    "message": "Bank Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_BANK_NAME_PLACEHOLDER",
+    "message": "Enter bank name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_CAP_PMT",
+    "message": "Capture Payment",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_CARD_LAST_DIGITS_LABEL",
+    "message": "Last 4 digits",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_CARD_LAST_DIGITS_LABEL_PLACEHOLDER",
+    "message": "Enter Last 4 digits of the card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_CHEQUE_DATE_LABEL",
+    "message": "Cheque Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_CHEQUE_DATE_PLACEHOLDER",
+    "message": "dd/mm/yy",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_CHQ_NO_LABEL",
+    "message": "Cheque No",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_CHQ_NO_PLACEHOLDER",
+    "message": "Enter Cheque  no.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_COLLECTION_SUCCESS_MESSAGE_MAIN",
+    "message": "Payment has been collected successfully!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_COLLECTION_SUCCESS_MESSAGE_MAINB",
+    "message": "A notification regarding Application Submission has been sent to building owner at registered Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_DD_DATE_LABEL",
+    "message": "DD Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_DD_DATE_PLACEHOLDER",
+    "message": "dd/mm/yy",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_DD_NO_LABEL",
+    "message": "DD No",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_DD_NO_PLACEHOLDER",
+    "message": "Enter DD  no.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_FAILURE_MESSAGE_MAIN",
+    "message": "Payment has failed!",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_FAILURE_MESSAGE_SUB",
+    "message": "A notification regarding payment failure has been sent to the building owner and applicant.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_HEAD",
+    "message": "Payment Collection Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_IFSC_CODE_LABEL",
+    "message": "IFSC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_IFSC_CODE_PLACEHOLDER",
+    "message": "Enter bank IFSC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_PAID_BY_LABEL",
+    "message": "Paid By",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_PAID_BY_PLACEHOLDER",
+    "message": "Paid By",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_PAYER_MOB_LABEL",
+    "message": "Payer Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_PAYER_MOB_PLACEHOLDER",
+    "message": "Enter Payer Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_PAYER_NAME_LABEL",
+    "message": "Payer Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_PAYER_NAME_PLACEHOLDER",
+    "message": "Enter Payer Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_PENALTY_REASON",
+    "message": "Adhoc Penalty Reason",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_PENALTY_REASON_SELECT",
+    "message": "Adhoc Penalty Reason",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_RCPT_DETAILS",
+    "message": "GEN/G8 Receipt Details (Optional)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_RCPT_NO_LABEL",
+    "message": "GEN/G8 Receipt No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_RCPT_NO_PLACEHOLDER",
+    "message": "Enter GEN/G8 Receipt No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_REBATE_REASON",
+    "message": "Adhoc Rebate Amount",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_REBATE_REASON_SELECT",
+    "message": "Adhoc Rebate Reason",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_RECEIPT_ISSUE_DATE_LABEL",
+    "message": "GEN/G8 Receipt Issue Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_RECEIPT_ISSUE_DATE_PLACEHOLDER",
+    "message": "dd/mm/yy",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_RENTR_TRANS_LABEL",
+    "message": "Re-Enter Transaction No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_RETRY",
+    "message": "RETRY",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_SUCCESS_MESSAGE_MAIN",
+    "message": "Thank you for making Payment",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_SUCCESS_MESSAGE_SUB",
+    "message": "A notification regarding Payment Collection has been sent to building owner at registered Mobile No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_TRANS_NO_LABEL",
+    "message": "Transaction No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PAYMENT_TRANS_NO_PLACEHOLDER",
+    "message": "Enter transaction no.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PMT_RCPT_NO",
+    "message": "Payment Receipt No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_CITY_LABEL",
+    "message": "City",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_CITY_PLACEHOLDER",
+    "message": "Select City",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_ACCOMODATION_CAPACITY_(NO_OF_PEOPLE)_LABEL",
+    "message": "Accomodation Capacity",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_ACCOMODATION_CAPACITY_(NO_OF_PEOPLE)_PLACEHOLDER",
+    "message": "Enter Accomodation Capacity",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_ADD_BUILDING_LABEL",
+    "message": "ADD BUILDING",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_BLDG_NAME_LABEL",
+    "message": "Building/Colony Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_BLDG_NAME_PLACEHOLDER",
+    "message": "Enter Building/Colony Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_BUILDING_USAGE_SUBTYPE_LABEL",
+    "message": "Building Usage Subtype as per NBC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_BUILDING_USAGE_SUBTYPE_PLACEHOLDER",
+    "message": "Select Building Usage Subtype",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_BUILDING_USAGE_TYPE_LABEL",
+    "message": "Building Usage Type as per NBC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_BUILDING_USAGE_TYPE_PLACEHOLDER",
+    "message": "Select Building Usage Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_BUILTUP_AREA_LABEL",
+    "message": "Ground floor builtup area(in sq. meter)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_BUILTUP_AREA_PLACEHOLDER",
+    "message": "Enter Ground floor builtup area(in sq. meter)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_FIRESTATION_LABEL",
+    "message": "Applicable Fire Station",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_FIRESTATION_PLACEHOLDER",
+    "message": "Enter Applicable Fire Station",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_GIS_CORD_LABEL",
+    "message": "Locate on Map",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_GIS_CORD_PLACEHOLDER",
+    "message": "Select your property location on map",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_GROUND_FLOOR_BUILTUP_AREA_LABEL",
+    "message": "Ground Floor Builtup Area (in Sq meters)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_GROUND_FLOOR_BUILTUP_AREA_PLACEHOLDER",
+    "message": "Enter Ground Floor Builtup Area in Sq meters",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_HEIGHT_OF_BUILDING_LABEL",
+    "message": "Height of the Building from Ground level (in meters)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_HEIGHT_OF_BUILDING_PLACEHOLDER",
+    "message": "Enter Height of the Building in meters",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_MOHALLA_LABEL",
+    "message": "Mohalla",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_MOHALLA_PLACEHOLDER",
+    "message": "Enter Mohalla",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NAME_OF_BUILDING_LABEL",
+    "message": "Name of the Building",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NAME_OF_BUILDING_PLACEHOLDER",
+    "message": "Enter Name of the Building",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NO_OF_BASEMENTS_LABEL",
+    "message": "No. Of Basements",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NO_OF_BASEMENTS_PLACEHOLDER",
+    "message": "Select No. Of Basements",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NO_OF_BEDS_LABEL",
+    "message": "No. of Beds",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NO_OF_BEDS_PLACEHOLDER",
+    "message": "Enter No. of Beds",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NO_OF_FLOORS_LABEL",
+    "message": "No. Of Floors (Excluding Basement, Including Ground Floor)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NO_OF_FLOORS_PLACEHOLDER",
+    "message": "Select No. of Floors",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NO_OF_STUDENTS_LABEL",
+    "message": "No. of Students",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_NO_OF_STUDENTS_PLACEHOLDER",
+    "message": "Enter No. of Students",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_PIN_LABEL",
+    "message": "Pincode",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_PIN_PLACEHOLDER",
+    "message": "Enter Pincode",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_PLOT_SIZE_LABEL",
+    "message": "Plot Size (in Sq meters)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_PLOT_SIZE_PLACEHOLDER",
+    "message": "Enter Plot Size (in Sq meters)",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_SEATING_CAPACITY_LABEL",
+    "message": "Seating Capacity",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_SEATING_CAPACITY_PLACEHOLDER",
+    "message": "Enter Seating Capacity",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_SRT_NAME_LABEL",
+    "message": "Street Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_DETAILS_SRT_NAME_PLACEHOLDER",
+    "message": "Enter Street Name",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_ID_LABEL",
+    "message": "Property ID",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_ID_PLACEHOLDER",
+    "message": "Enter Property ID",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_LOCATION_DETAILS_HEADER",
+    "message": "Property Location Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_PLOT_NO_LABEL",
+    "message": "Plot/Survey No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_PLOT_NO_PLACEHOLDER",
+    "message": "Enter Plot/Survey No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROPERTY_TYPE_LABEL",
+    "message": "Property Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROVISIONAL_FIRE_NOC_NO_LABEL",
+    "message": "Provisional fire NoC number",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_PROVISIONAL_FIRE_NOC_NO_PLACEHOLDER",
+    "message": "Enter Provisional fire NoC number",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_REBATE_ADDITIONAL_AMOUNT_CAHNGED",
+    "message": "Additional amount charged from citizen",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_REBATE_ADVANCED_PAID",
+    "message": "Advance paid by citizen earlier",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_REBATE_BY_COMMISSIONER",
+    "message": "Rebate provided by commissioner earlier",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_RECEIPT",
+    "message": "Payment Receipt",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_REFER_OPINION_BUTTON_LABEL",
+    "message": "REFER FOR OPINION",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_REFER_OPINION_HEADER",
+    "message": "Refer For opinion",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_REFER_SUCCESS_MESSAGE_MAIN",
+    "message": "Application referred Successfully",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_REJECTED",
+    "message": "Rejected",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_REQ_DOCS_HEADER",
+    "message": "Required Documents-Fire NOC",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SEARCH_SELECT_AT_LEAST_ONE_TOAST_MESSAGE",
+    "message": "Please fill at least one field to start search",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SELECT_DOC_DD_LABEL",
+    "message": "Select Documents",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SPECIAL_APPLICANT_CATEGORY_LABEL",
+    "message": "Special Applicant Category",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SPECIAL_APPLICANT_CATEGORY_PLACEHOLDER",
+    "message": "Select Special Applicant Category",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_STATUS_COMMENTS",
+    "message": "Comments",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_STATUS_DATE_LABEL",
+    "message": "Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SUMMARY_DOCUMENTS_HEADER",
+    "message": "Documents",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SUMMARY_DOCUMENTS_HEADER﻿",
+    "message": "Documents",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SUMMARY_EDIT",
+    "message": "Edit",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SUMMARY_FEE_EST",
+    "message": "Fee Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SUMMARY_HEADER",
+    "message": "Fire NOC - Application Summary",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SUMMARY_PROPERTY__LOCATION_DOOR_HOUSE_NO_LABEL",
+    "message": "Door/House No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_SUPPORTING_DOCUMENTS_LABEL",
+    "message": "Supporting Documents",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_TASK_STATUS_HEADER",
+    "message": "Task Status",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_TELEPHONE_NUMBER_LABEL",
+    "message": "Official Telephone No.",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_TO_DATE_LABEL",
+    "message": "To Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_TO_DATE_PLACEHOLDER",
+    "message": "To Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_TYPE_LABEL",
+    "message": "NOC Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_TYPE_NEW_RADIOBUTTON",
+    "message": "New",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_TYPE_PROVISIONAL_RADIOBUTTON",
+    "message": "Provisional",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_UPDATER_NAME_LABEL",
+    "message": "Updated by",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_UPLOAD_BUTTON_LABEL",
+    "message": "UPLOAD FILES",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_VIEW_HISTORY",
+    "message": "VIEW HISTORY",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OC_BUILDING_BUILDING_PLAN_GROUND_FLOOR_PLAN_LABEL",
+    "message": "2  Ground Floor Plan",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER",
+    "message": "Applicant",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROOF",
+    "message": "Address Proof",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROOF_AADHAAR",
+    "message": "Adhar Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROOF_DL",
+    "message": "Driving License",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROOF_ELECTRICITYBILL",
+    "message": "Electricity Bill",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROOF_PAN",
+    "message": "Pan Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROOF_PASSPORT",
+    "message": "Passport",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROOF_VOTERID",
+    "message": "VoterId",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_IDENTITYPROOF",
+    "message": "Identity proof",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_IDENTITYPROOF_AADHAAR",
+    "message": "Aadhar Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_IDENTITYPROOF_DRIVING",
+    "message": "Driving License",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_IDENTITYPROOF_PAN",
+    "message": "Pan Card",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_IDENTITYPROOF_PASSPORT",
+    "message": "Passport",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_IDENTITYPROOF_VOTERID",
+    "message": "VoterID",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTY_DETAILS_HEADER",
+    "message": "Property Details",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TL_COMMON_TABLE_COL_APP_NO",
+    "message": "Application No",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TL_COMMON_TOTAL_AMT",
+    "message": "Total Amount",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_CANCEL_APPLICATION",
+    "message": "Cancel Application",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_FIRENOC_APPROVE",
+    "message": "APPROVE",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_FIRENOC_FORWARD",
+    "message": "FORWARD",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_FIRENOC_PAY",
+    "message": "PAY",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_FIRENOC_REFER",
+    "message": "REFER",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_FIRENOC_REJECT",
+    "message": "REJECT",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_FIRENOC_SENDBACK",
+    "message": "SENDBACK",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_APPROVED",
+    "message": "Approved",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_CANCELLED",
+    "message": "Cancelled",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_DOCUMENTVERIFY",
+    "message": "Pending for Document Verification",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_FIELDINSPECTION",
+    "message": "Pending for Field Inspection",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_FORWARD",
+    "message": "Verify and Forward",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_INITIATED",
+    "message": "Initiated",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_PAY",
+    "message": "Collect Payment",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_PENDINGAPPROVAL",
+    "message": "Pending for Approval",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_PENDINGPAYMENT",
+    "message": "Pending for Payment",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_REFER",
+    "message": "Refer for Opinion",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_REJECT",
+    "message": "Reject",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_REJECTED",
+    "message": "Rejected",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_FIRENOC_SENDBACK",
+    "message": "Send Back",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_NEWNOC_FIELDINSPECTION",
+    "message": "Pending for Field Inspection",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_NEWNOC_PAID",
+    "message": "Paid",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_NEWNOC_PENDINGAPPROVAL",
+    "message": "Pending for Approval",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_NEWNOC_PENDINGPAYMENT",
+    "message": "Pending payment",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_PAYMENT_ADD_RBT_PEN",
+    "message": "Add rebate/penalty",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.applicationstatusreport.appStatus",
+    "message": "Application Status",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.applicationstatusreport.fromDate",
+    "message": "From Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.applicationstatusreport.noofapplications",
+    "message": "Number of Application",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.applicationstatusreport.toDate",
+    "message": "To Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.applicationstatusreport.ulb",
+    "message": "ULB",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.channelsreport.applicationNo",
+    "message": "Number of Applications",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.channelsreport.channel",
+    "message": "Channels",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.channelsreport.fromDate",
+    "message": "From Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.channelsreport.percentage",
+    "message": "Percentage of Total Application",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.channelsreport.toDate",
+    "message": "To Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.channelsreport.ulb",
+    "message": "ULB",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.collectionreport.channel",
+    "message": "Collection Channel",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.collectionreport.fees_counter",
+    "message": "Fees Collected at ULB counter",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.collectionreport.fees_online",
+    "message": "Fees Collected online",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.collectionreport.fromDate",
+    "message": "From Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.collectionreport.paymentMode",
+    "message": "Payment Mode",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.collectionreport.toDate",
+    "message": "To Date",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.collectionreport.transactionNumber",
+    "message": "Total Transactions",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.collectionreport.ulb",
+    "message": "ULB",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "reports.noc.collectionreport.usagetype",
+    "message": "Building Usage Type",
+    "module": "rainmaker-noc",
+    "locale": "en_IN"
+  }
+]
