@@ -7534,5 +7534,59 @@
     "message": "Dear {OWNER_NAME}, Your assessment with {ASSESSMENTNUMBER} for financial year {FINANCIALYEAR} and property id {PROPERTYID} is created. You can pay your Property Tax online here - {PAYMENT_LINK}",
     "module": "rainmaker-pt",
     "locale": "en_IN"
+  },
+   {
+    "code": "WF_PT.LEGACY_REJECT",
+    "message": "REJECT",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_PT.LEGACY_APPROVE",
+    "message": "APPROVE",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT.LEGACY_ENTRY",
+    "message": "Legacy Entry",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_LEGACY_DATA_ENTRY",
+    "message": "Legacy Data Entry",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_PT.LEGACY_APPROVALPENDING",
+    "message": "Pending for Approval",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_PT.LEGACY_REJECT",
+    "message": "REJECT",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_PT.LEGACY_APPROVE",
+    "message": "APPROVE",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_PT.LEGACY_REJECTED",
+    "message": "Rejected",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_PT.LEGACY_APPROVED",
+    "message": "Approved",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
   }
 ]
