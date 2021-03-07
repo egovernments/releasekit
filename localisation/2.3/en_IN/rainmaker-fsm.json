@@ -1,0 +1,3224 @@
+[
+    {
+        "code": "CITIZEN_FAILURE_COMMON_PAYMENT_MESSAGE",
+        "message": "Payment Failed",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_FSM_TRIP_CHARGES_PAYMENT_MESSAGE",
+        "message": "Payment Complete",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_FSM_TRIP_CHARGES_PAYMENT_MESSAGE_DETAIL",
+        "message": "Receipt No",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_MAHINDRA",
+        "message": "Mahindra",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_MAHINDRA.BOLERO_PICKUP",
+        "message": "Mahindra - Bolero Pickup",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_SONALIKA",
+        "message": "Sonalika Tractor 35DI",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_SONALIKA.TRACTOR_35DI",
+        "message": "Sonalika - Tractor 35DI",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TAFE",
+        "message": "TAFE",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TAFE.TRACTOR_45DI",
+        "message": "Tafe - Tractor 45DI",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TATA",
+        "message": "TATA",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TATA.407",
+        "message": "Tata - 407",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TATA.LPT709/34",
+        "message": "Tata - LPT709/34",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_DOOR_INVALID",
+        "message": "Invalid Door No",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_SKIP_CONTINUE",
+        "message": "Skip and Continue",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_STREET_INVALID",
+        "message": "Invalid Street Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ACTION_FSM_PAY",
+        "message": "Collect Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ACTION_FSM_SUBMIT",
+        "message": "Update Demand",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROPERTY_CITY_MOHALLA_TEXT",
+        "message": "Choose the locality/mohalla of the Property from the list given below.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROPERTY_LANDMARK",
+        "message": "Property's Location",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROPERTY_LOCATION",
+        "message": "Property's Location",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROVIDE_PROPERTY_ADDRESS",
+        "message": "Provide Property address",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROVIDE_PROPERTY_LANDMARK_TEXT",
+        "message": "Provide the landmark to help us reach the property location easily.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_SELECT_GEOLOCATION_HEADER",
+        "message": "Pin Property Location",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_SELECT_GEOLOCATION_TEXT",
+        "message": "Click and hold to drop the pin to property location. If you are not able to pin the location you can skip and continue for next step",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_AMOUNT_DUE",
+        "message": "Total Amount Due (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_AMOUNT_PER_TRIP",
+        "message": "Amount per Trip (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICANT_DETAILS",
+        "message": "Applicant Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICANT_MOBILE",
+        "message": "Mobile No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICANT_NAME",
+        "message": "Applicant Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_CHANNEL",
+        "message": "Channel",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_DATE",
+        "message": "Application Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_TIMELINE",
+        "message": "Application Timeline",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_TYPE",
+        "message": "Application Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_BUILDING",
+        "message": "Building No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_CITY",
+        "message": "City",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DESLUDGING_CHARGES",
+        "message": "Emptying of Septic Tank / Pit Charges",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DIMENSION",
+        "message": "Dimension",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DISTANCE_FROM_ROAD",
+        "message": "Distance from Road",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DOOR_NO",
+        "message": "Door No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DOOR_NO Landmark",
+        "message": "Door No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_LANDMARK",
+        "message": "Landmark",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_MAKE_PAYMENT",
+        "message": "Make Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_MOHALLA",
+        "message": "Locality/Mohalla",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_NO_OF_TRIPS",
+        "message": "No. of Trips",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PINCODE",
+        "message": "Pincode",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PIT_DETAILS",
+        "message": "Pit/Septic Tank Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PIT_SIZE",
+        "message": "Pit Size",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PIT_TYPE",
+        "message": "Pit Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PROPERTY_DETAILS",
+        "message": "Property Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PROPERTY_LOCATION_DETAILS",
+        "message": "Property Location Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PROPERTY_SUB_TYPE",
+        "message": "Property Sub Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PROPERTY_TYPE",
+        "message": "Property Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_RATE",
+        "message": "Citizen Rating",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_RATE_US",
+        "message": "Rate Us",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_SERVICE_CATEGORY",
+        "message": "Service Category",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_SLUM_NAME",
+        "message": "Slum Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_STATUS",
+        "message": "Status",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_STREET",
+        "message": "Street",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_TRIPS",
+        "message": "No. of Trips",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_FEEDBACK_FAILED",
+        "message": "Something went wrong",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_FEEDBACK_SUCCESS",
+        "message": "Thank You",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_TYPE_DESLUDGING",
+        "message": "Emptying of Septic Tank / Pit Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_ADDRESS",
+        "message": "Address",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_CHECK_YOUR_ANSWERS",
+        "message": "Check Your Answers",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_CHECK_YOUR_ANSWERS_TEXT",
+        "message": "If you want to modify any value, click on change in the respective step. It will redirect you to the concerned step where you can make your changes.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_INFO_APPLICATION",
+        "message": "Application process will take a minute to complete. It might cost around Rs.500-1000 for cleaning your septic tank and there are concessed rates for people living in slum areas",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_INFO_TEXT",
+        "message": "It will cost around Rs.250-500 for cleaning your septic tank. An SMS will be sent to your registered mobile number for the actual amount to be paid after submitting the application.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_INFO_TITLE",
+        "message": "Info",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_LANDMARK",
+        "message": "Landmark",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_PIT_SEPTIC_TANK_DETAILS",
+        "message": "Pit/Septic Tank Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_PIT_TYPE",
+        "message": "Pit Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_PROPERTY_DETAILS",
+        "message": "Property Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_PROPERTY_SUB_TYPE",
+        "message": "Property Sub-Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_PROPERTY_TYPE",
+        "message": "Property Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_SIZE",
+        "message": "Size",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_SLUM",
+        "message": "Slum Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CHECK_YOUR_ANSWERS_TEXT",
+        "message": "If you want to modify any value, click on change in the respective step.It will redirect you to the concerned step where you can mke your changes.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMIN_DECLINE",
+        "message": "Decline Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_APPLICATION_FILED",
+        "message": "Application Submitted",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_ASSIGN_VEHICLE",
+        "message": "Assign Vehicle",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_ASSING_DSO",
+        "message": "Pending for DSO Assignment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_BREADTH",
+        "message": "Breadth",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_CANCELED",
+        "message": "Canceled",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_CAPACITY_LTRS",
+        "message": "Ltrs",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_CHANGE",
+        "message": "CHANGE",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_CITIZEN_FEEDBACK_PENDING",
+        "message": "Pending for Citizen Feedback",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_COMPLETE",
+        "message": "Complete Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_COMPLETED",
+        "message": "Completed",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_CREATED",
+        "message": "Application Created",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_DECLINE",
+        "message": "Decline Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_DEPTH",
+        "message": "Depth",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_DIAMETER",
+        "message": "Diameter",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_DIAMETER x CS_COMMON_DEPTH",
+        "message": "Diameter x Depth",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_DOWNLOAD",
+        "message": "Download",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_DSO_INPROGRESS",
+        "message": "DSO Inprogress",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_DSO_REJECTED",
+        "message": "DSO Rejected",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ACCEPT",
+        "message": "Accept",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ADDITIONAL_PAY",
+        "message": "Pay Additional Fees",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ADDITIONAL_PAY_REQUEST",
+        "message": "Additional Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_APPLICATION_FILED",
+        "message": "Application Filed",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ASSIGN",
+        "message": "Assign DSO",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ASSING_DSO",
+        "message": "Pending for DSO Assignment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_CANCEL",
+        "message": "Cancel",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_CANCELED",
+        "message": "Cancelled",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_CITIZEN_FEEDBACK_PENDING",
+        "message": "Pending for Citizen Feedback",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_COMPLETED",
+        "message": "Completed Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_CREATED",
+        "message": "Application Created",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DECLINE",
+        "message": "Decline Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DSO_ACCEPT",
+        "message": "Assign Vehicle",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DSO_INPROGRESS",
+        "message": "DSO InProgress",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DSO_REJECT",
+        "message": "Decline Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DSO_REJECTED",
+        "message": "DSO Rejected",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_PAY",
+        "message": "Pay",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_PENDING_ADDITIONAL_PAYMENT",
+        "message": "Pending Additional Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_PENDING_APPL_FEE_PAYMENT",
+        "message": "Pending for Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_PENDING_DSO_APPROVAL",
+        "message": "Pending for DSO Approval",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_REJECTED",
+        "message": "Rejected",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_SENDBACK",
+        "message": "Send Back",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_SUBMIT",
+        "message": "Modify Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_LENGTH",
+        "message": "Length",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_LENGTH x CS_COMMON_BREADTH x CS_COMMON_DEPTH",
+        "message": "Length x Breadth x Depth",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_MYCITY_CODE_LABEL",
+        "message": "City",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_NEXT",
+        "message": "Next",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_NO",
+        "message": "NO",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_PENDING_ADDITIONAL_PAYMENT",
+        "message": "Pending Additional Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_PENDING_APPL_FEE_PAYMENT",
+        "message": "Pending for Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_PENDING_DSO_APPROVAL",
+        "message": "Pending DSO Approval",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_PIT_TYPE",
+        "message": "Pit Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_PRINT_RECEIPT",
+        "message": "Print Receipt",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_ROWS_PER_PAGE",
+        "message": "Rows per page",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_SUBMIT",
+        "message": "Submit",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_TRACK_APPLICATION_TEXT",
+        "message": "Application Submitted",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_VIEW",
+        "message": "View",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_YES",
+        "message": "YES",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FEEDBACK_OPERATORS_WERE_WITHOUT_SAFETY_GEARS",
+        "message": "Operators were without safety gears",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FEEDBACK_RESOLUTION_TIME_WAS_LONG",
+        "message": "Resolution time was long",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FEEDBACK_THERE_WAS_SPILLAGE",
+        "message": "There was spillage",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_INFO_LABEL",
+        "message": "Info",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_INFO_TEXT",
+        "message": "Application process will take a minute to complete. It might cost around Rs.{MINAMOUNT}-{MAXAMOUNT} for cleaning your septic tank and there are concessed rates for people living in slum areas",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PINCODE_LABEL",
+        "message": "Do you know the pincode ?",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PINCODE_TEXT",
+        "message": "If you know the pincode of the Property address, provide below. It will help us identify Property location easily or you can skip and continue",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PIT_SEPTIC_TANK_SIZE_TEXT",
+        "message": "Please provide Pit/Septic Tank size",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PIT_SEPTIC_TANK_SIZE_TITLE",
+        "message": "Pit/Septic Tank Size",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PIT_TYPE_LABEL",
+        "message": "Choose Pit Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LABEL",
+        "message": "Choose Property Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_ADDRESS_TEXT",
+        "message": "Provide Property address",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_CITY_MOHALLA_TEXT",
+        "message": "Choose the locality/mohalla of the Property from the list given below.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_DOOR_NO_LABEL",
+        "message": "Door No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LABEL",
+        "message": "Property's Location",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LANDMARK_LABEL",
+        "message": "Landmark",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_PROVIDE_LANDMARK_TEXT",
+        "message": "Provide the landmark to help us reach the property location easily.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_PROVIDE_LANDMARK_TITLE",
+        "message": "Provide Landmark",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_SLUM_LABEL",
+        "message": "Slum Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_STREET_DOOR_NO_LABEL",
+        "message": "Provide the Street Name and Door/House No",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_STREET_NAME_LABEL",
+        "message": "Street Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_SUBTYPE_LABEL",
+        "message": "Choose Property Sub-Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_SUBTYPE_TEXT",
+        "message": "The Property type you have chosen has following Property sub-types. Select the option of your choice from the list given below.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_TEXT",
+        "message": "Select the option related to your property from the list given below",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_COMPLAINT_PIT_TYPE_LABEL",
+        "message": "Pit Type *",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_DESLUDGING_APPLICATION_NO",
+        "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_DESLUDGING_APPLICATION_SUCCESS",
+        "message": "Application Submitted",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_DIAMETER",
+        "message": "Diameter (m)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_HEIGHT",
+        "message": "Depth (m)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_LENGTH",
+        "message": "Length (m)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_PINCODE_TEXT",
+        "message": "If you know the pincode of the Property address, provide below. It will help us identify Property location easily or you can skip and continue",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_PIT_TYPE",
+        "message": "Choose Pit Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_PIT_TYPE_TEXT",
+        "message": "Please select a Pit Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_PLACEHOLDER",
+        "message": "Choose Property Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_RESPONSE",
+        "message": "The notification along with the application number is sent to applicant's registered mobile number. Applicant can make payment later using track application link from home page once he/she recieve the message to make payment in his/her mobile phone.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_SUBTYPE_PLACEHOLDER",
+        "message": "Choose Property Sub-Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_SUBTYPE_TEXT",
+        "message": "The Property type you have chosen has following Property sub-types. Select the option of your choice from the list given below.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_TANKSIZE_PLACEHOLDER",
+        "message": "Pit/Septic Tank Size",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_TANKSIZE_TEXT",
+        "message": "Provide the dimension of Pit/Septic tank.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_TEXT",
+        "message": "Select the option related to your property from the list given below",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_WIDTH",
+        "message": "Breadth (m)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_APPLICATION_NO",
+        "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_CITY",
+        "message": "City",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_DATE",
+        "message": "Application Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_DETAIL_STATUS",
+        "message": "Status",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_DETAIL_TITLE_APPLICATION_DETAILS",
+        "message": "Application Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_MOHALLA",
+        "message": "Locality/Mohalla",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_PINCODE",
+        "message": "Pincode",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_PROPERTY_TYPE",
+        "message": "Property Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_RATE_HELP_TEXT",
+        "message": "Was there any spillage ?",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_RATE_TEXT",
+        "message": "How would you rate your experience with us?",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_SERVICE_CATEGORY",
+        "message": "Service Category",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_TITLE_MY_APPLICATION",
+        "message": "My Applications",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_TYPE",
+        "message": "Application Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_TYPE_DESLUDGING",
+        "message": "Emptying of Septic Tank / Pit",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_COMPLETED_ACTION",
+        "message": "Thank You!",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_COMPLETED_LABEL",
+        "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_SUBMIT_FEEDBACK_ACTION_ERROR",
+        "message": "Something went Wrong!",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_SUBMIT_FEEDBACK_DISPLAY",
+        "message": "By making your voice heard, you help us improving mSeva",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_SUBMIT_FEEDBACK_DISPLAY_ERROR",
+        "message": "Something went wrong while rating the service. Please try later or check with administrator",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_HOME_APPLY_FOR_DESLUDGING",
+        "message": "Apply for Emptying of Septic Tank / Pit",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_HOME_FSM_SERVICES",
+        "message": "Faecal Sludge Mgmt",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_HOME_MY_APPLICATIONS",
+        "message": "My Applications",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_HOME_OTHER_SERVICES",
+        "message": "Other Services",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_HOME_PROPERTIES",
+        "message": "Properties",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_INVALID OTP",
+        "message": "Invalid OTP",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LINK_DSO_DASHBOARD",
+        "message": "DSO Login/ Dashboard",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LINK_LOGIN_DSO",
+        "message": "DSO Login",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_NAME_TEXT",
+        "message": "Provide the name of the person to make your experience more personalised",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_NO_ACCOUNT",
+        "message": "Login",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_OTP",
+        "message": "OTP Verification",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_OTP_TEXT",
+        "message": "Enter the OTP sent to",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_PROVIDE_MOBILE_NUMBER",
+        "message": "Provide your mobile number",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_PROVIDE_NAME",
+        "message": "Provide your Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_REGISTER_LINK",
+        "message": "Register",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_TEXT",
+        "message": "All the communications regarding the application will be sent to this mobile number.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_MYAPPLICATIONS_NO_APPLICATION",
+        "message": "No Application Found",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_MYAPPLICATIONS_NO_APPLICATIONS",
+        "message": "No Result Found",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_APPLICATION_NO",
+        "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_APPLICATION_TYPE",
+        "message": "Application Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_SERVICE_CATEGORY",
+        "message": "Service Category",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_STATUS",
+        "message": "Status",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_VIEW",
+        "message": "View",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_NEW_APPLICATION_SLUM_NAME",
+        "message": "Provide Name of the Slum",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_NEW_APPLICATION_SLUM_TEXT",
+        "message": "Choose the slum name from the list given below",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_PAYMENT_AMOUNT_PAID",
+        "message": "Amount Paid",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_PAYMENT_APPLICATION_NO",
+        "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_PAYMENT_TRANSANCTION_DATE",
+        "message": "Payment Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_PAYMENT_TRANSANCTION_ID",
+        "message": "Transaction ID",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_RESEND_ANOTHER_OTP",
+        "message": "Resend another OTP",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_RESEND_OTP",
+        "message": "Resend OTP",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_TITLE_APPLICATION_DETAILS",
+        "message": "Application Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_TITLE_FSM",
+        "message": "FSM",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_TITLE_MY_APPLICATIONS",
+        "message": "My Applications",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_ACTION_GENERATE_DEMAND",
+        "message": "Generate Demand",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_ACTION_MODIFY_APPLICATION",
+        "message": "Applicant Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_ACTION_REJECT_APPLICATION",
+        "message": "Reject Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICANT_MOBILE_NO",
+        "message": "Applicant Mobile No",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_AUDIT",
+        "message": "Application Audit",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_CHANNEL",
+        "message": "Application Channel",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DATE",
+        "message": "Application Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_AMOUNT_PER_TRIP",
+        "message": "Amount per Trip (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICANT_MOBILE_NO",
+        "message": "Applicant Mobile No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICANT_NAME",
+        "message": "Applicant Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICATION_CHANNEL_COUNTER",
+        "message": "Counter",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICATION_CHANNEL_ONLINE",
+        "message": "Online",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICATION_CHANNEL_TELEPHONE",
+        "message": "Telephone",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICATION_TIMELINE",
+        "message": "Application Timeline",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_ASSIGNED_DSO",
+        "message": "Assigned DSO",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_DSO_DETAILS",
+        "message": "DSO Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_INPROGRESS_APPLICATION_CHANNEL_ONLINE",
+        "message": "Online",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_CITY",
+        "message": "City",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_DETAILS",
+        "message": "Location Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_DOOR",
+        "message": "Door No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_GEOLOCATION",
+        "message": "Geolocation",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_LANDMARK",
+        "message": "Landmark",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_LOCALITY",
+        "message": "Locality",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_PINCODE",
+        "message": "Pincode",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_STREET",
+        "message": "Street Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PAYMENT_NO_OF_TRIPS",
+        "message": "No. of Trips",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PIT_DIMENSION",
+        "message": "Pit Dimension",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PIT_TYPE",
+        "message": "Pit Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_POSSIBLE_SERVICE_DATE",
+        "message": "Possible Service Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PROPERTY_DETAILS",
+        "message": "Property Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PROPERTY_SUB-TYPE",
+        "message": "Property Sub-Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PROPERTY_TYPE",
+        "message": "Property Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_SLUM_NAME",
+        "message": "Slum Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_VEHICLE_CAPACITY",
+        "message": "Vehicle Capacity (Ltrs)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_VEHICLE_MAKE",
+        "message": "Vehicle Make",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_VEHICLE_NO",
+        "message": "Vehicle No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_VIEW_AUDIT_TRAIL",
+        "message": "View Audit Trail",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_NO",
+        "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_NOT_SLUM_AREA",
+        "message": "NONE",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_AUDIT_WHAT",
+        "message": "What",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_AUDIT_WHEN",
+        "message": "When",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_AUDIT_WHO",
+        "message": "Who",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_APPLICATION_SUBMIT",
+        "message": "Submit Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_APPLICATION_SUBMITTED",
+        "message": "Application Submitted",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_CLEAR_ALL",
+        "message": "CLEAR ALL",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_CLEAR_SEARCH",
+        "message": "CLEAR SEARCH",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_FILTER_BY",
+        "message": "FILTER BY",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_HOME",
+        "message": "Home",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_HOME ",
+        "message": "Home",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_INBOX",
+        "message": "Inbox",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_SEARCH",
+        "message": "Search",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_SEARCH_BY",
+        "message": "SEARCH BY:",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_SUBMIT",
+        "message": "Submit",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_TAKE_ACTION",
+        "message": "Take Action",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_TIME",
+        "message": "Time of Dumping",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_UPDATE",
+        "message": "Update",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_UPDATE_DEMAND",
+        "message": "Update Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMPLETION_PENDING",
+        "message": "Pending for Completion",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_EDIT_APPLICATION_ADDITIONAL_CHARGES",
+        "message": "Additional Charges (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_EDIT_APPLICATION_ADDITIONAL_TRIP",
+        "message": "Additional Trip",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_EDIT_APPLICATION_AMOUNT_TO_BE_PAID",
+        "message": "Additional Amount to be paid",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_EDIT_APPLICATION_REASON_FOR_ADDITIONAL_CHARGES",
+        "message": "Reason for Additional Charges",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_ERROR_USER_NOT_PERMITTED",
+        "message": "User not Permitted",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACCEPT_UPDATE_SUCCESS",
+        "message": "Accepted Successfully",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_COMMENTS",
+        "message": "Comments",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_DECLINE_REASON",
+        "message": "Reason for Declining",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_DESLUGED_DATE_LABEL",
+        "message": "Septic Tank / Pit emptied On",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_DSO_NAME",
+        "message": "DSO Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_SERVICE_DATE",
+        "message": "Possible Service Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_ASSIGN_DSO",
+        "message": "Assign DSO",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_ASSIGN_VEHICLE",
+        "message": "Assign Vehicle",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_COMPLETE_REQUEST",
+        "message": "Complete Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_DECLINE_REQUEST",
+        "message": "Decline Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_VEHICLE_CAPACITY_IN_LTRS",
+        "message": "Vehicle Capacity (Ltrs)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_VEHICLE_REGISTRATION_NO",
+        "message": "Vehicle Registration No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_VEHICLE_TYPE",
+        "message": "Vehicle Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_WASTE_VOLUME_LABEL",
+        "message": "Volume of Waste Collected (Ltrs)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ASSIGN",
+        "message": "Assign DSO",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_ASSIGN_UPDATE_SUCCESS",
+        "message": "Assigned Successfully",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_CANCEL",
+        "message": "Cancel Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_CANCEL_UPDATE_SUCCESS",
+        "message": "Cancelled Successfully",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_COMPLETED",
+        "message": "Complete Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_COMPLETED_UPDATE_SUCCESS",
+        "message": "Request Completed Successfully!",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_DECLINE",
+        "message": "Decline Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_DECLINE_UPDATE_SUCCESS",
+        "message": "Declined Successfully",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_DISPOSE_UPDATE_SUCCESS",
+        "message": "Updated Successfully",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_DSO_ACCEPT",
+        "message": "Assign Vehicle",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_DSO_ACCEPT_UPDATE_SUCCESS",
+        "message": "Vehicle Assigned Successfully!",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_DSO_REJECT",
+        "message": "Decline Request",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_DSO_REJECT_UPDATE_SUCCESS",
+        "message": "Application Rejected Successfully",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_PAY",
+        "message": "Collect Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_Pay",
+        "message": "Collect Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_REASSING",
+        "message": "Re-assign DSO",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_REJECTION_OPTION_A",
+        "message": "Vehicle under maintenance",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_REJECTION_OPTION_B",
+        "message": "Cannot service within provided service date, multiple request in pipeline",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_REJECT_UPDATE_SUCCESS",
+        "message": "Rejected Successfully",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_CREATE_DISPLAY",
+        "message": "The notification along with the application number is sent to applicant's registered mobile number. Applicant can make payment later using track application link from home page, once he/she recieve the message to make payment in his/her mobile phone.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
+        "message": "Application Updated",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_LABEL",
+        "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_SUBMIT_ACTION_ERROR",
+        "message": "Something went Wrong!",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_SUBMIT_DISPLAY",
+        "message": "The notification along with payment link is sent to applicant's registered mobile number. Applicant can make payment and download the reciept for future reference.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_SUBMIT_DISPLAY_ERROR",
+        "message": "Something went wrong and this action is not possible at this point of time. Please check the application information/status and try later.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_SENDBACK",
+        "message": "Send Back",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSM_SUBMIT",
+        "message": "Update Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSTP_DSO_NAME",
+        "message": "DSO Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSTP_INVALID_WASTE_AMOUNT",
+        "message": "Waste received cannot be more than Vehicle capacity",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSTP_OPERATOR_DETAILS_WASTE_GENERATORS",
+        "message": "Waste Generators",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FSTP_OPERATOR_VEHICLE_NO",
+        "message": "Vehicle No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_2_SELECTED",
+        "message": "2 selected",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_APPLICATION_DATE",
+        "message": "Application Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_APPLICATION_NO",
+        "message": "Application No",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_ASSIGNED_TO_ALL",
+        "message": "Assigned to All",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_ASSIGNED_TO_ME",
+        "message": "Assigned to Me",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_DATE_LATEST_FIRST",
+        "message": "Date(Latest First)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_DATE_LATEST_LAST",
+        "message": "Date(Latest Last)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_DSO_NAME",
+        "message": "DSO Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_FILTER_BY",
+        "message": "FILTER BY",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_LOCALITY",
+        "message": "Locality",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_MOBILE_NO",
+        "message": "Mobile No",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_PENDING_FOR_DEMAND_GENERATION",
+        "message": "Pending for Demand Generation",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_PENDING_FOR_DSO_ASSIGNMENT",
+        "message": "Pending for DSO Assignment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_PENDING_FOR_PAYMENT",
+        "message": "Pending for Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_ROWS_PER_PAGE",
+        "message": "Rows Per Page",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_SLA_DAYS_REMAINING",
+        "message": "SLA Days Remaining",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_STATUS",
+        "message": "Status",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_VEHICLE_LOG",
+        "message": "Vehicle Log",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_VEHICLE_NO",
+        "message": "Vehicle No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_INBOX_WASTE_COLLECTED",
+        "message": "Waste Collected (Ltrs)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_APPLICANT_NAME",
+        "message": "Modify Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_APPLICATION_TIMELINE",
+        "message": "Application Timeline",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_CITY",
+        "message": "City",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_DETAILS",
+        "message": "Location Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_GEOLOCATION",
+        "message": "Geolocation",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_LANDMARK",
+        "message": "Landmark",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_LOCALITY",
+        "message": "Locality",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_PINCODE",
+        "message": "Pincode",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_PROPERTY_DETAILS",
+        "message": "Property Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_PROPERTY_SUB-TYPE",
+        "message": "Property Sub-Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_PROPERTY_TYPE",
+        "message": "Property Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_SLUM_NAME",
+        "message": "Slum Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEARING_SLA",
+        "message": "Nearing SLA",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_AMOUNT_PER_TRIP",
+        "message": "Amount per Trip (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_APPLICANT_MOBILE_NO",
+        "message": "Applicant Mobile No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_APPLICANT_NAME",
+        "message": "Applicant Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_APPLICATION_CHANNEL",
+        "message": "Application Channel",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_APPLICATION_TIMELINE",
+        "message": "Application Timeline",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_DISTANCE_FROM_ROAD",
+        "message": "Distance of Pit from Road (m)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_DOOR_NO",
+        "message": "Door No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_CITY",
+        "message": "City",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_DETAILS",
+        "message": "Location Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_GEOLOCATION",
+        "message": "Geolocation",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_LANDMARK",
+        "message": "Landmark",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_LOCALITY",
+        "message": "Locality",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_MOHALLA",
+        "message": "Locality/Mohalla",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_PINCODE",
+        "message": "Pincode",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_SLUM",
+        "message": "Slum Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_VEHICLE_REQUESTED",
+        "message": "Vehicle Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PAYMENT_AMOUNT",
+        "message": "Amount per Trip (₹) ",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PAYMENT_NO_OF_TRIPS",
+        "message": "No. of Trips",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PINCODE",
+        "message": "Pincode",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PIT_DIMENSION",
+        "message": "Pit Dimension",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PIT_DISTANCE_FROM_ROAD",
+        "message": "Distance of Pit from Road (m)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PIT_TYPE",
+        "message": "Pit Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PROPERTY_DETAILS",
+        "message": "Property Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PROPERTY_SUB-TYPE",
+        "message": "Property Sub-Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PROPERTY_TYPE",
+        "message": "Property Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PROVIDE_PROPERTY_STREET_DOOR_NO",
+        "message": "Provide the Street Name and Door/House No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_SANITATION_TYPE",
+        "message": "Senitation Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_SLUM_CHECK",
+        "message": "Is your property located in a notified slum area ?",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_SLUM_ENABLED",
+        "message": "is your property located in Slum area?",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_SLUM_NAME",
+        "message": "Slum Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_STREET_NAME",
+        "message": "Street Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PAYMENT_COLLECTED",
+        "message": "Payment Collected",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_COLLECT_PAYMENT",
+        "message": "Collect Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_PAYMENT_AMOUNT",
+        "message": "Payment Amount",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_PAYMENT_MODE",
+        "message": "Payment Mode",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_PAYMENT_NO_OF_TRIPS",
+        "message": "No. of trips",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_PROPERTY_TYPE",
+        "message": "Property Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_TOTAL_AMOUNT",
+        "message": "Total Amount (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PAYMENT_FAILED",
+        "message": "Payment Failed",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PENDING",
+        "message": "Pending",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_READY_FOR_DISPOSAL",
+        "message": "Ready For Disposal",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_RECEIPT_NO",
+        "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_SEARCH_APPLICATION_APPLICATION_NO",
+        "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_SEARCH_APPLICATION_MOBILE_NO",
+        "message": "Mobile No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_SEARCH_FROM_DATE",
+        "message": "Search From Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_SEARCH_TO_DATE",
+        "message": "Search To Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TIMELINE_PENDING_FOR_DEMAND_GENERATION",
+        "message": "Pending for Demand Generation",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITILE_SEARCH_APPLICATION",
+        "message": "Search Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_APPLICATION_AUDIT",
+        "message": "Application Audit",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_APPLICATION_DETAILS",
+        "message": "Application Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_DASHBOARD",
+        "message": "Dashboard",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_FAECAL_SLUDGE_MGMT",
+        "message": "FAECAL SLUDGE MGMT",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_FSM",
+        "message": "FSM",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_INBOX",
+        "message": "Inbox",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_MODIFY_DESULDGING_APPLICATION",
+        "message": "Modify Emptying of Septic Tank / Pit Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_NEW_DESULDGING_APPLICATION",
+        "message": "New Emptying of Septic Tank / Pit Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_PAYMENT_DETAILS",
+        "message": "Payment Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_REPORTS",
+        "message": "Reports",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_SEARCH_APPLICATION",
+        "message": "Search Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_VEHICLE_LOG",
+        "message": "Vehicle Log",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_USAGE",
+        "message": "Usage",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_VEHICLE CAPACITY",
+        "message": "Vehicle Capacity (Ltrs)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_VEHICLE_ASSIGNMENT_PENDING",
+        "message": "Vehicle Assignment Pending",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_VEHICLE_WASTE_COLLECTED",
+        "message": "Waste Collected (Ltrs)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_VEHICLE_WASTE_RECIEVED",
+        "message": "Waste Received (Ltrs)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_VIEW_APPLICATION",
+        "message": "View Application",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_WASTE_RECIEVED",
+        "message": "Waste Received (Ltrs)",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EYE_GEAR",
+        "message": "Eye Gear",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_SMS_CANCELED_CANCEL",
+        "message": "Dear Applicant, Your request for cleaning the septic tank/pit is cancelled with the reason <FSM_CANCEL_REASON> . Please use this link <NEW_FSM_LINK> to create a new request if needed.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FSM_TRIP_CHARGES",
+        "message": "Fee",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "G8 Receipt Date",
+        "message": "Generated Receipt Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "G8 Receipt No.",
+        "message": "Generated Receipt No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HAND_GLOVES",
+        "message": "Hand Gloves",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC476_143001",
+        "message": "Main Road Abadpura",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC476_SL0001",
+        "message": "Main Road Abadpura",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC477_SL0002",
+        "message": "Gali No,. 2 To Gali No. 6",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC478_143003",
+        "message": "Preet Nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC478_SL0003",
+        "message": "Preet Nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC479_SL0004",
+        "message": "Rameshwar Colony",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC480_143005",
+        "message": "Sh. Guru Ravidass Nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC480_SL0005",
+        "message": "Sh. Guru Ravidass Nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MODULE_FSM_TRIP_CHARGES",
+        "message": "Emptying of Septic tank / Pit",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOSE_MASK",
+        "message": "Nose mask",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ONLINE",
+        "message": "Online",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_HEADER_DESLUDGING_REQUEST_ACKNOWLEDGEMENT",
+        "message": "Emptying of Septic Tank / Pit - Acknowledgement",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_COMMISSIONER_EO",
+        "message": "Commissioner/EO",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_CONSUMER_ID",
+        "message": "Application No",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+        "message": "Payment received by cheque/demand draft shall be subject to realization.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_SECOND_LINE",
+        "message": "This document is not a proof of Property Ownership",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_PAID_AMOUNT",
+        "message": "Amount Paid Rs.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_PAYER_NAME",
+        "message": "Paid By",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_PAYMENT_DATE",
+        "message": "Paid On",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_PAYMENT_MODE",
+        "message": "Mode of Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_SYSTEM_GENERATED_ACKNOWLEDGEMENT",
+        "message": "- Note: This is a system generated acknowledgement and does not need any signature",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PENDING_APPL_FEE_PAYMENT",
+        "message": "Pending for Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PITTYPE_MASTERS_CONVENTIONAL_SINGLE_PIT",
+        "message": "NA",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PITTYPE_MASTERS_CONVENTIONAL_SPECTIC_TANK",
+        "message": "Conventional septic tank",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PITTYPE_MASTERS_SEPTIC_TANK_WITH_SOAK_PIT",
+        "message": "Septic tank with soak pit",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTAX_BILLING_SLAB_BUILTUP",
+        "message": "Commercial",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTAX_BILLING_SLAB_BUILTUP.INDEPENDENTPROPERTY",
+        "message": "Independent House",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTAX_BILLING_SLAB_BUILTUP.SHAREDPROPERTY",
+        "message": "Apartment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTAX_BILLING_SLAB_VACANT",
+        "message": "Residential",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL",
+        "message": "Commercial",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.ASSEMBLY",
+        "message": "Assembly",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.BANK",
+        "message": "Bank",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.BUSINESS",
+        "message": "Business",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.COMMUNITY_HALL",
+        "message": "Community hall",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.COMMUNITY_TOILETS",
+        "message": "Community Toilets",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.HOSTEL",
+        "message": "Hostel",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.HOTEL",
+        "message": "Hotel",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.MARKET",
+        "message": "Market",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.PETROL_PUMPS",
+        "message": "Petrol pumps",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.PRIVATE_OFFICE",
+        "message": "Private office",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.RECREATIONAL",
+        "message": "Recreational",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.RESORT",
+        "message": "Resort",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.RESTAURANT",
+        "message": "Restaurant",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.SHOPPING_MALL",
+        "message": "Shopping mall",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.SPORTS_CENTER",
+        "message": "Sports center",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.THEME_PARK",
+        "message": "Theme park",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.WAREHOUSE",
+        "message": "Warehouse",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL",
+        "message": "Institutional",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.ANGANWADI",
+        "message": "Anganwadi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.CHURCH",
+        "message": "Church",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.COLLEGE",
+        "message": "College",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.COMMUNITY_HEALTH_CENTER",
+        "message": "Community health center",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.GURUDWARA",
+        "message": "Gurudwara",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.HOSPITAL",
+        "message": "Hospital",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.JAIL",
+        "message": "Jail",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.MONASTERY",
+        "message": "Monastery",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.MOSQUE",
+        "message": "Mosque",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.NURSING_HOME",
+        "message": "Nursing home",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.POLICE_STATION",
+        "message": "Police station",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.SCHOOL",
+        "message": "School",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.TEMPLE",
+        "message": "Temple",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.TRAINING_INSTITUTES",
+        "message": "Training Institutes",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.UNIVERSITY",
+        "message": "University",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL",
+        "message": "Residential",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.APARTMENT",
+        "message": "Apartment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.INDEPENDENTHOUSE",
+        "message": "Independent House",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.INDEPENDENT_HOUSE",
+        "message": "Independent house",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.ROWHOUSES",
+        "message": "Row Houses",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.ROW_HOUSES",
+        "message": "Rowhouses",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_COMMERCIAL",
+        "message": "Commercial",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_COMMERCIAL.ASSEMBLY",
+        "message": "Assembly",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_COMMERCIAL.BUSINESS",
+        "message": "Business",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_COMMERCIAL.RECREATIONAL",
+        "message": "Recreational",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_RESIDENTIAL",
+        "message": "Residential",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_RESIDENTIAL.APARTMENT",
+        "message": "Apartment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_RESIDENTIAL.INDEPENDENTHOUSE",
+        "message": "Independent House",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_RESIDENTIAL.ROWHOUSES",
+        "message": "Row Houses",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SAFETY_GEARS_USED",
+        "message": "Safety gears used by the operator",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SORT_BY",
+        "message": "SORT BY",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN08_SL0012",
+        "message": "Raju Dhoba Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN18_SL0009",
+        "message": "Golapali Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN18_SL0010",
+        "message": "Surya Nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN18_SL0011",
+        "message": "Damba Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN20_SL0001",
+        "message": "Kathagada juanga sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN20_SL0002",
+        "message": "Kathagada Parbatia Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN35_SL0003",
+        "message": "Gangadhar Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN35_SL0004",
+        "message": "Pandab Nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN35_SL0005",
+        "message": "Haridakhandi Harijana sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN55_SL0006",
+        "message": "Haridakhandi Kadalibada Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN55_SL0007",
+        "message": "Haridakhandi Bada sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUN55_SL0008",
+        "message": "Haridakhandi Redika Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "localizationcode",
+        "message": "Inbox",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pending",
+        "message": "Applicant Mobile No",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    }
+]
