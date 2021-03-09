@@ -72,6 +72,12 @@
         "locale": "en_IN"
     },
     {
+        "code": "COMMON_PAYMENT_HEAD",
+        "message": "Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
         "code": "CORE_COMMON_APPLICANT_INVALID",
         "message": "Please fill in this field.",
         "module": "rainmaker-fsm",
@@ -79,13 +85,25 @@
     },
     {
         "code": "CORE_COMMON_APPLICANT_MOBILE_NUMBER_INVALID",
-        "message": "Please fill in this field.",
+        "message": "Please provide a valid mobile number",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_APPLICANT_NAME_INVALID",
+        "message": "Please provide a valid name",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
     {
         "code": "CORE_COMMON_DOOR_INVALID",
-        "message": "Invalid Door No",
+        "message": "Please provide a valid door number",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_PINCODE_INVALID",
+        "message": "Please provide a valid pincode",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -97,7 +115,7 @@
     },
     {
         "code": "CORE_COMMON_STREET_INVALID",
-        "message": "Invalid Street Name",
+        "message": "Please provide a valid street name",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -589,7 +607,7 @@
     },
     {
         "code": "CS_COMMON_DSO_REJECT",
-        "message": "Reject Request",
+        "message": "Decline Request",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -1051,7 +1069,7 @@
     },
     {
         "code": "CS_FILE_PROPERTY_RESPONSE",
-        "message": "Application reference is sent to your registered mobile number.You will be notified with the charges for the applied service shortly.Please make the payment using my applications link from home page after you receive the notification.",
+        "message": "Application reference is sent to your registered mobile number. You will be notified with the charges for the applied service shortly. Please make the payment using my applications link from home page after you receive the notification.",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -1357,7 +1375,7 @@
     },
     {
         "code": "CS_PAYMENT_AMOUNT_PAID",
-        "message": "Amount Paid",
+        "message": "Amount Paid (₹)",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -1734,6 +1752,12 @@
         "locale": "en_IN"
     },
     {
+        "code": "ES_COMMON_FILTER",
+        "message": "Filter",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
         "code": "ES_COMMON_FILTER_BY",
         "message": "FILTER BY",
         "module": "rainmaker-fsm",
@@ -1754,6 +1778,18 @@
     {
         "code": "ES_COMMON_INBOX",
         "message": "Inbox",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_NO_DSO_AVAILABLE_WITH_SUCH_VEHICLE",
+        "message": "No DSO currently available for selected Vehicle!",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_PAY",
+        "message": "Collect Payment",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -2149,7 +2185,7 @@
     },
     {
         "code": "ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
-        "message": "Application Updated",
+        "message": "Application Submitted",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -2412,6 +2448,12 @@
         "locale": "en_IN"
     },
     {
+        "code": "ES_NEW_APPLICATION_AMOUNT_INVALID",
+        "message": "Please provide a valid amount",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
         "code": "ES_NEW_APPLICATION_AMOUNT_PER_TRIP",
         "message": "Amount per Trip (₹)",
         "module": "rainmaker-fsm",
@@ -2504,6 +2546,12 @@
     {
         "code": "ES_NEW_APPLICATION_LOCATION_VEHICLE_REQUESTED",
         "message": "Vehicle Type",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_NO_OF_TRIPS_INVALID",
+        "message": "Please provide a valid trip count",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -2653,7 +2701,7 @@
     },
     {
         "code": "ES_PAYMENT_SUCCESSFUL_DESCRIPTION",
-        "message": "Application will be processed now and the request will be closed within 2 working days.Applicant will be notified when a desludging vehicle is assigned to the request.",
+        "message": "Application will be processed now and the request will be closed within 2 working days. Applicant will be notified when a desludging vehicle is assigned to the request.",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -2678,6 +2726,12 @@
     {
         "code": "ES_SEARCH_APPLICATION_APPLICATION_NO",
         "message": "Application No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_SEARCH_APPLICATION_MOBILE_INVALID",
+        "message": "Please provide a valid mobile number",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -2839,7 +2893,7 @@
     },
     {
         "code": "FSM_TRIP_CHARGES",
-        "message": "Fee",
+        "message": "Empyting of Septic Tank / Pit Charges",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -2869,13 +2923,49 @@
     },
     {
         "code": "JLC476_SL0001",
-        "message": "Main Road Abadpura",
+        "message": "Kathagada juanga sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC476_SL0013",
+        "message": "K.K sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC476_SL0014",
+        "message": "G.G slum",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC476_SL0015",
+        "message": "North border sahi",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
     {
         "code": "JLC477_SL0002",
-        "message": "Gali No,. 2 To Gali No. 6",
+        "message": "Kathagada Parbatia Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC477_SL0016",
+        "message": "New Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC477_SL0017",
+        "message": "Old Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC477_SL0018",
+        "message": "AJS Sahi",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -2887,13 +2977,67 @@
     },
     {
         "code": "JLC478_SL0003",
-        "message": "Preet Nagar",
+        "message": "Gangadhar Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC478_SL0019",
+        "message": "New Giojyothi Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC478_SL0020",
+        "message": "2nd cross Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC478_SL0021",
+        "message": "Drose nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC478_SL0022",
+        "message": "New life sahi",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
     {
         "code": "JLC479_SL0004",
-        "message": "Rameshwar Colony",
+        "message": "Pandab Nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC479_SL0023",
+        "message": "Pandab cross street",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC479_SL0024",
+        "message": "Gandhi mandap sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC479_SL0025",
+        "message": "K.K nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC479_SL0026",
+        "message": "Post office road",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC479_SL0027",
+        "message": "Amritsar bypass road",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -2905,7 +3049,67 @@
     },
     {
         "code": "JLC480_SL0005",
-        "message": "Sh. Guru Ravidass Nagar",
+        "message": "Haridakhandi Harijana sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC480_SL0028",
+        "message": "BPL colony",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC480_SL0029",
+        "message": "CMC out gate",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC480_SL0030",
+        "message": "City slum development colony",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC481_SL0006",
+        "message": "Haridakhandi Kadalibada Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC482_SL0007",
+        "message": "Haridakhandi Bada sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC483_SL0008",
+        "message": "Haridakhandi Redika Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC484_SL0009",
+        "message": "Golapali Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC485_SL0010",
+        "message": "Surya Nagar",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC486_SL0011",
+        "message": "Damba Sahi",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "JLC487_SL0012",
+        "message": "Raju Dhoba Sahi",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -2934,6 +3138,18 @@
         "locale": "en_IN"
     },
     {
+        "code": "NOC_PAYMENT_MODE_HEAD",
+        "message": "Payment Mode",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_PAYMENT_PAID_BY_HEAD",
+        "message": "Payer Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
         "code": "NOSE_MASK",
         "message": "Nose mask",
         "module": "rainmaker-fsm",
@@ -2946,6 +3162,132 @@
         "locale": "en_IN"
     },
     {
+        "code": "PAYMENT_BANK_BRANCH_LABEL",
+        "message": "Bank Branch",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_BANK_NAME_LABEL",
+        "message": "Bank Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_CARD_HEAD",
+        "message": "Card Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_CARD_LAST_DIGITS_LABEL",
+        "message": "Last 4 Digits",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_CHEQUE_DATE_LABEL",
+        "message": "Cheque Date",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_CHEQUE_HEAD",
+        "message": "Cheque Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_CHQ_NO_LABEL",
+        "message": "Cheque No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_COLLECT",
+        "message": "Generate Receipt",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_COLLECT_LABEL",
+        "message": "Generate Receipt",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_CS_BUTTON_LABEL",
+        "message": "Pay",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_CS_HEADER",
+        "message": "Payment",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_CS_SELECT_METHOD",
+        "message": "Select Payment Method",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_CS_TOTAL_AMOUNT_DUE",
+        "message": "Total Amount Due",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_IFSC_CODE_LABEL",
+        "message": "IFSC Code",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_MODE_HEAD",
+        "message": "Payment Mode",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_PAID_BY_HEAD",
+        "message": "Payer Details",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_PAID_BY_LABEL",
+        "message": "Paid By",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_PAYER_MOB_LABEL",
+        "message": "Payer Mobile No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_PAYER_NAME_LABEL",
+        "message": "Payer Name",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_RENTR_TRANS_LABEL",
+        "message": "Re-Enter Transaction No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_TRANS_NO_LABEL",
+        "message": "Transaction No.",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
         "code": "PAY_BUTTON_LABEL",
         "message": "Pay",
         "module": "rainmaker-fsm",
@@ -2954,6 +3296,12 @@
     {
         "code": "PAY_SELECT_METHOD",
         "message": "Select Payment method",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAY_TOTAL_AMOUNT",
+        "message": "Total Amount",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
