@@ -774,6 +774,12 @@
         "locale": "en_IN"
     },
     {
+        "code": "CS_COMMON_LITRES",
+        "message": "Ltrs",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
         "code": "CS_COMMON_MYCITY_CODE_LABEL",
         "message": "City",
         "module": "rainmaker-fsm",
@@ -1261,7 +1267,7 @@
     },
     {
         "code": "CS_LINK_DSO_DASHBOARD",
-        "message": "DSO Login/ Dashboard",
+        "message": "DSO Inbox",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
@@ -1914,6 +1920,12 @@
         "locale": "en_IN"
     },
     {
+        "code": "ES_FSM_ACTION_INVALID_WASTE_VOLUME",
+        "message": "Volume of waste collected cannot exceed vehicle capacity",
+        "module": "rainmaker-fsm",
+        "locale": "en_IN"
+    },
+    {
         "code": "ES_FSM_ACTION_REASSIGN_REASON",
         "message": "Reason for Re-assign",
         "module": "rainmaker-fsm",
@@ -2203,7 +2215,7 @@
     },
     {
         "code": "ES_FSM_RESPONSE_SUBMIT_DISPLAY",
-        "message": "Application reference is sent to your registered mobile number.You will be notified with the charges for the applied service shortly.Please make the payment using my applications link from home page after you receive the notification.",
+        "message": "Application reference is sent to applicant's registered mobile number along with the charges that needs to be paid for the service. Citizen can either make the payment from pay link given in the message or make the payment over the counter.",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },
