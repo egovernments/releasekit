@@ -1,0 +1,14 @@
+[
+    {
+        "code": "hrms.employee.create.notification",
+        "message": "नमस्कार  $employeename, एमसेवा में आपका स्वागत है। आपकी प्रोफ़ाइल सफलतापूर्वक बना दी गयी है:  यूज़रनेम - $username,  पासवर्ड - $password, अपनी प्रोफइल पर जाएँ $applink, धन्यवाद।",
+        "module": "egov-hrms",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "hrms.employee.reactivation.notification",
+        "message": "प्रिय <Employee Name>, आपकी प्रोफाइल कर्मचारी यूज़रनेम <Username> के साथ <date> को सक्रिय हो गयी है। आपका वन टाइम पासवर्ड <password> है। कृपया नीचे दिए गए लिंक का उपयोग करके अपना पासवर्ड बदलें \n <link>",
+        "module": "egov-hrms",
+        "locale": "hi_IN"
+    }
+]
