@@ -1,0 +1,4610 @@
+[
+    {
+        "code": "APPLICANT_SELF_DECLARATION",
+        "message": "स्व-घोषणा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
+        "message": "बिल्डिंग प्लान / समापन प्रमाणपत्र",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CONNECTION_ACTIVATED",
+        "message": "कनेक्शन चालू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ELECTRICITY_BILL",
+        "message": "बिजली बिल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_CURRENT_READING_DATE_SHOULD_NOT_BE_LESS_THAN_FROM_DATE_AND_NOT_GREATER_THAN_TO_DATE",
+        "message": "वर्तमान रीडिंग तिथि तारीख से और आज की तारीख़ के बीच में होनी चाहिए",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_FAILED_TO_PARSE_METER_READING_DATA",
+        "message": "मीटर रीडिंग जानकारी के विश्लेषण में विफ़ल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_WS_ENTER_ATLEAST_ONE_FIELD",
+        "message": "कम से कम एक क्षेत्र भरें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_WS_FILL_ATLEAST_ONE_FIELD",
+        "message": "कनेक्शन खोजने के लिए कम से कम एक फील्ड जानकारी प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_WS_FILL_MANDATORY_FIELDS",
+        "message": "कनेक्शन की खोज करने के लिए शहर और कोई भी एक अन्य क्षेत्रीय जानकारी दें।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_WS_FILL_VALID_FIELDS",
+        "message": "शहर के अलावा, कनेक्शन के लिए खोज करने के लिए कोई एक अन्य मापदंड प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_WS_PROP_NOT_FOUND",
+        "message": "कोई संपत्ति रिकॉर्ड नहीं मिला, कृपया खोजें या एक नयी संपत्ति बनाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_WS_PROP_STATUS_INACTIVE",
+        "message": "संपत्ति स्थिति IN work flow/कार्य चालू/कार्य प्रगति में है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_WS_PROVIDE_VALID_PROP_ID",
+        "message": "एक वैध संपत्ति आईडी दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NONRESIDENTIAL.INSTITUTIONAL",
+        "message": "गैर आवासीय संस्थागत",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER.AUTHORIZATION.AGREEMENT",
+        "message": "समझौता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER.AUTHORIZATION.NOTARY",
+        "message": "नोटरी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER.AUTHORIZATION.TENANCY",
+        "message": "किराये का घर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER_AUTHORIZATION_AGREEMENT",
+        "message": "समझौता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER_AUTHORIZATION_NOTARY",
+        "message": "नोटरी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER_AUTHORIZATION_TENANCY",
+        "message": "किराये का घर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_WS_BILL_IF_THE_TAX",
+        "message": "6. ब्याज और भुगतान की तारीख के आधार पर भुगतान में देरी का शुल्क अगले बिल में जोड़ा दिया जाएगा।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_WS_BILL_PAYMENT_RECEIVED",
+        "message": "1. अगर मीटर स्तिथि लॉक्ड/बंद है तो न्यूनतम शुल्क लागो होगा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_WS_BILL_PLEASE_DEPOSIT",
+        "message": "5. नियत तारीख के बाद भुगतान शुल्क लागू किया जाएगा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_WS_BILL_THIS_DOCUMENT",
+        "message": "2. मीटर स्थिति 'ख़राब'/ब्रेकडाउन है तो कृपया अगली बिलिंग तक नया मीटर लगवाएं। अथवा औसत बिल का तीन गुना शुल्क लागु किया जाएगा।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_WS_BILL_THIS_IS",
+        "message": "3. अगर बिल चुकाने की अंतिम तारीख पर छुट्टी है तो जुर्माने से बचने के लिए बिल को एक दिन पहले ही ऑनलाइन या ऑफलाइन चुका दें।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PENDING_APPROVAL_FOR_CONNECTION",
+        "message": "कनेक्शन स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PENDING_FOR_APPROVAL",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PENDING_FOR_CITIZEN_ACTION",
+        "message": "नागरिक कार्यवाही के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PENDING_FOR_CONNECTION_ACTIVATION",
+        "message": "कनेक्शन शुरू करने के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PENDING_FOR_DOCUMENT_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापनके लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PENDING_FOR_FIELD_INSPECTION",
+        "message": "फील्ड निरीक्षण के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PENDING_FOR_PAYMENT",
+        "message": "भुगतान के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PLUMBER_REPORT_DRAWING",
+        "message": "नलसाज रिपोर्ट / आरेखण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTY_TAX_RECIEPT",
+        "message": "संपत्ति कर रसीद",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_NOTIFICATIONS_WATER_SEWERAGE_TAX_PAID",
+        "message": "आपका पानी और सीवरेज कर का भुगतान सफलतापूर्वक हो गया है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_BILL_GENERATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_BILL_GENERATION_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, <बिलिंग अवधि >के लिए आपका <सेवा>बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें। आपके बिल की लिंक निम्न है: <बिल लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_BILL_GENERATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें। आपके बिल की लिंक निम्न है: <बिल लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> यहां क्लिक करें <एक्शन बटन> कनेक्शन विवरण पृष्ठ </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, <एमसेवा यूआरएल > पर लॉग इन करें या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_ADHOC_PENALTY",
+        "message": "जुर्माना",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_ADHOC_REBATE",
+        "message": "छूट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कृपया अभी भुगतान करें पर क्लिक करें <एक्शन बटन> अभी भुगतान करें </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> कृपया <भुगतान लिंक> पर क्लिक करें। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक> ।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_DUE_AMOUNT_SHOULD_BE_ZERO",
+        "message": "कृपया कनेक्शन को संशोधित करने के लिए आगे बढ़ने से पहले बकाया सीवरेज सेवा शुल्क वसूल करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_IN_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार किया गया। बदलाव <से प्रभावी दिनांक> से प्रभावी हो जाएगा। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_IN_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन में<आवेदन नंबर> बदलाव किया गया। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_REJECT_REJECTED_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार नहीं हुआ। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार नहीं हुआ। कृपया लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन में<आवेदन नंबर> बदलाव किया गया। कृपया लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <आवेदन नंबर> है। करने के लिए यहाँ क्लिक करें <आवेदन डाउनलोड लिंक > अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_TASK_DETAILS",
+        "message": "टास्क विवरण / कार्य का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAYMENT_NOTIFICATION_APP",
+        "message": "<बिल अवधि > के लिए <सेवा>बिल का आपका <चुकाई_राशि> रु का भुगतान प्राप्त हुआ। <एक्शन बटन> रसीद डाउनलोड करें </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAYMENT_NOTIFICATION_SMS",
+        "message": "प्रिय <मालिक का नाम >, <बिल अवधि > के लिए <सेवा>बिल का आपका <चुकाई_राशि> रु का भुगतान प्राप्त हुआ। आपकी रसीद की लिंक निम्न है <रसीद डाउनलोड लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> का भुगतान सफलतापूर्वक दर्ज किया गया। आप <डाउनलोड रसीद> पर क्लिक करके रसीद डाउनलोड कर सकते हैं। <एक्शन बटन> डाउनलोड रसीद </ एक्शन बटन> आपका कनेक्शन <SLA> दिनों के भीतर सक्रिय हो जाएगा। <नलसाज जानकारी> आप के लिए आवंटित प्लम्बर/नलसाज <नलसाज नाम>है , लाइसेंस नंबर <नलसाज लाइसेंस नंबर>, संपर्क नंबर <नलसाज मोबाइल नं।>। </ नलसाज जानकारी>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> का भुगतान सफलतापूर्वक दर्ज किया गया। आप <डाउनलोड रसीद> पर क्लिक करके रसीद डाउनलोड कर सकते हैं। <एक्शन बटन> डाउनलोड रसीद </ एक्शन बटन> आपका कनेक्शन <SLA> दिनों के भीतर सक्रिय हो जाएगा। <नलसाज जानकारी> आप के लिए आवंटित प्लम्बर/नलसाज <नलसाज नाम>है , लाइसेंस नंबर <नलसाज लाइसेंस नंबर>, संपर्क नंबर <नलसाज मोबाइल नं।>। </ नलसाज जानकारी> अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_REJECT_REJECTED_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को अस्वीकृत कर दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को अस्वीकृत कर दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_Round_Off",
+        "message": "सीवरेज पूर्णांक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा कर दिया गया है। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा कर दिया गया है। आपका आवेदन नंबर <आवेदन नंबर> है। आवेदन डाउनलोड करने के लिए यहां क्लिक करें: <आवेदन_डाउनलोड_लिंक_> अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति  क्षेत्र निरीक्षण के लिए रुका हुआ से कनेक्शन स्वीकृति के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति क्षेत्र निरीक्षण के लिए रुका हुआ से कनेक्शन स्वीकृति के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, <इतिहास_देखें_लिंक> पर क्लिक करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से ्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_OWNERPHOTO_NOTE",
+        "message": "मान्य दस्तावेज पासपोर्ट फोटो है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_BILL_GENERATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_BILL_GENERATION_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, बिलिंग अवधि <बिलिंग अवधि> के लिए आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें। आपके बिल की लिंक निम्न है: < बिल_लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_BILL_GENERATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें। आपके बिल की लिंक निम्न है: <बिल लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_ACTIVATE_CONNECTION_APPLICATION",
+        "message": "सक्रिय कनेक्शन आवेदन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_APPROVE_CONNECTION_APPLICATION",
+        "message": "कनेक्शन संशोधन की स्वीकृति दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_APPROVE_FOR_CONNECTION_APPLICATION",
+        "message": "कनेक्शन आवेदन की स्वीकृति दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_CITIZEN_NEWSW1_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_CITIZEN_NEWSW1_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_CITIZEN_NEWSW1_RESUBMIT_APPLICATION",
+        "message": "फिर से जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_CITIZEN_NEWWS1_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_CITIZEN_NEWWS1_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_CITIZEN_NEWWS1_RESUBMIT_APPLICATION",
+        "message": "फिर से जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_CITIZEN_NEWWS1_SUBMIT_APPLICATION",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_APPROVE_CONNECTION",
+        "message": "स्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_SEND_BACK",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYSWCONNECTION_SUBMIT_APPLICATION",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_APPROVE_CONNECTION",
+        "message": "स्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_SEND_BACK",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_MODIFYWSCONNECTION_SUBMIT_APPLICATION",
+        "message": "आवेदन जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_ACTIVATE_CONNECTION",
+        "message": "सक्रिय कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_APPROVE_FOR_CONNECTION",
+        "message": "कनेक्शन की स्वीकृति दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_CONNECTION_ACTIVATED",
+        "message": "कनेक्शन चालू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_MODIFY_APPLICATION",
+        "message": "संशोधन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_PAY",
+        "message": "प्राप्त करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_PENDING_APPROVAL_FOR_CONNECTION",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_CITIZEN_ACTION",
+        "message": "नागरिक कार्यवाही के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_CONNECTION_ACTIVATION",
+        "message": "कनेक्शन शुरू करने के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_DOCUMENT_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापनके लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_FIELD_INSPECTION",
+        "message": "फील्ड निरीक्षण के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_PENDING_FOR_PAYMENT",
+        "message": "भुगतान के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_RESUBMIT_APPLICATION",
+        "message": "फिर से जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_SEND_BACK_FOR_FIELD_INSPECTION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_SEND_BACK_TO_CITIZEN",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_SUBMIT_APPLICATION",
+        "message": "आवेदन जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_SUBMIT_APPLICATION_APPLICATION",
+        "message": "आवेदन जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWSW1_VERIFY_AND_FORWORD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_ACTIVATE_CONNECTION",
+        "message": "सक्रिय कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_APPROVE_FOR_CONNECTION",
+        "message": "कनेक्शन की स्वीकृति दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_CONNECTION_ACTIVATED",
+        "message": "कनेक्शन चालू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_MODIFY_APPLICATION",
+        "message": "संशोधन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_PAY",
+        "message": "प्राप्त करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_PENDING_APPROVAL_FOR_CONNECTION",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_CITIZEN_ACTION",
+        "message": "नागरिक कार्यवाही के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_CONNECTION_ACTIVATION",
+        "message": "कनेक्शन शुरू करने के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_DOCUMENT_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापनके लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_FIELD_INSPECTION",
+        "message": "फील्ड निरीक्षण के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_PENDING_FOR_PAYMENT",
+        "message": "भुगतान के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_RESUBMIT_APPLICATION",
+        "message": "फिर से जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_SEND_BACK_FOR_FIELD_INSPECTION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_SEND_BACK_TO_CITIZEN",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_SUBMIT_APPLICATION",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_VERIFY_AND_FORWORD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYSWCONNECTION_APPROVE_CONNECTION",
+        "message": "कनेक्शन की स्वीकृति दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYSWCONNECTION_PENDING_FOR_APPROVAL",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYSWCONNECTION_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYSWCONNECTION_SEND_BACK",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYSWCONNECTION_SUBMIT_APPLICATION",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYWSCONNECTION_APPROVED",
+        "message": "मंजूर किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYWSCONNECTION_APPROVE_CONNECTION",
+        "message": "स्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYWSCONNECTION_PENDING_FOR_APPROVAL",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYWSCONNECTION_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYWSCONNECTION_SEND_BACK",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_MODIFYWSCONNECTION_SUBMIT_APPLICATION",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_ACTIVATE_CONNECTION",
+        "message": "सक्रिय कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_APPROVE_FOR_CONNECTION",
+        "message": "कनेक्शन की स्वीकृति दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_CONNECTION_ACTIVATED",
+        "message": "कनेक्शन चालू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_ACTIVATE_CONNECTION",
+        "message": "सक्रिय कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_APPROVE_FOR_CONNECTION",
+        "message": "कनेक्शन की स्वीकृति दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_CONNECTION_ACTIVATED",
+        "message": "कनेक्शन चालू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_MODIFY_APPLICATION",
+        "message": "संशोधन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_PAY",
+        "message": "प्राप्त करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_PENDING_APPROVAL_FOR_CONNECTION",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_CITIZEN_ACTION",
+        "message": "नागरिक कार्यवाही के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_CONNECTION_ACTIVATION",
+        "message": "कनेक्शन शुरू करने के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_DOCUMENT_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापनके लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_FIELD_INSPECTION",
+        "message": "फील्ड निरीक्षण के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_PENDING_FOR_PAYMENT",
+        "message": "भुगतान के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_RESUBMIT_APPLICATION",
+        "message": "फिर से जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_SEND_BACK_FOR_FIELD_INSPECTION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_SEND_BACK_TO_CITIZEN",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_SUBMIT_APPLICATION",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_SUBMIT_APPLICATION_APPLICATION",
+        "message": "आवेदन जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_EMPLOYEE_VERIFY_AND_FORWORD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_MODIFY_APPLICATION",
+        "message": "संशोधन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_PENDING_APPROVAL_FOR_CONNECTION",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_PENDING_FOR_DOCUMENT_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापनके लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_PENDING_FOR_FIELD_INSPECTION",
+        "message": "फील्ड निरीक्षण के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_RESUBMIT_APPLICATION",
+        "message": "फिर से जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_SEND_BACK_FOR_FIELD_INSPECTION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_SEND_BACK_TO_CITIZEN",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_SUBMIT_APPLICATION",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWSW1_VERIFY_AND_FORWORD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_ACTIVATE_CONNECTION",
+        "message": "सक्रिय कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_APPROVE_FOR_CONNECTION",
+        "message": "कनेक्शन की स्वीकृति दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_CONNECTION_ACTIVATED",
+        "message": "कनेक्शन चालू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_ACTIVATE_CONNECTION",
+        "message": "सक्रिय कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_APPROVE_FOR_CONNECTION",
+        "message": "कनेक्शन की स्वीकृति दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_CONNECTION_ACTIVATED",
+        "message": "कनेक्शन चालू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_MODIFY_APPLICATION",
+        "message": "संशोधन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_PAY",
+        "message": "प्राप्त करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_PENDING_APPROVAL_FOR_CONNECTION",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_CITIZEN_ACTION",
+        "message": "नागरिक कार्यवाही के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_CONNECTION_ACTIVATION",
+        "message": "कनेक्शन शुरू करने के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_DOCUMENT_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापनके लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_FIELD_INSPECTION",
+        "message": "फील्ड निरीक्षण के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_PENDING_FOR_PAYMENT",
+        "message": "भुगतान के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_RESUBMIT_APPLICATION",
+        "message": "फिर से जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_SEND_BACK_FOR_FIELD_INSPECTION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_SEND_BACK_TO_CITIZEN",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_SUBMIT_APPLICATION",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_EMPLOYEE_VERIFY_AND_FORWORD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_MODIFY_APPLICATION",
+        "message": "संशोधन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_PENDING_APPROVAL_FOR_CONNECTION",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_PENDING_FOR_DOCUMENT_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापनके लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_PENDING_FOR_FIELD_INSPECTION",
+        "message": "फील्ड निरीक्षण के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_RESUBMIT_APPLICATION",
+        "message": "फिर से जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_SEND_BACK_FOR_DOCUMENT_VERIFICATION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_SEND_BACK_FOR_FIELD_INSPECTION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_SEND_BACK_TO_CITIZEN",
+        "message": "वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_SUBMIT_APPLICATION",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWWS1_VERIFY_AND_FORWARD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_RESUBMIT_APPLICATION_APPLICATION",
+        "message": "आवेदन पुनः जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SEND_BACK_APPLICATION",
+        "message": "वापस भेजने का आवेदन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SEND_BACK_FOR_DOCUMENT_VERIFICATION_APPLICATION",
+        "message": "दस्तावेज़ सत्यापन के आवेदन के लिए वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SEND_BACK_FOR_FIELD_INSPECTION_APPLICATION",
+        "message": "फील्ड निरीक्षण के आवेदन के लिए वापस भेजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SUBMIT_APPLICATION_APPLICATION",
+        "message": "आवेदन जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_VERIFY_AND_FORWARD_APPLICATION",
+        "message": "सत्यापित करें और बढ़ाने का आवेदन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS.VIEWBILL.DETAILS.HEADER",
+        "message": "बिल विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACKNO_APP_NO_LABEL",
+        "message": "जल आवेदन नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACKNO_CONNECTION_NO_LABEL",
+        "message": "उपभोक्ता नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACKNO_SEW_APP_NO_LABEL",
+        "message": "सीवरेज आवेदन नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACK_COMMON_APP_NO_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> यहां क्लिक करें <एक्शन बटन> कनेक्शन विवरण पृष्ठ </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, <एमसेवा यूआरएल > पर लॉग इन करें या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACTIVATE_SUCCESS_MESSAGE_MAIN",
+        "message": "कनेक्शन सफलतापूर्वक सक्रिय किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACTIVATION_DETAILS",
+        "message": "सक्रियण का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_AREA_LABEL",
+        "message": "क्षेत्र (वर्ग फुट में)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_AREA_PLACEHOLDER",
+        "message": "क्षेत्र दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_CONN_TYPE_PLACEHOLDER",
+        "message": "कनेक्शन प्रकार चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_INITIAL_METER_READING",
+        "message": "प्रारंभिक मीटर रीडिंग (केएल)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_INITIAL_METER_READING_PLACEHOLDER",
+        "message": "प्रारंभिक मीटर रीडिंग (केएल) दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_METER_ID_PLACEHOLDER",
+        "message": "मीटर आईडी दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_NO_OF_TOILETS",
+        "message": "शौचालयों की संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_NO_OF_TOILETS_PLACEHOLDER",
+        "message": "शौचालयों की संख्या दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_NO_OF_WATER_CLOSETS",
+        "message": "शौचालयों की संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_NO_OF_WATER_CLOSETS_PLACEHOLDER",
+        "message": "शौचालयों की संख्या दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_PLUMBER_LICENCE_NO_LABEL",
+        "message": "नलसाज का लाइसेंस नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_PLUMBER_LICENCE_NO_PLACEHOLDER",
+        "message": "नलसाज का लाइसेंस नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_PLUMBER_MOB_NO_LABEL",
+        "message": "नलसाज का मोबाइल नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_PLUMBER_MOB_NO_LABEL_PLACEHOLDER",
+        "message": "नलसाज का मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_PLUMBER_NAME_LABEL",
+        "message": "नलसाज का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_PLUMBER_NAME_PLACEHOLDER",
+        "message": "नलसाज का नाम दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_PLUMBER_PROVIDED_BY",
+        "message": "नलसाज प्रदान किया गया द्वारा:",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_ROAD_TYPE_PLACEHOLDER",
+        "message": "सड़क प्रकार चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_WARER_SOURCE_PLACEHOLDER",
+        "message": "जल स्रोत चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_WARER_SUB_SOURCE_PLACEHOLDER",
+        "message": "जल उप स्रोत चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAIL_METER_INSTALL_DATE",
+        "message": "मीटर स्थापना की तिथि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAIL_ROAD_TYPE",
+        "message": "सड़क का प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_BUTTON_ADD",
+        "message": "जोड़ें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_BUTTON_CANCEL",
+        "message": "रद्द करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_COMMENT_LABEL",
+        "message": "टिप्पणियाँ दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_HEAD",
+        "message": "एडहॉक जुर्माना / छूट जोड़ें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_PEN_AMT_LABEL",
+        "message": "एडहॉक जुर्माना राशि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_PEN_AMT_PLACEHOLDER",
+        "message": "एडहॉक शुल्क राशि दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_RBT_AMT_LABEL",
+        "message": "एडहॉक छूट राशि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_RBT_AMT_PLACEHOLDER",
+        "message": "एडहॉक छूट राशि दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_SUB_FIRST",
+        "message": "एडहॉक जुर्माना",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADD_HOC_CHARGES_POPUP_SUB_SEC",
+        "message": "एडहॉक छूट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADHOC_MISCALCULATION",
+        "message": "पहले मूल्यांकन के गलत अनुमान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADHOC_ONE_TIME_PENALTY",
+        "message": "एक बार का जुर्माना",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADHOC_OTHER",
+        "message": "अन्य",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADHOC_PENALTY",
+        "message": "जुर्माना",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADHOC_PENDING_DUES",
+        "message": "पहले से बकाया राशि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ADHOC_REBATE",
+        "message": "छूट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICANT.SELF_DECLARATION",
+        "message": "स्व-घोषणा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION",
+        "message": "आवेदन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION_FEE_HEADER",
+        "message": "आवेदन शुल्क",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION_FORWARD_SUCCESS_SUBHEAD",
+        "message": "आवेदन की स्थिति की सूचना पंजीकृत मोबाइल नंबर पर भेज दी गयी है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION_NEW_CONNECTION_HEADER",
+        "message": "नए पानी और सीवरेज कनेक्शन के लिए आवेदन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION_SUCCESS_ACKO_MESSAGE_SUB",
+        "message": "आवेदन जमा होने की सूचना पंजीकृत मोबाइल नंबर पर भेज दी गयी है । कृपया आवेदन कोई ध्यान दें। भविष्य के लिए आवेदन नंबर नोट करके रखें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION_SUCCESS_MESSAGE_MAIN",
+        "message": "आवेदन देने के लिए धन्यवाद",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION_TYPE_LABEL",
+        "message": "आवेदन का प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLY_CLICK_HERE",
+        "message": "यहाँ क्लिक करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLY_CREATE_MSG",
+        "message": "संपत्ति आईडी ढूंढने /बनाने के लिए",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLY_FOR",
+        "message": "के लिए आवेदन दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLY_NEW_CONNECTION_HEADER",
+        "message": "नई पानी और सीवरेज कनेक्शन के लिए आवेदन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLY_SEWERAGE",
+        "message": "मल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLY_WATER",
+        "message": "पानी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPROVAL_CHECKLIST_MESSAGE_HEAD",
+        "message": "आवेदन सफलतापूर्वक स्वीकार किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPROVAL_CHECKLIST_MESSAGE_SUB",
+        "message": "कनेक्शन स्वीकृति से संबंधित सूचना पंजीकृत मोबाइल नंबर पर भेज गयी है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPROVAL_REJ_MESSAGE_HEAD",
+        "message": "आवेदन अस्वीकृत किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPROVAL_REJ_MESSAGE_SUBHEAD",
+        "message": "आवेदन अस्वीकृति से संबंधित सूचना पंजीकृत मोबाइल नंबर पर भेज दी गयी है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कृपया अभी भुगतान करें पर क्लिक करें <एक्शन बटन> अभी भुगतान करें </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> कृपया <भुगतान लिंक> पर क्लिक करें। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक> ।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
+        "message": "बिल्डिंग प्लान / समापन प्रमाणपत्र",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CALCULATION_BREAKUP",
+        "message": "गणना का विवरण / गणना का विभाजन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_ADDN_DETAILS",
+        "message": "अतिरिक्त जानकारी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_ADDN_DETAILS_HEADER",
+        "message": "अतिरिक्त जानकरी (नगरनिगम कर्मचारी द्वारा भरी जाने के लिए)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_APPLICATION_NO_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_APPLICATION_SUMMARY_LABEL",
+        "message": "आवेदन सारांश",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_APPLICATION_TYPE_PLACEHOLDER",
+        "message": "आवेदन प्रकार चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_APPL_NEW_CONNECTION",
+        "message": "नए कनेक्शन के लिए आवेदन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_APPLY",
+        "message": "लागू करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_DOWNLOAD",
+        "message": "डाउनलोड करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_DOWNLOAD_RECEIPT",
+        "message": "रसीद डाउनलोड करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_HOME",
+        "message": "होम / मुख्य पेज",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_MAKE_PAYMENT",
+        "message": "भुगतान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_NXT_STEP",
+        "message": "अगला कदम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_PREV_STEP",
+        "message": "पिछला कदम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_PRINT",
+        "message": "प्रिंट करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_PRINT_RECEIPT",
+        "message": "रसीद प्रिंट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_PRINT_RECIEPT",
+        "message": "रसीद प्रिंट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_SAVE",
+        "message": "सेव करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_BUTTON_SUBMIT",
+        "message": "जमा करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_COLLECT_LABEL",
+        "message": "प्राप्त करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_CONNECTION_DETAIL",
+        "message": "कनेक्शन विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_CONNECTION_DETAILS",
+        "message": "कनेक्शन विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_CONNECTION_HOLDER_DETAILS_HEADER",
+        "message": "कनेक्शन धारक का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_CONSUMER_NO_LABEL",
+        "message": "उपभोक्ता नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_DOCS",
+        "message": "दस्तावेज़",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_DOWNLOAD_BILL",
+        "message": "बिल डाउनलोड करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_FROM_DATE_LABEL",
+        "message": "तारीख से",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_HEADER",
+        "message": "जल और सीवरेज",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_NOT_PAID",
+        "message": "नहीं चुकाया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_OWNER_NAME_LABEL",
+        "message": "मालिक का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_OWN_DETAIL",
+        "message": "मालिक का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_PAID_SUCCESS",
+        "message": "सफलतापूर्वक भुगतान किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_PAST_PAYMENTS",
+        "message": "पिछले भुगतान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_PAY_WS_BILL_HEADER",
+        "message": "पानी और सीवरेज बिल का भुगतान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_PLUMBER_DETAILS",
+        "message": "नलसाज का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_PROPERTY_DETAILS",
+        "message": "संपत्ति का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_PROP_DETAIL",
+        "message": "संपत्ति का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_PROP_DETAIL_HEADER",
+        "message": "संपत्ति का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_PROP_LOC_DETAIL_HEADER",
+        "message": "संपत्ति स्थान का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_SERV_DETAIL",
+        "message": "सेवा विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_SEWERAGE_BILL_HEADER",
+        "message": "सीवरेज बिल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_SUMMARY",
+        "message": "सारांश",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_TABLE_APP_NO_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_TABLE_COL_APPLICATION_STATUS_LABEL",
+        "message": "आवेदन की स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_TABLE_COL_CONNECTIONTYPE_LABEL",
+        "message": "कनेक्शन का प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_TABLE_COL_DUE_LABEL",
+        "message": "बकाया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_TABLE_COL_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_TABLE_COL_TENANTID_LABEL",
+        "message": "किरायेदार की आई.डी.",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_TOTAL_AMT",
+        "message": "कुल राशि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_TO_DATE_LABEL",
+        "message": "तारीख तक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_TO_DATE_PLACEHOLDER",
+        "message": "तारीख तक चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_COMMON_WATER_BILL_HEADER",
+        "message": "पानी का बिल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONNECTION_ACTIVATE_SUCCESS_SUBHEAD",
+        "message": "आवेदन की स्थिति की सूचना पंजीकृत मोबाइल नंबर पर भेज दी गयी है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONNECTION_DETAILS_CONNECTION_STATUS_HEADER",
+        "message": "कनेक्शन स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONNECTION_DETAILS_STATUS_HEADER",
+        "message": "स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONNECTION_DETAILS_STATUS_LABEL",
+        "message": "स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONNECTION_DETAILS_VIEW_CONSUMPTION_LABEL",
+        "message": "खपत की जानकारी देखें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_DETAIL_NO_OF_TAPS",
+        "message": "प्रस्तावित नलों की संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_DETAIL_NO_OF_WATER_CLOSETS",
+        "message": "शौचालयों की संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_DETAIL_NO_OF_WATER_CLOSETS_PLACEHOLDER",
+        "message": "शौचालयों की संख्या दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_DETAIL_PIPE_SIZE",
+        "message": "प्रस्तावित पाइप आकार (इंच में)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_COMMON_ENTER_FATHER_OR_HUSBAND_NAME_PLACEHOLDER",
+        "message": "अभिभावक का नाम दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_COMMON_FATHER_OR_HUSBAND_NAME",
+        "message": "अभिभावक का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_COMMON_GENDER_FEMALE",
+        "message": "महिला",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_COMMON_GENDER_MALE",
+        "message": "पुरुष",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_COMMON_GENDER_TRANSGENDER",
+        "message": "ट्रांसजेंडर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_CROSADD",
+        "message": "पत्राचार का पता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_CROSADD_PLACEHOLDER",
+        "message": "पत्राचार का पता दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_GENDER_LABEL",
+        "message": "लिंग",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_MOBILE_NO_LABEL",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_MOBILE_NO_PLACEHOLDER",
+        "message": "मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_OWN_NAME_LABEL",
+        "message": "नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_OWN_NAME_PLACEHOLDER",
+        "message": "नाम दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_RELATION_LABEL",
+        "message": "रिश्ता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_RELATION_PLACEHOLDER",
+        "message": "रिश्ता चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_SPECIAL_APPLICANT_LABEL",
+        "message": "विशेष आवेदक श्रेणी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_OWN_DETAIL_SPECIAL_APPLICANT_PLACEHOLDER",
+        "message": "विशेष आवेदक श्रेणी का चयन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONN_HOLDER_SAME_AS_OWNER_DETAILS",
+        "message": "मालिक विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_ADDRESS_LABEL",
+        "message": "पता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_BILLING_PERIOD_LABEL",
+        "message": "बिलिंग अवधि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_BUTTON_METER_READING",
+        "message": "मीटर रीडिंग जोड़ें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_CONSUMPTION_LABEL",
+        "message": "खपत (केएल)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_CONSUMPTION_READING_PLACEHOLDER",
+        "message": "खपत दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_CURRENT_READING_DATE_LABEL",
+        "message": "वर्तमान रीडिंग तिथि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_CURRENT_READING_LABEL",
+        "message": "वर्तमान रीडिंग (केएल)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_CURRENT_READING_PLACEHOLDER",
+        "message": "वर्तमान रीडिंग दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_ENTER_DATE_PLACEHOLDER",
+        "message": "दिनांक दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_HEADER",
+        "message": "खपत विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_LAST_CURRENT_READING_DATE_LABEL",
+        "message": "वर्तमान रीडिंग तिथि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_LAST_CURRENT_READING_LABEL",
+        "message": "वर्तमान रीडिंग (केएल)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_LAST_READING_DATE_LABEL",
+        "message": "पिछली रीडिंग तिथि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_LAST_READING_LABEL",
+        "message": "पिछली रीडिंग (केएल)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_METER_STATUS_LABEL",
+        "message": "मीटर स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONSUMPTION_DETAILS_METER_STATUS_PLACEHOLDER",
+        "message": "मीटर स्थिति दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DOCUMENT_DETAILS_BUTTON_UPLOAD_FILE",
+        "message": "फ़ाइल अपलोड करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DOCUMENT_DETAILS_HEADER",
+        "message": "आवश्यक दस्तावेज़",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DOCUMENT_DETAILS_SUBTEXT",
+        "message": "एक दस्तावेज़ के लिए केवल एक फ़ाइल अपलोड की जा सकती है। एक से अधिक फ़ाइलों तो अपलोड करने के लिए सभी फाइलों का एक पीडीऍफ़ बना कर अपलोड करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DUE_AMOUNT_SHOULD_BE_ZERO",
+        "message": "कृपया कनेक्शन को संशोधित करने के लिए आगे बढ़ने से पहले बकाया सीवरेज सेवा शुल्क वसूल करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ELECTRICITY_BILL",
+        "message": "बिजली बिल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ESTIMATION_NOTICE",
+        "message": "मूल्यांकन सूचना/ मूल्यांकन नोटिस",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_FILL_MANDATORY_FIELDS",
+        "message": "कृपया सभी अनिवार्य क्षेत्रों को भरें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_FILL_REQUIRED_FIELDS",
+        "message": "कृपया आवश्यक विवरण भरें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_FILL_REQUIRED_HOLDER_FIELDS",
+        "message": "कृपया कनेक्शन धारक का विवरण दें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_FORWARD_SUCCESS_MESSAGE_MAIN",
+        "message": "आवेदन सफलतापूर्वक सत्यापित हुआ और आगे बढ़ाया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_FROM_DATE_PLACEHOLDER",
+        "message": "दिनांक से चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_APPLICATION_RESULTS_TABLE_HEADING",
+        "message": "जल और सीवरेज आवेदन के खोज परिणाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_CONN_RESULTS_DESC",
+        "message": "कनेक्शन खोजने के लिए कम से कम एक मापदंड प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_APP_NO_LABEL",
+        "message": "जल आवेदन नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_APP_NO_PLACEHOLDER",
+        "message": "आवेदन नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_APP_STATUS_LABEL",
+        "message": "आवेदन की स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_APP_STATUS_PLACEHOLDER",
+        "message": "आवेदन स्थिति चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+        "message": "खोजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_CONSUMER_NO_LABEL",
+        "message": "उपभोक्ता नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_CONSUMER_NO_PLACEHOLDER",
+        "message": "उपभोक्ता नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_DESC",
+        "message": "कनेक्शन खोजने के लिए कम से कम एक मापदंड प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_NEW_APP_BUTTON",
+        "message": "नया आवेदन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_OWN_MOB_LABEL",
+        "message": "मालिक का मोबाइल नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_OWN_MOB_PLACEHOLDER",
+        "message": "अपना मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_TABLE_HEADING",
+        "message": "जल और सीवरेज आवेदन के खोज परिणाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_TL_NO_LABEL",
+        "message": "व्यापार लाइसेंस नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_HOME_SEARCH_RESULTS_TL_NO_PLACEHOLDER",
+        "message": "व्यापार लाइसेंस नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFICATIONS_EFFECTIVE_FROM",
+        "message": "संशोधन इस दिनांक से प्रभावी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार किया गया। बदलाव <से प्रभावी दिनांक> से प्रभावी हो जाएगा। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार किया गया। बदलाव <से प्रभावी दिनांक> से प्रभावी हो जाएगा। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_CONNECTION_HEADER",
+        "message": "संशोधित कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_IN_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपके आवेदन <आवेदन नंबर> में बदलाव कर दिए गए हैं । अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_PROPERTY",
+        "message": "संशोधित संपत्ति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_REJECT_REJECTED_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार नहीं हुआ। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "संशोधित कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_SMS_MESSAGE",
+        "message": "मेरे आवेदन ({0})",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_TASK_DETAILS",
+        "message": "संशोधित कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MYAPPLICATIONS_HEADER",
+        "message": "मेरे आवेदन ({0})",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MYCONNECTIONS_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MYCONNECTIONS_CONSUMER_NO",
+        "message": "उपभोक्ता नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MYCONNECTIONS_DUE",
+        "message": "बकाया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MYCONNECTIONS_HEADER",
+        "message": "मेरे कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MYCONNECTIONS_OWNER_NAME",
+        "message": "मालिक का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MYCONNECTIONS_SERVICE",
+        "message": "सेवा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MYCONNECTIONS_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MYCONNECTION_ADDRESS",
+        "message": "पता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_NO_PAST_PAYMENTS_MESSAGE",
+        "message": "आपका कोई पिछला भुगतान नहीं है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OLD_LABEL_NAME",
+        "message": "पुराना मूल्य",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER",
+        "message": "मालिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.ADDRESSPROOF",
+        "message": "मालिक के पते का प्रमाण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.ADDRESSPROOF.AADHAAR",
+        "message": "पते का प्रमाण - आधार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.ADDRESSPROOF.DL",
+        "message": "ड्राइविंग लाइसेंस",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.ADDRESSPROOF.PAN",
+        "message": "पते का प्रमाण - पैन कार्ड",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.ADDRESSPROOF.PASSPORT",
+        "message": "पते का प्रमाण - पासपोर्ट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.ADDRESSPROOF.VOTERID",
+        "message": "पते का प्रमाण - वोटर आईडी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.AUTHORIZATION.AFFIDAVIT",
+        "message": "मालिक हलफनामा/एफिडेविट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.AUTHORIZATION.AGREEMENT",
+        "message": "मालिक करार/ समझौता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.AUTHORIZATION.NOTARY",
+        "message": "मालिक नोटरी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.AUTHORIZATION.TENANCY",
+        "message": "मालिक की किराएदारी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.IDENTITYPROOF",
+        "message": "मालिक का आईडी प्रूफ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.IDENTITYPROOF.AADHAAR",
+        "message": "आधार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.IDENTITYPROOF.DRIVING",
+        "message": "पहचान का प्रमाण - ड्राइविंग लाइसेंस",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.IDENTITYPROOF.DRIVINGR",
+        "message": "पहचान का प्रमाण - ड्राइविंग लाइसेंस",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.IDENTITYPROOF.PAN",
+        "message": "पहचान का प्रमाण - पैन कार्ड",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.IDENTITYPROOF.PASSPORT",
+        "message": "पहचान का प्रमाण - पासपोर्ट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER.NOC",
+        "message": "मालिक अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_INDIVIDUAL",
+        "message": "व्यक्ति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_INDIVIDUAL_MULTIPLEOWNERS",
+        "message": "एक से अधिक मालिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_INDIVIDUAL_SINGLEOWNER",
+        "message": "व्यक्तिगत - एक मालिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALGOVERNMENT",
+        "message": "संस्थागत - सरकारी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALGOVERNMENT_ULBGOVERNMENT",
+        "message": "निकाय सरकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE",
+        "message": "संस्थागत - निजी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_NGO",
+        "message": "गैर सरकारी संगठन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_PRIVATECOMPANY",
+        "message": "निजी संस्था",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_INSTITUTIONALPRIVATE_PRIVATETRUST",
+        "message": "निजी ट्रस्ट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNERSHIPCATEGORY_NA",
+        "message": "नहीं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER_DETAILS_EMAIL_LABEL",
+        "message": "ईमेल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWNER_HEADER_LABEL",
+        "message": "मालिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_CATEGORY_LABEL",
+        "message": "मालिक की श्रेणी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_CROSADD",
+        "message": "पत्राचार का पता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_DOB_LABEL",
+        "message": "जन्म तिथिः",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_FATHER_OR_HUSBAND_NAME",
+        "message": "पिता / पति का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_GENDER_LABEL",
+        "message": "लिंग",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_GUARDIAN_LABEL",
+        "message": "अभिभावक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_GUARDIAN_NAME_LABEL",
+        "message": "अभिभावक का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_HEADER_INFO",
+        "message": "मालिक के बारे में जानकारी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_MOBILE_NO_LABEL",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_MOBILE_NO_PLACEHOLDER",
+        "message": "अपना मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_NAME",
+        "message": "नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_OWNERSHIP_TYPE_LABEL",
+        "message": "स्वामित्व का प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_OWN_EMAIL_LABEL",
+        "message": "ईमेल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_OWN_NAME_LABEL",
+        "message": "मालिक का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_RELATION_LABEL",
+        "message": "रिश्ता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_OWN_DETAIL_SPECIAL_APPLICANT_LABEL",
+        "message": "विशेष आवेदक श्रेणी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAST_PAYMENTS_AMOUNT_PAID_LABEL",
+        "message": "राशि का भुगतान हुआ / चुकाई गयी राशि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAST_PAYMENTS_BILL_AMOUNT_LABEL",
+        "message": "बिल राशि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_ADD_REBATE_PENALTY",
+        "message": "छूट / जुर्माना जोड़ें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_NOTIFICATION_APP",
+        "message": "<बिल अवधि > के लिए <सेवा>बिल का आपका <चुकाई_राशि> रु का भुगतान प्राप्त हुआ। <एक्शन बटन> रसीद डाउनलोड करें </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_NOTIFICATION_SMS",
+        "message": "प्रिय <मालिक का नाम>, बिलिंग अवधि <बिलिंग अवधि> के लिए आपका <सेवा> बिल का <भुगतान की गई राशि> का भुगतान प्राप्त हो गया है <भुगतान की गई राशि>। आपके रसीद की लिंक निम्न है: < रसीद_लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_PENALTY_REASON",
+        "message": "एडहॉक जुर्माने का कारण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_PENALTY_REASON_SELECT",
+        "message": "एडहॉक जुर्माने के कारण का चयन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_REBATE_REASON",
+        "message": "एडहॉक छूट का कारण चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_REBATE_REASON_SELECT",
+        "message": "एडहॉक छूट का कारण चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_SUCCESS_MESSAGE_MAIN",
+        "message": "भुगतान बनाने के लिए धन्यवाद",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_SUCCESS_MESSAGE_SUB",
+        "message": "आपका भुगतान सफलतापूर्वक दर्ज किया गया. भुगतान की पावती उपभोक्ता के पंजीकृत मोबाइल नंबर पर भेज दी गयी है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_VIEW_BREAKUP",
+        "message": "विवरण देखें / विभाजन देखें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लाइसेंस नंबर <नलसाज लाइसेंस नंबर> संपर्क नंबर <नलसाज मोबाइल नं।>। </ नलसाज जानकारी>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लाइसेंस नंबर <नलसाज लाइसेंस नंबर> संपर्क नंबर <नलसाज मोबाइल नं।>। </ नलसाज जानकारी> अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PLUMBER_REPORT_DRAWING",
+        "message": "नलसाज रिपोर्ट / आरेखण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PLUMBER_SELF",
+        "message": "स्वयं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PLUMBER_ULB",
+        "message": "निकाय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PMT_RCPT_NO",
+        "message": "भुगतान रसीद नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPERTY_ID_LABEL",
+        "message": "संपत्ति आईडी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPERTY_ID_PLACEHOLDER",
+        "message": "संपत्ति आईडी दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPERTY_NO_OF_FLOOR_LABEL",
+        "message": "मंजिलों की संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPERTY_SUB_USAGE_TYPE_LABEL",
+        "message": "संपत्ति उप प्रयोग का प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPERTY_TAX_RECIEPT",
+        "message": "संपत्ति कर रसीद",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPERTY_TYPE_LABEL",
+        "message": "सम्पत्ती का प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPERTY_USAGE_TYPE_LABEL",
+        "message": "संपत्ति प्रयोग का प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_MIXED",
+        "message": "मिश्रित",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NA",
+        "message": "नहीं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL",
+        "message": "गैर आवासीय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_ENTERTAINMENT_MOVIETHEATRE",
+        "message": "फिल्म थिएटर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_ENTERTAINMENT_MULTIPLEX",
+        "message": "मल्टीप्लेक्स",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_EVENTSPACE_MARRIAGEPALACE",
+        "message": "विवाह पैलेस",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS",
+        "message": "खाद्य केंद्र",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS_ACRESTAURANT",
+        "message": "एसी रेस्तरां",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS_NONACRESTAURANT",
+        "message": "गैर एसी रेस्तरां",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_HOTELS",
+        "message": "होटल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_MEDICALFACILITY_PVTDISPENSARY",
+        "message": "निजी औषधालय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_MEDICALFACILITY_PVTHOSPITAL",
+        "message": "निजी अस्पताल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_OFFICESPACE",
+        "message": "कार्यालय की जगह",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_OTHERCOMMERCIALSUBMINOR_OTHERCOMMERCIAL",
+        "message": "अन्य व्यावसायिक उपयोग",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL",
+        "message": "खुदरा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_ESTABLISHMENTSINMALLS",
+        "message": "मॉल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_ESTABLISHMENTSINMULTIPLEX",
+        "message": "मल्टीप्लेक्स में प्रतिष्ठान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_GROCERY",
+        "message": "किराने की दुकान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_MALLS",
+        "message": "मॉल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_PHARMACY",
+        "message": "दवाई दुकान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_SHOWROOM",
+        "message": "शोरूम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_COMMERCIAL_STATUTORY_STATUTORYORGANISATION",
+        "message": "सांविधिक संगठन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL",
+        "message": "औद्योगिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_MANUFACTURINGFACILITY_MANUFACTURINGFACILITY",
+        "message": "निर्माण कारखाना",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_OTHERCOMMERCIALSUBMINOR",
+        "message": "अन्य व्यावसायिक उपयोग",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_OTHERCOMMERCIALSUBMINOR_OTHERCOMMERCIAL",
+        "message": "औद्योगिक - अन्य व्यावसायिक उपयोग",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_OTHERCOMMERCIALSUBMINOR_OTHERINDUSTRIAL",
+        "message": "अन्य औद्योगिक प्रयोग",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_RETAIL_SHOWROOM",
+        "message": "औद्योगिक शोरूम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INDUSTRIAL_WAREHOUSE_WAREHOUSE",
+        "message": "गोदाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL",
+        "message": "संस्थागत",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONALGOVAIDED_GOVAIDEDEDUCATIONAL",
+        "message": "सरकार से सहायता प्राप्त शिक्षण संस्थान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_COLLEGES",
+        "message": "कॉलेज",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_OTHEREDUCATIONAL",
+        "message": "अन्य निजी शिक्षण संस्थान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_POLYTECHNICS",
+        "message": "पॉलिटेक्निक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_SCHOOL",
+        "message": "स्कूल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_TRAININGINSTITUTES",
+        "message": "प्रशिक्षण संस्थान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HISTORICAL_HISTORICAL",
+        "message": "एतिहासिक इमारत",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HOMESFORSPECIALCARE_ANIMALCARE",
+        "message": "आवारा पशु देखभाल केंद्र",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HOMESFORSPECIALCARE_DISABLEDHOME",
+        "message": "विकलांग / बेसहारा के लिए घर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HOMESFORSPECIALCARE_OLDAGEHOMES",
+        "message": "वृद्धाश्रम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_HOMESFORSPECIALCARE_ORPHANAGE",
+        "message": "अनाथालय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_OTHERINSTITUTIONALSUBMINOR_OTHERINSTITUTIONAL",
+        "message": "अन्य संसथान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_PUBLICFACILITY_COMMUNITYHALL",
+        "message": "सामुदायिक भवन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_PUBLICFACILITY_GOVTHOSPITAL",
+        "message": "सरकारी अस्पताल और औषधालय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_PUBLICFACILITY_LIBRARIES",
+        "message": "सार्वजनिक लाइब्रेरी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RECREATIONAL_GOLFCLUB",
+        "message": "गोल्फ क्लब",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RECREATIONAL_SOCIALCLUB",
+        "message": "सामाजिक क्लब",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RECREATIONAL_SPORTSSTADIUM",
+        "message": "खेल स्टेडियम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RELIGIOUSINSTITUITION_RELIGIOUS",
+        "message": "धार्मिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_RELIGIOUSINSTITUTION",
+        "message": "धार्मिक संस्था",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_OTHERS",
+        "message": "अन्य गैर आवासीय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_NONRESIDENTIAL_OTHERS_PUBLICSPACES_CREMATION/BURIAL",
+        "message": "दाह संस्कार का स्थान / कब्रिस्तान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_RESIDENTIAL",
+        "message": "आवासीय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_RESIDENTIAL_COMMERCIAL_OTHERCOMMERCIALSUBMINOR_OTHERCOMMERCIAL",
+        "message": "अन्य व्यावसायिक उपयोग",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPSUBUSGTYPE_RESIDENTIAL_OFFICESPACE",
+        "message": "आवासीय ऑफिस का स्थान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPTYPE_BUILTUP",
+        "message": "बिल्ट उप / बना हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPTYPE_BUILTUP_INDEPENDENTPROPERTY",
+        "message": "स्वतंत्र भवन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPTYPE_BUILTUP_SHAREDPROPERTY",
+        "message": "फ्लैट / इमारत का हिस्सा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPTYPE_VACANT",
+        "message": "खाली जमीन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPTYPE_VACANT_INDEPENDENTPROPERTY",
+        "message": "खाली स्वतंत्र भवन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_MIXED",
+        "message": "मिश्रित",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NA",
+        "message": "नहीं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL",
+        "message": "गैर आवासीय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS",
+        "message": "खाद्य केंद्र",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS_ACRESTAURANT",
+        "message": "एसी रेस्तरां",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS_NONACRESTAURANT",
+        "message": "गैर एसी रेस्तरां",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_HOTELS",
+        "message": "होटल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_OFFICESPACE",
+        "message": "कार्यालय की जगह",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL",
+        "message": "खुदरा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_MALLS",
+        "message": "मॉल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_COMMERCIAL_RETAIL_SHOWROOM",
+        "message": "शोरूम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_INDUSTRIAL",
+        "message": "औद्योगिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL",
+        "message": "संस्थागत",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_INSTITUTIONAL_EDUCATIONAL_COLLEGES",
+        "message": "कॉलेज",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_NONRESIDENTIAL_OTHERS",
+        "message": "अन्य गैर आवासीय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_RESIDENTIAL",
+        "message": "आवासीय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROPUSGTYPE_RESIDENTIAL_OFFICESPACE",
+        "message": "आवासीय ऑफिस का स्थान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_BUILD_COLONY_NAME_LABEL",
+        "message": "भवन / कॉलोनी का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_BUILD_COMP_NAME",
+        "message": "भवन / कंपनी का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_BUILD_NAME_LABEL",
+        "message": "भवन / कॉलोनी का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_CITY",
+        "message": "शहर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_CITY_PLACEHOLDER",
+        "message": "शहर चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_DHNO",
+        "message": "दरवाजा / मकान नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_LOCALITY_LABEL",
+        "message": "इलाका",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_LOCALITY_MOHALLA_LABEL",
+        "message": "इलाका / मोहल्ला",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_MAP_LOC",
+        "message": "मानचित्र पर स्थान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_MOHALLA",
+        "message": "मोहल्ला",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_PHNO_LABEL",
+        "message": "मकान / प्लॉट नं",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_PH_SURVEYNO_LABEL",
+        "message": "प्लॉट / मकान / सर्वे नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_PINCODE",
+        "message": "पिन कोड",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_PLOT_SIZE_LABEL",
+        "message": "प्लॉट का आकार (वर्ग मीटर में)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PROP_DETAIL_STREET_NAME",
+        "message": "सड़क का नाम",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REBATE_ADDITIONAL_AMOUNT_CHARGED",
+        "message": "नागरिक पर आगया गया अतिरिक्त शुल्क",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REBATE_ADVANCED_PAID",
+        "message": "नागरिक द्वारा किया गया अग्रिम (एडवांस) भुगतान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REBATE_BY_COMMISSIONER",
+        "message": "आयुक्त / ईओ द्वारा दी गयी छूट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REBATE_HEADER",
+        "message": "छूट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REJECT_REJECTED_APP_MEESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को अस्वीकृत कर दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REJECT_REJECTED_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को अस्वीकृत कर दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REVIEW_TRADE_LICENSE",
+        "message": "आवेदन की जांच करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ROADTYPE_BERMCUTTINGKATCHA",
+        "message": "पट्टी / मुंडेर काटना (कच्ची)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ROADTYPE_BMPREMIXROAD",
+        "message": "बी.एम. और प्रीमिक्स रोड",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ROADTYPE_BRICKPAVING",
+        "message": "ईंट का फ़र्श",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ROADTYPE_CCROAD",
+        "message": "सीसी रोड",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ROADTYPE_INTERLOCKINGPAVERBLOCK",
+        "message": "इंटरलॉकिंग पेवर ब्लॉक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ROADTYPE_OPENPIPE",
+        "message": "ओपन पाइप",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ROADTYPE_PREMIXCARPET",
+        "message": "प्रीमिक्स कालीन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SANCTION_LETTER",
+        "message": "स्वीकृति पत्र",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_APPLICATIONS",
+        "message": "आवेदन खोजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_APPLICATION_SUB_HEADER",
+        "message": "जल और सीवरेज आवेदन खोजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNECTIONS",
+        "message": "कनेक्शन खोजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNECTIONS_APPLICATION_NO",
+        "message": "आवेदन नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNECTIONS_APPLICATION_NO_LABEL",
+        "message": "आवेदन नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNECTIONS_APPLICATION_NO_PLACEHOLDER",
+        "message": "आवेदन नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNECTIONS_DETAILS_HEADER",
+        "message": "कनेक्शन का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNECTION_HEADER",
+        "message": "जल और सीवरेज कनेक्शन खोजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNECTION_RESET_BUTTON",
+        "message": "रीसेट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNECTION_SEARCH_BUTTON",
+        "message": "खोजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNECTION_SUB_HEADER",
+        "message": "जल और सीवरेज कनेक्शन खोजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNNECTION_CONSUMER_PLACEHOLDER",
+        "message": "उपभोक्ता नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNNECTION_OLD_CONSUMER_LABEL",
+        "message": "पुराना उपभोक्ता नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_CONNNECTION_OLD_CONSUMER_PLACEHOLDER",
+        "message": "पुराना उपभोक्ता नंबर दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEARCH_PROPERTY",
+        "message": "संपत्ति खोजें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SELECT_DOC_DD_LABEL",
+        "message": "दस्तावेज़ का चयन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SELECT_METER_STATUS_PLACEHOLDER",
+        "message": "मीटर स्थिति का चयन करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SENDBACK_CHECKLIST_MESSAGE_HEAD",
+        "message": "आवेदन सफलतापूर्वक वापस भेज दिया गया है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SENDBACK_CHECKLIST_MESSAGE_SUB",
+        "message": "आवेदन की स्थिति की सूचना पंजीकृत मोबाइल नंबर पर भेज दी गयी है",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MEESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MEESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MEESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MEESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MEESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_DESCRIPTION_NOTE",
+        "message": "* एक से अधिक तलों / इकाइयों के मामले में सभी मंजिलों / इकाइयों के ऑक्यूपेंसी /अधिभोग प्रमाण प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_HEADING",
+        "message": "निर्माण का प्रमाण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_LABEL",
+        "message": "1. बिल्डिंग प्लान / समापन प्रमाणपत्र",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_COMMON_BUTTON_APPLY",
+        "message": "लागू करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_COMMON_BUTTON_PRINT",
+        "message": "प्रिंट करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_ELECTRICITY_BILL_DESCRIPTION_NOTE",
+        "message": "* एक से अधिक तलों / इकाइयों के मामले में सभी मंजिलों / इकाइयों के उपयोग का प्रमाण प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_ELECTRICITY_BILL_HEADING",
+        "message": "प्रयोग का प्रमाण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_ELECTRICITY_BILL_LABEL",
+        "message": "1. बिजली बिल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_AADHAAR_LABEL",
+        "message": "4. आधार कार्ड",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_ADDRESSPROOF_DESCRIPTION_NOTE",
+        "message": "* एक से अधिक संस्थागत अवदानों के मामले में प्राथमिक या अधिकृत व्यक्ति की आईडी प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_DL_LABEL",
+        "message": "2. ड्राइविंग लाइसेंस",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_ELECTRICITYBILL_LABEL",
+        "message": "1. बिजली बिल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_HEADING",
+        "message": "निवास प्रमाण पत्र",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_IDENTITYPROOF_DESCRIPTION_NOTE",
+        "message": "* एक से अधिक संस्थागत अवदानों के मामले में प्राथमिक या अधिकृत व्यक्ति की आईडी प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_PAN_LABEL",
+        "message": "5. पैन कार्ड",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_PASSPORT_LABEL",
+        "message": "6. पासपोर्ट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_ADDRESSPROOF_VOTERID_LABEL",
+        "message": "3. मतदाता पहचान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_AADHAAR_LABEL",
+        "message": "1. आधार कार्ड",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_DRIVING_LABEL",
+        "message": "3. ड्राइविंग लाइसेंस",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_HEADING",
+        "message": "पहचान का सबूत",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_PAN_LABEL",
+        "message": "4. पैन कार्ड",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_PASSPORT_LABEL",
+        "message": "5. पासपोर्ट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_OWNER_IDENTITYPROOF_VOTERID_LABEL",
+        "message": "2. मतदाता पहचान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_PLUMBER_REPORT_DRAWING_DESCRIPTION_NOTE",
+        "message": "* एक से अधिक तलों / इकाइयों के मामले में सभी मंजिलों / इकाइयों के उपयोग का प्रमाण प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_PLUMBER_REPORT_DRAWING_HEADING",
+        "message": "नलसाजी/प्लंबिंग रिपोर्ट का प्रमाण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_PLUMBER_REPORT_DRAWING_LABEL",
+        "message": "1. नलसाज रिपोर्ट / आरेखण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_PROPERTY_TAX_RECIEPT_DESCRIPTION_NOTE",
+        "message": "* एक से अधिक तलों / इकाइयों के मामले में सभी मंजिलों / इकाइयों के ऑक्यूपेंसी /अधिभोग प्रमाण प्रदान करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_PROPERTY_TAX_RECIEPT_HEADING",
+        "message": "ऑक्यूपेंसी प्रमाण / अधिभोग प्रमाण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_PROPERTY_TAX_RECIEPT_LABEL",
+        "message": "1. संपत्ति कर रसीद",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_REQ_DOCS_HEADER",
+        "message": "आवश्यक दस्तावेज - पानी और सीवरेज",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_WATERSOURCE_TEST",
+        "message": "परीक्षा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICE_FEE_HEADER",
+        "message": "सेवा शुल्क",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_CONN_CATEGORY",
+        "message": "कनेक्शन श्रेणी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_CONN_EXECUTION_DATE",
+        "message": "कनेक्शन अमल किये जाने की तारीख",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_CONN_RAIN_WATER_HARVESTING_FAC",
+        "message": "वर्षा जल संग्रहण सुविधा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_CONN_TYPE",
+        "message": "कनेक्शन का प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_CONSUMP",
+        "message": "सेवन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_CUR_METER_READ",
+        "message": "वर्तमान मीटर रीडिंग",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_LAST_METER_READ",
+        "message": "पिछली मीटर रीडिंग",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_METER_ID",
+        "message": "मीटर आईडी",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_METER_READ_DATE_LABEL",
+        "message": "मीटर रीडिंग की तारीख",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_METER_READ_STAT",
+        "message": "मीटर रीडिंग स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_METER_STAT",
+        "message": "मीटर स्थिति",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_NO_OF_TAPS",
+        "message": "नल की संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_NO_OF_TAPS_PLACEHOLDER",
+        "message": "नल की संख्या दर्ज करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_NO_OF_TOILETS",
+        "message": "शौचालयों की संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_PIPE_SIZE",
+        "message": "पाइप का आकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_PIPE_SIZE_PLACEHOLDER",
+        "message": "आकार चुनें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_PROP_USE_TYPE",
+        "message": "संपत्ति प्रयोग का प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_SERV_LABEL",
+        "message": "सेवा",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_SERV_TYPE",
+        "message": "सेवा प्रकार",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_WATER_SOURCE",
+        "message": "जल स्रोत",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_WATER_SUB_SOURCE",
+        "message": "जल उप स्रोत",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>,नए <सेवा> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा किया गया। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SUMMARY_EDIT",
+        "message": "बदलें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TASK_DETAILS",
+        "message": "जल और सीवरेज आवेदन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TASK_DETAILS_CONN_DETAIL_NO_OF_CLOSETS_PROPOSED",
+        "message": "पानी closets की प्रस्तावित संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TASK_DETAILS_CONN_DETAIL_NO_OF_TAPS_PROPOSED",
+        "message": "प्रस्तावित नलों की संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TASK_DETAILS_CONN_DETAIL_NO_OF_TOILETS_PROPOSED",
+        "message": "पानी शौचालय की प्रस्तावित संख्या",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TASK_DETAILS_CONN_DETAIL_PIPE_SIZE_PROPOSED",
+        "message": "प्रस्तावित पाइप आकार (इंच में)",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TASK_DETAILS_FEE_ESTIMATE",
+        "message": "शुल्क का अनुमान",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TASK_DETAILS_OLD_CONSUMER_NO",
+        "message": "पुराने उपभोक्ता नंबर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TASK_PROP_OWN_HEADER",
+        "message": "संपत्ति के मालिक का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TIME_ADHOC_PENALTY",
+        "message": "एडहॉक जुर्माना",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_TIME_ADHOC_REBATE",
+        "message": "एडहॉक छूट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_UPDATE_PROPERTY_INFO_AT_ULB",
+        "message": "संपत्ति मॉड्यूल में अपनी संपत्ति जानकारी को अपडेट करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_UPLOAD_MANDATORY_DOCUMENTS",
+        "message": "कृपया अनिवार्य दस्तावेजों को अपलोड करें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FARWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> इतिहास देखने के लिए लिंक पर क्लिक करें। <एक्शन बटन> इतिहास देखें लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FARWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> इतिहास देखने के लिए लिंक पर क्लिक करें। <एक्शन बटन> इतिहास देखें लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> क्लिक करें <इतिहास देखें लिंक>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> इतिहास देखने के लिए लिंक पर क्लिक करें। <एक्शन बटन> इतिहास देखें लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VIEWBILL_DETAILS_HEADER",
+        "message": "बिल विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VIEW_BILL_BILLING_PERIOD_LABEL",
+        "message": "बिलिंग अवधि",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VIEW_BILL_DUE_DATE_LABEL",
+        "message": "नियत तारीख",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VIEW_BILL_IMP_DATE_HEADER",
+        "message": "महत्वपूर्ण तिथियाँ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VIEW_BREAK_UP_TOTAL",
+        "message": "कुल",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VIEW_DETAILS",
+        "message": "विस्तार से देखें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_WORKFLOW_ALREADY_INITIATED",
+        "message": "आवेदन पहले से मौजूद!",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    }
+]
