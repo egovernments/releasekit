@@ -133,7 +133,7 @@
     },
     {
         "code": "ADVT_GAS_BALLOON_ADVERTISEMENT_TAX",
-        "message": "Tax",
+        "message": "Gas Ballon Advertisement",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -654,168 +654,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "UC_DOOR_NO_LABEL",
-        "message": "Door No ",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_BLDG_NAME_LABEL",
-        "message": "Building Name",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_SRT_NAME_LABEL",
-        "message": "Street Name",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_MOHALLA_LABEL",
-        "message": "Mohalla ",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_PINCODE_LABEL",
-        "message": "Pincode",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_DOOR_NO_PLACEHOLDER",
-        "message": "Enter Door No",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_BLDG_NAME_PLACEHOLDER",
-        "message": "Enter Building Name",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_SRT_NAME_PLACEHOLDER",
-        "message": "Enter Street Name",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_MOHALLA_PLACEHOLDER",
-        "message": "Choose Mohalla",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_PINCODE_PLACEHOLDER",
-        "message": "Enter Pincode",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_ECHALLAN",
-        "message": "eChallan",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_SEARCHANDPAY_LABEL",
-        "message": "Search And Pay",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "NEW_CHALLAN_BUTTON",
-        "message": "New Challan",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_BILL_NO_LABEL",
-        "message": "Bill No",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_BILL_GENERATION_MESSAGE_SUB",
-        "message": "A notification regarding above challan/bill has been sent to the registered Mobile No.",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BILLNO-TX.Electricity_Chungi",
-        "message": "Bill No",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_BILL_GENERATED_SUCCESS_MESSAGE",
-        "message": "Challan Generated Succesfully",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_BUTTON_PAY",
-        "message": "Pay",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "COMMON_TABLE_SEARCH_RESULT",
-        "message": "Search Result",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CHALLAN_DETAILS",
-        "message": "Challan Details",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_UPDATE_CHALLAN",
-        "message": "Updated",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_CANCEL_CHALLAN",
-        "message": "Cancel",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_COMMON_NOT_PAID",
-        "message": "Not Paid",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CANCEL_CHALLAN_HEADER",
-        "message": "Header",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CANCEL_COMMENT_LABEL ",
-        "message": "Comment",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CANCEL_YES",
-        "message": "Yes",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CANCEL_NO",
-        "message": "No",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "ACTION_TEST_M_COLLECT",
         "message": "mCollect",
         "module": "rainmaker-common",
@@ -926,6 +764,138 @@
     {
         "code": "UC_CHALLAN",
         "message": "Challan ",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_BOTTOM_NAVIGATION_HOME",
+        "message": "Home",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_HOME_QUICK_PAY",
+        "message": "Quick Pay",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_HOME_PT",
+        "message": "Property Tax",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_FILE_A_COMPLAINT",
+        "message": "File a Complaint",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_HOME_MY_COMPLAINTS",
+        "message": "My Complaints",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CREATE_PROPERTY",
+        "message": "Create Property",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MY_PROPERTIES",
+        "message": "My Properties",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MY_APPLICATION",
+        "message": "My Applications",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_HOME_FSM_SERVICES",
+        "message": "Faecal Sludge Mgmt",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_FAECAL_SLUDGE_MGMT",
+        "message": "FAECAL SLUDGE MGMT",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_INBOX",
+        "message": "Inbox",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_NEW_DESULDGING_APPLICATION",
+        "message": "New Emptying of Septic Tank / Pit Application",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_TITLE_VEHICLE_LOG",
+        "message": "Vehicle Log",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_READY_FOR_DISPOSAL",
+        "message": "Ready For Disposal",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_PROVIDE_MOBILE_NUMBER",
+        "message": "Provide your mobile number",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_TEXT",
+        "message": "All the communications regarding the application will be sent to this mobile number.",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_OTP",
+        "message": "OTP Verification",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_LOGIN_OTP_TEXT",
+        "message": "Enter the OTP sent to",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_RESEND_ANOTHER_OTP",
+        "message": "Resend another OTP",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_RESEND_OTP",
+        "message": "Resend OTP",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRE_NOC_SENDBACKTOCITIZEN_SUCCESS_MESSAGE_MAIN",
+        "message": "Application Sent Back to Citizen Successfully",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRE_NOC_APPLICATION_SENDBACKTOCITIZEN_SUCCESS",
+        "message": " ",
         "module": "rainmaker-common",
         "locale": "en_IN"
     }
