@@ -6,12 +6,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "ACTION_TEST_SURE_DASHBOARD",
-        "message": "डैशबोर्ड",
-        "module": "rainmaker-dss",
-        "locale": "hi_IN"
-    },
-    {
         "code": "ACTION_TEST_ULB_HOME",
         "message": "डैशबोर्ड",
         "module": "rainmaker-dss",
@@ -19,7 +13,7 @@
     },
     {
         "code": "ACTION_TEST_ULB_OVERVIEW",
-        "message": "अवलोकन/ निरीक्षण ",
+        "message": "अवलोकन/ निरीक्षण",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -79,19 +73,19 @@
     },
     {
         "code": "CARTON",
-        "message": "दफ़्ती/गत्ते का डिब्बा ",
+        "message": "दफ़्ती/गत्ते का डिब्बा",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "CHARCOAL_KILN",
-        "message": "कोयला भट्टी ",
+        "message": "कोयला भट्टी",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "COLLECTIONBYUSAGETYPE",
-        "message": "उपयोग का  प्रकार",
+        "message": "उपयोग का प्रकार",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -144,32 +138,38 @@
         "locale": "hi_IN"
     },
     {
+        "code": "DSS_COLLECTIONS",
+        "message": "संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
         "code": "DSS_COLLECTION_BY_SELECTED_TYPE_COMMERCIAL",
-        "message": "वाणिज्यिक उपयोग के लिए भुगतान के तरीके ",
+        "message": "वाणिज्यिक उपयोग के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_COLLECTION_BY_SELECTED_TYPE_INDUSTRIAL",
-        "message": "औद्योगिक उपयोग के लिए भुगतान के तरीके ",
+        "message": "औद्योगिक उपयोग के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_COLLECTION_BY_SELECTED_TYPE_INSTITUTIONAL",
-        "message": "संस्थागत उपयोग के लिए भुगतान के तरीके ",
+        "message": "संस्थागत उपयोग के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_COLLECTION_BY_SELECTED_TYPE_OTHERNON-RESIDENTIAL",
-        "message": "गैर RLE प्रयोग के लिए भुगतान के तरीके ",
+        "message": "गैर RLE प्रयोग के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_COLLECTION_BY_SELECTED_TYPE_RESIDENTIAL",
-        "message": "आवासीय उपयोग के लिए भुगतान के तरीके ",
+        "message": "आवासीय उपयोग के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -212,12 +212,6 @@
     {
         "code": "DSS_DOWNLOAD",
         "message": "डाउनलोड",
-        "module": "rainmaker-dss",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "DSS_FILTERS_APPLIED",
-        "message": "फ़िल्टर लगाए गए ",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -492,6 +486,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "DSS_SEARCH",
+        "message": "खोजें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
         "code": "DSS_SELECT",
         "message": "चुनें",
         "module": "rainmaker-dss",
@@ -523,7 +523,7 @@
     },
     {
         "code": "DSS_TAB_BOUNDARY",
-        "message": "चारदीवारी / सीमा ",
+        "message": "चारदीवारी / सीमा",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -595,19 +595,19 @@
     },
     {
         "code": "DSS_TB_APPROVED",
-        "message": "मंजूर किया गया ",
+        "message": "मंजूर किया गया",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TB_ASSESSED_PROPERTIES",
-        "message": "मूल्यांकन की गयी सम्पत्तियाँ ",
+        "message": "मूल्यांकन की गयी सम्पत्तियाँ",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TB_CANCELLED",
-        "message": "रद्द किया गया ",
+        "message": "रद्द किया गया",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -619,7 +619,7 @@
     },
     {
         "code": "DSS_TB_CITIZENACTIONREQUIRED",
-        "message": "नागरिक कार्यवाही ज़रूरी है ",
+        "message": "नागरिक कार्यवाही ज़रूरी है",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -649,13 +649,13 @@
     },
     {
         "code": "DSS_TB_EXPIRED",
-        "message": "समय सीमा समाप्त ",
+        "message": "समय सीमा समाप्त",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TB_FIELDINSPECTION",
-        "message": "क्षेत्र निरीक्षण ",
+        "message": "क्षेत्र निरीक्षण",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -667,7 +667,7 @@
     },
     {
         "code": "DSS_TB_INITIATED",
-        "message": "शुरू किया गया ",
+        "message": "शुरू किया गया",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -679,13 +679,13 @@
     },
     {
         "code": "DSS_TB_PAID",
-        "message": "चुकाया गया ",
+        "message": "चुकाया गया",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TB_PENALTY",
-        "message": "जुर्माना ",
+        "message": "जुर्माना",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -715,25 +715,25 @@
     },
     {
         "code": "DSS_TB_REJECTED",
-        "message": "अस्वीकृत ",
+        "message": "अस्वीकृत",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TB_REOPENED_COMPLAINTS",
-        "message": "फिर से खोली गयी शिकायतें ",
+        "message": "फिर से खोली गयी शिकायतें",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TB_ROUND_OFF",
-        "message": "पूर्णांक करें ",
+        "message": "पूर्णांक करें",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TB_SLA_ACHIEVED",
-        "message": "SLA पूरा हुआ ",
+        "message": "SLA पूरा हुआ",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -763,7 +763,7 @@
     },
     {
         "code": "DSS_TB_TOTAL",
-        "message": "कुल ",
+        "message": "कुल",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -829,7 +829,7 @@
     },
     {
         "code": "DSS_TL_CUMULATIVE_LICENSE_ISSUED",
-        "message": "कुल संचित जारी लाइसेंस ",
+        "message": "कुल संचित जारी लाइसेंस",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -853,25 +853,25 @@
     },
     {
         "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_BONE_MEAT_AND_BONE_POWDER",
-        "message": "हड्डी, माँस, और हड्डी पाउडर व्यापार के लिए भुगतान के तरीके ",
+        "message": "हड्डी, माँस, और हड्डी पाउडर व्यापार के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_CHARCOAL_KILN",
-        "message": "चारकोल भट्टी व्यापार के लिए भुगतान के तरीके ",
+        "message": "चारकोल भट्टी व्यापार के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_FIREWORKS",
-        "message": "पटाखा व्यापार के लिए भुगतान के तरीके ",
+        "message": "पटाखा व्यापार के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_GOODS.MANUFACTURE.TST-1",
-        "message": "निर्माण के लिए भुगतान के तरीके ",
+        "message": "निर्माण के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -931,13 +931,13 @@
     },
     {
         "code": "DSS_TOTAL_APPLICATIONS:_DEPARTMENT_WISE",
-        "message": "कुल आवेदन और पूर्ण आवेदन",
+        "message": "कुल आवेदन: सेवा वार",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_TOTAL_APPLICATION_&_CLOSED_APPLICATION",
-        "message": "कुल आवेदन: सेवा वार",
+        "message": "कुल आवेदन और पूर्ण आवेदन",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -1027,43 +1027,37 @@
     },
     {
         "code": "DSS_W&S_CONNECTIONS",
-        "message": "कनेक्शन एजिंग",
-        "module": "rainmaker-dss",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "DSS_W&S_CONNECTION_AGEING",
-        "message": "चैनल द्वारा कनेक्शन",
-        "module": "rainmaker-dss",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "DSS_W&S_CONNECTION_BY_CHANNEL",
         "message": "कुल कनेक्शन",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
-        "code": "DSS_W&S_CONNECTION_BY_USAGE",
-        "message": "संचयी संग्रह",
+        "code": "DSS_W&S_CONNECTION_AGEING",
+        "message": "कनेक्शन एजिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_CONNECTION_BY_CHANNEL",
+        "message": "चैनल द्वारा कनेक्शन",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_W&S_CUMULATIVE_COLLECTION",
-        "message": "पानी और सीवरेज (SURE) डैशबोर्ड",
+        "message": "संचयी संग्रह",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_W&S_DASHBOARD",
-        "message": "मांग संग्रह सीमा",
+        "message": "पानी और सीवरेज (SURE) डैशबोर्ड",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_W&S_DEMAND_COLLECTION_BOUNDARY",
-        "message": "उपयोग द्वारा सीवरेज कनेक्शन",
+        "message": "मांग संग्रह सीमा",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -1075,25 +1069,25 @@
     },
     {
         "code": "DSS_W&S_SEWERAGE_CONNECTION_BY_USAGE",
-        "message": "लक्ष्य प्राप्ति",
+        "message": "उपयोग द्वारा सीवरेज कनेक्शन",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_W&S_TARGET_ACHIEVED",
-        "message": "लक्ष्य संग्रह",
+        "message": "लक्ष्य प्राप्ति",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_W&S_TARGET_COLLECTION",
-        "message": "कर हेड बाउंड्री",
+        "message": "लक्ष्य संग्रह",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_W&S_TAX_HEAD_BOUNDARY",
-        "message": "टैक्स हेड बाउंड्री",
+        "message": "कर हेड बाउंड्री",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -1123,13 +1117,13 @@
     },
     {
         "code": "DSS_W&S_WATER_CONNECTIONS",
-        "message": "जल कनेक्शन प्रयोग के हिसाब से / जल कनेक्शन प्रयोग-अनुसार ",
+        "message": "पानी के कनेक्शन",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "DSS_W&S_WATER_CONNECTION_BY_USAGE",
-        "message": "पानी के कनेक्शन",
+        "message": "जल कनेक्शन प्रयोग के हिसाब से / जल कनेक्शन प्रयोग-अनुसार",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -1147,7 +1141,7 @@
     },
     {
         "code": "FILTERS_APPLIED",
-        "message": "FILTERS_APPLIED",
+        "message": "फ़िल्टर लगाए गए",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -1219,31 +1213,31 @@
     },
     {
         "code": "PENDINGATLME",
-        "message": "एलएमई में रुकी हुई ",
+        "message": "एलएमई में रुकी हुई",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "PENDINGFORASSIGNMENT",
-        "message": "नियुक्ति के लिए रुका हुआ ",
+        "message": "नियुक्ति के लिए रुका हुआ",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "PENDINGFORREASSIGNMENT",
-        "message": "पुन: नितुक्त करने के लिए रुका हुआ ",
+        "message": "पुन: नितुक्त करने के लिए रुका हुआ",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "RESIDENTIAL",
-        "message": "आवासीय ",
+        "message": "आवासीय",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
         "code": "RESOLVED",
-        "message": "हल की गयी ",
+        "message": "हल की गयी",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
