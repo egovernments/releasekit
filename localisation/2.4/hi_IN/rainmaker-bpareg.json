@@ -96,6 +96,36 @@
         "locale": "hi_IN"
     },
     {
+        "code": "BLOCK_1",
+        "message": "ब्लॉक 1",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BLOCK_2",
+        "message": "ब्लॉक 2",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BLOCK_3",
+        "message": "ब्लॉक 3",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BLOCK_4",
+        "message": "ब्लॉक 4",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BLOCK_5",
+        "message": "ब्लॉक 5",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "BPAREG_BUILDER_1_DECLARAION_LABEL",
         "message": "मैं सत्यनिष्ठा से यह दावा और घोषणा करता हूं कि मेरी जानकारी और विश्वास के अनुसार दी गयी जानकारी सत्य और सही है।",
         "module": "rainmaker-bpareg",
@@ -104,6 +134,12 @@
     {
         "code": "BPAREG_BUILDER_DECLARAION_LABEL",
         "message": "घोषणा",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_DOC_VERIFIER",
+        "message": "बीपीएआरईजी दस्तावेज सत्यापनकर्ता",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
@@ -122,6 +158,12 @@
     {
         "code": "BPAREG_TECHNICAL_1_DECLARAION_LABEL",
         "message": "मैं सत्यनिष्ठा से यह दावा और घोषणा करता हूं कि मेरी जानकारी और विश्वास के अनुसार दी गयी जानकारी सत्य और सही है।",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ADD_HOC_CHARGES_POPUP_BUTTON_NA",
+        "message": "ना",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
@@ -204,6 +246,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "BPA_APPROVAL_NUMBER_LABEL",
+        "message": "स्वीकृति नंबर",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "BPA_APPROVAL_REJ_MESSAGE_HEAD",
         "message": "हितधारक पंजीकरण आवेदन अस्वीकृत किया गया",
         "module": "rainmaker-bpareg",
@@ -212,6 +260,30 @@
     {
         "code": "BPA_APPROVAL_REJ_MESSAGE_SUBHEAD",
         "message": "आवेदन अस्वीकृति से सम्बंधित सूचना पंजीकृत मोबाइल नंबर पर आवेदक को भेज दी गयी है",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVED_REJECTED_ON_LABEL",
+        "message": "स्वीकृत/रद्द करने की तिथि",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVER",
+        "message": "बीपीएआरईजी अनुमोदनकर्त्ता",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ARCHITECT",
+        "message": "बीपीए वास्तुकार",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BUILDER",
+        "message": "बीपीए बिल्डर",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
@@ -300,6 +372,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "BPA_COMMON_TABLE_COL_FLOOR_LEVEL",
+        "message": "लेवल",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "BPA_COMMON_TABLE_COL_LICENSEE_TYPE",
         "message": "लाइसेंसधारक का प्रकार",
         "module": "rainmaker-bpareg",
@@ -360,14 +438,80 @@
         "locale": "hi_IN"
     },
     {
+        "code": "BPA_DOC_VERIFIER",
+        "message": "बीपीए दस्तावेज सत्यापनकर्ता",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "BPA_EMP_APPLICATION_DOB",
         "message": "जन्म तिथि",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
     {
+        "code": "BPA_ENGINEER",
+        "message": "बीपीए इंजीनियर",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "BPA_EXPERIENCEPROOF",
         "message": "अनुभव का प्रमाण",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FIELD_INSPECTOR",
+        "message": "बीपीए फील्ड इंस्पेक्टर",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FILE_LABEL",
+        "message": "फाइल",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_0",
+        "message": "भू तल",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_1",
+        "message": "पहली मंजिल",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_2",
+        "message": "दूसरी मंजिल",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_3",
+        "message": "तीसरी मंजिल",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_4",
+        "message": "चौथी मंजिल",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_5",
+        "message": "पांचवीं मंजिल",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_F_NOC_VERIFIER",
+        "message": "बीपीए नगर नियोजक",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
@@ -446,6 +590,24 @@
     {
         "code": "BPA_NEW_TRADE_DETAILS_MOHALLA_PLACEHOLDER",
         "message": "इलाका दर्ज करें",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_VERIFIER",
+        "message": "बीपीए",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NO_DOCS_UPLOAD_LABEL",
+        "message": "कोई दस्तावेज अपलोड नहीं किया गया",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NO_DOCUMENTS_UPLOADED_LABEL",
+        "message": "कोई दस्तावेज अपलोड नहीं किया गया",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
@@ -606,6 +768,42 @@
         "locale": "hi_IN"
     },
     {
+        "code": "BPA_SCRUTINY_TITLE",
+        "message": "नयी भवन प्लान संवीक्षा",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STRUCTURALENGINEER",
+        "message": "बीपीए स्ट्रक्चरल इंजीनियर",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUDMITTED_ON_LABEL",
+        "message": "जमा करने की तिथि",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_BY_LABEL",
+        "message": "द्वारा अपलोड किया गया",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_DATE_LABEL",
+        "message": "अपलोड करने की तिथि",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOAD_LABEL",
+        "message": "अपलोड करें",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "BPA_UPLOAD_STATEMENT1",
         "message": "मान्य दस्तावेज आधार कार्ड / वोटर आईडी कार्ड / ड्राइविंग लाइसेंस हैं",
         "module": "rainmaker-bpareg",
@@ -620,6 +818,18 @@
     {
         "code": "BPA_UPLOAD_STATEMENT3",
         "message": "मान्य दस्तावेज पंजीकरण प्रमाणपत्र / डिग्री हैं",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_VERIFIER",
+        "message": "बीपीए सत्यापनकर्ता",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_VIEW_FILE_LABEL",
+        "message": "फाइल देखें",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
@@ -648,8 +858,20 @@
         "locale": "hi_IN"
     },
     {
+        "code": "EDCR_ACKNOWLEDGEMENT_COMMON_CARD",
+        "message": "नयी भवन प्लान संवीक्षा",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "EDCR_ACKNOWLEDGEMENT_SUCCESS_COMMENT",
         "message": "इस प्लान को अब परमिट आवेदन बनाने के लिए इस्तेमाल किया जा सकता",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_ACKNOWLEDGEMENT_SUCCESS_MESSAGE",
+        "message": "भवन प्लान ई डीसीआर संवीक्षा स्वीकृत की गयी",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
@@ -666,8 +888,26 @@
         "locale": "hi_IN"
     },
     {
+        "code": "EDCR_CITIZEN_COMMON_TITLE",
+        "message": "डीसीआर संवीक्षा",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_COMMON_APPL_NEW",
+        "message": "नयी भवन प्लान संवीक्षा",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "EDCR_COMMON_TABLE_APPL_NAME",
         "message": "आवेदक का नाम",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_COMMON_TABLE_APPL_NO",
+        "message": "आवेदन नंबर",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
@@ -690,6 +930,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "EDCR_COMMON_TABLE_SCRUTINY_NO",
+        "message": "भवन प्लान संवीक्षा नंबर",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "EDCR_DOC_UPLOAD_CARD_HEADER",
         "message": "बिल्डिंग प्लान",
         "module": "rainmaker-bpareg",
@@ -702,8 +948,20 @@
         "locale": "hi_IN"
     },
     {
+        "code": "EDCR_DOWNLOAD_REPORT",
+        "message": "संवीक्षा रिपोर्ट डाउनलोड करें",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "EDCR_MY_APPLICATIONS",
         "message": "मेरे आवेदन",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_NUMBER_LABEL",
+        "message": "बिल्डिंग योजना परीक्षण नंबर",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },
@@ -764,6 +1022,18 @@
     {
         "code": "ERR_FILL_DECLARATION_MESSAGE",
         "message": "आगे बढ़ने के लिए नीचे दिए गए चेकबॉक्स को चुनें",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "INPROGRESS",
+        "message": "कार्यप्रवाह में है",
+        "module": "rainmaker-bpareg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NA",
+        "message": "ना",
         "module": "rainmaker-bpareg",
         "locale": "hi_IN"
     },

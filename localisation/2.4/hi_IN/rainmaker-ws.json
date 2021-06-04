@@ -18,6 +18,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "COMMON_GENDER_NA",
+        "message": "ना ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_PROPSUBUSGTYPE_NA",
+        "message": "ना",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CONNECTION_ACTIVATED",
         "message": "कनेक्शन चालू किया गया",
         "module": "rainmaker-ws",
@@ -42,6 +54,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_PENDING_FOR_APPROVAL",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_PENDING_FOR_DOCUMENT_VERIFICATION",
         "message": "दस्तावेज़ सत्यापनके लिए रुका हुआ",
         "module": "rainmaker-ws",
@@ -60,6 +78,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_VIEW",
+        "message": "देखें ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ELECTRICITY_BILL",
         "message": "बिजली बिल",
         "module": "rainmaker-ws",
@@ -68,6 +92,12 @@
     {
         "code": "ERR_CURRENT_READING_DATE_SHOULD_NOT_BE_LESS_THAN_FROM_DATE_AND_NOT_GREATER_THAN_TO_DATE",
         "message": "वर्तमान रीडिंग तिथि तारीख से और आज की तारीख़ के बीच में होनी चाहिए",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_ENTER_AMOUNT_MORE_THAN_ZERO",
+        "message": "शून्य से बड़ी कोई राशि दर्ज करें ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -126,6 +156,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "NONRESIDENTIAL.COMMERCIAL",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NONRESIDENTIAL.INDUSTRIAL",
+        "message": "औद्योगिक",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "NONRESIDENTIAL.INSTITUTIONAL",
         "message": "गैर आवासीय संस्थागत",
         "module": "rainmaker-ws",
@@ -146,6 +188,12 @@
     {
         "code": "OWNER.AUTHORIZATION.TENANCY",
         "message": "किराये का घर",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER.IDENTITYPROOF.PASSPORT",
+        "message": "पहचान का प्रमाण - पासपोर्ट",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -252,6 +300,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "PT_COMMON_BUTTON_NEXT",
+        "message": "अगला",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "PT_NOTIFICATIONS_WATER_SEWERAGE_TAX_PAID",
         "message": "आपका पानी और सीवरेज कर का भुगतान सफलतापूर्वक हो गया है",
         "module": "rainmaker-ws",
@@ -259,31 +313,31 @@
     },
     {
         "code": "SEWERAGE_CONNECTION_BILL_GENERATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें",
+        "message": "प्रिय <Owner Name>, आपका <Service> बिल तैयार है। कृपया बकाया राशि <bill amount> का भुगतान नियत तारीख <Due Date> तक कर दें",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SEWERAGE_CONNECTION_BILL_GENERATION_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, <बिलिंग अवधि >के लिए आपका <सेवा>बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें। आपके बिल की लिंक निम्न है: <बिल लिंक>",
+        "message": "प्रिय <Owner Name>, <Billing Period>के लिए आपका <Service>बिल तैयार है। कृपया बकाया राशि <bill amount> का भुगतान नियत तारीख <Due Date> तक कर दें। आपके बिल की लिंक निम्न है: <Link to Bill>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SEWERAGE_CONNECTION_BILL_GENERATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें। आपके बिल की लिंक निम्न है: <बिल लिंक>",
+        "message": "प्रिय <Owner Name>, आपका <Service> बिल तैयार है। कृपया बकाया राशि <bill amount> का भुगतान नियत तारीख <Due Date> तक कर दें। आपके बिल की लिंक निम्न है: <Link to Bill>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> यहां क्लिक करें <एक्शन बटन> कनेक्शन विवरण पृष्ठ </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name> यहाँ क्लिक करें <Action Button>कनेक्शन विवरण पेज</Action Button> ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, <एमसेवा यूआरएल > पर लॉग इन करें या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name> कृपया लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -301,127 +355,127 @@
     },
     {
         "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कृपया अभी भुगतान करें पर क्लिक करें <एक्शन बटन> अभी भुगतान करें </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name> कृपया भुगतान करें पर क्लिक करें .<Action Button>भुगतान करें</Action Button> ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> कृपया <भुगतान लिंक> पर क्लिक करें। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक> ।",
+        "message": " प्रिय <Owner Name> कृपया <payment link> पर क्लिक करें। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_DUE_AMOUNT_SHOULD_BE_ZERO",
-        "message": "कृपया कनेक्शन को संशोधित करने के लिए आगे बढ़ने से पहले बकाया सीवरेज सेवा शुल्क वसूल करें",
+        "message": "कृपया कनेक्शन संशोधित करने से पहले बकाया सीवरेज डे राशि एकत्रित कर लें ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_EDIT_IN_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, एक नए <Service> कनेक्शन के लिए आपका आवेदन में <Application number> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, एक नए <Service> कनेक्शन के लिए आपका आवेदन में <Application number> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_EDIT_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, एक नए <Service> कनेक्शन के लिए आपका आवेदन में <Application number> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_EDIT_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार किया गया। बदलाव <से प्रभावी दिनांक> से प्रभावी हो जाएगा। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपका आवेदन <Application number> स्वीकार किया गया। बदलाव <Date effective from> से प्रभावी हो जाएगा। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": "प्रिय <Owner Name> लॉग इन करें <mseva URL> या डाउनलोड करें <mseva app link>।",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_MODIFY_IN_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन में<आवेदन नंबर> बदलाव किया गया। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपका आवेदन में<Application number> बदलाव किया गया। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_MODIFY_REJECT_REJECTED_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार नहीं हुआ। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपका आवेदन <Application number> स्वीकार नहीं हुआ। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_MODIFY_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार नहीं हुआ। कृपया लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपका आवेदन <Application number> स्वीकार नहीं हुआ। अधिक जानकारी के लिए कृपया लॉग इन करें <mseva URL> या डाउनलोड करें <mseva app link>।",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_MODIFY_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन में<आवेदन नंबर> बदलाव किया गया। कृपया लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपका आवेदन में<Application number> बदलाव किया गया। अधिक जानकारी के लिए कृपया लॉग इन करें <mseva URL> या डाउनलोड करें <mseva app link>।",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <Application number> है। <Action Button> आवेदन डाउनलोड करें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <आवेदन नंबर> है। करने के लिए यहाँ क्लिक करें <आवेदन डाउनलोड लिंक > अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <Application number> है।  करने के लिए यहाँ क्लिक करें <Application download link> अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_MODIFY_TASK_DETAILS",
-        "message": "टास्क विवरण / कार्य का विवरण",
+        "message": " टास्क विवरण",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_PAYMENT_NOTIFICATION_APP",
-        "message": "<बिल अवधि > के लिए <सेवा>बिल का आपका <चुकाई_राशि> रु का भुगतान प्राप्त हुआ। <एक्शन बटन> रसीद डाउनलोड करें </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, बिलिंग अवधि <Billing Period> के लिए आपका <Service> बिल का <Amount paid> का भुगतान प्राप्त हो गया है <Amount paid>। <Action Button>रसीद डाउनलोड करें</Action Button> ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_PAYMENT_NOTIFICATION_SMS",
-        "message": "प्रिय <मालिक का नाम >, <बिल अवधि > के लिए <सेवा>बिल का आपका <चुकाई_राशि> रु का भुगतान प्राप्त हुआ। आपकी रसीद की लिंक निम्न है <रसीद डाउनलोड लिंक>",
+        "message": "प्रिय <Owner Name>, <Billing Period> के लिए <Service>बिल का आपका <Amount paid> रु का भुगतान प्राप्त हुआ। आपकी रसीद की लिंक निम्न है <receipt download link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> का भुगतान सफलतापूर्वक दर्ज किया गया। आप <डाउनलोड रसीद> पर क्लिक करके रसीद डाउनलोड कर सकते हैं। <एक्शन बटन> डाउनलोड रसीद </ एक्शन बटन> आपका कनेक्शन <SLA> दिनों के भीतर सक्रिय हो जाएगा। <नलसाज जानकारी> आप के लिए आवंटित प्लम्बर/नलसाज <नलसाज नाम>है , लाइसेंस नंबर <नलसाज लाइसेंस नंबर>, संपर्क नंबर <नलसाज मोबाइल नं।>। </ नलसाज जानकारी>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपके आवेदन <Application number> का भुगतान सफलतापूर्वक दर्ज किया गया। आप 'डाउनलोड रसीद' पर क्लिक करके रसीद डाउनलोड कर सकते हैं। <Action Button> 'डाउनलोड रसीद' </ Action Button> आपका कनेक्शन <SLA> दिनों के भीतर सक्रिय हो जाएगा। <Plumber Info> आप के लिए आवंटित प्लम्बर/नलसाज  <Plumber name>है , लाइसेंस नंबर <Plumber Licence no.>, संपर्क नंबर <Plumber Mobile no.>। </ Plumber info>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -433,151 +487,151 @@
     },
     {
         "code": "SW_REJECT_REJECTED_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को अस्वीकृत कर दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को अस्वीकृत कर दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को अस्वीकृत कर दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को अस्वीकृत कर दिया गया है। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_Round_Off",
-        "message": "सीवरेज पूर्णांक",
+        "message": " सीवरेज पूर्णांक",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखने के लिए लिंक </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा कर दिया गया है। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा कर दिया गया है। आपका आवेदन नंबर <Application number> है। <Action Button> आवेदन डाउनलोड करें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा कर दिया गया है। आपका आवेदन नंबर <आवेदन नंबर> है। आवेदन डाउनलोड करने के लिए यहां क्लिक करें: <आवेदन_डाउनलोड_लिंक_> अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा कर दिया गया है। आपका आवेदन नंबर <Application number> है। आवेदन डाउनलोड करने के लिए यहां क्लिक करें: <Application download link> अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति  क्षेत्र निरीक्षण के लिए रुका हुआ से कनेक्शन स्वीकृति के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, एक नया <Service> कनेक्शन के लिए आपके आवेदन <Application number>  की स्थिति  क्षेत्र निरीक्षण के लिए रुका हुआ से कनेक्शन स्वीकृति के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <Action Button> इतिहास_देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति क्षेत्र निरीक्षण के लिए रुका हुआ से कनेक्शन स्वीकृति के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, <इतिहास_देखें_लिंक> पर क्लिक करें",
+        "message": "प्रिय <Owner Name>, एक नया <Service> कनेक्शन के लिए आपके आवेदन <Application number>  की स्थिति क्षेत्र निरीक्षण के लिए रुका हुआ से कनेक्शन स्वीकृति के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, <इतिहास_देखें> पर क्लिक करें",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, एक नया <Service> कनेक्शन के लिए आपके आवेदन <Application number>  की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण  के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <Action Button> इतिहास_देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, एक नया <Service> कनेक्शन के लिए आपके आवेदन <Application number>  की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण  के लिए रुका हुआ में बदल गयी है। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, एक नया <Service> कनेक्शन के लिए आपके आवेदन <Application number>  की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण  के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <Action Button> इतिहास_देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, एक नया <Service> कनेक्शन के लिए आपके आवेदन <Application number>  की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण  के लिए रुका हुआ में बदल गयी है। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "TL_OWNERPHOTO_NOTE",
-        "message": "मान्य दस्तावेज पासपोर्ट फोटो है",
+        "message": "मान्य दस्तावेज पासपोर्ट फोटो है ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WATER_CONNECTION_BILL_GENERATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें",
+        "message": "प्रिय <Owner Name>, आपका <Service> बिल तैयार है। कृपया बकाया राशि <bill amount> का भुगतान नियत तारीख <Due Date> तक कर दें",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WATER_CONNECTION_BILL_GENERATION_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, बिलिंग अवधि <बिलिंग अवधि> के लिए आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें। आपके बिल की लिंक निम्न है: < बिल_लिंक>",
+        "message": "प्रिय <Owner Name>, बिलिंग अवधि <Billing Period> के लिए आपका <Service>  बिल तैयार है। कृपया बकाया राशि <bill amount> का भुगतान नियत तारीख <Due Date> तक कर दें। आपके बिल की लिंक निम्न है: < link to bill>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WATER_CONNECTION_BILL_GENERATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, आपका <सेवा> बिल तैयार है। कृपया बकाया राशि <बिल की राशि> का भुगतान नियत तारीख <नियत दिनांक> तक कर दें। आपके बिल की लिंक निम्न है: <बिल लिंक>",
+        "message": "प्रिय <Owner Name>, आपका <Service> बिल तैयार है। कृपया बकाया राशि <bill amount> का भुगतान नियत तारीख <Due Date> तक कर दें। आपके बिल की लिंक निम्न है: <Link to Bill>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -1585,13 +1639,13 @@
     },
     {
         "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> यहां क्लिक करें <एक्शन बटन> कनेक्शन विवरण पृष्ठ </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name> यहाँ क्लिक करें <Action Button>कनेक्शन विवरण पेज</Action Button> ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, <एमसेवा यूआरएल > पर लॉग इन करें या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name> कृपया लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -1806,6 +1860,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "WS_ADD_ROAD_TYPE_LABEL",
+        "message": "सड़क का प्रकार जोड़ें ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "WS_ADHOC_MISCALCULATION",
         "message": "पहले मूल्यांकन के गलत अनुमान",
         "module": "rainmaker-ws",
@@ -1890,6 +1950,30 @@
         "locale": "hi_IN"
     },
     {
+        "code": "WS_APPLICATION_TYPE_MODIFY_SEWERAGE_CONNECTION",
+        "message": "सीवरेज  कनेक्शन संशोधित करें ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION_TYPE_MODIFY_WATER_CONNECTION",
+        "message": "जल कनेक्शन संशोधित करें ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION_TYPE_NEW_SEWERAGE_CONNECTION",
+        "message": "सीवरेज  कनेक्शन ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPLICATION_TYPE_NEW_WATER_CONNECTION",
+        "message": "जल कनेक्शन ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "WS_APPLY_CLICK_HERE",
         "message": "यहाँ क्लिक करें",
         "module": "rainmaker-ws",
@@ -1921,7 +2005,7 @@
     },
     {
         "code": "WS_APPLY_WATER",
-        "message": "पानी",
+        "message": "जल ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -1951,13 +2035,19 @@
     },
     {
         "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कृपया अभी भुगतान करें पर क्लिक करें <एक्शन बटन> अभी भुगतान करें </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name> कृपया भुगतान करें पर क्लिक करें .<Action Button>भुगतान करें</Action Button> ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> कृपया <भुगतान लिंक> पर क्लिक करें। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक> ।",
+        "message": " प्रिय <Owner Name> कृपया <payment link> पर क्लिक करें। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_BILL_AMENDMENT_BUTTON",
+        "message": "बिल संशोधन ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -2286,6 +2376,24 @@
         "locale": "hi_IN"
     },
     {
+        "code": "WS_CONNECTIONTYPE_BULK_SUPPLY",
+        "message": "थोक सप्लाई ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONNECTIONTYPE_METERED",
+        "message": "मीटर ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_CONNECTIONTYPE_NON_METERED",
+        "message": "नॉन मीटर ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "WS_CONNECTION_ACTIVATE_SUCCESS_SUBHEAD",
         "message": "आवेदन की स्थिति की सूचना पंजीकृत मोबाइल नंबर पर भेज दी गयी है",
         "module": "rainmaker-ws",
@@ -2538,6 +2646,30 @@
         "locale": "hi_IN"
     },
     {
+        "code": "WS_DEFAULT_EDIT_MODIFY_CONNECTION_APP_MESSAGE",
+        "message": "प्रिय उपभोक्ता , कनेक्शन के संशोधन के लिए आपका आवेदन <Application number> सम्पादित किया गया। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <View History Link>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DEFAULT_EDIT_MODIFY_CONNECTION_SMS_MESSAGE",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपका आवेदन में<Application number> बदलाव किया गया। अधिक जानकारी के लिए कृपया लॉग इन करें <mseva URL> या डाउनलोड करें <mseva app link>।",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DEFAULT_EDIT_NEW_CONNECTION_APP_MESSAGE",
+        "message": "प्रिय <Owner Name>, नए <Service> के लिए आपका आवेदन<Application number> सम्पादित कर दिया गया है।  अधिक जानकारी के लिए यहाँ क्लिक करें <View History Link>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DEFAULT_EDIT_NEW_CONNECTION_SMS_MESSAGE",
+        "message": "प्रिय <Owner Name>, नए <Service> के लिए आपका आवेदन<Application number> सम्पादित कर दिया गया है।  अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "WS_DOCUMENT_DETAILS_BUTTON_UPLOAD_FILE",
         "message": "फ़ाइल अपलोड करें",
         "module": "rainmaker-ws",
@@ -2563,25 +2695,25 @@
     },
     {
         "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, एक नए <Service> कनेक्शन के लिए आपका आवेदन में <Application number> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नए <सेवा> कनेक्शन के लिए आपका आवेदन में <आवेदन नंबर> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, एक नए <Service> कनेक्शन के लिए आपका आवेदन में <Application number> बदलाव किया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -2731,7 +2863,13 @@
     },
     {
         "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार किया गया। बदलाव <से प्रभावी दिनांक> से प्रभावी हो जाएगा। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपका आवेदन <Application number> स्वीकार किया गया। बदलाव <Date effective from> से प्रभावी हो जाएगा। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपका आवेदन <Application number> स्वीकार किया गया। बदलाव <Date effective from> से प्रभावी हो जाएगा। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -2743,7 +2881,7 @@
     },
     {
         "code": "WS_MODIFY_IN_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपके आवेदन <आवेदन नंबर> में बदलाव कर दिए गए हैं । अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपके आवेदन <Application number> में बदलाव कर दिए गए हैं । अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -2755,7 +2893,7 @@
     },
     {
         "code": "WS_MODIFY_REJECT_REJECTED_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार नहीं हुआ। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, कनेक्शन के संशोधन के लिए आपका आवेदन <Application number> स्वीकार नहीं हुआ। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -2767,7 +2905,13 @@
     },
     {
         "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <Application number> है। <Action Button> आवेदन डाउनलोड करें </ Action Button>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
+        "message": "प्रिय <Owner Name>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <Application number> है। <Action Button> आवेदन डाउनलोड करें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -3157,13 +3301,13 @@
     },
     {
         "code": "WS_PAYMENT_NOTIFICATION_APP",
-        "message": "<बिल अवधि > के लिए <सेवा>बिल का आपका <चुकाई_राशि> रु का भुगतान प्राप्त हुआ। <एक्शन बटन> रसीद डाउनलोड करें </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, बिलिंग अवधि <Billing Period> के लिए आपका <Service> बिल का <Amount paid> का भुगतान प्राप्त हो गया है <Amount paid>। <Action Button>रसीद डाउनलोड करें</Action Button> ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_PAYMENT_NOTIFICATION_SMS",
-        "message": "प्रिय <मालिक का नाम>, बिलिंग अवधि <बिलिंग अवधि> के लिए आपका <सेवा> बिल का <भुगतान की गई राशि> का भुगतान प्राप्त हो गया है <भुगतान की गई राशि>। आपके रसीद की लिंक निम्न है: < रसीद_लिंक>",
+        "message": "प्रिय <Owner Name>, बिलिंग अवधि <Billing Period> के लिए आपका <Service> बिल का <Amount paid> का भुगतान प्राप्त हो गया है। आपके रसीद की लिंक निम्न है: <receipt download link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -3211,13 +3355,13 @@
     },
     {
         "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लाइसेंस नंबर <नलसाज लाइसेंस नंबर> संपर्क नंबर <नलसाज मोबाइल नं।>। </ नलसाज जानकारी>",
+        "message": " प्रिय <Owner Name> लाइसेंस नंबर <Plumber Licence No.> मोबाइल नंबर <Plumber Mobile No.>.</Plumber Info> ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लाइसेंस नंबर <नलसाज लाइसेंस नंबर> संपर्क नंबर <नलसाज मोबाइल नं।>। </ नलसाज जानकारी> अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": " प्रिय <Owner Name> लाइसेंस नंबर <Plumber Licence No.> मोबाइल नंबर <Plumber Mobile No.>.</Plumber Info> अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -3877,19 +4021,19 @@
     },
     {
         "code": "WS_REJECT_REJECTED_APP_MEESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को अस्वीकृत कर दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को अस्वीकृत कर दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_REJECT_REJECTED_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को अस्वीकृत कर दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को अस्वीकृत कर दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <View History Link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -4063,91 +4207,127 @@
     },
     {
         "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MEESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <View History Link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MEESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <View History Link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MEESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <View History Link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <एमसेवा यूआरएल > या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए लॉग इन करें <mseva URL> या डाउनलोड करें  <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MEESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <View History Link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MEESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक  करें, इतिहास देखें  <Action Button> इतिहास देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, नए <सेवा> कनेक्शन के लिए आपकेआवेदन <आवेदन नंबर> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <इतिहास_देखें_लिंक>",
+        "message": "प्रिय <Owner Name>, नए <Service> कनेक्शन के लिए आपकेआवेदन <Application number> को वापस भेज दिया गया है। अधिक जानकारी के यहाँ क्लिक करें : <View History Link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_CALCULATION_METERSTATUS_BREAKDOWN",
+        "message": "विभाजन ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_CALCULATION_METERSTATUS_LOCKED",
+        "message": "बंद है ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_CALCULATION_METERSTATUS_NO_METER",
+        "message": "मीटर नहीं है ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_CALCULATION_METERSTATUS_REPLACEMENT",
+        "message": "रिप्लेसमेंट ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_CALCULATION_METERSTATUS_RESET",
+        "message": "रीसेट",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_CALCULATION_METERSTATUS_WORKING",
+        "message": "चालू ",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -4332,6 +4512,24 @@
         "locale": "hi_IN"
     },
     {
+        "code": "WS_SERVICES_MASTERS_WATERSOURCE_BULK_SUPPLY",
+        "message": "थोक सप्लाई ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_WATERSOURCE_METERED",
+        "message": "मीटर ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SERVICES_MASTERS_WATERSOURCE_NON_METERED",
+        "message": "नॉन मीटर ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "WS_SERVICES_MASTERS_WATERSOURCE_TEST",
         "message": "परीक्षा",
         "module": "rainmaker-ws",
@@ -4477,13 +4675,13 @@
     },
     {
         "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>,नए <सेवा> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा किया गया। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>,नए <Service> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा किया गया। आपका आवेदन नंबर <Application number> है। <Action Button> आवेदन डाउनलोड करें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -4567,49 +4765,49 @@
     },
     {
         "code": "WS_VERIFY_AND_FARWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> इतिहास देखने के लिए लिंक पर क्लिक करें। <एक्शन बटन> इतिहास देखें लिंक </ एक्शन बटन>",
+        "message": " प्रिय <Owner Name> इतिहास देखें लिंक पर क्लिक करें <Action Button> इतिहास_देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_VERIFY_AND_FARWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> इतिहास देखने के लिए लिंक पर क्लिक करें। <एक्शन बटन> इतिहास देखें लिंक </ एक्शन बटन>",
+        "message": " प्रिय <Owner Name> इतिहास देखें लिंक पर क्लिक करें <Action Button> इतिहास_देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> क्लिक करें <इतिहास देखें लिंक>",
+        "message": "इतिहास देखें लिंक पर क्लिक करें <View History Link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> इतिहास देखने के लिए लिंक पर क्लिक करें। <एक्शन बटन> इतिहास देखें लिंक </ एक्शन बटन>",
+        "message": " प्रिय <Owner Name> इतिहास देखें लिंक पर क्लिक करें <Action Button> इतिहास_देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "message": "प्रिय <Owner Name>, एक नया <Service> कनेक्शन के लिए आपके आवेदन <Application number>  की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण  के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए,  इतिहास देखें लिंक पर क्लिक करें <Action Button> इतिहास_देखें </ Action Button>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
         "code": "WS_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम> लॉग इन करें <एमसेवा URL> या डाउनलोड करें <एमसेवा ऐप्लिकेशन लिंक>।",
+        "message": " प्रिय <Owner Name> कृपया <mseva URL> पर लॉग इन करें या डाउनलोड करें <mseva app link>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
