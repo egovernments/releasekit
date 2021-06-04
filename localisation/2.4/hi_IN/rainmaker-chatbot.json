@@ -54,14 +54,8 @@
         "locale": "hi_IN"
     },
     {
-        "code": "chatbot.messages.contactMessage",
-        "message": "chatbot.messages.contactMessage",
-        "module": "rainmaker-chatbot",
-        "locale": "hi_IN"
-    },
-    {
         "code": "chatbot.messages.continueMessage",
-        "message": "चैटिंग जारी रखने के लिए hi भेजें ",
+        "message": "चैटिंग जारी रखने के लिए \"hi\" भेजें ",
         "module": "rainmaker-chatbot",
         "locale": "hi_IN"
     },
@@ -73,7 +67,7 @@
     },
     {
         "code": "chatbot.messages.pgrCreateAdditionalDetails",
-        "message": "कृपया शिकायत के बारे में कोई अतिरिक्त जानकारी भेजें। वरना नहीं लिखें और भेजें ।",
+        "message": "कृपया शिकायत के बारे में कोई अतिरिक्त जानकारी भेजें। वरना \"नहीं\" लिखें और भेजें ।",
         "module": "rainmaker-chatbot",
         "locale": "hi_IN"
     },
@@ -97,7 +91,7 @@
     },
     {
         "code": "chatbot.messages.pgrCreateLandmark",
-        "message": "कृपया शिकायत का पता / सीमा चिन्ह भेजें। वरना, नहीं  लिखें और भेजें ।",
+        "message": "कृपया शिकायत का पता / सीमा चिन्ह भेजें। वरना, \"नहीं\"  लिखें और भेजें ।",
         "module": "rainmaker-chatbot",
         "locale": "hi_IN"
     },
@@ -121,7 +115,7 @@
     },
     {
         "code": "chatbot.messages.pgrCreatePhoto",
-        "message": "शिकायत की एक तस्वीर जोड़ें। वरना, नहीं लिखें और भेजें ।",
+        "message": "शिकायत की एक तस्वीर जोड़ें। वरना, \"नहीं\" लिखें और भेजें ।",
         "module": "rainmaker-chatbot",
         "locale": "hi_IN"
     },
@@ -151,19 +145,19 @@
     },
     {
         "code": "chatbot.messages.welcomeError",
-        "message": "क्षमा कीजिये, मैं समझा नहीं। शुरू करने के लिए कृपया mseva लिखें और भेजें ।",
+        "message": "क्षमा कीजिये, मैं समझा नहीं। शुरू करने के लिए कृपया \"mseva\" लिखें और भेजें ।",
         "module": "rainmaker-chatbot",
         "locale": "hi_IN"
     },
     {
         "code": "chatbot.messages.welcomeMessage",
-        "message": "mSeva पंजाब में आपका स्वागत है। अब आप शिकायत दर्ज कर सकते हैं और WhatsApp पर शिकायत की स्थिति पर नज़र रख सकते हैं।  किसी भी स्तर मुख्या पेज पर वापस जाने के लिए mseva लिखें और भेजें ",
+        "message": "mSeva पंजाब में आपका स्वागत है। अब आप शिकायत दर्ज कर सकते हैं और WhatsApp पर शिकायत की स्थिति पर नज़र रख सकते हैं।  किसी भी स्तर मुख्या पेज पर वापस जाने के लिए \"mseva\" लिखें और भेजें ",
         "module": "rainmaker-chatbot",
         "locale": "hi_IN"
     },
     {
         "code": "chatbot.messages.wrongConversationStartKeywordError",
-        "message": "क्षमा कीजिये, मैं समझा नहीं। शुरू करने के लिए कृपया mseva लिखें और भेजें ।",
+        "message": "क्षमा कीजिये, मैं समझा नहीं। शुरू करने के लिए कृपया \"mseva\" लिखें और भेजें ।",
         "module": "rainmaker-chatbot",
         "locale": "hi_IN"
     },
@@ -235,7 +229,13 @@
     },
     {
         "code": "chatbot.template.pgrCreateComplaintEndMessage",
-        "message": "धन्यवाद! mSeva पंजाब के माध्यम से आपने सफलतापूर्वक शिकायत दर्ज कर ली है।  आपका शिकायत नंबर है: {{शिकायत_नंबर}} आप शिकायत की स्तिथि निम्न लिंक पर देख सकते हैं। आपक जब भी मेरी सहायता की ज़रूरत हो, mseva लिख कर भेजें ",
+        "message": "धन्यवाद! mSeva पंजाब के माध्यम से आपने सफलतापूर्वक शिकायत दर्ज कर ली है।  आपका शिकायत नंबर है: {{शिकायत_नंबर}} आप शिकायत की स्तिथि निम्न लिंक पर देख सकते हैं। आपक जब भी मेरी सहायता की ज़रूरत हो, \"mseva\" लिख कर भेजें ",
+        "module": "rainmaker-chatbot",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "chatbot.template.pgrTrackComplaintSummary",
+        "message": "*{{शिकायत_श्रेणी}}*\n\\शिकायत_नंबर: {{शिकायत_नंबर}}\n\\ जमा करने की तारीख: {{जमा_तारीख}}\n\\ शिकायत की वर्तमान स्तिथि: *{{शिकायत_स्तिथि}}*\n\\ शिकायत को देखने के लिए नीचे दी गयी लिंक पर क्लिक करें https://uat.digit.org",
         "module": "rainmaker-chatbot",
         "locale": "hi_IN"
     }

@@ -24,6 +24,42 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_APPROVED",
+        "message": "मंजूर किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CONNECTION_ACTIVATED",
+        "message": "कनेक्शन सक्रिय",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PENDING_FOR_DOCUMENT_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापनके लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PENDING_FOR_FIELD_INSPECTION",
+        "message": "फील्ड निरीक्षण के लिए रुका हुआ",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ELECTRICITY_BILL",
         "message": "बिजली बिल",
         "module": "rainmaker-ws",
@@ -73,7 +109,7 @@
     },
     {
         "code": "ERR_WS_PROP_STATUS_INACTIVE",
-        "message": "संपत्ति स्थिति IN work flow/कार्य चालू/कार्य प्रगति में है",
+        "message": "संपत्ति की स्थिति प्रगति में है",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -499,7 +535,7 @@
     },
     {
         "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से ्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
+        "message": "प्रिय <मालिक का नाम>, एक नया <सेवा> कनेक्शन के लिए आपके आवेदन <आवेदन नंबर> की स्थिति दस्तावेज सत्यापन के लिए रुका हुआ से क्षेत्र निरीक्षण के लिए रुका हुआ में बदल गयी है। अपने आवेदन को ट्रैक करने के लिए, पर इतिहास देखें लिंक पर क्लिक करें <एक्शन बटन> इतिहास_देखें_लिंक </ एक्शन बटन>",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -1568,6 +1604,12 @@
     {
         "code": "WS_ACTIVATION_DETAILS",
         "message": "सक्रियण का विवरण",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACTIVE",
+        "message": "सक्रिय",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -2694,12 +2736,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, कनेक्शन के संशोधन के लिए आपका आवेदन <आवेदन नंबर> स्वीकार किया गया। बदलाव <से प्रभावी दिनांक> से प्रभावी हो जाएगा। अधिक जानकारी के लिए यहाँ क्लिक करें, इतिहास देखें <एक्शन बटन> इतिहास देखने के लिए लिंक </ एक्शन बटन>",
-        "module": "rainmaker-ws",
-        "locale": "hi_IN"
-    },
-    {
         "code": "WS_MODIFY_CONNECTION_HEADER",
         "message": "संशोधित कनेक्शन",
         "module": "rainmaker-ws",
@@ -2724,14 +2760,8 @@
         "locale": "hi_IN"
     },
     {
-        "code": "WS_MODIFY_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "संशोधित कनेक्शन",
-        "module": "rainmaker-ws",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WS_MODIFY_SMS_MESSAGE",
-        "message": "मेरे आवेदन ({0})",
+        "code": "WS_MODIFY_SEWERAGE_CONNECTION",
+        "message": "संशोधित सीवरेज कनेक्शन",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -2742,14 +2772,14 @@
         "locale": "hi_IN"
     },
     {
-        "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
-        "message": "प्रिय <मालिक का नाम>, आपने सफलतापूर्वक अपना आवेदन कनेक्शन के संशोधन के लिए जमा कर दिया है। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
+        "code": "WS_MODIFY_TASK_DETAILS",
+        "message": "संशोधित कनेक्शन",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
     {
-        "code": "WS_MODIFY_TASK_DETAILS",
-        "message": "संशोधित कनेक्शन",
+        "code": "WS_MODIFY_WATER_CONNECTION",
+        "message": "संशोधित पानी कनेक्शन",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -2804,6 +2834,18 @@
     {
         "code": "WS_MYCONNECTION_ADDRESS",
         "message": "पता",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_NEW_SEWERAGE_CONNECTION",
+        "message": "नया सीवरेज कनेक्शन",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_NEW_WATER_CONNECTION",
+        "message": "नया पानी कनेक्शन",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },
@@ -4428,6 +4470,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "WS_SEWERAGE",
+        "message": "सीवरेज",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
         "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
         "message": "प्रिय <मालिक का नाम>,नए <सेवा> कनेक्शन के लिए आपका आवेदन सफलतापूर्वक जमा किया गया। आपका आवेदन नंबर <आवेदन नंबर> है। <एक्शन बटन> आवेदन डाउनलोड करें </ एक्शन बटन>",
         "module": "rainmaker-ws",
@@ -4598,6 +4646,12 @@
     {
         "code": "WS_VIEW_DETAILS",
         "message": "विस्तार से देखें",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_WATER",
+        "message": "पानी",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
     },

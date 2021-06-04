@@ -7,7 +7,7 @@
     },
     {
         "code": "ACCESSCONTROL_ROLES_ROLES_SUPERUSER",
-        "message": "सुपर यूजर ",
+        "message": "सुपर यूजर",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -19,13 +19,13 @@
     },
     {
         "code": "COMMON_RELATION_HUSHBAND",
-        "message": "पति ",
+        "message": "पति",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "EGOV_HRMS_DEACTIVATIONREASON_ORDERBYCOMMISSIONER",
-        "message": "आयुक्त के आदेश द्वारा",
+        "message": "आयुक्त द्वारा आदेश",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -43,13 +43,13 @@
     },
     {
         "code": "EGOV_HRMS_DEGREE_B_A_B_SC__B_COM_BBA",
-        "message": "बीए / बीएससी / बीकॉम / बीबीए",
+        "message": "बी.ए. / बी.एससी / बी.कॉम / बीबीए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "EGOV_HRMS_DEGREE_B_E_B_TECH_",
-        "message": "बी इ / बीटेक",
+        "message": "बी.ई / बी.टेक",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -67,25 +67,25 @@
     },
     {
         "code": "EGOV_HRMS_DEGREE_MATRICULATION",
-        "message": "एमबीए / पीजीडीएम",
-        "module": "rainmaker-hr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "EGOV_HRMS_DEGREE_MBA_PGDM",
-        "message": "एमए / एम कॉम / एमएससी",
-        "module": "rainmaker-hr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "EGOV_HRMS_DEGREE_M_A_M_COM__M_SC_",
         "message": "मैट्रिक",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
+        "code": "EGOV_HRMS_DEGREE_MBA_PGDM",
+        "message": "एमबीए / पीजीडीएम",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EGOV_HRMS_DEGREE_M_A_M_COM__M_SC_",
+        "message": "एम.ए / एम.कॉम । / एम.एससी",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "EGOV_HRMS_DEGREE_M_E_M_TECH_",
-        "message": "एमई / एमटेक",
+        "message": "एम.ई / एम.टेक",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -97,7 +97,7 @@
     },
     {
         "code": "EGOV_HRMS_EMPLOYEESTATUS_DECEASED",
-        "message": "मृत",
+        "message": "दिवंगत",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -109,31 +109,31 @@
     },
     {
         "code": "EGOV_HRMS_EMPLOYEESTATUS_RESIGNED",
-        "message": "त्यागपत्र दिया हुआ है",
+        "message": "इस्तीफा दिया",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "EGOV_HRMS_EMPLOYEESTATUS_RETIRED",
-        "message": "सेवानिवृत्त",
+        "message": "सेवानिवृत",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "EGOV_HRMS_EMPLOYEESTATUS_SUSPENDED",
-        "message": "निलंबित",
+        "message": "बर्खास्त",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "EGOV_HRMS_EMPLOYEESTATUS_TERMINATED",
-        "message": "प्रतिबंधित",
+        "message": "समाप्त",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "EGOV_HRMS_EMPLOYEESTATUS_TRANSFERRED",
-        "message": "स्थानांतरित",
+        "message": "तबादला किया",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -151,7 +151,7 @@
     },
     {
         "code": "EGOV_HRMS_EMPLOYEETYPE_DEPUTATION",
-        "message": "रतिनियुक्ति",
+        "message": "नियुक्ति",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -169,19 +169,19 @@
     },
     {
         "code": "EGOV_HRMS_EMPLOYMENTTEST_APTITUDETEST",
-        "message": "कौशल परीक्षा",
+        "message": "योग्यता परीक्षा / एप्टीटुड परीक्षा",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "EGOV_HRMS_EMPLOYMENTTEST_MAINS",
-        "message": "मुख्य",
+        "message": "साधन",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "EGOV_HRMS_EMPLOYMENTTEST_PRELIMS",
-        "message": "प्रारंभिक",
+        "message": "प्रारंभिक परीक्षा / प्रीलिम्स",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -198,14 +198,20 @@
         "locale": "hi_IN"
     },
     {
+        "code": "EMPLOYEEREPORT",
+        "message": "कर्मचारी रिपोर्ट",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ERR_HRMS_BULK_CREATE_DUPLICATE_EMPCODE",
-        "message": "थोक अनुरोध में कर्मचारी कोड दोहराया गया है",
+        "message": "थोक अनुरोध में डुप्लिकेट कर्मचारी कोड है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_BULK_CREATE_DUPLICATE_MOBILE",
-        "message": "थोक अनुरोध में दोहराया मोबाइल नंबर है",
+        "message": "थोक अनुरोध में डुप्लीकेट मोबाइल नंबर है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -217,403 +223,403 @@
     },
     {
         "code": "ERR_HRMS_INVALID_ASSIGNMENT_CURRENT_TO_DATE",
-        "message": "कर्मचारी के वर्तमान कार्यभार के लिए 'तिथि तक' रिक्त होनी चाहिए। ",
+        "message": "कर्मचारी की वर्तमान नियुक्ति के लिए 'दिनांक तक' फ़ील्ड खाली छोड़ दें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_ASSIGNMENT_DATES",
-        "message": "कार्यभार की कर्मचारी अवधि (तिथि तक या तिथि से) जन्म की तिथि से पहले नहीं हो सकती है। ",
+        "message": "कर्मचारी की नियुक्ति अवधि ('तारीख से' या 'तारीख तक' ) जन्म की तारीख से पहले नहीं हो सकती",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_ASSIGNMENT_DATES_APPOINTMENT",
-        "message": "कार्यभार की कर्मचारी अवधि (तिथि तक या तिथि से) नियुक्ति की तिथि से पहले नहीं हो सकती है। ",
+        "message": "कर्मचारी की नियुक्ति अवधि ('तारीख से' या 'तारीख तक' ) नियुक्ति की तारीख के पहले की नहीं हो सकती",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_ASSIGNMENT_NOT_CURRENT_TO_DATE",
-        "message": "कर्मचारी के गैर-वर्तमान कर्मचारी के लिए फ़ील्ड रिक्त नहीं होनी चाहिए। ",
+        "message": "कर्मचारी की गैर-वर्तमान नियुक्ति के लिए 'दिनांक तक' क्षेत्र खाली नहीं होना चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_ASSIGNMENT_PERIOD",
-        "message": "कार्यभार की अमान्य अवधि (तिथि से - आज तक)। ",
+        "message": "नियुक्ति की अवधि अमान्य है (तारीख से - तारीख तक)",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_BOUNDARY_TYPE_HEIRARCHY",
-        "message": "न्यायिक सीमा प्रकार मूल्य अमान्य है। ",
+        "message": "क्षेत्राधिकार सीमा प्रकार मान अमान्य है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_CURRENT_ASSGN",
-        "message": "कर्मचारी के लिए ठीक एक वर्तमान कार्यभार होना चाहिए। ",
+        "message": "कर्मचारी के लिए सिर्फ एक वर्तमान कार्य होना चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_DATE_OF_APPOINTMENT",
-        "message": "उपयोगकर्ता द्वारा दर्ज की गई नियुक्ति की अमान्य कर्मचारी तिथि। ",
+        "message": "उपयोगकर्ता द्वारा दर्ज की गयी कर्मचारी नियुक्ति की तारीख अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_DATE_OF_APPOINTMENT_DOB",
-        "message": "नियुक्ति की तिथि जन्म तिथि से पहले नहीं हो सकती है। ",
+        "message": "कर्मचारी की नियुक्ति की तिथि जन्म तिथि से पहले की नहीं हो सकती",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_DEACT_REASON",
-        "message": "कर्मचारी निष्क्रियकरण कारण अमान्य है। ",
+        "message": "कर्मचारी को निष्क्रिय करने का कारण अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_DEACT_REQUEST",
-        "message": "निष्क्रिय होने के दौरान एम्प्लोयी एक्टिव फ्लैग चेक नहीं होना चाहिए",
+        "message": "निष्क्रिय करते समय कर्मचारी का सक्रिय चिह्न नहीं चिन्हित होना चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_DEPARTMENTAL_TEST",
-        "message": "कर्मचारी का विभागीय मूल्यांकन परीक्षण अमान्य है। ",
+        "message": "कर्मचारी का विभागीय मूल्यांकन परीक्षण अमान्य है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_DEPARTMENTAL_TEST_PASSING_YEAR",
-        "message": "कर्मचारी की विभागीय मूल्यांकन परीक्षा उत्तीर्ण वर्ष जन्म की तिथि से पहले नहीं हो सकती है। ",
+        "message": "कर्मचारी का विभागीय मूल्यांकन परीक्षण पास करने का साल जन्म की तारीख से पहले का नहीं हो सकता",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_DEPT",
-        "message": "कर्मचारी का अमान्य विभाग दर्ज किया गया। ",
+        "message": "कर्मचारी का दर्ज किया गया विभाग अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_DESG",
-        "message": "कर्मचारी का अमान्य पदनाम। ",
+        "message": "कर्मचारी पदनाम अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_DOB",
-        "message": "जन्म तिथि अमान्य है। ",
+        "message": "दर्ज की गयी जन्मतिथि अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_EDUCATIONAL_PASSING_YEAR",
-        "message": "कर्मचारी के जन्म का शिक्षा वर्ष जन्म की तारीख से पहले नहीं हो सकता है। ",
+        "message": "कर्मचारी के शिक्षा पूर्ण करने का वर्ष जन्म तिथि से पहले का नहीं हो सकता",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_EDUCATIONAL_STREAM",
-        "message": "कर्मचारी की शिक्षा क्षेत्र अमान्य है। ",
+        "message": "कर्मचारी की शिक्षा शाखा अमान्य है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_EMP_STATUS_ROLE",
-        "message": "अवैध रोजगार की स्थिति दर्ज की गई। ",
+        "message": "दर्ज की गयी रोज़गार स्तिथि अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_EMP_TYPE",
-        "message": "अमान्य कर्मचारी प्रकार दर्ज किया गया। ",
+        "message": "दर्ज किया गया कर्मचारी प्रकार अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_JURISDICTION_ACTIIEV_NULL",
-        "message": "अधिकार क्षेत्र में कम से कम 1 सक्रिय डेटा होना चाहिए",
+        "message": "क्षेत्राधिकार में कम से कम 1 सक्रिय डेटा होना चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_JURISDICTION_BOUNDARY",
-        "message": "न्यायिक सीमा मूल्य अमान्य है। ",
+        "message": "क्षेत्राधिकार सीमा में दी गयी जानकारी अमान्य है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_JURISDICTION_HEIRARCHY",
-        "message": "न्यायिक पदानुक्रम मान अमान्य है। ",
+        "message": "क्षेत्राधिकार पदानुक्रम में दी गयी जानकारी अमान्य है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_MOB_NO",
-        "message": "अमान्य मोबाइल नंबर दर्ज किया गया है।",
+        "message": "दर्ज किया गया मोबाइल नंबर अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_QUALIFICATION",
-        "message": "कर्मचारी की योग्यता अमान्य है। ",
+        "message": "कर्मचारी की योग्यता अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_ROLE",
-        "message": "कर्मचारी को अवैध भूमिका सौंपी गई । ",
+        "message": "कर्मचारी को गलत रोल सौंपा गया",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SEARCH_AOD",
-        "message": "तिथि के साथ-साथ कम से कम एक विभाग और पदनाम को खोज मानदंडों के रूप में पारित करने की आवश्यकता है। ",
+        "message": "तारीख़ से के साथ कम से कम एक विभाग और पदनाम भी खोज में डालें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SEARCH_REQ",
-        "message": "इस उपयोगकर्ता के लिए ओपन सर्च निष्क्रिय है। ",
+        "message": "खोज ओपन करना इस उपयोगकर्ता के लिए बंद है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SEARCH_ROLES",
-        "message": "भूमिकाओं के आधार पर खोज के लिए किरायेदार आईडी पास करना अनिवार्य है। ",
+        "message": "भूमिका के आधार पर खोज करने के लिए, किरायेदार आईडी अनिवार्य है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SEARCH_USER",
-        "message": "फोन नंबर और नाम के आधार पर खोज के लिए किरायेदार आईडी पास करना अनिवार्य है। ",
+        "message": "फ़ोन नंबर और नाम के आधार पर खोज के लिए, किरायेदार आईडी देना अनिवार्य है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SERVICE_ASSGN",
-        "message": "कर्मचारी के लिए वर्तमान में अधिकतम एक कार्यशील सेवा होनी चाहिए। ",
+        "message": "कर्मचारी के लिए वर्तमान में अधिकतम एक कार्यरत सेवा होनी चाहिए।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SERVICE_CURRENT_TO_DATE",
-        "message": "वर्तमान में कार्यरत कर्मचारियों के लिए सेवा की तिथि को रिक्त होना चाहिए। ",
+        "message": "वर्तमान में काम कर रहे कर्मचारियों के लिए सेवा की तारीख रिक्त होनी चाहिए।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SERVICE_DATES",
-        "message": "कर्मचारी सेवा अवधि (तिथि तक या तिथि से) जन्म की तारीख से पहले नहीं हो सकती। ",
+        "message": "कर्मचारी की सेवा अवधि ('तारीख से' या 'तारीख तक' ) जन्म तिथि से पहले नहीं हो सकती",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SERVICE_NOT_CURRENT_TO_DATE",
-        "message": "वर्तमान में काम करने वाले कर्मचारियों के लिए सेवा की तारीख खाली नहीं होनी चाहिए। ",
+        "message": "वर्तमान में काम नहीं कर रहे कर्मचारियों के लिए 'सेवा की तिथि' रिक्त नहीं होना चाहिए।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SERVICE_PERIOD",
-        "message": "कर्मचारी की सेवा अवधि (तिथि से या तिथि तक) अमान्य है। ",
+        "message": "कर्मचारी की सेवा अवधि ('तारीख से' या 'तारीख तक' ) अमान्य है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_INVALID_SERVICE_STATUS",
-        "message": "कर्मचारी की सेवा प्रतिमा अमान्य है। ",
+        "message": "कर्मचारी की सेवा स्तिथि अमान्य है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_MISSING_ROLES",
-        "message": "अमान्य मोबाइल नंबर दर्ज किया गया।",
+        "message": "अमान्य मोबाइल नंबर दर्ज किया गया",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_OVERLAPPING_ASSGN",
-        "message": "कर्मचारी के लिए कार्यभार की अवधि ओवरलैपिंग नहीं होनी चाहिए। ",
+        "message": "कर्मचारी के असाइनमेंट की अवधि में ओवरलैप नहीं होना चाहिए।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_OVERLAPPING_ASSGN_CURRENT",
-        "message": "कर्मचारी के कार्यभार की अवधि वर्तमान कार्यभार के बाद नहीं होनी चाहिए। ",
+        "message": "कर्मचारी की असाइनमेंट की अवधि वर्तमान असाइनमेंटके बाद नहीं होनी चाहिए।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_OVERLAPPING_SERVICEHISTORY_CURRENT",
-        "message": "कर्मचारी के सेवा विवरण की अवधि वर्तमान कार्यभार के बाद नहीं होनी चाहिए! ",
+        "message": "कर्मचारी के सेवा विवरण की अवधि वर्तमान कार्यभार के बाद तक नहीं होनी चाहिए!",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_ASSIGNEMENT_INCOSISTENT",
-        "message": "एक अद्यतन अनुरोध में कार्यभार डेटा में पहले से दर्ज सभी डेटा होना चाहिए। ",
+        "message": "बदलाव के अनुरोध में असाइनमेंट की जानकारी में पहले दर्ज की गयी सारी जानकारी होनी चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_DEACT_DETAILS_INCORRECT_EFFECTIVEFROM",
-        "message": "कर्मचारी निष्क्रिय प्रभावी दिनांक भविष्य की तारीख नहीं होनी चाहिए। ",
+        "message": "कर्मचारी निष्क्रिय करने की प्रभावी तिथि भविष्य की तारीख नहीं होना चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_DEACT_DETAILS_INCOSISTENT",
-        "message": "एक अद्यतन अनुरोध में कर्मचारी के निष्क्रिय होने वाले डेटा में सभी पहले दर्ज किए गए डेटा शामिल होने चाहिए। ",
+        "message": "बदलाव के अनुरोध में कर्मचारी को निष्क्रिय करने की जानकारी में पहले दर्ज की गयी सारी जानकारी होनी चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_DOCUMENT_INCOSISTENT",
-        "message": "अद्यतन अनुरोध में कर्मचारी दस्तावेज़ डेटा में पहले से दर्ज सभी डेटा होना चाहिए। ",
+        "message": "बदलाव के अनुरोध में कर्मचारी दस्तावेज़ की जानकारी में पहले दर्ज की गयी सारी जानकारी होनी चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_EDUCATION_INCOSISTENT",
-        "message": "एक अद्यतन अनुरोध में शिक्षा डेटा में पहले से दर्ज सभी डेटा होना चाहिए। ",
+        "message": "बदलाव के अनुरोध में शिक्षा की जानकारी में पहले दर्ज की गयी सारी जानकारी होनी चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_EMPLOYEE_CODE_CHANGE",
-        "message": "अपडेट अनुरोध में कर्मचारी कोड नहीं बदला जा सकता है। ",
+        "message": "बदलाव के अनुरोध में कर्मचारी कोड नहीं बदला जा सकता।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_EMPLOYEE_NOT_EXIST_CODE",
-        "message": "दिए गए यूयूआईडी  के लिए कोई कर्मचारी नहीं मिला। ",
+        "message": "दी गयी UUID के लिए कोई भी कर्मचारी नहीं मिला",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_EXISTING_MOBNO",
-        "message": "दिए गए मोबाइल नंबर के लिए उपयोगकर्ता मौजूद है।",
+        "message": "दिए गए मोबाइल नंबर के लिए उपयोगकर्ता मौजूद है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_JURISDICTION_INCOSISTENT",
-        "message": "एक अद्यतन अनुरोध में अधिकार क्षेत्र के डेटा में पहले से दर्ज सभी डेटा होना चाहिए। ",
+        "message": "बदलाव के अनुरोध में अधिकार क्षेत्र की जानकारी में पहले दर्ज की गयी सारी जानकारी होनी चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_NULL",
-        "message": "अद्यतन अनुरोध में कर्मचारी कोड शून्य नहीं होना चाहिए। ",
+        "message": "बदलाव के अनुरोध में कर्मचारी कोड शून्य नहीं होना चाहिए।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_NULL_ID",
-        "message": "अपडेट अनुरोध में कर्मचारी आईडी शून्य नहीं होनी चाहिए। ",
+        "message": "बदलाव के अनुरोध में कर्मचारी ID शून्य नहीं होना चाहिए।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_NULL_UUID",
-        "message": "एक अद्यतन अनुरोध में कर्मचारी यूयूआईडी  शून्य नहीं होना चाहिए। ",
+        "message": "बदलाव के अनुरोध में कर्मचारी UUID शून्य नहीं होना चाहिए।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_SERVICE_HISTORY_INCOSISTENT",
-        "message": "अद्यतन अनुरोध में सेवा इतिहास डेटा में पहले से दर्ज किए गए सभी डेटा शामिल होने चाहिए। ",
+        "message": "बदलाव के अनुरोध में सेवा इतिहास की जानकारी में पहले दर्ज की गयी सारी जानकारी होनी चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_UPDATE_TESTS_INCOSISTENT",
-        "message": "एक अद्यतन अनुरोध में कर्मचारी मूल्यांकन परीक्षण डेटा में सभी पहले दर्ज किए गए डेटा शामिल होने चाहिए। ",
+        "message": "बदलाव के अनुरोध में कर्मचारी मूल्यांकन परीक्षण जानकारी में पहले दर्ज की गयी सारी जानकारी होनी चाहिए",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_USER_CREATION_FAILED",
-        "message": "उपयोगकर्ता निर्माण उपयोगकर्ता सेवा में विफल रहा। ",
+        "message": "उपयोगकर्ता सेवा में उपयोगकर्ता निर्माण विफल हुआ",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_USER_EXIST_MOB",
-        "message": "उपयोगकर्ता पहले से ही दर्ज मोबाइल नंबर के लिए मौजूद है। आगे बढ़ने के लिए एक अलग मोबाइल नंबर का उपयोग करें। ",
+        "message": "दर्ज किये गए मोबाइल नंबर से उपयोगकर्ता पहले से मौजूद है। आगे बढ़ने के लिए अन्य मोबाइल नंबर का उपयोग करें।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_USER_EXIST_USERNAME",
-        "message": "उपयोगकर्ता पहले से ही दर्ज उपयोगकर्ता नाम के लिए मौजूद है। ",
+        "message": "दर्ज उपयोगकर्ता नाम से अन्य उपयोगकर्ता पहले से मौजूद है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "ERR_HRMS_USER_UPDATION_FAILED",
-        "message": "उपयोगकर्ता अद्यतन उपयोगकर्ता सेवा में विफल रहा। ",
+        "message": "उपयोगकर्ता सेवा में उपयोगकर्ता अपडेशन विफल हुआ",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HE_NEW_EMPLOYEE_CITY_LABEL",
-        "message": "नई कर्मचारी यूएलबी ",
+        "message": "नया कर्मचारी निकाय",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HRMS_SEARCH_RESET_BUTTON",
-        "message": "रिसेट",
+        "message": "रीसेट",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ADD_ASSIGNMENT",
-        "message": "हस्ताक्षर जोड़ें",
+        "message": "असाइनमेंट दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ADD_JURISDICTION",
-        "message": "अधिकार-क्षेत्र जोड़ें",
+        "message": "क्षेत्राधिकार दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ADD_NEW_EMPLOYEE_BUTTON",
-        "message": "कर्मचारी जोड़ें",
+        "message": "कर्मचारी दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ADD_QUALIFICATIONS",
-        "message": "गुणवत्ता जोड़ें",
+        "message": "योग्यता दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ADD_SERVICE_ENTRY",
-        "message": "सेवा भर्ती जोड़ें ",
+        "message": "सेवा भर्ती दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ADD_TEST",
-        "message": "मूल्यांकन जोड़ें ",
+        "message": "टेस्ट दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_APPOINTMENT_DATE_LABEL",
-        "message": " नियुक्ति की तिथि",
+        "message": "नियुक्ति की तिथि",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -637,31 +643,31 @@
     },
     {
         "code": "HR_ASMT_FROM_DATE_LABEL",
-        "message": "दिनांक से सौंपा गया",
+        "message": "नियुक्ति: तिथि से",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ASMT_TO_DATE_LABEL",
-        "message": "इस दिनांक तक सौंपा",
+        "message": "नियुक्ति: तिथि तक",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ASSIGN_DET_HEADER",
-        "message": "असाइनमेंट विवरण",
+        "message": "नियुक्ति का विवरण",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ASSIGN_DET_SUB_HEADER",
-        "message": "जमा करने से पहले दर्ज किए गए विवरणों को सत्यापित करें। जमा किए जाने के बाद कार्यभार की जानकारी को बदला नहीं जा सकता है |",
+        "message": "जमा करने से पहले दर्ज किए गए विवरण को जांच लें। जमा करने के बाद असाइनमेंट विवरण में बदलाव संभव नहीं है",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_BIRTH_DATE_LABEL",
-        "message": " जन्म की तारीख",
+        "message": "जन्म की तारीख",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -673,25 +679,25 @@
     },
     {
         "code": "HR_BOUNDARY_TYPE_PLACEHOLDER",
-        "message": "सीमा का प्रकार का चयन करें",
+        "message": "सीमा प्रकार का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_CITY_SELECT_LABEL",
-        "message": "चयन करें",
+        "message": "चुनें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_COMMON_APPL_NEW_HEADER",
-        "message": "नया कर्मचारी दर्ज करें",
+        "message": "नया कर्मचारी बनाएं",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_COMMON_BUTTON_NXT_STEP",
-        "message": "अगला कदम ",
+        "message": "अगला कदम",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -715,7 +721,7 @@
     },
     {
         "code": "HR_COMMON_EDIT_EMPLOYEE_HEADER",
-        "message": "कर्मचारी में बदलाव करें",
+        "message": "कर्मचारी संशोधित करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -727,7 +733,7 @@
     },
     {
         "code": "HR_COMMON_REACTIVATED_EMPLOYEE_HEADER",
-        "message": "कर्मचारी को पुन: सक्रिय करें ",
+        "message": "कर्मचारी को पुन: सक्रिय करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -739,37 +745,37 @@
     },
     {
         "code": "HR_COMMON_TABLE_COL_DESG",
-        "message": " पद",
+        "message": "पद",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_COMMON_TABLE_COL_EMP_ID",
-        "message": "कर्मचारी आयडी",
+        "message": "कर्मचारी आईडी",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_COMMON_TABLE_COL_ROLE",
-        "message": "भूमिका",
+        "message": "रोल",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_COMMON_TABLE_COL_TENANT_ID",
-        "message": "टेनान्ट",
+        "message": "किरायेदार",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_COMMON_UPDATE_EMPLOYEE_HEADER",
-        "message": "कर्मचारी अपडेट ",
+        "message": "कर्मचारी अपडेट",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
-        "message": "पत्राचार का पता डालें",
+        "message": "पत्राचार पता दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -781,19 +787,19 @@
     },
     {
         "code": "HR_CREATE_SUCCESS_SUBHEADER",
-        "message": "बनाए गए कर्मचारी को पंजीकृत मोबाइल नंबर पर एक अधिसूचना भेजी गई है।",
+        "message": "बनाए गए कर्मचारी को पंजीकृत मोबाइल नंबर पर सूचना भेज दी गई है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_CURRENTLY_ASSIGNED_HERE_SWITCH_LABEL",
-        "message": "वर्तमान में सौंपा गया है |",
+        "message": "वर्तमान में यहां नियुक्त",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_CURR_ASSIGN_LABEL",
-        "message": "वर्तमान में यहां सौंपा गया है",
+        "message": "वर्तमान में यहां नियुक्त",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -817,43 +823,43 @@
     },
     {
         "code": "HR_DEACTIVATE_EMPLOYEE_LABEL",
-        "message": "कर्मचारी निष्क्रिय करें",
+        "message": "कर्मचारी को निष्क्रिय करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_DEACTIVATE_SUCCESS_MESSAGE",
-        "message": "कर्मचारी सफलतापूर्वक निष्क्रिय हो गया",
+        "message": "कर्मचारी सफलतापूर्वक निष्क्रिय किया गया",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_DEACTIVATE_SUCCESS_SUBHEADER",
-        "message": "  ",
+        "message": " ",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_DEACTIVATION_REASON",
-        "message": "निष्क्रियता का कारण",
+        "message": "निष्क्रिय करने का कारण",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_DEACTIVATION_REASON_SELECT",
-        "message": "निष्क्रियता का कारण चुनें",
+        "message": "निष्क्रिय करने का कारण चुनें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_DEGREE_LABEL",
-        "message": "उपाधि",
+        "message": "डिग्री",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_DEGREE_PLACEHOLDER",
-        "message": "उपाधि का चयन करें",
+        "message": "डिग्री का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -877,7 +883,7 @@
     },
     {
         "code": "HR_DEPT_TEST_HEADER",
-        "message": "विभाग-परीक्षण का विवरण",
+        "message": "विभाग टेस्ट का विवरण",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -889,13 +895,13 @@
     },
     {
         "code": "HR_DESIGNATION_PLACEHOLDER",
-        "message": "पदनाम का चयन करें",
+        "message": "पद का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_DESIG_PLACEHOLDER",
-        "message": "पदनाम का चयन करें",
+        "message": "पद का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -937,13 +943,13 @@
     },
     {
         "code": "HR_EMPLOYEE_ID_LABEL",
-        "message": "कर्मचारी आयडी",
+        "message": "कर्मचारी आईडी",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_EMPLOYEE_ID_PLACEHOLDER",
-        "message": "कर्मचारी आईडी दर्ज करें",
+        "message": "कर्मचारी आईडी दर्ज",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -955,7 +961,7 @@
     },
     {
         "code": "HR_EMPLOYMENT_TYPE_PLACEHOLDER",
-        "message": "रोजगार का प्रकार का चयन करें",
+        "message": "रोजगार के प्रकार का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -973,13 +979,13 @@
     },
     {
         "code": "HR_EMP_ID_PLACEHOLDER",
-        "message": "कर्मचारी आईडी दर्ज करें",
+        "message": "कर्मचारी आईडी दर्ज",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_EMP_MOBILE_LABEL",
-        "message": "कर्मचारी का  मोबाइल नंबर",
+        "message": "कर्मचारी का मोबाइल नंबर",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -991,7 +997,7 @@
     },
     {
         "code": "HR_EMP_NAME_ERR_MSG",
-        "message": "गलत नाम",
+        "message": "अमान्य नाम",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1009,19 +1015,19 @@
     },
     {
         "code": "HR_EMP_TYPE_LABEL",
-        "message": " कर्मचारी का प्रकार",
+        "message": "कर्मचारी का प्रकार",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_EMP_TYPE_PLACEHOLDER",
-        "message": "कर्मचारी प्रकार का चयन करें",
+        "message": "कर्मचारी का प्रकार चुनें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ENTER_ORDER_NO",
-        "message": "आदेश संख्या दर्ज करें",
+        "message": "आदेश नंबर दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1045,7 +1051,7 @@
     },
     {
         "code": "HR_FATHER_HUSBAND_NAME_PLACEHOLDER",
-        "message": "पिता / पति का नाम दर्ज करें",
+        "message": "कर्मचारी का नाम दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1063,25 +1069,25 @@
     },
     {
         "code": "HR_GUARDIAN_NAME_PLACEHOLDER",
-        "message": "अभिभावक का नाम दर्ज करें ",
+        "message": "अभिभावक का नाम दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_HIERARCHY_PLACEHOLDER",
-        "message": "पदानुक्रम ",
-        "module": "rainmaker-hr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "HR_HOD_LABEL",
         "message": "पदानुक्रम का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
+        "code": "HR_HOD_LABEL",
+        "message": "विभाग के प्रमुख",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "HR_HOD_SWITCH_LABEL",
-        "message": "विभाग का प्रमुख",
+        "message": "विभाग के प्रमुख",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1099,13 +1105,13 @@
     },
     {
         "code": "HR_HOME_SEARCH_RESULTS_TABLE_HEADING",
-        "message": "कर्मचारी के लिए खोज परिणाम",
+        "message": "कर्मचारी के लिए की गयी खोज के परिणाम",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_JURISDICTION_DETAILS_HEADER",
-        "message": "अधिकार क्षेत्र का विवरण",
+        "message": "क्षेत्राधिकार का विवरण",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1117,13 +1123,13 @@
     },
     {
         "code": "HR_LOCATION_LABEL",
-        "message": "न्याय सीमा क्षेत्र का विवरण",
+        "message": "स्थान",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_LOCATION_PLACEHOLDER",
-        "message": "   स्थान",
+        "message": "स्थान चुनें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1141,7 +1147,7 @@
     },
     {
         "code": "HR_NEW_EMPLOYEE_FORM_HEADER",
-        "message": "कर्मचारी विवरण",
+        "message": "कर्मचारी का विवरण",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1153,19 +1159,19 @@
     },
     {
         "code": "HR_ORDER_NO",
-        "message": "आदेश संख्या",
+        "message": "आदेश नंबर",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ORDER_NO_PLACEHOLDER",
-        "message": "आदेश संख्या डालें",
+        "message": "आदेश नंबर दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_OTHER_DET_HEADER",
-        "message": "अन्य जानकारी",
+        "message": "अन्य विवरण",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1177,25 +1183,25 @@
     },
     {
         "code": "HR_PICK_YOUR_CITY_LABEL",
-        "message": "अपना शहर चुनें",
+        "message": "आपका शहर चुनें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_PROFESSIONAL_DETAILS_FORM_HEADER",
-        "message": "पेशेवर विवरण",
+        "message": "व्यावसायिक विवरण",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_RACTIVATE_SUCCESS_MESSAGE",
-        "message": "कर्मचारी सफलतापूर्वक पुनः सक्रिय किया गया ",
+        "message": "कर्मचारी सफलतापूर्वक पुनः सक्रिय किया गया",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_REACTIVATE_SUCCESS_SUBHEADER",
-        "message": "    ",
+        "message": " ",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1207,13 +1213,13 @@
     },
     {
         "code": "HR_RELATIONSHIP_PLACEHOLDER",
-        "message": "रिश्ता/संबंध  चुनें ",
+        "message": "रिश्ता/संबंध चुनें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_REMARKS",
-        "message": " टिप्पणियों",
+        "message": "टिप्पणियाँ",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1225,7 +1231,7 @@
     },
     {
         "code": "HR_REMARKS_PLACEHOLDER",
-        "message": "टिप्पणियाँ दर्ज करें ",
+        "message": "टिप्पणियाँ दर्ज करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1237,25 +1243,25 @@
     },
     {
         "code": "HR_ROLE_LABEL",
-        "message": "भूमिका",
+        "message": "रोल",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ROLE_PLACEHOLDER",
-        "message": "भूमिका चयन करें",
+        "message": "रोल का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_SELECT_CITY_PLACEHOLDER",
-        "message": "यूएलबी का चयन करें",
+        "message": "निकाय का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_SELECT_ULB_PLACEHOLDER",
-        "message": "यूएलबी  का चयन करें",
+        "message": "निकाय का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1267,19 +1273,19 @@
     },
     {
         "code": "HR_SER_DET_SUB_HEADER",
-        "message": "जमा करने से पहले दर्ज की गए प्रविष्टियों को सत्यापित कर लें । जमा करने के बाद सेवा विवरण में बदलाव नहीं किया जा सकता है।",
+        "message": "जमा करने से पहले दर्ज किए गए विवरण को जांच लें। सेवा विवरण में सबमिट करने के बाद बदलाव नहीं किया जा सकता है।",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_SER_FROM_DATE_LABEL",
-        "message": "सेवा प्रारम्भ की दिनांक",
+        "message": "सेवा दिनांक से",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_SER_TO_DATE_LABEL",
-        "message": "सेवा समाप्ति की दिनांक",
+        "message": "सेवा दिनांक तक",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1291,31 +1297,31 @@
     },
     {
         "code": "HR_STATUS_PLACEHOLDER",
-        "message": "स्थिति का चयन करें",
+        "message": "स्थिति चुनें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_STREAM_LABEL",
-        "message": "स्ट्रीम",
+        "message": "स्ट्रीम / श्रेणी",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_STREAM_PLACEHOLDER",
-        "message": "स्ट्रीम का चयन करें",
+        "message": "स्ट्रीम / श्रेणी का चयन करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_SUBMIT_LABEL",
-        "message": "जमा करें",
+        "message": "प्रस्तुत",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_SUMMARY_DEPT_TEST_DEATILS_SUBHEADER",
-        "message": "परीक्षण विवरण",
+        "message": "टेस्ट विवरण",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1339,7 +1345,7 @@
     },
     {
         "code": "HR_SUMMARY_HEADER",
-        "message": "नया कर्मचारी दर्ज करें - सारांश",
+        "message": "नए कर्मचारी बनाएं - सारांश",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1351,25 +1357,25 @@
     },
     {
         "code": "HR_SUMMARY_PROFESSIONAL_DEATILS_SUBHEADER",
-        "message": "पेशेवर विवरण",
+        "message": "व्यावसायिक विवरण",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_TEST_NAME_LABEL",
-        "message": "परीक्षण हेतु नाम",
+        "message": "परीक्षण का नाम",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_TEST_NAME_PLACEHOLDER",
-        "message": "परीक्षण हेतु नाम का चयन करें",
+        "message": "टेस्ट नाम चुनें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_ULB_LABEL",
-        "message": "यूएलबी",
+        "message": "निकाय",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1393,19 +1399,19 @@
     },
     {
         "code": "HR_UPDATE_SUCCESS_SUBHEADER",
-        "message": "  ",
+        "message": " ",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_UPLOAD_FILES_BUTTON_LABEL",
-        "message": "फाइल अपलोड करें ",
+        "message": "फाइल अपलोड करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_UPLOAD_FILES_LABEL",
-        "message": "फाइल अपलोड करें ",
+        "message": "फाइल अपलोड करें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1417,49 +1423,91 @@
     },
     {
         "code": "HR_YEAR_LABEL",
-        "message": "वर्ष ",
+        "message": "वर्ष",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "HR_YEAR_PLACEHOLDER",
-        "message": "वर्ष का चयन करें",
+        "message": "वर्ष चुनें",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RT_ALL",
+        "message": "सभी",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RT_DOWNLOAD_AS",
+        "message": "डाउनलोड",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RT_DOWNLOAD_PDF",
+        "message": "डाउनलोड पीडीऍफ़",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RT_DOWNLOAD_XLS",
+        "message": "डाउनलोड xls",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RT_SNO",
+        "message": "क्रमांक",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RT_TOTAL",
+        "message": "समस्त",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "TL_ADD_ASSIGNMENT",
-        "message": "असाइनमेंट दर्ज करें ",
+        "message": "असाइनमेंट जोड़ें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "TL_ADD_JURISDICTION",
-        "message": "क्षेत्राधिकार दर्ज करें ",
+        "message": "क्षेत्राधिकार जोड़ें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "TL_ADD_QUALIFICATIONS",
-        "message": " योग्यता दर्ज करें ",
+        "message": "योग्यता जोड़ें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "TL_ADD_SERVICE_ENTRY",
-        "message": "सेवा भर्ती दर्ज करें ",
+        "message": "सेवा भर्ती जोड़ें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "TL_ADD_TEST",
-        "message": "टेस्ट दर्ज करें ",
+        "message": "टेस्ट जोड़ें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
     {
         "code": "TL_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
-        "message": "खोज कर",
+        "message": "खोजें",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ULB",
+        "message": "निकाय",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     }

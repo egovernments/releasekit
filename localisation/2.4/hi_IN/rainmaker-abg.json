@@ -1,5 +1,17 @@
 [
     {
+        "code": "ABG_ABG_GENERATE_NEW_BILL",
+        "message": "नया बिल जनरेट करें",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_ABG_PAY",
+        "message": "भुगतन करे",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ABG_ADVERTISEMENT_TAX_INFO",
         "message": "विज्ञापन कर",
         "module": "rainmaker-abg",
@@ -12,14 +24,44 @@
         "locale": "hi_IN"
     },
     {
+        "code": "ABG_ADVT.Gas_Balloon_Advertisement_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_ADVT.Hoardings_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_ADVT.Light_Wala_Board_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_ADVT.Unipolls_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_ADVT.Wall_Paint_Advertisement_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ABG_AMOUNT_TO_BE_PAID_HEADER",
-        "message": "अदा की जाने वाली राशि",
+        "message": "जितनी राशि अदा की जानी है",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_AMOUNT_TO_PAY_LABEL",
-        "message": "भुगतान करने की राशि (INR)",
+        "message": "भुगतान के लिए राशि (₹)",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -31,43 +73,43 @@
     },
     {
         "code": "ABG_BILL_NUMBER_LABEL",
-        "message": "बिल संख्या",
+        "message": "बिल नंबर",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_BILL_NUMBER_PLACEHOLDER",
-        "message": "बिल संख्या दर्ज करें",
+        "message": "बिल नंबर दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_BUTTON_GENERATE_RECEIPT",
-        "message": "जनरेट रसीद",
+        "message": "रसीद बनाएं",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_CARD_LAST_DIGITS_LABEL",
-        "message": "आखिरी 4 अंक",
+        "message": "आखिरी 4 अक्षर",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_CARD_LAST_DIGITS_LABEL_PLACEHOLDER",
-        "message": "कार्ड के अंतिम 4 अंक दर्ज करें",
+        "message": "कार्ड के अंतिम 4 अंक डालें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_COMMON_HEADER",
-        "message": "बिल समूहन",
+        "message": "बिलों का समूह बनाएं",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_COMMON_TABLE_COL_ASS_NO",
-        "message": "मूल्यांकन संख्या",
+        "message": "मूल्यांकन नंबर",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -97,7 +139,7 @@
     },
     {
         "code": "ABG_COMMON_TABLE_COL_PROPERTY_ID",
-        "message": "संपत्ति आईडी",
+        "message": "प्रॉपर्टी आईडी",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -115,19 +157,19 @@
     },
     {
         "code": "ABG_COMMON_TOTAL_AMOUNT",
-        "message": "कुल रकम",
+        "message": "कुल राशि",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_CONSUMER_CODE_LABEL",
-        "message": "उपभोक्ता कोड",
+        "message": "संपत्ति कर की विशिष्ट ID",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_CONSUMER_CODE_PLACEHOLDER",
-        "message": "उपभोक्ता कोड दर्ज करें",
+        "message": "संपत्ति कर की विशिष्ट ID दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -151,73 +193,73 @@
     },
     {
         "code": "ABG_FINANCIAL_YEAR_PLACEHOLDER",
-        "message": "वित्तीय वर्ष का चयन करें",
+        "message": "वित्तीय वर्ष चुनें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_FULL_AMOUNT_RADIOBUTTON",
-        "message": "पूरी राशि",
+        "message": "कुल राशि",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_G8_RECEIPT_DETAILS_HEADER",
-        "message": "एमएससी5/एमएससी2 रसीद विवरण (वैकल्पिक)",
+        "message": "जी -8 रसीद विवरण (वैकल्पिक)",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_G8_RECEIPT_ISSUE_DATE_LABEL",
-        "message": "एमएससी5/एमएससी2 रसीद जारी करने की तारीख",
+        "message": "जी -8 रसीद जारी करने की तिथि",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_G8_RECEIPT_NO_LABEL",
-        "message": "एमएससी5/एमएससी2 रसीद संख्या",
+        "message": "जी -8 पत्र नंबर",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_G8_RECEIPT_NO_PLACEHOLDER",
-        "message": "एमएससी5/एमएससी2 रसीद संख्या दर्ज करें",
+        "message": "जी -8 रसीद नंबर दर्ज़ करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_GROUP_BILLS_MERGE_AND_DOWNLOAD_BUTTON",
-        "message": "मर्ज और डाउनलोड करें",
+        "message": "साथ में डाउनलोड करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_GROUP_BILL_SEARCH_BUTTON",
-        "message": "खोजें",
+        "message": "खोज",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_LOCMOHALLA_LABEL",
-        "message": "इलाका / मोहल्ला",
+        "message": "स्थान / मोहल्ला",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_LOCMOHALLA_PLACEHOLDER",
-        "message": "इलाका / मोहल्ला चुनें",
+        "message": "स्थान / मोहल्ले का चयन करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_MOBILE_NO_LABEL",
-        "message": "मोबाइल संख्या",
+        "message": "मोबाइल नंबर",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_MOBILE_NO_PLACEHOLDER",
-        "message": "मोबाइल संख्या दर्ज करें",
+        "message": "मोबाइल नंबर दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -235,7 +277,7 @@
     },
     {
         "code": "ABG_PAYMENT_BANK_BRANCH_PLACEHOLDER",
-        "message": "बैंक शाखा में प्रवेश करें",
+        "message": "बैंक शाखा दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -253,7 +295,7 @@
     },
     {
         "code": "ABG_PAYMENT_BY_OTHERS",
-        "message": "अन्य लोग",
+        "message": "अन्य",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -265,13 +307,13 @@
     },
     {
         "code": "ABG_PAYMENT_CAPTURE_PAYMENT",
-        "message": "भुगतान पर कब्जा",
+        "message": "भुगतान प्राप्त करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_CASH",
-        "message": "नकदी",
+        "message": "नकद",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -283,7 +325,7 @@
     },
     {
         "code": "ABG_PAYMENT_CHEQUE_DATE_LABEL",
-        "message": "चेक तिथि",
+        "message": "चेक की तिथि",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -295,13 +337,13 @@
     },
     {
         "code": "ABG_PAYMENT_CHEQUE_NO_LABEL",
-        "message": "चेक संख्या",
+        "message": "चेक नंबर",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_CHQ_NO_PLACEHOLDER",
-        "message": "चेक संख्या दर्ज करें",
+        "message": "चेक नंबर दर्ज़ करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -313,7 +355,7 @@
     },
     {
         "code": "ABG_PAYMENT_DD_DATE_LABEL",
-        "message": "डीडी की तारीख",
+        "message": "डीडी की तिथि",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -325,55 +367,55 @@
     },
     {
         "code": "ABG_PAYMENT_DD_NO_LABEL",
-        "message": "डीडी संख्या",
+        "message": "डीडी",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_DD_NO_PLACEHOLDER",
-        "message": "डीडी संख्या दर्ज करें",
+        "message": "डीडी नंबर दर्ज करें।",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_DEBT_CARD",
-        "message": "क्रेडिट / डेबिट कार्ड",
+        "message": "क्रेडिट/डेबिट कार्ड",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_IFSC_CODE_LABEL",
-        "message": "आईएफएससी",
+        "message": "IFSC",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_IFSC_CODE_PLACEHOLDER",
-        "message": "बैंक आईएफएससी दर्ज करें",
+        "message": "बैंक IFSC दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_PAID_BY_LABEL",
-        "message": "द्वारा भुगतान",
+        "message": "द्वारा भुगतान किया गया",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_PAID_BY_PLACEHOLDER",
-        "message": "द्वारा भुगतान",
+        "message": "द्वारा भुगतान किया गया",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_PAYER_MOBILENO_LABEL",
-        "message": "भुगतानकर्ता का मोबाइल संख्या",
+        "message": "भुगतानकर्ता का मोबाइल नंबर",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_PAYER_MOBILENO_PLACEHOLDER",
-        "message": "भुगतानकर्ता मोबाइल संख्या दर्ज करें",
+        "message": "भुगतानकर्ता का मोबाइल नंबर दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -391,31 +433,31 @@
     },
     {
         "code": "ABG_PAYMENT_RE_ENTER_TRANS_NO_LABEL",
-        "message": "लेन-देन संख्या पुनः दर्ज करें",
+        "message": "ट्रांज़ैक्शन नंबर फिर से दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_TRANS_NO_LABEL",
-        "message": "लेनदेन संख्या",
+        "message": "ट्रांज़ैक्शन नंबर",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PAYMENT_TRANS_NO_PLACEHOLDER",
-        "message": "लेनदेन संख्या दर्ज करें",
+        "message": "ट्रांज़ैक्शन नंबर दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PENALTY_INFO",
-        "message": "दंड",
+        "message": "जुर्माना",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_PENALTY_LABEL",
-        "message": "दंड",
+        "message": "जुर्माना",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -427,7 +469,7 @@
     },
     {
         "code": "ABG_PROPERTY_ID_PLACEHOLDER",
-        "message": "संपत्ति आईडी डालें",
+        "message": "संपत्ति आईडी दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -445,7 +487,7 @@
     },
     {
         "code": "ABG_RESET_BUTTON",
-        "message": "रीसेट",
+        "message": "रीसेट/ फिर से सेट करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -457,7 +499,7 @@
     },
     {
         "code": "ABG_SEARCH_BILL_COMMON_SUB_HEADER",
-        "message": "बिल खोजने के लिए कम से कम एक फ़ील्ड प्रदान करें",
+        "message": "किसी भी आवेदन की खोज करने के लिए कम से कम एक जानकारी प्रदान करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -469,13 +511,13 @@
     },
     {
         "code": "ABG_SEARCH_SELECT_AT_LEAST_ONE_TOAST_MESSAGE",
-        "message": "कृपया खोज प्रारंभ करने के लिए कम से कम एक फ़ील्ड भरें",
+        "message": "कृपया खोज की शुरुआत करने के लिए कम से कम एक क्षेत्र को भरें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_SELECT_G8_RECEIPT_ISSUE_DATE_PLACEHOLDER",
-        "message": "एमएससी5/एमएससी2 रसीद जारी करने की तारीख दर्ज करें",
+        "message": "जी -8 रसीद जारी होने की तिथि दर्ज करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -487,7 +529,7 @@
     },
     {
         "code": "ABG_SERVICE_CATEGORY_PLACEHOLDER",
-        "message": "सेवा श्रेणी का चयन करें",
+        "message": "सेवा श्रेणी चुनें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -499,37 +541,169 @@
     },
     {
         "code": "ABG_SERVICE_TYPE_PLACEHOLDER",
-        "message": "सेवा प्रकार का चयन करें",
+        "message": "सेवा प्रकार चुनें",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_SW_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_TX.Electricity_Chungi_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_TX.No_Dues_Certificate_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_TX.TS1_copy_register_for_old_survey_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ABG_TX.Transfer_Property_Fees_CONSUMER_CODE_LABEL",
+        "message": "उपभोक्ता कोड",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_ULB_LABEL",
-        "message": "यूएलबी",
+        "message": "निकाय",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_ULB_PLACEHOLDER",
-        "message": "यूएलबी का चयन करें",
+        "message": "निकाय का चयन करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "ABG_UNIVERSAL_BILL_COMMON_HEADER",
-        "message": "मांग बिल",
+        "message": "बिल जिनी",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_GAS_BALLOON_ADVERTISEMENT",
+        "message": "गैस गुब्बारे द्वारा विज्ञापन",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_HOARDINGS",
+        "message": "होर्डिंग",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_LIGHT_WALA_BOARD",
+        "message": "लाइट वाला बोर्ड",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_UNIPOLLS",
+        "message": "यूनिपोल्स",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_WALL_PAINT_ADVERTISEMENT",
+        "message": "दीवार पर पेंट द्वारा विज्ञापन",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_JAMIN_THEKA",
+        "message": "जमीन ठेका",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_LAND_RENT",
+        "message": "जमीन किराया",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_MUNICIPAL_SHOPS_RENT",
+        "message": "नगर निगम दुकान का किराया",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_PARKING_FEE",
+        "message": "पार्किंग शुल्क",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_TOWER_RENT",
+        "message": "टॉवर का किराया",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_TEHBAZAARI_FEE",
+        "message": "तहबाजारी शुल्क",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_ELECTRICITY_CHUNGI",
+        "message": "विद्युत चुंगी",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_NO_DUES_CERTIFICATE",
+        "message": "नो ड्यूस प्रमाणपत्र",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_TRANSFER_PROPERTY_FEES",
+        "message": "संपत्ति शुल्क ट्रांसफर करें",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_TS1_COPY_REGISTER_FOR_OLD_SURVEY",
+        "message": "पुराने सर्वे के लिए TS1 कॉपी रजिस्टर",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_WATERCHARGES_METERED",
+        "message": "जल शुल्क (मीटर)",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_WATERCHARGES_NONMETERED",
+        "message": "जल सजलक (नॉन मीटर)",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "BILL_GENIE_CANCELLED_LABEL",
-        "message": "रद्द",
+        "message": "रद्द किया गया",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "BILL_GENIE_DOWNLOAD_RECEIPT",
-        "message": "डाउनलोड करें",
+        "message": "रसीद डाउनलोड करें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
@@ -541,31 +715,37 @@
     },
     {
         "code": "BILL_GENIE_GENERATE_NEW_BILL",
-        "message": "नया बिल जनरेट करें",
+        "message": "नया बिल बनाएं",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "BILL_GENIE_GROUP_SEARCH_HEADER",
-        "message": "बिल समूहन के लिए खोज परिणाम",
+        "message": "बिल समूह के परिणाम खोजें",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "BILL_GENIE_PAID_LABEL",
-        "message": "भुगतान किया हुआ",
+        "message": "भुगतान किया गया",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "BILL_GENIE_PARTIALLY_PAID",
-        "message": "आंशिक रूप से भुगतान किया हुआ",
+        "message": "आंशिक भुगतान किया गया",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     },
     {
         "code": "BILL_GENIE_PAY",
         "message": "भुगतान करें",
+        "module": "rainmaker-abg",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EXPIRED",
+        "message": "समय सीमा समाप्त",
         "module": "rainmaker-abg",
         "locale": "hi_IN"
     }
