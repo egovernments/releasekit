@@ -96,6 +96,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "DSS_ALL_DDRS",
+        "message": "सभी डीडीआर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
         "code": "DSS_APPLY",
         "message": "लागू",
         "module": "rainmaker-dss",
@@ -204,6 +210,36 @@
         "locale": "hi_IN"
     },
     {
+        "code": "DSS_DDR_A",
+        "message": "डीडीआर अ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_DDR_B",
+        "message": "डीडीआर ब",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_DDR_BALASORE",
+        "message": "डीडीआर बालासोर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_DDR_BERHMAPUR",
+        "message": "डीडीआर बेरहामपुर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_DDR_DHENKANAL",
+        "message": "डीडीआर ढेंकनाल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
         "code": "DSS_DENOMINATION",
         "message": "मूल्यवर्ग",
         "module": "rainmaker-dss",
@@ -212,6 +248,12 @@
     {
         "code": "DSS_DOWNLOAD",
         "message": "डाउनलोड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_EVENT_DURATION_GRAPH",
+        "message": "घटना अवधि ग्राफ़",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -642,6 +684,36 @@
         "locale": "hi_IN"
     },
     {
+        "code": "DSS_TB_DDR_A",
+        "message": "डीडीआर अ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_DDR_B",
+        "message": "डीडीआर ब",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_DDR_BALASORE",
+        "message": "डीडीआर बालासोर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_DDR_BERHMAPUR",
+        "message": "डीडीआर बेरहामपुर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_DDR_DHENKANAL",
+        "message": "डीडीआर ढेंकनाल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
         "code": "DSS_TB_DEPARTMENT",
         "message": "विभाग",
         "module": "rainmaker-dss",
@@ -852,14 +924,44 @@
         "locale": "hi_IN"
     },
     {
+        "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_ANY_OTHER_MANUFACTURING_OR_STORE_HOUSE_OR_PLANE_OF_BUSINESS_NOT_SPECIFIED_ELSEWHERE_FORM_OFFERSIVE_OR_UNWHOLEES_SMELL_NOISE_OR_SMOKE_ARISE",
+        "message": "कोई अन्य विनिर्माण",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_ATTA CHAKKI",
+        "message": "आटा चक्की",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_ATTA_CHAKKI",
+        "message": "आटा चक्की",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
         "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_BONE_MEAT_AND_BONE_POWDER",
         "message": "हड्डी, माँस, और हड्डी पाउडर व्यापार के लिए भुगतान के तरीके",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
     {
+        "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_BRICK_FIELD_BRICK_KILN",
+        "message": "ईंट क्षेत्र ईंट भट्ठा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_CARTON",
+        "message": "दफ़्ती",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
         "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_CHARCOAL_KILN",
-        "message": "चारकोल भट्टी व्यापार के लिए भुगतान के तरीके",
+        "message": "चारकोल भट्टी व्यापार के लिए भुगतान मोड",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -1140,8 +1242,20 @@
         "locale": "hi_IN"
     },
     {
+        "code": "DSS_WS_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS_TOTAL_CONNECTIONS",
+        "message": "कुल कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
         "code": "FILTERS_APPLIED",
-        "message": "फ़िल्टर लगाए गए",
+        "message": "फ़िल्टर लगाए गए",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     },
@@ -1230,6 +1344,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "PROPERTY_TAX",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
         "code": "RESIDENTIAL",
         "message": "आवासीय",
         "module": "rainmaker-dss",
@@ -1244,6 +1364,48 @@
     {
         "code": "STREET_LIGHTS",
         "message": "स्ट्रीट लाइट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_BALASORE_MUNICIPALITY",
+        "message": "बालासोर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_BERHMAPUR_MUNICIPALITY",
+        "message": "बेरहामपुर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_CITY_A",
+        "message": "शहर अ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_CITY_B",
+        "message": "शहर ब",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_CITY_C",
+        "message": "शहर स",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_DHENKANAL_MUNICIPALITY",
+        "message": "ढेंकनाल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TRADE_LICENCE",
+        "message": "व्यापार लाइसेंस",
         "module": "rainmaker-dss",
         "locale": "hi_IN"
     }

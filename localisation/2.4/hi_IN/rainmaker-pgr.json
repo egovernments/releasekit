@@ -1,5 +1,47 @@
 [
     {
+        "code": "ACTION_TEST_ALL_COMPLAINTS",
+        "message": "सभी शिकायतें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_CREATE_COMPLAINT",
+        "message": "शिकायत बनाएं",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_DESCRIPTION_REPORT",
+        "message": "विवरण रिपोर्ट",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_GRO_PERFORMANCE_REPORT",
+        "message": "जी आर ओ   प्रदर्शन रिपोर्ट",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_LME_PERFORMANCE_REPORT",
+        "message": "एल एम ई  प्रदर्शन रिपोर्ट",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_SEARCH_COMPLAINT",
+        "message": "शिकायत खोजें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_ULB_REPORT",
+        "message": "यूएलबी रिपोर्ट",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ASSIGNED_TO_ALL",
         "message": "सभी को नियुक्त किया गया",
         "module": "rainmaker-pgr",
@@ -72,6 +114,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CORE_COMMON_PICK",
+        "message": "चुनें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CORE_COMMON_PINCODE",
         "message": "पिन कोड",
         "module": "rainmaker-pgr",
@@ -96,6 +144,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CORE_COMMON_SEARCH_COMPLAINT",
+        "message": "शिकायत खोजें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CORE_COMMON_SKIP_CONTINUE",
         "message": "छोड़ें और जारी रखें",
         "module": "rainmaker-pgr",
@@ -104,6 +158,24 @@
     {
         "code": "CORE_COMMON_TAKE_ACTION",
         "message": "__सन्देश लिखें__",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_LOGIN_NO_ACCOUNT",
+        "message": "खाता नहीं है?",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_LOGOUTPOPUP_CANCEL",
+        "message": "रद्द करें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_LOGOUTPOPUP_LOGOUT",
+        "message": "लॉग आउट",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -390,6 +462,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_ADDCOMPLAINT_SELECT_GEOLOCATION_HEADER",
+        "message": "शिकायत के स्थान को नक़्शे में पिन करें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_SELECT_GEOLOCATION_TEXT",
+        "message": "शिकायत स्थल को पिन करने के लिए क्लिक और होल्ड करें।  अगर आप पिन नहीं कर पा रहे हैं तो छोड़ कर आगे बढ़ सकते हैं",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_ADDCOMPLAINT_UPLOAD_ERROR_MESSAGE",
         "message": "फोटो अपलोड करें",
         "module": "rainmaker-pgr",
@@ -648,6 +732,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_COMMON_FILTER",
+        "message": "फ़िल्टर",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_COMMON_GARBAGE_BIN_ABSENT",
         "message": "कचरादान नहीं है",
         "module": "rainmaker-pgr",
@@ -668,6 +758,12 @@
     {
         "code": "CS_COMMON_MOBILE_NO.",
         "message": "मोबाइल नंबर",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_NEXT",
+        "message": "अगला",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -804,6 +900,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_COMMON_SEARCH_BY",
+        "message": "इससे खोजें ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_SKIP",
+        "message": "छोड़ें और जारी रखें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_COMMON_STATUS_ASSIGNED",
         "message": "आपकी शिकायत नियुक्त कर दी गयी है",
         "module": "rainmaker-pgr",
@@ -872,6 +980,12 @@
     {
         "code": "CS_COMMON_SWEEPERS_ABSENT",
         "message": "सफाई कर्मचरियों की अनुपस्थिति",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_THANK_YOU",
+        "message": "धन्यवाद ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1308,6 +1422,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_PROVIDE_LANDMARK_TITLE_TEXT",
+        "message": "कृपया शिकायत के स्थान पर आसानी से पहुँचने के लिए कोई सीमा-चिन्ह बताएं",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_HEADER_ADD_COMPLAINT",
         "message": "शिकायत जोड़ें",
         "module": "rainmaker-pgr",
@@ -1422,6 +1542,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_LANDING_PAGE_COMPLAINTS_DESCRIPTION",
+        "message": "mSeva Complaints नागरिक कार्य संबंधी शिकायतों को दर्ज करने के लिए एक आसान इंटरफ़ेस प्रदान करता है। यह आपको अपनी शिकायत की स्थिति ट्रैक करने एवं उसके समाधान तक अपने नगर पालिका के साथ सीधे  संपर्क की सुविधा भी देता है ।",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LANDING_PAGE_WELCOME_TEXT",
+        "message": "स्वागत है ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_MAP_MOVE_PIN",
         "message": "मैप पर एडजस्ट करने के लिए पिन मूव करें",
         "module": "rainmaker-pgr",
@@ -1502,6 +1634,18 @@
     {
         "code": "CS_MYCOMPLAINTS_TO",
         "message": "को",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_OVERDUE_BY_DAY",
+        "message": "{0} दिनों से अतिदेय",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_OVERDUE_BY_DAYS",
+        "message": "{0} दिनों से अतिदेय",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1722,6 +1866,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "ES_COMMON_FILED_VIA_MOBILE",
+        "message": "मोबाइल ऍप से दाखिल किया",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ES_COMMON_FILED_VIA_MOBILE_APP",
         "message": "मोबाइल ऍप से दाखिल किया",
         "module": "rainmaker-pgr",
@@ -1766,6 +1916,12 @@
     {
         "code": "ES_COMMON_SEARCH_EMPLOYEE",
         "message": "कर्मचारी खोजें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_TRACK_COMPLAINT_TEXT",
+        "message": "शिकायत नंबर के साथ एक सूचना आवेदक के मोबाइल  नंबर पर भेज दी गयी है। आवेदक मोबाइल या वेब ऍप के माध्यम से शिकायत की स्तिथि ट्रैक कर सकते हैं ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -2064,6 +2220,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "ES_SEARCH_BOTTON",
+        "message": "खोजें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ES_SEARCH_BUTTON",
         "message": "खोजें",
         "module": "rainmaker-pgr",
@@ -2071,6 +2233,12 @@
     },
     {
         "code": "ES_SORT_BOTTON",
+        "message": "क्रमबद्ध करें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_SORT_BUTTON",
         "message": "क्रमबद्ध करें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
@@ -2089,25 +2257,25 @@
     },
     {
         "code": "PGR_REASSIGN_PENDINGATLME_SMS_MESSAGE",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, जिसकी शिकायत आई.डी. <आई डी> है , जो दिनांक <दिनांक> को जमा की गयी थी, <कर्मचारी_नाम> , <कर्मचारी पद>, <कर्मचारी_विभाग> को पुनः नियुक्त की गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, <reassign_emp_name>, <emp_designation>, <emp_department> को पुनः नियुक्त की गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "PGR_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, जिसकी शिकायत आई.डी. <आई डी> है , जो दिनांक <दिनांक> को जमा की गयी थी, अस्वीकार कर दी गयी है । अस्वीकृति का कारण: <कारण> । अगर आप शिकायत को फिर से खोलना चाहते हैं तो एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, अस्वीकार कर दी गयी है । अस्वीकृति का कारण: <additional_comments> । अगर आप शिकायत को फिर से खोलना चाहते हैं तो एम-सेवा पंजाब ऍप  <download link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "PGR_REOPEN_PENDINGFORASSIGNMENT_SMS_MESSAGE",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, आई.डी. <आई डी>, जो दिनांक <दिनांक> को जमा की गयी थी, आपके निवेदन पर वापस खोल दी गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, जो दिनांक <date> को जमा की गयी थी, आपके निवेदन पर वापस खोल दी गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "PGR_RESOLVE_RESOLVED_SMS_MESSAGE",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, आई.डी. <आई डी>, जो दिनांक <दिनांक> को जमा की गयी थी, <कर्मचारी नाम> द्वारा हल कर दी गयी है। अगर आप सेवा से संतुष्ट नहीं हैं तो आप शिकायत को फिर से चालू करने के लिए एम-सेवा पंजाब मोबाइल ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम के वेब पोर्टक के जरिये कर सकते हैं",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, जो दिनांक <date> को जमा की गयी थी, <emp_name> द्वारा हल कर दी गयी है।  अगर आप सेवा से संतुष्ट नहीं हैं तो आप शिकायत को फिर से चालू करने के लिए एम-सेवा पंजाब मोबाइल ऍप <download link> डाउनलोड करें या स्थानीय नगर निगम के वेब पोर्टल के जरिये कर सकते हैं",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -2126,6 +2294,12 @@
     {
         "code": "REPORTS_SEARCHFORM_APPLY",
         "message": "लागू",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REPORTS_SEARCHFORM_MODIFY_DATE_HEADER",
+        "message": "रिपोर्ट को तिथि से क्रमबद्ध करें ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -3240,6 +3414,42 @@
         "locale": "hi_IN"
     },
     {
+        "code": "chatbot.pgr.assigned",
+        "message": "नियुक्त",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "chatbot.pgr.closed",
+        "message": "बंद ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "chatbot.pgr.open",
+        "message": "दर्ज़ हुआ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "chatbot.pgr.reassignrequested",
+        "message": "फिर से नियुक्त किया जा रहा है",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "chatbot.pgr.rejected",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "chatbot.pgr.resolved",
+        "message": "हल किया गया",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "employee.Assignment.fields.department",
         "message": "विभाग",
         "module": "rainmaker-pgr",
@@ -3997,79 +4207,79 @@
     },
     {
         "code": "pgr.sms.notification.assign.citizen",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, जिसकी शिकायत आई.डी. <आई डी> है , जो दिनांक <दिनांक> को जमा की गयी थी, <कर्मचारी_नाम> , <कर्मचारी पद>, <कर्मचारी_विभाग> को नियुक्त की गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, <emp_name> , <emp_designation>, <emp_department> को नियुक्त की गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download_link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.assign.employee",
-        "message": "श्री <कर्मचारी_का_नाम> <शिकायत_प्रकार> की शिकायत, जिसकी शिकायत आईडी <आईडी> है, आपको नियुक्त की गयी है। कृपया उचित कार्यवाही करें <>एओ पद> - <निकाय>",
+        "message": "श्री <emp_name>  <complaint_type> की शिकायत, जिसकी शिकायत आईडी <id> है, आपको नियुक्त की गयी है। कृपया उचित कार्यवाही करें  <ao_designation> - <ulb>",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.close.employee",
-        "message": "श्री <कर्मचारी_का_नाम> <शिकायत_प्रकार> की शिकायत, जिसकी शिकायत आईडी <आईडी> है, को नागरिक द्वारा <रेटिंग>/5 रेटिंग मिली है। आपकी सेवा के लिए धन्यवाद",
+        "message": "श्री <emp_name>  <complaint_type> की शिकायत, जिसकी शिकायत आईडी <id> है, को नागरिक द्वारा <rating>/5 रेटिंग मिली है। आपकी सेवा के लिए धन्यवाद",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.comment",
-        "message": "श्री <कर्मचारी_का_नाम> ने <शिकायत_प्रकार> की शिकायत, जिसकी शिकायत आईडी <आईडी> है, पर टिपण्णी की है। टिपण्णी: <टिपण्णी>",
+        "message": "श्री <emp_name> ने <<complaint_type> की शिकायत, जिसकी शिकायत आईडी <id> है, पर टिपण्णी की है।  टिपण्णी: <comment>",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.comment.default",
-        "message": "आपकी शिकायत पर एक टिप्पणी की गयी है। आप अपनी शिकायत की स्तिथि एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर देख सकते हैं",
+        "message": "आपकी शिकायत पर एक टिप्पणी की गयी है। आप अपनी शिकायत की स्तिथि एम-सेवा पंजाब ऍप  पर ट्रैक कर सकते हैं  या स्थानीय नगर निगम वेब पोर्टल पर देख सकते हैं",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.default",
-        "message": "आपकी शिकायत की स्तिथि: <स्टेटस> आप अपनी शिकायत की स्तिथि एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर देख सकते हैं",
+        "message": "आपकी शिकायत की स्तिथि: <status> आप अपनी शिकायत की स्तिथि एम-सेवा पंजाब ऍप  पर ट्रैक कर सकते हैं  या स्थानीय नगर निगम वेब पोर्टल पर देख सकते हैं",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.reassign.citizen",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, जिसकी शिकायत आई.डी. <आई डी> है , जो दिनांक <दिनांक> को जमा की गयी थी, <कर्मचारी_नाम> , <कर्मचारी पद>, <कर्मचारी_विभाग> को पुनः नियुक्त की गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, <emp_name>, <emp_designation>, <emp_department> को पुनः नियुक्त की गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download_link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.reassign.employee",
-        "message": "श्री <कर्मचारी_का_नाम> <शिकायत_प्रकार> की शिकायत, जिसकी शिकायत आईडी <आईडी> है, आपके निवेदन अनुसार फिर से नियुक्त की गयी है। <>एओ पद> - <निकाय>",
+        "message": "श्री <emp_name>  <complaint_type> की शिकायत, जिसकी शिकायत आईडी <id> है, आपके निवेदन अनुसार फिर से नियुक्त की गयी है। <ao_designation> - <ulb>",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.reject.citizen",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, जिसकी शिकायत आई.डी. <आई डी> है , जो दिनांक <दिनांक> को जमा की गयी थी, अस्वीकार कर दी गयी है । अस्वीकृति का कारण: <कारण> । अगर आप शिकायत को फिर से खोलना चाहते हैं तो एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, अस्वीकार कर दी गयी है । अस्वीकृति का कारण: <reason> अतिरिक्त टिपण्णियाँ : <additional_comments>। अगर आप शिकायत को फिर से खोलना चाहते हैं तो एम-सेवा पंजाब ऍप  <download_link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.reopen.citizen",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, आई.डी. <आई डी>, जो दिनांक <दिनांक> को जमा की गयी थी, आपके निवेदन पर वापस खोल दी गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, जो दिनांक <date> को जमा की गयी थी, आपके निवेदन पर वापस खोल दी गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download_link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.reopen.employee",
-        "message": "श्री <कर्मचारी_का_नाम> <शिकायत_प्रकार> की शिकायत आईडी <आईडी> के साथ नागरिक द्वारा फिर से खोल दी गयी है। इसकी नियुक्त अधिकारी द्वारा समीक्षा की जा रही है - <निकाय>",
+        "message": "श्री <emp_name>  <complaint_type> की शिकायत आईडी <id> के साथ नागरिक द्वारा फिर से खोल दी गयी है। इसकी नियुक्त अधिकारी द्वारा समीक्षा की जा रही है - <ulb>",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.resolve.citizen",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, आई.डी. <आई डी>, जो दिनांक <दिनांक> को जमा की गयी थी, <कर्मचारी नाम> द्वारा हल कर दी गयी है। अगर आप सेवा से संतुष्ट नहीं हैं तो आप शिकायत को फिर से चालू करने के लिए एम-सेवा पंजाब मोबाइल ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम के वेब पोर्टक के जरिये कर सकते हैं",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, जो दिनांक <date> को जमा की गयी थी, <emp_name> द्वारा हल कर दी गयी है।  अगर आप सेवा से संतुष्ट नहीं हैं तो आप शिकायत को फिर से चालू करने के लिए एम-सेवा पंजाब मोबाइल ऍप <download_link> डाउनलोड करें या स्थानीय नगर निगम के वेब पोर्टक के जरिये कर सकते हैं",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "pgr.sms.notification.submit.citizen",
-        "message": "प्रिय नागरिक, आपकी <शिकायत प्रकार> की शिकायत, आई.डी. <आई डी>, दिनांक <दिनांक> को जमा कर दी गयी है। अपनी शिकायत की स्तिथि जानने के लिए एम-सेवा पंजाब ऍप <डाउनलोड लिंक> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
+        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, दिनांक <date> को जमा कर दी गयी है। अपनी शिकायत की स्तिथि जानने के लिए एम-सेवा पंजाब ऍप  <download link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -4226,6 +4436,240 @@
     {
         "code": "reports.pgr.ward",
         "message": "शिकायत वार्ड / ब्लॉक",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.amount",
+        "message": "राशि ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.assessmentAmount",
+        "message": "मूल्यांकन राशि ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.assessmentNo",
+        "message": "मूल्यांकन नंबर ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.assessments",
+        "message": "मूल्यांकन",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.bankName",
+        "message": "बैंक का नाम",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.cancerCess",
+        "message": "कैंसर उपकर",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.collectedAmount",
+        "message": "एकत्रित राशि",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.day",
+        "message": "तारीख",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.ddChequeTransactionNo",
+        "message": "डीडी / चेक ट्रांसेक्शन संख्या",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.documentType",
+        "message": "दस्तावेज़ का प्रकार",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.documentUid",
+        "message": "दस्तावेज़ आईडी ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.exemptionAmount",
+        "message": "छूट की राशि",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.exemptionGiven",
+        "message": "छूट प्रदान की गयी ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.exemptionRate",
+        "message": "छूट दर",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.financialYear",
+        "message": "वित्तीय वर्ष",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.fireCess",
+        "message": "आग उपकर",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.fireCessCollected",
+        "message": "एकत्रित आग उपकर ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.fromDate",
+        "message": "तारीख से",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.interestCollected",
+        "message": "एकत्रित ब्याज ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.month",
+        "message": "माह ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.name",
+        "message": "कर्मचारी का नाम",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.ownerType",
+        "message": "मालिक का प्रकार",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.paymentDues",
+        "message": "भुगतान देय राशि",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.paymentMode",
+        "message": "भुगतान का प्रकार",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.penaltiesCollected",
+        "message": "एकत्रित जुर्माना ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.propertyTax",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.ptCollected",
+        "message": "एकत्रित पीटी ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.reason",
+        "message": "कारण",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.rebateGiven",
+        "message": "छूट प्रदान की गयी ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.receiptDate",
+        "message": "रसीद तिथि",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.receiptNo",
+        "message": "रसीद नंबर ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.subUsageType",
+        "message": "उप-उपयोग प्रकार",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.toDate",
+        "message": "तारीख तक",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.totalAssessmentAmount",
+        "message": "कुल मूल्यांकन राशि",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.totalCollectedAmount",
+        "message": "कुल एकत्रित  राशि",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.totalamountdue",
+        "message": "कुल बकाया राशि",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.totalamountpaid",
+        "message": "भुगतान की गई कुल राशि",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.ulb",
+        "message": "निकाय का नाम",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.pt.ulbName",
+        "message": "निकाय का नाम",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },

@@ -102,6 +102,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_VIEW",
+        "message": "देखें",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ERR_FILL_MULTIPLE_OWNER",
         "message": "कृपया मालिक की पूरी जानकारी दें",
         "module": "rainmaker-noc",
@@ -768,6 +774,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "FIRE_NOC_SENDBACKTOCITIZEN_SUCCESS_MESSAGE_MAIN",
+        "message": "आवेदन सफलतापूर्वक नागरिक को वापस भेजा गया",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
         "code": "FIRE_NOC_SENDBACK_SUCCESS_MESSAGE_MAIN",
         "message": "आवेदन सफलतापूर्वक वापस भेजा गया",
         "module": "rainmaker-noc",
@@ -1266,6 +1278,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "NOC_COMMON_BUTTON_NXT_STEP",
+        "message": "अगला कदम",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
         "code": "NOC_COMMON_DOCUMENTS",
         "message": "दस्तावेज़",
         "module": "rainmaker-noc",
@@ -1734,6 +1752,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "NOC_PAYMENT_PAID_BY_LABEL",
+        "message": "भुगतानकर्ता",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_PAYMENT_PAID_BY_LABEL ",
+        "message": "भुगतानकर्ता  ",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
         "code": "NOC_PMT_RCPT_NO",
         "message": "भुगतान रसीद नंबर",
         "module": "rainmaker-noc",
@@ -1910,6 +1940,12 @@
     {
         "code": "NOC_PROPERTY_DETAILS_NO_OF_BEDS_PLACEHOLDER",
         "message": "बेड की संख्या दर्ज करें",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_PROPERTY_DETAILS_NO_OF_FLOORS_LABEL",
+        "message": "मंजिलों की संख्या (तहखाने छोड़ कर, भूतल सहित)",
         "module": "rainmaker-noc",
         "locale": "hi_IN"
     },
@@ -2119,7 +2155,7 @@
     },
     {
         "code": "NOC_SUMMARY_DOCUMENTS_HEADER",
-        "message": "दस्तावेज़",
+        "message": "दस्तावेज",
         "module": "rainmaker-noc",
         "locale": "hi_IN"
     },
@@ -2202,6 +2238,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "PAY_PAYER_DETAILS",
+        "message": "भुगतानकर्ता का विवरण",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
         "code": "PROPERTY_DETAILS_HEADER",
         "message": "संपत्ति विवरण",
         "module": "rainmaker-noc",
@@ -2210,6 +2252,18 @@
     {
         "code": "WF_CANCEL_APPLICATION",
         "message": "आवेदन रद्द करें",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_CITIZEN_FIRENOC_EDIT",
+        "message": "संपादित करें",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_CITIZEN_FIRENOC_RESUBMIT",
+        "message": "पुनः सबमिट करें",
         "module": "rainmaker-noc",
         "locale": "hi_IN"
     },
@@ -2250,6 +2304,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "WF_EMPLOYEE_FIRENOC_SENDBACKTOCITIZEN",
+        "message": "नागरिक को वापस भेजें",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
         "code": "WF_FIRENOC_APPROVED",
         "message": "स्वीकृत",
         "module": "rainmaker-noc",
@@ -2264,6 +2324,12 @@
     {
         "code": "WF_FIRENOC_CANCELLED",
         "message": "रद्द किया गया",
+        "module": "rainmaker-noc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRENOC_CITIZENACTIONREQUIRED",
+        "message": "नागरिक द्वारा कार्यवाही आवश्यक है",
         "module": "rainmaker-noc",
         "locale": "hi_IN"
     },
