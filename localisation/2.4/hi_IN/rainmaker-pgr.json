@@ -139,7 +139,7 @@
     },
     {
         "code": "CORE_COMMON_PINCODE_NOT_SERVICEABLE",
-        "message": "क्षमा करें, हम इस शहर में सेवा प्रदान नहीं कर रहे हैं",
+        "message": "क्षमा करें यह सेवा इस शहर में उपलब्ध नहीं है",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -199,7 +199,7 @@
     },
     {
         "code": "CS_ACTION_NO_FILEUPLOADED",
-        "message": "कोई भी फाइल नहीं चुनी गयी",
+        "message": "कोई फ़ाइल अपलोड नहीं हुई",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -229,7 +229,13 @@
     },
     {
         "code": "CS_ACTION_REOPEN",
-        "message": "फिर से खोलें",
+        "message": "पुनः खोलें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ACTION_REOPEN_TEXT",
+        "message": "आपकी शिकायत पुनः खोल दी गई है",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -253,7 +259,7 @@
     },
     {
         "code": "CS_ADDCOMPLAINT_ADDITIONAL_DETAILS",
-        "message": "अतिरिक्त पता विवरण",
+        "message": "पते की अन्य जानकारी",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -301,7 +307,7 @@
     },
     {
         "code": "CS_ADDCOMPLAINT_COMPLAINT_DETAILS_PLACEHOLDER",
-        "message": "अतिरिक्त शिकायत विवरण दर्ज करें",
+        "message": "शिकायत में अतिरिक्त विवरण दर्ज करें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -313,25 +319,25 @@
     },
     {
         "code": "CS_ADDCOMPLAINT_COMPLAINT_SUBTYPE",
-        "message": "शिकायत का उप-प्रकार",
+        "message": "शिकायत उप-प्रकार",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "CS_ADDCOMPLAINT_COMPLAINT_SUBTYPE_PLACEHOLDER",
-        "message": "शिकायत का उप-प्रकार चुनें",
+        "message": "शिकायत उप-प्रकार चुनें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "CS_ADDCOMPLAINT_COMPLAINT_SUB_TYPE",
-        "message": "शिकायत का उप-प्रकार",
+        "message": "शिकायत उप-प्रकार",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "CS_ADDCOMPLAINT_COMPLAINT_TYPE",
-        "message": "शिकायत का प्रकार",
+        "message": "शिकायत प्रकार",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -528,6 +534,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_COMMON_BACK",
+        "message": "वापस",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_COMMON_BLOCKAGE_OF_DRAINS",
         "message": "नाली में रुकावट",
         "module": "rainmaker-pgr",
@@ -548,6 +560,12 @@
     {
         "code": "CS_COMMON_CANCEL",
         "message": "रद्द करें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_CHOOSE_FILE",
+        "message": "फ़ाइल का चयन करें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -577,7 +595,7 @@
     },
     {
         "code": "CS_COMMON_CLOSED",
-        "message": "क्लोज्ड",
+        "message": "बंद किया हुआ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -595,7 +613,7 @@
     },
     {
         "code": "CS_COMMON_CLOSED_UCASE",
-        "message": "क्लोज्ड",
+        "message": "बंद किया हुआ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -649,13 +667,13 @@
     },
     {
         "code": "CS_COMMON_COMPLAINT_PENDINGFORASSINMENT",
-        "message": "नियुक्ति के लिए रुका हुआ",
+        "message": "नियुक्ति के लिए लंबित",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "CS_COMMON_COMPLAINT_REJECTED",
-        "message": "रद्द किया गया ",
+        "message": "अस्वीकृत",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -744,6 +762,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_COMMON_HOME",
+        "message": "मुख्य पृष्ठ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_INBOX",
+        "message": "इनबॉक्स",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_COMMON_LOGOUT",
         "message": "लॉग आउट",
         "module": "rainmaker-pgr",
@@ -805,19 +835,19 @@
     },
     {
         "code": "CS_COMMON_PENDINGATLME",
-        "message": "एलएमई में रुका हुआ",
+        "message": "एलएमई कार्यालय में लंबित",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "CS_COMMON_PENDINGFORASSIGNMENT",
-        "message": "नियुक्ति के लिए रुका हुआ",
+        "message": "नियुक्ति के लिए लंबित",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "CS_COMMON_PENDINGFORREASSIGNMENT",
-        "message": "फिर से नियुक्ति के लिए रुका हुआ",
+        "message": "फिर से नियुक्ति के लिए लंबित",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -828,8 +858,14 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_COMMON_RATE",
+        "message": "मूल्यांकन करें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_COMMON_RATING_SUBMIT_TEXT",
-        "message": "दर्ज करे",
+        "message": "अपनी आवाज बुलंद करके, आप एमसेवा को बेहतर बनाने में हमारी मदद करते हैं।",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -865,7 +901,13 @@
     },
     {
         "code": "CS_COMMON_REJECTED_UCASE",
-        "message": "रिजेक्टेड",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_REOPEN",
+        "message": "पुनः खोलें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -949,7 +991,7 @@
     },
     {
         "code": "CS_COMMON_STATUS_REOPENED",
-        "message": "आपकी शिकायत फिर से खोल दी गई है",
+        "message": "आपकी शिकायत पुन: खोल दी गई है",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1063,7 +1105,7 @@
     },
     {
         "code": "CS_COMPLAINT_DETAILS_BUILDING_NAME",
-        "message": "बिल्ड का नाम",
+        "message": "इमारत का नाम",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1075,19 +1117,19 @@
     },
     {
         "code": "CS_COMPLAINT_DETAILS_COMMENTS",
-        "message": "सड़क पर कचरे के कारण",
+        "message": "सड़क पर बहुत अधिक कचरा पड़ा है, क्षेत्र को पार करना बहुत मुश्किल है",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "CS_COMPLAINT_DETAILS_COMPLAINT_DESCRIPTION",
-        "message": "शिकायत का विवरण",
+        "message": "शिकायत विवरण",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "CS_COMPLAINT_DETAILS_COMPLAINT_DETAILS",
-        "message": "शिकायत का विवरण",
+        "message": "शिकायत विवरण",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1165,7 +1207,7 @@
     },
     {
         "code": "CS_COMPLAINT_DETAILS_PENDINGFORASSIGNMENT",
-        "message": "नियुक्ति के लिए रुका हुआ",
+        "message": "नियुक्ति के लिए लंबित",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1183,7 +1225,7 @@
     },
     {
         "code": "CS_COMPLAINT_DETAILS_RATE",
-        "message": "रेटिंग दें",
+        "message": "मूल्यांकन करें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1195,7 +1237,7 @@
     },
     {
         "code": "CS_COMPLAINT_DETAILS_REOPEN",
-        "message": "फिर से खोलें",
+        "message": "पुनः खोलें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1477,7 +1519,7 @@
     },
     {
         "code": "CS_HEADER_REOPEN_COMPLAINT",
-        "message": "शिकायत फिर से खोलें",
+        "message": "शिकायत पुनः खोलें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1513,7 +1555,7 @@
     },
     {
         "code": "CS_HOME_STATUS_REASSIGN_PREFIX",
-        "message": "आपकी शिकायत है",
+        "message": "आपकी शिकायत",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1650,6 +1692,42 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_PGR_COMPLAINT_DETAILS",
+        "message": "शिकायत विवरण",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PGR_COMPLAINT_NUMBER",
+        "message": "शिकायत नंबर",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PGR_CREATE_COMPLAINT",
+        "message": "शिकायत बनाएं",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PGR_LOCALITY",
+        "message": "इलाका",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PGR_RESPONSE",
+        "message": "प्रतिक्रिया",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PGR_SEND_COMMENT",
+        "message": "भेजें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_REOPEN_COMPLAINT",
         "message": "शिकायत को फिर से खोलने का कारण चुनें",
         "module": "rainmaker-pgr",
@@ -1687,7 +1765,7 @@
     },
     {
         "code": "CS_REOPEN_SUCCESS_MESSAGE",
-        "message": "अपनी शिकायत को पुन: चालू कर दिया गया है",
+        "message": "अपनी शिकायत को पुन: खोल दिया गया है",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1754,6 +1832,12 @@
     {
         "code": "CS_SORT_OPTION_TWO",
         "message": "शिकायत तिथि - नई से पुरानी",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_UPLOAD_RESTRICTIONS",
+        "message": "**अपलोड प्रतिबंध",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1860,8 +1944,14 @@
         "locale": "hi_IN"
     },
     {
+        "code": "ES_COMMON_CLEAR_SEARCH",
+        "message": "खोज मिटायें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ES_COMMON_FILED_BY",
-        "message": "फाइल किया गया, द्वारा:",
+        "message": "द्वारा फाइल किया गया:",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -1890,6 +1980,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "ES_COMMON_FILTER",
+        "message": "इससे फ़िल्टर करें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_FILTER_BY",
+        "message": "इससे फ़िल्टर करें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ES_COMMON_INBOX",
         "message": "इनबॉक्स",
         "module": "rainmaker-pgr",
@@ -1897,7 +1999,7 @@
     },
     {
         "code": "ES_COMMON_REASSIGN",
-        "message": "फिर से नियुक्त करें",
+        "message": "पुनः नियुक्त करें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -2130,6 +2232,30 @@
         "locale": "hi_IN"
     },
     {
+        "code": "ES_PGR_FILTER_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PGR_HEADER_COMPLAINT",
+        "message": "शिकायतें",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PGR_INBOX",
+        "message": "इनबॉक्स",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PGR_NEW_COMPLAINT",
+        "message": "नई शिकायत",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ES_REASON_TO_REJECT_HEADER",
         "message": "अस्वीकार करने का कारण",
         "module": "rainmaker-pgr",
@@ -2276,6 +2402,18 @@
     {
         "code": "PGR_RESOLVE_RESOLVED_SMS_MESSAGE",
         "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, जो दिनांक <date> को जमा की गयी थी, <emp_name> द्वारा हल कर दी गयी है।  अगर आप सेवा से संतुष्ट नहीं हैं तो आप शिकायत को फिर से चालू करने के लिए एम-सेवा पंजाब मोबाइल ऍप <download link> डाउनलोड करें या स्थानीय नगर निगम के वेब पोर्टल के जरिये कर सकते हैं",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_COMMON_NEXT",
+        "message": "आगे जाएँ",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_HOME_COMPLAINT",
+        "message": "शिकायतें",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -2563,7 +2701,7 @@
     },
     {
         "code": "SERVICEDEFS.DUMPING",
-        "message": "डम्पिंग",
+        "message": "ढेर लगाना",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -2695,13 +2833,13 @@
     },
     {
         "code": "SERVICEDEFS.LANDVIOLATION",
-        "message": "भूमि का उल्लंघन",
+        "message": "भूमि अतिक्रमण",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "SERVICEDEFS.LANDVIOLATIONS",
-        "message": "भूमि का उल्लंघन",
+        "message": "भूमि अतिक्रमण",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -2738,6 +2876,12 @@
     {
         "code": "SERVICEDEFS.MOSQUITOS",
         "message": "मच्छर",
+        "module": "rainmaker-pgr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SERVICEDEFS.NONSWEEPINGOFROAD",
+        "message": "सड़क पर झाड़ू मारने की ज़रूरत है",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -3049,25 +3193,25 @@
     },
     {
         "code": "SERVICEDEFS.STRAYANIMALS",
-        "message": "आवारा जानवर",
+        "message": "भटकते जानवर",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "SERVICEDEFS.STRAYCATTLE",
-        "message": "आवारा मवेशी",
+        "message": "भटकते मवेशी",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "SERVICEDEFS.STRAYDOGS",
-        "message": "आवारा कुत्ते",
+        "message": "भटकते कुत्ते",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
     {
         "code": "SERVICEDEFS.STRAYPIGS",
-        "message": "आवारा सुअर",
+        "message": "भटकते सुअर",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
@@ -4177,7 +4321,7 @@
     },
     {
         "code": "pgr.complaint.category.StrayAnimals",
-        "message": "आवारा जानवर",
+        "message": "भटकते जानवर",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },
