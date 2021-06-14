@@ -1318,5 +1318,113 @@
         "message": "My Bills",
         "module": "rainmaker-pt",
         "locale": "en_IN"
+    },
+    {
+        "code": "ASMT_CREATE",
+        "message": "Dear {OWNER_NAME}, Your assessment with {ASSESSMENTNUMBER} for financial year {FINANCIALYEAR} and property id {PROPERTYID} is created. You can pay your Property Tax online here - {PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ASMT_UPDATE",
+        "message": "Dear {OWNER_NAME}, Your assessment with {ASSESSMENTNUMBER} for financial year {FINANCIALYEAR} and property id {PROPERTYID} is reassessed.\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_OFFILE",
+        "message": "Dear Citizen, Your Property Tax payment of Rs. <amount> has been accepted. Mode of Payment: <insert mode of payment> Pending Amount: <Enter pending amount>. Click on the link to download payment receipt <receipt download link>\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ASMT_MSG_APPLIED",
+        "message": "Dear {OWNER_NAME}, Your assessment with {ASSESSMENTNUMBER} for financial year {FINANCIALYEAR} and property id {PROPERTYID} is updated to {STATUS}.\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ASMT_MSG_APPROVED",
+        "message": "Dear {OWNER_NAME}, Your assessment with {ASSESSMENTNUMBER} for financial year {FINANCIALYEAR} and property id {PROPERTYID} is {STATUS}.\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_APPROVED",
+        "message": "Dear {OWNER_NAME}, Your property has been {updated/created} as per the application no. {APPID} for property {PROPERTYID}. You can view your property on the link given below - {PTURL} Thank you.\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_OPEN",
+        "message": "Dear {OWNER_NAME}, Your application to edit ownership details of property ID {PROPERTYID} has been submitted successfully. Your application no. for future reference is {APPID}. You can track your application on the link given below - {MTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_STATE_CHANGE",
+        "message": "Dear {OWNER_NAME}, Status for your application no. {APPID} for property {PROPERTYID} to edit ownership has been changed to {STATUS}. You can track your application on the link given below - {MTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_PAYMENT_PENDING",
+        "message": "Dear {OWNER_NAME}, Payment is pending for your application no. {APPID} for property ID {PROPERTYID} to edit ownership. You can pay your mutation fee on the below link - {PAYLINK} or visit your ULB to pay your dues. Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_NONE",
+        "message": "Dear {OWNER_NAME}, Your property with property-id {PROPERTYID} has been mutated. You can view your property on the link given below - {MTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_APPROVED",
+        "message": "Dear {OWNER_NAME}, Your property ownership has been changed as per the application no. {APPID} for property {PROPERTYID}. You can download your mutation certificate on the below link - {MTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_OPEN",
+        "message": "Dear {OWNER_NAME}, Your application to {updated/created} property with Id {PROPERTYID} has been submitted successfully. Your application no. for future reference is {APPID}. You can track your application on the link given below - {PTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_STATUS_CHANGE",
+        "message": "Dear {OWNER_NAME}, Status for your application no. {APPID} for property {PROPERTYID} to {updated/created} property has been changed to {STATUS}. You can track your application on the link given below - {PTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_UPDATE_NONE",
+        "message": "Dear {OWNER_NAME}, Your property with property-id {PROPERTYID} has been {updated/created}. You can view your property on the link given below - {PTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_FAIL",
+        "message": "Dear Citizen, Your payment of Rs. <insert amount to pay> for Property Tax Unique ID <insert ID> has failed. Your assessment is pending. Please try again. Ignore this message if you have completed your payment. You can pay your Property Tax online here - <payLink>\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_OFFLINE",
+        "message": "Dear Citizen, Your Property Tax payment of Rs. <amount> has been accepted. Mode of Payment: <insert mode of payment> Pending Amount: <Enter pending amount>. You can pay your Property Tax online here - <payLink>. Click on the link to download payment receipt <receipt download link>\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_ONLINE",
+        "message": "Dear Citizen, Your payment of Rs.< insert amount paid> with payment transaction id < insert payment transaction id from PG> has been made successfully. Assessment for Property Tax Unique ID <insert Property Tax Assessment ID> was succesful. Property Tax due is Rs.<pt due>. You can pay your Property Tax here - <payLink> Click on the link to download payment receipt <receipt download link>\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_ONLINE",
+        "message": "Dear Citizen, Your payment of Rs.< insert amount paid> with payment transaction id < insert payment transaction id from PG> has been made successfully. Assessment for Property Tax Unique ID <insert Property Tax Assessment ID> was succesful. Property Tax due is Rs.<pt due>. Click on the link to download payment receipt <receipt download link>\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
     }
 ]

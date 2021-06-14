@@ -288,6 +288,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "ERR_BASE_TENANT_MANDATORY",
+        "message": "मूल शहर में कम से कम एक क्षेत्राधिकार का चयन किया जाना चाहिए",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ERR_HRMS_BULK_CREATE_DUPLICATE_EMPCODE",
         "message": "थोक अनुरोध में डुप्लिकेट कर्मचारी कोड है",
         "module": "rainmaker-hr",
@@ -654,6 +660,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "FATHER",
+        "message": "पिता",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FEMALE",
+        "message": "महिला",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "HE_NEW_EMPLOYEE_CITY_LABEL",
         "message": "नया कर्मचारी निकाय",
         "module": "rainmaker-hr",
@@ -738,7 +756,25 @@
         "locale": "hi_IN"
     },
     {
+        "code": "HR_ASMT_FROM_DATE_PLACEHOLDER",
+        "message": "नियुक्ति: तिथि से",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "HR_ASMT_TO_DATE_LABEL",
+        "message": "नियुक्ति: तिथि तक",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HR_ASMT_TO_DATE_LABEL_PLACEHOLDER",
+        "message": "नियुक्ति: तिथि तक",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HR_ASMT_TO_DATE_PLACEHOLDER",
         "message": "नियुक्ति: तिथि तक",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
@@ -764,6 +800,24 @@
     {
         "code": "HR_BIRTH_DATE_PLACEHOLDER",
         "message": "जन्म की तारीख",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HR_BOUNDARY_LABEL",
+        "message": "सीमा",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HR_BOUNDARY_PLACEHOLDER",
+        "message": "सीमा का चयन करें",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HR_BOUNDARY_TYPE_LABEL",
+        "message": "सीमा प्रकार",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1026,6 +1080,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "HR_DOB_LABEL",
+        "message": "जन्म तिथि",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "HR_EDIT_DETAILS_LABEL",
         "message": "विवरण में बदलाव करें",
         "module": "rainmaker-hr",
@@ -1190,6 +1250,12 @@
     {
         "code": "HR_GUARDIAN_NAME_PLACEHOLDER",
         "message": "अभिभावक का नाम दर्ज करें",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HR_HIERARCHY_LABEL",
+        "message": "पदानुक्रम",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1578,6 +1644,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "HUSBAND",
+        "message": "पति",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MALE",
+        "message": "पुरुष",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
         "code": "RT_ALL",
         "message": "सभी",
         "module": "rainmaker-hr",
@@ -1598,6 +1676,12 @@
     {
         "code": "RT_DOWNLOAD_XLS",
         "message": "डाउनलोड xls",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RT_SELECT_PLACEHOLDER",
+        "message": "चुनें",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },
@@ -1646,6 +1730,12 @@
     {
         "code": "TL_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
         "message": "खोजें",
+        "module": "rainmaker-hr",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TRANSGENDER",
+        "message": "ट्रांसजेंडर",
         "module": "rainmaker-hr",
         "locale": "hi_IN"
     },

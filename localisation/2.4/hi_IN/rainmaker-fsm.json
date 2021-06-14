@@ -102,6 +102,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CORE_COMMON_GO_TO_HOME",
+        "message": "मुख पृष्ठ पर वापस जाएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CORE_COMMON_PINCODE",
         "message": "पिन कोड",
         "module": "rainmaker-fsm",
@@ -504,6 +510,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_COMMON_APPLICATION_ACKNOWLEDGEMENT",
+        "message": "आवेदन पावती",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_COMMON_APPLICATION_FILED",
         "message": "आवेदन जमा किया गया",
         "module": "rainmaker-fsm",
@@ -548,6 +560,12 @@
     {
         "code": "CS_COMMON_CITIZEN_FEEDBACK_PENDING",
         "message": "नागरिक प्रतिक्रिया के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_COMMENTS",
+        "message": "टिप्पणियाँ",
         "module": "rainmaker-fsm",
         "locale": "hi_IN"
     },
@@ -768,6 +786,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_COMMON_INFO",
+        "message": "जानकारी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_COMMON_LENGTH",
         "message": "लंबाई",
         "module": "rainmaker-fsm",
@@ -804,6 +828,18 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_COMMON_PAYMENT_COMPLETE",
+        "message": "भुगतान पूरा हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_PAYMENT_RECEIPT",
+        "message": "भुगतान रसीद",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_COMMON_PENDING_ADDITIONAL_PAYMENT",
         "message": "बकाया अतिरिक्त भुगतान",
         "module": "rainmaker-fsm",
@@ -836,6 +872,12 @@
     {
         "code": "CS_COMMON_REASSING",
         "message": "पुनः नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_RECIEPT_NO",
+        "message": "रसीद नंबर",
         "module": "rainmaker-fsm",
         "locale": "hi_IN"
     },
@@ -884,6 +926,12 @@
     {
         "code": "CS_FEEDBACK_OPERATORS_WERE_WITHOUT_SAFETY_GEARS",
         "message": "प्रचालक/ऑपरेटर्स सुरक्षा गियर के बिना थे",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FEEDBACK_RATE_HELP_TEXT",
+        "message": "आपकी मदद करेने में हमारी सहायता करें",
         "module": "rainmaker-fsm",
         "locale": "hi_IN"
     },
@@ -1404,6 +1452,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_PAYMENT_REDIRECT_NOTICE",
+        "message": "आपको एक तृतीय-पक्ष भुगतान गेटवे के लिए निर्देशित किया जाएगा। \n एमसेवा क्रेडिट या डेबिट कार्ड को कोई भी जानकारी जमा करके नहीं रखता।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_PAYMENT_SUCCESSFUL_DESCRIPTION",
         "message": "आवेदन पर अब कार्रवाई की जाएगी और शिकायत को 2 कार्यकारी दिनों के अंदर बंद कर दिया जाएगा। जब एक desludging वाहन अनुरोध करने के लिए नियुक्त किया जाएगा तब आवेदक को सूचित किया जाएगा।",
         "module": "rainmaker-fsm",
@@ -1758,6 +1812,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "ES_COMMON_ASSIGN",
+        "message": "निर्दिष्ट करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ES_COMMON_CLEAR_ALL",
         "message": "सब हटाएं",
         "module": "rainmaker-fsm",
@@ -1951,7 +2011,7 @@
     },
     {
         "code": "ES_FSM_ACTION_SERVICE_DATE",
-        "message": "संभावित सेवा दिनांक",
+        "message": "पूरा होने की अनुमानित तिथि",
         "module": "rainmaker-fsm",
         "locale": "hi_IN"
     },
@@ -2910,8 +2970,68 @@
         "locale": "hi_IN"
     },
     {
+        "code": "FSM_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_ASSING_DSO_PAY",
+        "message": "प्रिय आवेदक, रिफरेन्स नंबर {RECEIPT_NO} के लिए सेप्टिक टैंक/गड्ढे की सफाई की राशि का {AMOUNT_TO_BE_PAID} रु का भुगतान प्राप्त हुआ। अनुरोध के लिए ऑपरेटर की नियुक्ति होने पर आपको सूचित किया जाएगा। कृपया रसीद डाउनलोड करने के लिए इस लिंक {RECEIPT_LINK} क्लिक करें। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
         "code": "FSM_SMS_CANCELED_CANCEL",
-        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई का निवेदन <FSM_CANCEL_REASON> के कारन रद्द कर दिया गया है। यदि आवश्यक हो तो नई शिकायत बनाने के लिए इस लिंक <NEW_FSM_LINK> का उपयोग करें।",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई का निवेदन {FSM_CANCEL_REASON} के कारण रद्द कर दिया गया है। यदि आवश्यक हो तो नई शिकायत बनाने के लिए इस लिंक {NEW_FSM_LINK} का उपयोग करें। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_CITIZEN_FEEDBACK_PENDING_COMPLETED",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई का आपका अनुरोध पूरा हो गया है। कृपया कुछ समय निकाल कर इस लिंक {FSM_APPL_LINK} के जरिये हमें रेटिंग दें। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_CREATED_CREATE",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई के लिए आपका आवेदन, आवेदन नंबर {2} के साथ बनाया गया है। आपको शीघ्र ही एक आवेदन शुल्क भरने के लिए सूचित किया जाएगा। आपके अनुरोध का भुगतान करने के {SLA_HOURS} घंटे के भीतर पूरा होने कीअपेक्षा है। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_CREATED_CREATE_2",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई के लिए आपका आवेदन, आवेदन नंबर {2} के साथ बनाया गया है। आपको शीघ्र ही एक आवेदन शुल्क भरने के लिए सूचित किया जाएगा। आपके अनुरोध का भुगतान करने के {SLA_HOURS} घंटे के भीतर पूरा होने की अपेक्षा है। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_DSO_INPROGRESS_DSO_ACCEPT",
+        "message": "प्रिय आवेदक, आपके आवेदन नंबर {2} के संदर्भ में सेप्टिक टंकी / गड्ढे की सफाई के लिए वाहन {VEHICLE_REG_NO} दिनांक {POSSIBLE_SERVICE_DATE} पर आपके स्थान तक पहुँचेगा। आप +91{DSO_MOBILE_NUMBER} पर ऑपरेटर से संपर्क कर सकते हैं। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_DSO_REJECTED_DSO_REJECT",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई के लिए आपका अनुरोध {FSM_DSO_REJECT_REASON} कारण से खारिज कर दिया गया है। यदि आवश्यक हो तो एक नया अनुरोध बनाने के लिए इस लिंक {NEW_FSM_LINK} का उपयोग करें। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_PENDING_APPL_FEE_PAYMENT_APPLY",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई के लिए आपका आवेदन, आवेदन नंबर {2} के साथ बनाया गया है। आवेदन पर कार्यवाही के लिए कृपया इस लिंक{PAY_LINK} पर क्लिक करके आवेदन शुल्क का भुगतान करें। आपके अनुरोध का भुगतान करने के {SLA_HOURS} घंटे के भीतर पूरा होने की उम्मीद है। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_PENDING_APPL_FEE_PAYMENT_SUBMIT",
+        "message": "प्रिय आवेदक, कृपया अनुरोध संख्या {2} के साथ सेप्टिक टैंक/गड्ढे की सफाई के लिए आवेदन शुल्क रु.{AMOUNT_TO_BE_PAID}/- का भुगतान करें। भुगतान करने के लिए इस लिंक {PAY_LINK} पर क्लिक करें। भुगतान करने के {SLA_HOURS} घंटे के भीतर अनुरोध पूरा होने की उम्मीद है।\n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_REJECTED_REJECT",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई के लिए आपका अनुरोध {FSM_DSO_REJECT_REASON} कारण से खारिज कर दिया गया है। यदि आवश्यक हो तो एक नया अनुरोध बनाने के लिए इस लिंक {NEW_FSM_LINK} का उपयोग करें। \n\nEGOVS",
         "module": "rainmaker-fsm",
         "locale": "hi_IN"
     },
@@ -4004,6 +4124,12 @@
     {
         "code": "pg.cityc",
         "message": "शहर स",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "sms.login.otp.msg",
+        "message": "प्रिय नागरिक, आपका लॉगिन ओटीपी %s है। \n\nEGOVS",
         "module": "rainmaker-fsm",
         "locale": "hi_IN"
     }
