@@ -1,0 +1,518 @@
+[
+    {
+        "code": "PT_SELECT_CITY",
+        "message": "शहर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SELECT_LOCALITY",
+        "message": "इलाका",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER.ADDRESSPROOF.AADHAAR",
+        "message": "आधार",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER.ADDRESSPROOF.VOTERID",
+        "message": "मतदाता आईडी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER.ADDRESSPROOF.DRIVING",
+        "message": "ड्राइविंग लाइसेंस",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER.ADDRESSPROOF.PASSPORT",
+        "message": "पासपोर्ट",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER.SPECIALCATEGORYPROOF.GENERALID",
+        "message": "सामान्य आईडी प्रूफ",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTAX_OWNERTYPE_GENERAL",
+        "message": "सामान्य आईडी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_MUTATION_PENDING_MESSAGE",
+        "message": "",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_STATE_AQUISTION_MESSAGE",
+        "message": "",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_UNIT",
+        "message": "आवेदन विवरण इकाई",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTAX_OWNER_SPECIALCATEGORYPROOF_GENERALID_LABEL",
+        "message": "5. सामान्य श्रेणी प्रमाणपत्र",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_RESPONSE",
+        "message": "आवेदन संदर्भ आपके पंजीकृत मोबाइल नंबर पर भेजा जाता है। आपको जल्द ही लागू सेवा के शुल्कों के बारे में सूचित किया जाएगा। कृपया अधिसूचना प्राप्त करने के बाद होम पेज से माय एप्लिकेशन लिंक का उपयोग करके भुगतान करें।",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "USAGECATEGORYMAJOR_REQUIRED",
+        "message": "आवश्यक",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNERSHIPCATEGORY_REQUIRED",
+        "message": "आवश्यक",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_ADDRESS_CHECKBOX",
+        "message": "संपत्ति के पते के समान",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_CORRESPONDENCE_ADDRESS",
+        "message": "पत्राचार का पता",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
+        "message": "पत्राचार पता दर्ज करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_DOCUMENT_ID_NO",
+        "message": "दस्तावेज़ आईडी संख्या।",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_DOCUMENT_ID_NO_PLACEHOLDER",
+        "message": "पहचान संख्या दर्ज करें।",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_DOCUMENT_ID_TYPE",
+        "message": "दस्तावेज़ आईडी प्रकार",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_DOCUMENT_ID_TYPE_PLACEHOLDER",
+        "message": "पहचान संख्या दर्ज करें।",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_EMAIL_ID",
+        "message": "ईमेल आईडी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_EMAIL_ID_PLACEHOLDER",
+        "message": "ईमेल आईडी दर्ज करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_FEMALE",
+        "message": "महिला",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_GENDER",
+        "message": "लिंग",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_GUARDIAN",
+        "message": "पिता / पति का नाम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_GUARDIAN_NAME",
+        "message": "अभिभावक",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_GUARDIAN_PLACEHOLDER",
+        "message": "नाम दर्ज करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_HEADER_MESSAGE",
+        "message": "कृपया संपत्ति के मालिक (ओं) के बारे में जानकारी प्रदान करें।",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TAX_CURRENT_AMOUNT",
+        "message": "मौजूदा बिल",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILL_OLD_AMOUNT",
+        "message": "वर्तमान मांग",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILL_RS_HEADER",
+        "message": "रु.",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILL_TOTAL_AMOUNT",
+        "message": "कुल राशि",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILL_UPDATED_AMOUNT",
+        "message": "प्रस्तावित मांग",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.CREATE_REOPEN_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक फिर से शुरू हुआ",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.UPDATE_REOPEN_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक फिर से शुरू हुआ",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.MUTATION_REOPEN_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक फिर से शुरू हुआ",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FLOORS_MISSING_UNITS",
+        "message": "फर्श के लिए गायब इकाइयाँ",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLAMEND_IDENTITYPROOF.ELECTRICITYBILL",
+        "message": "बिजली का बिल",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLAMEND_COURTORDER",
+        "message": "कोर्ट ओडर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLAMEND_ADDRESSPROOF.AADHAAR",
+        "message": "आधार",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WIDOW",
+        "message": "विधवा",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HANDICAPPED",
+        "message": "विकलांग",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "GENERAL",
+        "message": "आम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPL",
+        "message": "गरीबी रेखा से नीचे",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NONE",
+        "message": "इनमे से कोई भी नहीं",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT_RESPONSE_CREATE_ACTION_ERROR",
+        "message": "कुछ त्रुटि के कारण आवेदन निर्माण विफल रहा। बाद में पुन: प्रयास करें।",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT_RESPONSE_CREATE_LABEL_ERROR",
+        "message": "",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT_RESPONSE_CREATE_DISPLAY_ERROR",
+        "message": "",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_MARKET_VALUE_MESSAGE",
+        "message": "",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_REGISTRATION_DOC_MESSAGE",
+        "message": "",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_REMARKS_MESSAGE",
+        "message": "",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TRANSFER_DOC_CAPTION",
+        "message": "नामांतरण विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TRANSFER_DOC_HEADER",
+        "message": "पंजीकरण दस्तावेज़ विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TRANSFER_DOC_MESSAGE",
+        "message": "",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLAMEND_OFFICENOTEORDER",
+        "message": "अदालत के आदेश",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLAMEND_IDENTITYPROOF.DRIVING",
+        "message": "ड्राइविंग लाइसेंस",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLAMEND_ADDRESSPROOF.PAN",
+        "message": "पण कार्ड",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.CREATE_FORWARD_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक अग्रेषित",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.MUTATION_FORWARD_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक अग्रेषित",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.UPDATE_FORWARD_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक अग्रेषित",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_REQUIRED_ERRMSG",
+        "message": "आवश्यक",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_COMMON_NEXT",
+        "message": "अगला",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROPERTY_TYPE_INFO_MSG",
+        "message": "यदि आप संपत्ति पर संपूर्ण निर्मित क्षेत्र का आकलन कर रहे हैं तो स्वतंत्र भवन का चयन करें।",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_CHECK_CHECK_YOUR_ANSWER",
+        "message": "अपने उत्तरों की समीक्षा करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_CHECK_CHECK_YOUR_ANSWERS",
+        "message": "अपने उत्तरों की समीक्षा करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FLOOR_DETAILS_PLOT_SIZE_LABEL",
+        "message": "प्लॉट का आकार (वर्ग वर्ष)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM2_PLOT_SIZE",
+        "message": "प्लॉट का आकार (वर्ग वर्ष)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ACK_LOCALIZATION_PLOTSIZE_SQ_YARDS",
+        "message": "प्लॉट का आकार (वर्ग वर्ष)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ASSESMENT1_PLOT_SIZE",
+        "message": "प्लॉट का आकार (वर्ग वर्ष)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ASSESMENT_INFO_PLOT_SIZE",
+        "message": "प्लॉट का आकार (वर्ग वर्ष)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FLOOR_DETAILS_PLOT_SIZE_LABEL",
+        "message": "प्लॉट का आकार (वर्ग वर्ष)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_TITLE_MY_APPLICATIONS",
+        "message": "मेरे आवेदन",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_NO_DOCUMENTS_MSG",
+        "message": "कोई दस्तावेज नहीं",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_TIMELINE",
+        "message": "आवेदन समयरेखा",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PROPERTY_ID_FORMAT_MUST_BE",
+        "message": "संपत्ति आईडी प्रारूप होना चाहिए",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_SPECIAL_CATEGORY",
+        "message": "विशेष श्रेणी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_TRANSGENDER",
+        "message": "ट्रांसजेंडर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_UNIT",
+        "message": "इकाई",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SUB_USAGE_TYPE_INFO_MSG",
+        "message": "संपत्ति का उप-उपयोग पिछली स्क्रीन में चयनित उपयोग प्रकार पर निर्भर है। यदि आपका उपयोग सूचीबद्ध नहीं है तो 'अन्य' चुनें।",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROOF_OF_ADDRESS_SUB_HEADER",
+        "message": "पते का सबूत",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FLOOR_AREA_INFO_MSG",
+        "message": "1 Sq. Yd. = 9 Sq. ft.",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_NA",
+        "message": "ना",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PT_NO_PROPERTIES_FOUND",
+        "message": "कोई संपत्ति नहीं मिला",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TRANSFER_OWNERSHIP",
+        "message": "स्वामित्व का हस्तांतरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    }
+]
