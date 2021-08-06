@@ -1,0 +1,548 @@
+[
+    {
+        "code": "BPA_OC_COMMON_APPL_NEW_CONSTRUCTION",
+        "message": "Occupancy certificate for New building construction",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-R",
+        "message": "Residential",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-AF",
+        "message": "Apartment/Group Housing",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-HRLG",
+        "message": "Hostel/ Residential building Lodging purpose/Guest house",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-RH",
+        "message": "Row housing",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-FH",
+        "message": "Farm House",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-WR",
+        "message": "workcum-residential",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-IR",
+        "message": "Individual Residential",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_F-C",
+        "message": "Commercial",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_F-R",
+        "message": "Restaurants",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_F-S",
+        "message": "Shop",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_F-H",
+        "message": "Hotels",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_F-L",
+        "message": "Lodges",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_F-GH",
+        "message": "Guest Houses",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_F-CO",
+        "message": "Commercial Offices",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_F-B",
+        "message": "Banks",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_F-IIB",
+        "message": "IT, ITES Buildings",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-PS",
+        "message": "Primary School",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-HSS",
+        "message": "Higher Secondary School",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-C",
+        "message": "College",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-PLS",
+        "message": "Play School",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-CC",
+        "message": "Coaching Centre",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-CTI",
+        "message": "Computer Training Institute",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-PEC",
+        "message": "Physical Education Centre etc.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-SMC",
+        "message": "School for Mentally Challenged.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-SDAP",
+        "message": "School for differently abled persons.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_B-ERC",
+        "message": "Education and Research Centre (large campus i.e. above 8 Ha.)",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_G-IB",
+        "message": "Industrial Buildings (Factories, Workshops, etc.)",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_G-SFFI",
+        "message": "small factories and etc needs to be defind, falls in industrial",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-HTHCC",
+        "message": "Hospital/*Tertiary Health care Centre",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-MHNH",
+        "message": "Maternity Home Nursing Home",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-P",
+        "message": "Polyclinic",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-D",
+        "message": "Dispensary",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-FWC",
+        "message": "Family Welfare Centre",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-PC",
+        "message": "Pediatric Centre",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-GC",
+        "message": "Geriatric Centre",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-DC",
+        "message": "Diagnostic Centre.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-VHPAB",
+        "message": "Veterinary Hospital for pet animals and birds",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-DPAB",
+        "message": "Dispensary for pet animals and birds.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-NPI",
+        "message": "Nursing and Paramedic Institute",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-VI",
+        "message": "Veterinary Institute",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-SSMFH",
+        "message": "Super specialty medical facilities/hospitals",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_C-MO",
+        "message": "Medical  Occupancy- (staff quarters and Hostels)",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-C",
+        "message": "Cinema",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-MM",
+        "message": "Mall and Multiplex",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-TB",
+        "message": "Theatre building",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-AB",
+        "message": "auditoria buildings",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-GY",
+        "message": "Gym",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-A",
+        "message": "Art",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-GA",
+        "message": "Galleries",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-PL",
+        "message": "Public Libraries",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-M",
+        "message": "Museums",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-PC",
+        "message": "Places of congregation",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_D-PW",
+        "message": "Place of workship",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_H-JSISS",
+        "message": "Junction Stations, Intermediate Stations and Substations",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_H-PTPA",
+        "message": "Public Toilets in Public Area",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_H-HB",
+        "message": "heritage buildings",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_H-HP",
+        "message": "heritage precincts",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_H-GH",
+        "message": "Governor's House",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_H-SS",
+        "message": "State Secretariat",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_H-LA",
+        "message": "Legislative Assembly",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_H-HC",
+        "message": "High Court",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_H-BCG",
+        "message": "Burial and cremation grounds",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_I-LPGS",
+        "message": "Liquefied Petroleum Gas station",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_I-PP",
+        "message": "Petrol Pump",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_I-CNGMS",
+        "message": "Compressed Natural Gas (CNG) mother station",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_J-RTIPT",
+        "message": "Rail Terminal/Integrated Passenger Terminal",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_J-MPT",
+        "message": "Metropolitan Passenger Terminal",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_J-BT",
+        "message": "Bus Terminal",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_J-ISBT",
+        "message": "ISBT",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_J-MY",
+        "message": "Metro Yards",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_J-JSISS",
+        "message": "Junction Stations, Intermediate Stations and Substations",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_J-TSBT",
+        "message": "Terminal Stations and Bus Terminals",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_J-DA",
+        "message": "Domestic Airports",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_J-IA",
+        "message": "International Airports",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_K-SAS",
+        "message": "Sports and amenity structures",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-MCH",
+        "message": "Multipurpose Community Hall.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-BHMH",
+        "message": "Banquet hall/Marriage Hall",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-CRC",
+        "message": "Community Recreational Club.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-RC",
+        "message": "Recreational Club",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-SCAAMDDCMSC",
+        "message": "Socio- cultural activities such as auditorium , music, dance & drama centre, mediation & spiritual centre etc",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-EFG",
+        "message": "Exhibition cum Fair Ground",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-SC",
+        "message": "Science centre",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-ICC",
+        "message": "International Convention Centre",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-OAH",
+        "message": "Old Age Home",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-CCDAPMC",
+        "message": "Care Centre for Differently Abled Persons/Mentally Challenged",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-WWMH",
+        "message": "Working Women/Men Hostel",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-AEC",
+        "message": "Adult Education Centre",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-OCC",
+        "message": "Orphanage, Children's Centre",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_E-NS",
+        "message": "Night Shelter. ",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_L-RS",
+        "message": "Religious shrine",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    }
+]
