@@ -25,19 +25,31 @@
     },
     {
         "code": "WF_EMPLOYEE_AIRPORT_NOC_OFFLINE_AUTO_APPROVE",
-        "message": "Approve",
+        "message": "Auto Approved",
         "module": "rainmaker-common-noc",
         "locale": "en_IN"
     },
     {
         "code": "WF_AIRPORT_NOC_OFFLINE_AUTO_APPROVE",
-        "message": "Approve",
+        "message": "Auto Approved",
         "module": "rainmaker-common-noc",
         "locale": "en_IN"
     },
     {
         "code": "WF_EMPLOYEE_AIRPORT_NOC_OFFLINE_VOID",
         "message": "Void",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_BUILDING_OC_PLAN_SCRUTINY",
+        "message": "Occupancy Certificate",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_BUILDING_PLAN_SCRUTINY",
+        "message": "Permit Application",
         "module": "rainmaker-common-noc",
         "locale": "en_IN"
     }
