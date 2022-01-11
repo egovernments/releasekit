@@ -1,0 +1,20 @@
+[
+    {
+        "code": "echallan.cancel.sms",
+        "message": "Challan No: {challanno} for {service} has been cancelled.\n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.create.sms",
+        "message": "Challan No: {challanno} for {service} INR {amount} generated. Pay @ {Link} .\n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.update.sms",
+        "message": "Challan No: {challanno} updated for {service}. Amount INR {amount}. Pay @ {Link} .\n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    }
+]
