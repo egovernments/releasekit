@@ -2208,8 +2208,15 @@
         "locale": "en_IN"
     },
     {
+
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
         "message": "Dear <1>, Your Application for New Construction (Service type) is created. Please use the Application number <3> for future reference.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_APPL_FEES_DETAILS",
+        "message": "Application Fee Details",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -2220,8 +2227,20 @@
         "locale": "en_IN"
     },
     {
+        "code": "BPA_SANC_FEES_DETAILS",
+        "message": "Sanction Fee Details",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
         "code": "CITIZEN_APPROVED_MSG",
         "message": "Dear <1> , Your Building permit application <3> is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SANC_FEES",
+        "message": "Sanction Fee",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -2522,6 +2541,12 @@
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
         "message": "Dear <1>, Your <2> (Service type) application <3>. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+         "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_IS_PRIMARY_OWNER_LABEL",
+        "message": "Is Primary Owner",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     }
