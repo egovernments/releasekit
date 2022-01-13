@@ -1,0 +1,134 @@
+[
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन बन गया है। भविष्य में सन्दर्भ के लिए आवेदन नंबर {3} का उपयोग करें।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} की आवेदक द्वारा समीक्षा की गयी है। अब आप आवेदन पर कार्रवाई कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_APPROVED_MSG",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} आवेदक द्वारा स्वीकृत की गयी है। अब आप आवेदन को विभागीय कार्रवाई के लिए जमा कर कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_CITIZEN_APPROVED_MSG",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} आवेदक द्वारा स्वीकृत की गयी है। अब आप आवेदन को विभागीय कार्रवाई के लिए जमा कर कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_SEND_TO_ARCHITECT_MSG",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} की आवेदक द्वारा समीक्षा की गयी है। अब आप आवेदन पर कार्रवाई कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} आवेदक द्वारा स्वीकृत की गयी है। अब आप आवेदन को विभागीय कार्रवाई के लिए जमा कर कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें एवं आवेदन शुल्क {AMOUNT_TO_BE_PAID} का भुगतान करें या आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके भुगतान कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के आपके आवेदन के लिए अधिभोग प्रमाण पत्र उत्पन्न कर दिया है। अधिभोग प्रमाण पत्र डाउनलोड करने के लिए आप अपने ऐप्लिकेशन पृष्ठ पर नेविगेट कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "प्रिय {1}, आपका अधिभोग प्रमाण पत्र आवेदन {3} आवेदक द्वारा स्वीकार कर लिया गया है। अब आप विभागीय कार्यवाही के लिए आवेदन जमा कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें एवं डेविएशन पेनल्टी के साथ आवेदन शुल्क {AMOUNT_TO_BE_PAID} का भुगतान करें या आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके भुगतान कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (Service type) आवेदन {3} अनापत्ति प्रमाण पत्र का सत्यापन हो गया है। आवेदन अनुमोदन के लिए लंबित है। आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) आवेदन {3} के दस्तावेज सत्यापित कर लिए गए हैं। आवेदन पर जल्द ही फ़ील्ड सत्यापन के लिए कार्रवाई की जाएगी. आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, नए निर्माण (Service type) आवेदन {3} के लिए क्षेत्र सत्यापन कर लिया गया है। अब आवेदन एनओसी के लिए कार्रवाई की जाएगी। आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आप अपने पोर्टल लॉगिन में 'माय एप्लीकेशन' लिंक पर आवेदन की स्थिति देख सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के आपके आवेदन के लिए अधिभोग प्रमाण पत्र उत्पन्न कर दिया है। ओसी डाउनलोड करने के लिए आप अपने ऐप्लिकेशन पृष्ठ पर नेविगेट कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) आवेदन {3} का आवेदन शुल्क प्राप्त हो गया है। आवेदन पर जल्द ही दस्तावेज सत्यापन के लिए कार्रवाई की जाएगी. आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के लिए आपके आवेदन को अस्वीकार कर दिया गया है। आप पोर्टल के लिए लॉग इन करकेअस्वीकृति के कारणों की जांच कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} की आवेदक द्वारा समीक्षा की गयी है। अब आप आवेदन पर कार्रवाई कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    }
+]
