@@ -2208,8 +2208,21 @@
         "locale": "en_IN"
     },
     {
+
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "Dear <1>, Your Application for New Construction (Service type) is created. Please use the Application number <3> for future reference.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
         "code": "BPA_APPL_FEES_DETAILS",
         "message": "Application Fee Details",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "Dear <1>, Your Building permit application <3> is reviewed by the applicant. You can now process the application.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -2220,9 +2233,315 @@
         "locale": "en_IN"
     },
     {
+        "code": "CITIZEN_APPROVED_MSG",
+        "message": "Dear <1> , Your Building permit application <3> is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
         "code": "BPA_SANC_FEES",
         "message": "Sanction Fee",
         "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "M_CITIZEN_APPROVED_MSG",
+        "message": "Dear <1> , Your Building permit application <3> is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "M_SEND_TO_ARCHITECT_MSG",
+        "message": "Dear <1> , Your Building permit application <3> is reviewed by the applicant. You can now process the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "Dear <1> , Your Building permit application <3> is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CITIZEN_APPROVED_MSG",
+        "message": "Dear <1> , Your Building permit application <3> is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "M_CITIZEN_APPROVED_MSG",
+        "message": "Dear <1> , Your Building permit application <3> is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+        "message": "Dear {1} , Your Application for New Construction (Service type) is created with application number {3}. Click on Pay button to pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction (Service type) {3} is generated. You can navigate to my applications page to download the OC.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "Dear {1} , Your Occupancy certificate application {3} is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "Dear {1} , Your OC Application for New Construction (Service type) is created with application number {3}. Click on Pay button to pay the application fee with deviation penalty of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+        "message": "Dear {1} , NOC verification is done for your New Construction (Service type) application {3}. Application is pending for approval. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1}, Application for your New Construction (Service type) application {3} will be processed for Document verification shortly.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "Dear {1} , Documents are verified for your New Construction (Service type) application {3}. Application will be processed for field inspection shortly. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1} , Field verification is done for your New Construction (Service type) application {3}.Application will be processed for NOC now. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "Dear {1} , Your Application for New Construction(Service type) is created with application number {3}. You can view the status of the application from your portal login under 'My applications' link.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction (Service type) {3} is generated. You can navigate to my applications page to download the OC.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1} , Application fee is received for your OC New Construction (Service type) application {3}. Application will be processed for Document verification shortly. Click the link below for receipt {RECEIPT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED",
+        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "Dear {1} , Your Occupancy certificate application {3} is reviewed by the applicant. You can now process the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Dear <1> , Your Application for New Construction (Service type) is created with application number <3>. You can navigate to my applications page to review the application and send back to Architect for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+        "message": "Dear <1>, Your Application for New Construction (Service type) is created with application number <3>. Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_FEE",
+        "message": "Dear <1>, Your Application for <2> (Service type) is created with application number <3>. Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+        "message": "Dear <1>, Building permit order for your Application for New Construction (Service type) <3> is generated. You can login to the portal and download the permit order.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "Dear <1>, Your Application for New Construction (Service type) <3> is approved. Please pay the building permit fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the building permit order.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+        "message": "Dear <1>, NOC verification is done for your New Construction (Service type) application <3>. Application is pending for approval.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS",
+        "message": "Dear <1>, Application for your New Construction (Service type) application <3> will be processed for Document verification shortly.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "Dear <1>, Documents are verified for your New Construction (Service type) application <3>. Application will be processed for field verification shortly.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "Dear <1>, Field verification is done for your New Construction (Service type) application <3>. Application will be processed for NOC now.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+        "message": "Dear <1>, Building permit order for your Application for New Construction (Service type) <3> is generated. You can login to the portal and download the permit order.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+        "message": "Dear <1>, Application fee is received for your New Construction (Service type) application <3>. Application will be processed for Document verification shortly.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+        "message": "Dear <1>, Your Application for New Construction (Service type) <3> is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED",
+        "message": "Dear <1>, Your Application for New Construction (Service type) <3> is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT",
+        "message": "Dear <1>, Your Application for New Construction (Service type) <3> is revocated. You can login to the portal and check the reason for revocation.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT REVOCATION",
+        "message": "Dear <1>, Your Application for New Construction (Service type) <3> is revocated. You can login to the portal and check the reason for revocation.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Dear <1>, Your <2> (Service type) application <3>. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Dear <1>, Your Application for <2> (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Dear <1>, Your Application for <2> (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "Dear <1>, Your Application for New Construction (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Dear <1>, Your Application for <2> (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Dear <1>, Your Application for <2> (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Dear <1>, Your Application for <2> (Service type) <3> is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Dear <1>, Your <2> (Service type) application <3>. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {

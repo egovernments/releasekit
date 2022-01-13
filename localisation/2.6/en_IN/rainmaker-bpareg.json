@@ -19,7 +19,7 @@
     },
     {
         "code": "bpa.en.counter.approved",
-        "message": "Dear {STAKEHOLDER_NAME}, Your {TRADE_TYPE} registration with application reference number {APPLICATION_NUMBER} is approved. You are now a licensed {TRADE_TYPE}. You can login to the portal {PORTAL_LINK} using your registered mobile number to do eDCR scrutiny and apply for building permit.",
+        "message": "Dear {STAKEHOLDER_NAME}, Your {TRADE_TYPE} registration with application reference number {APPLICATION_NUMBER} is approved. You are now a licensed {TRADE_TYPE}. You can login to the portal {PORTAL_LINK} using your registered mobile number to do eDCR scrutiny and apply for building permit.\n\nEGOVS",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -31,7 +31,7 @@
     },
     {
         "code": "bpa.en.counter.initiated",
-        "message": "Dear {STAKEHOLDER_NAME}, Your Application for {TRADE_TYPE} registration is created with application number {APPLICATION_NUMBER}. You will be notified to pay the application fee shortly.",
+        "message": "Dear {STAKEHOLDER_NAME}, Your Application for {TRADE_TYPE} registration is created with application number {APPLICATION_NUMBER}. You will be notified to pay the application fee shortly.\n\nEGOVS",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -43,7 +43,7 @@
     },
     {
         "code": "bpa.en.counter.pendingapproval",
-        "message": "Dear {STAKEHOLDER_NAME}, Document verification is completed for your {TRADE_TYPE} registration application {APPLICATION_NUMBER}.The application is under scrutiny and you will be notified for further updates.",
+        "message": "Dear {STAKEHOLDER_NAME}, Document verification is completed for your {TRADE_TYPE} registration application {APPLICATION_NUMBER}.The application is under scrutiny and you will be notified for further updates.\n\nEGOVS",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -55,7 +55,7 @@
     },
     {
         "code": "bpa.en.counter.pendingdocverification",
-        "message": "Dear {STAKEHOLDER_NAME}, Application fee is received for your {TRADE_TYPE} application {APPLICATION_NUMBER} and will be processed for Document verification shortly.Download receipt at {RECEIPT_DOWNLOAD_LINK}",
+        "message": "Dear {STAKEHOLDER_NAME}, Application fee is received for your {TRADE_TYPE} application {APPLICATION_NUMBER} and will be processed for Document verification shortly.Download receipt at {RECEIPT_DOWNLOAD_LINK}\n\nEGOVS",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -67,7 +67,7 @@
     },
     {
         "code": "bpa.en.counter.pendingpayment",
-        "message": "Dear {STAKEHOLDER_NAME}, Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- for {TRADE_TYPE} registration with application reference {APPLICATION_NUMBER}.Applicaiton will be processed after making the payment.Pay application fee at {PAYMENT_LINK}",
+        "message": "Dear {STAKEHOLDER_NAME}, Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- for {TRADE_TYPE} registration with application reference {APPLICATION_NUMBER}.Applicaiton will be processed after making the payment.Pay application fee at {PAYMENT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -79,7 +79,7 @@
     },
     {
         "code": "bpa.en.counter.rejected",
-        "message": "Dear {STAKEHOLDER_NAME}, Your Application for {TRADE_TYPE} registration {APPLICATION_NUMBER} is rejected. You can login to the portal and check the reason for rejection.",
+        "message": "Dear {STAKEHOLDER_NAME}, Your Application for {TRADE_TYPE} registration {APPLICATION_NUMBER} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
