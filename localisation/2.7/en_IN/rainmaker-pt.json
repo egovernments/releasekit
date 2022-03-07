@@ -1,0 +1,812 @@
+[
+    {
+        "code": "PT_RECEIPT_DATE_LABEL",
+        "message": "Receipt Date",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RECEIPT_NO_LABEL",
+        "message": "Receipt Number",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FLAT_DETAILS",
+        "message": "Ground Floor details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FLAT_DETAILS_DESC",
+        "message": "Enter built-up area on the ground floor and Usage Type",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FORM2_BUILT_UP_AREA",
+        "message": "Total Super Built-up Area (sq.ft)",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_KNOW_PT_ID",
+        "message": "I know my property ID",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_KNOW_PT_DETAIL",
+        "message": "I want to search using property details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SEARCH_OR_DESC",
+        "message": "(or)",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_PT_HOME_SEARCH_RESULTS_DESC",
+        "message": "Provide atleast one search parameter.",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_ADDR_DOOR_HOUSE_NO",
+        "message": "Door number / House Number:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FROM_DATE",
+        "message": "From Date",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TO_DATE",
+        "message": "To Date",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_UNIT-0",
+        "message": "Unit 0",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_UNIT-1",
+        "message": "Unit 1",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_UNIT-2",
+        "message": "Unit 2",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_UNIT-3",
+        "message": "Unit 3",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_UNIT-4",
+        "message": "Unit 4",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTAX_FLOOR_-3",
+        "message": "Third Basement",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTAX_FLOOR_-4",
+        "message": "Fourth Basement",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SEARCH_BY_SEARCHID",
+        "message": "By Property ID",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SEARCH_BY_SEARCHDETAIL",
+        "message": "By Property Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OWNER_SPECIALCATEGORYPROOF_GENERALID",
+        "message": "General ID",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_SPECIALCATEGORYPROOF.GENERALID",
+        "message": "General ID",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PTLOCALITYMANDATORY",
+        "message": "Required",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MIN_3CHAR",
+        "message": "Minimum 3 char required",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_VIEW_PAYMENT",
+        "message": "Payment History",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ADDRESS_LABEL",
+        "message": "Address",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PLOT_SIZE_HEADER",
+        "message": "Plot Size",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FLAT_DETAILS_HEADER",
+        "message": "Flat Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SPL_CAT",
+        "message": "Special Category",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_NONE",
+        "message": "Not Applicable",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SPL_CAT_DOC_TYPE",
+        "message": "Special Category Document Type",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SPL_CAT_DOC_ID",
+        "message": "Special Category Document ID",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_STREET_INVALID",
+        "message": "Invalid Street Name",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TX_ASSESSMENT",
+        "message": "Property Tax Assessment",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DUES",
+        "message": "Dues",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ADDRESS",
+        "message": "Property Address:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ADD_REBATE_PENALITY",
+        "message": "Add Rebate / Penalty",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_AD_PENALTY",
+        "message": "Adhoc Penalty",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TX_HEADS",
+        "message": "Tax Heads",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HEAD_AMT",
+        "message": "Head Amount",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_AD_REBATE",
+        "message": "Adhoc Rebate",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CANCEL",
+        "message": "Cancel",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ADD",
+        "message": "Add",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CALC_DETAILS",
+        "message": "Calculation Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CALC_LOGIC_HEADER",
+        "message": "Calculation Logic:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CALC_LOGIC",
+        "message": "Property tax = Built up area on GF + Rates per unit of GF - Built up empty land on GF + Rate per unit of GF - Empty Land Σ(built - up on the nth floor \n *Rate per unit of the nth floor-built up)",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_APPLICABLE_CHARGE_SLABS",
+        "message": "Applicable Charge Slabs",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_GRND_FLOOR_UNIT-1",
+        "message": "Ground Floor Unit - 1:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_GRND_FLOOR_UNIT-2",
+        "message": "Ground Floor Unit - 2:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_GRND_FLOOR_UNIT-3",
+        "message": "Ground Floor Unit - 3:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_GRND_FLOOR_UNIT-4",
+        "message": "Ground Floor Unit - 4:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DESIGNATION_ERROR_MESSAGE",
+        "message": "Invalid Designation Format",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_COMMON_APPLICANT_ALT_NUMBER_INVALID",
+        "message": "Invalid Mobile Number",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PENDING_DUES_FROM_EARLIER",
+        "message": "Pending dues from earlier",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MISCALCULATION_OF_EARLIER_ASSESSMENT",
+        "message": "Miscalculation of Earlier Assessment",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ONE_TIME_PENALITY",
+        "message": "One time Penalty",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OTHERS",
+        "message": "Others",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ADVANCED_PAID_BY_CITIZEN_EARLIER",
+        "message": "Advanced paid by Citizen earlier",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_REBATE_PROVIDED_BY_COMMISSIONER_EO",
+        "message": "Rebate provided by Commissioner EO",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ADDITIONAL_AMOUNT_CHARGED_FROM_THE_CITIZEN",
+        "message": "Additional amount charged from the citizen",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_REASON",
+        "message": "Reason",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_NEW",
+        "message": "New",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_DEPOSITED",
+        "message": "Deposited",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CANCELLED",
+        "message": "Cancelled",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FEE_AMOUNT",
+        "message": "Fee Amount",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_STATUS",
+        "message": "Payment Status",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DOOR_OR_HOUSE",
+        "message": "Door No. / House No.",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TYPE_OF_INSTITUTION",
+        "message": "Type of Institution",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NAME_AUTHORIZED_PERSON",
+        "message": "Name",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_LANDLINE_NUMBER",
+        "message": "Landline Number",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_INSTITUTION_DESIGNATION",
+        "message": "Designation",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MUTATION_PENDING_COURT",
+        "message": "Is Mutation Pending in Court?",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DETAILS_COURT_CASE",
+        "message": "Detail of the Court Case",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROP_UNDER_GOV_AQUISITION",
+        "message": "Is property or part of property under state/ central government acquisition?",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DETAILS_GOV_AQUISITION",
+        "message": "Detail of Government Acquisition",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_REGISTRATION_DETAILS",
+        "message": "Registration Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_REASON_PROP_TRANSFER",
+        "message": "Reason for property transfer",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROP_MARKET_VALUE",
+        "message": "Property market value",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_REG_NUMBER",
+        "message": "Registration Document number",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DOC_ISSUE_DATE",
+        "message": "Document Issue Date",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_REG_DOC_VALUE",
+        "message": "Registration Document value",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_REMARKS",
+        "message": "Remarks",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NO_DOCUMENTS_MSG",
+        "message": "No Documents",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNERS_NAME",
+        "message": "Owner's Name",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_ADDRESS_PINCODE_INVALID",
+        "message": "Invalid Pincode",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYERS_MOBILE_NO",
+        "message": "Payer's Mobile Number",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYERS_DETAILS_HEADER",
+        "message": "Payer's Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYERS_NAME",
+        "message": "Payer's Name",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_BILLING_DUE_DATE",
+        "message": "Bill Due Date:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TAX_ESTIMATION_HEADER",
+        "message": "Tax Estimation:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CANNOT_TRANSFER_IF_AMOUNT_PENDING",
+        "message": "You cannot transfer if you have any pending amount due",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OTHERSPRIVATEINSTITUITION",
+        "message": "Institutional - Private",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_PT.CREATE_SENDBACKFROMFI",
+        "message": "SEND BACK",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_PT.CREATE_SENDBACKFROMAP",
+        "message": "SEND BACK",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PT.CREATE_SENDBACKFROMAP_UPDATE_SUCCESS",
+        "message": "Application sent back successfully",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_PT.CREATE_SENDBACKFROMFI_UPDATE_SUCCESS",
+        "message": "Application sent back successfully",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SENDBACKFROMFI_APPLICATION",
+        "message": "SEND BACK",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_PT.CREATE_SENDBACKFROMFI",
+        "message": "SEND BACK",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ERR_PLEASE_REFINED_UR_SEARCH",
+        "message": "Please refine the Search",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SENDBACKFROMAP_APPLICATION",
+        "message": "SEND BACK",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_PT.CREATE_SENDBACKFROMAP",
+        "message": "SEND BACK",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_UNIT",
+        "message": "Floor Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILL_ALREADY_PAID",
+        "message": "Bill already paid",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "HR_ACTION_NO_FILEUPLOADED",
+        "message": "File not uploaded",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ERR_PROVIDE_MORE_PARAM_WITH_TYPE_STATUS",
+        "message": "Please provide more search parameter with Application Type/ Status",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ERR_PROVIDE_BOTH_FORM_TO_DATE",
+        "message": "Please provide both From date and To date",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MT_FEE_RECIEPT",
+        "message": "Mutation Fee Receipt",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROP_CITY",
+        "message": "City",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROP_LOCALITY",
+        "message": "Locality/Mohalla:",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOUSE_DOOR_NO",
+        "message": "House/Door No.",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_BUILDING_COLONY_NAME",
+        "message": "Building/Colony Name",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_LANDMARK_NAME",
+        "message": "Landmark",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_NEW_OWNER_DETAILS_OWNERSHIP_TYPE_LABEL",
+        "message": "Type Of ownership",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INDIVIDUAL_OTHERSPRIVATEINSTITUITION",
+        "message": "Institutional - Private",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INDIVIDUAL_OTHERGOVERNMENTINSTITUITION",
+        "message": "Institutional - Government",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SPECIAL_APPLICANT_CATEGORY",
+        "message": "Special Applicant Category",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_CORRESPONDANCE_ADDRESS",
+        "message": "Correspondence Address",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_LINKED",
+        "message": "This Property is Linked!",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_CREATE",
+        "message": "Create New Property",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_KNOW_PTID",
+        "message": "I know my Property ID",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SEARCH_DOOR_NO",
+        "message": "I want to search Door Number",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_COMMON_PROPERTY_TAX",
+        "message": "Property",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CREATE_PROP_ON_NEW_CONN",
+        "message": "Create Property (On New Connection)",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSEMBLY_DET",
+        "message": "Property Assembly Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROP_TYPE",
+        "message": "Property Type",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TOT_LAND_AREA",
+        "message": "Total Land Area",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TOT_CONSTRUCTION_AREA",
+        "message": "Total Construction Area",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_USAGE_TYPE",
+        "message": "Usage Type",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_LOCATION_DETAILS",
+        "message": "Property Location Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNERSHIP_DETAILS",
+        "message": "Property Ownership Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_INVALID_OWNERS_MOBILE_NO",
+        "message": "Mobile number available with owner(s) detail is incorrect. Please update the correct mobile number to receive future notifications",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CPT_SEARCH_PROPERTY_INFO",
+        "message": "On select , the property owner will get an OTP to his/her registered mobile number. You have to enter the OTP to link the selected property to the current application.",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TOT_LAND_AREA_ERROR_MESSAGE",
+        "message": "Please provide a valid value",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TOT_CONSTRUCTION_AREA_ERROR_MESSAGE",
+        "message": "Please provide a valid value",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    }
+]
