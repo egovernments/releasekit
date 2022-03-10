@@ -808,5 +808,353 @@
         "message": "Please provide a valid value",
         "module": "rainmaker-pt",
         "locale": "en_IN"
+    },
+    {
+        "code": "DUES_NOTIFICATION",
+        "message": "Dear Citizen, Property tax for {FINANCIALYEAR} on your property {PROPERTYID} is due for payment. Click on the URL to view the details and pay online . {PAYMENT_LINK} \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_UPDATE_ALTERNATE_NUMBER",
+        "message": "Dear {ownername}, Your request to register an alternate mobile number in property record has been processed and the mobile number {alternatenumber} has been registered as alternate mobile no. \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_UPDATE_OWNER_NUMBER",
+        "message": "Dear {ownername}, Your request to update of mobile number in property record has been processed and the mobile number has been changed from {old mobile number} to {new mobile number}. \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_OPEN",
+        "message": "Dear {OWNER_NAME}, Your application to {updated/created} property with Id {PROPERTYID} has been submitted successfully. Your application no. for future reference is {APPID}. You can track your application on the link given below - {PTURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_APPROVED",
+        "message": "Dear {OWNER_NAME}, Your property has been {updated/created} as per the application no. {APPID} for property {PROPERTYID}. You can view your property on the link given below - {PTURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_STATUS_CHANGE",
+        "message": "Dear {OWNER_NAME}, Status for your application no. {APPID} for property {PROPERTYID} to {updated/created} property has been changed to {STATUS}. You can track your application on the link given below - {PTURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_UPDATE_NONE",
+        "message": "Dear {OWNER_NAME}, Your property with property-id {PROPERTYID} has been {updated/created}. You can view your property on the link given below - {PTURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_APPROVED",
+        "message": "Dear {OWNER_NAME}, Your property ownership has been changed as per the application no. {APPID} for property {PROPERTYID}. You can download your mutation certificate on the below link - {MTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_NONE",
+        "message": "Dear {OWNER_NAME}, Your property with property-id {PROPERTYID} has been mutated. You can view your property on the link given below - {MTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_OPEN",
+        "message": "Dear {OWNER_NAME}, Your application to edit ownership details of property ID {PROPERTYID} has been submitted successfully. Your application no. for future reference is {APPID}. You can track your application on the link given below - {MTURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_PAID",
+        "message": "Dear {OWNER_NAME}, You’ve successfully paid mutation fee - INR {AMOUNT} for application no. {APPID} for property ID {PROPERTYID}. You can download your receipt on the below link - {MTURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_PAYMENT_PENDING",
+        "message": "Dear {OWNER_NAME}, Payment is pending for your application no. {APPID} for property ID {PROPERTYID} to edit ownership. You can pay your mutation fee on the below link - {PAYLINK} or visit your ULB to pay your dues. Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_WF_MT_STATE_CHANGE",
+        "message": "Dear {OWNER_NAME}, Status for your application no. {APPID} for property {PROPERTYID} to edit ownership has been changed to {STATUS}. You can track your application on the link given below - {MTURL} Thank you\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_OFFILE",
+        "message": "Dear Citizen, Your Property Tax payment of Rs. {amount} has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount}. Click on the link to download payment receipt {receipt download link}\n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_FAIL",
+        "message": "Dear Citizen, Your payment of Rs. {insert amount to pay} for Property Tax Unique ID {insert ID} has failed. Your assessment is pending. Please try again. Ignore this message if you have completed your payment. You can pay your Property Tax online here - {payLink} \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_OFFLINE",
+        "message": "Dear Citizen, Your Property Tax payment of Rs. {amount} has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount}. Click on the link to download payment receipt {receipt download link} \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_ONLINE",
+        "message": "Dear Citizen, Your payment of Rs.{insert amount paid} with payment transaction id {insert payment transaction id from PG} has been made successfully. Assessment for Property Tax Unique ID {insert Property Tax Assessment ID} was succesful. Property Tax due is Rs.{pt due}. Click on the link to download payment receipt {receipt download link} \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_OFFLINE",
+        "message": "Dear Citizen, Your Property Tax payment of Rs. {amount} has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount}. You can pay your Property Tax online here - {payLink} Click on the link to download payment receipt {receipt download link} \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_ONLINE",
+        "message": "Dear Citizen, Your payment of Rs.{insert amount paid} with payment transaction id {insert payment transaction id from PG} has been made successfully. Assessment for Property Tax Unique ID {insert Property Tax Assessment ID} was succesful. Property Tax due is Rs.{pt due}. You can pay your Property Tax online here - {payLink} Click on the link to download payment receipt {receipt download link} \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ASMT_CREATE",
+        "message": "Dear {OWNER_NAME}, Your assessment with {ASSESSMENTNUMBER} for financial year {FINANCIALYEAR} and property id {PROPERTYID} is created. You can pay your Property Tax online here - {PAYMENT_LINK} \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ASMT_MSG_APPLIED",
+        "message": "Dear {OWNER_NAME}, Your assessment with {ASSESSMENTNUMBER} for financial year {FINANCIALYEAR} and property id {PROPERTYID} is updated to {STATUS}. \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ASMT_MSG_APPROVED",
+        "message": "Dear {OWNER_NAME}, Your assessment with {ASSESSMENTNUMBER} for financial year {FINANCIALYEAR} and property id {PROPERTYID} is {STATUS}. \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ASMT_UPDATE",
+        "message": "Dear {OWNER_NAME}, Your assessment with {ASSESSMENTNUMBER} for financial year {FINANCIALYEAR} and property id {PROPERTYID} is reassessed. \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_PAYMENT_ONLINE",
+        "message": "Dear Citizen, Your payment of Rs.{insert amount paid} with payment transaction id { insert payment transaction id from PG} has been made successfully. Assessment for Property Tax Unique ID {insert Property Tax Assessment ID} for {FY} was succesful. Property Tax due is Rs.{pt due}. \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_PAYMENT_OFFILE",
+        "message": "Dear Citizen, Your Property Tax payment of Rs. {amount} has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount} You can pay your Property Tax online here - {insert inactive citizen application web URL}. \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_CREATE",
+        "message": "Dear {OWNER_NAME}, Your property has been created with property-id {PROPERTYID}. Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_PAYMENT_FAIL",
+        "message": "Dear Citizen, Your payment of Rs. {insert amount to pay} for Property Tax Unique ID {insert ID} has failed. Your assessment is pending. Please try again. Ignore this message if you have completed your payment. \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MUTATION_ACKNOWLEDGEMENT_SUCCESS_MESSAGE",
+        "message": "A notification regarding Application Submission has been sent to both Transferor and Transferee at registered Mobile No. Please note your application No for future reference. \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DO_YOU_KNOW_YOUR_PROPERTY",
+        "message": "Do you know your property",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CREATE_PROP_ON_NEW_CONN",
+        "message": "Create Property (On New Connection)",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSESMENT_INFO_USAGE_TYPE",
+        "message": "Property Assembly Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FORM3_MOBILE_NUMBER",
+        "message": "Mobile Number",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_NAME",
+        "message": "Owner Name",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FORM3_GENDER",
+        "message": "Gender",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_GENDER_MALE",
+        "message": "Male",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_GENDER_FEMALE",
+        "message": "Female",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_GENDER_TRANSGENDER",
+        "message": "Transgender",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FORM3_GUARDIAN_NAME",
+        "message": "Guardian ",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FORM3_RELATIONSHIP",
+        "message": "Relationship",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RELATION_HUSBAND",
+        "message": "Husband",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RELATION_FATHER",
+        "message": "Father",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_SAME_AS_PROPERTY_ADDRESS",
+        "message": "Same as Property Address",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_PROPERTY_APPLICATION_SUCCESS",
+        "message": "Application Submitted Successfully",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_APPLICATION_NO",
+        "message": "Application No",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_RESPONSE",
+        "message": "Application reference is sent to your registered mobile number. You will be notified with the charges for the applied service shortly. Please make the payment using my applications link from home page after you receive the notification",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_PROPTYPE_BUILTUP_INDEPENDENTPROPERTY",
+        "message": "Independent Building",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_PROPTYPE_BUILTUP_SHAREDPROPERTY",
+        "message": "Flat/Part of the building",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_PROPTYPE_VACANT",
+        "message": "Vacant Land",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SELECT_CITY",
+        "message": "City",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+        "message": "Search",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_SEARCH_RESULTS",
+        "message": "Search Results",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DETAILS",
+        "message": "Property Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OWNER_NAME",
+        "message": "Owner Name",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTY_ADDRESS",
+        "message": "Property Address",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_PROPERTY_ID",
+        "message": "Property ID",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CPT_COMPLETE_PROPERTY_DETAILS",
+        "message": "View Complete Property Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CPT_SELECT_PROPERTY",
+        "message": "Select Property",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSEMBLY_DET",
+        "message": "Property Assembly Details",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
     }
 ]

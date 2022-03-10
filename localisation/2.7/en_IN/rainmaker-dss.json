@@ -3107,12 +3107,7 @@
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
-    {
-        "code": "NSS_NOC_TODAYS_COLLECTION",
-        "message": "Today's Collection",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
+   
     {
         "code": "NSS_NOC_TOP_3_PERFORMING_STATES",
         "message": "Top 3 Performing States",
@@ -6179,12 +6174,7 @@
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
-    {
-        "code": "TIP_NSS_NOC_TODAYS_COLLECTION",
-        "message": "Sum of revenue collected from issuance of a Provisional and Actual Fire NOC",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
+  
     {
         "code": "TIP_NSS_NOC_TOP_3_PERFORMING_STATES",
         "message": "Top 3 Performing States",
@@ -6764,6 +6754,18 @@
     {
         "code": "TIP_DSS_HEADER_PENDINGPAYMENT",
         "message": "# of applications for which payment is pending from citizen's end",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_TODAYS_COLLECTION",
+        "message": "Data Last Updated at",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NOC_TODAYS_COLLECTION",
+        "message": "Collection on",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     }
