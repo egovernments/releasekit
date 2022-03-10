@@ -1,0 +1,8 @@
+[
+    {
+        "code": "UC_NOTIF_WF_MT_NEW",
+        "message": "Dear {owner_name}, A new payment of Rs. {amount_paid} with payment transaction id {rcpt_no} for {mod_name} with {unique_id} has been made successfully. You can look at the receipt on the link given below - {rcpt_link} . Thank you.\n\nEGOVS",
+        "module": "collection-services",
+        "locale": "en_IN"
+    }
+]
