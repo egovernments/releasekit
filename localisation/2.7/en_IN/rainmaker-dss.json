@@ -282,12 +282,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "DSS_BUILDING_PERMISSION",
-        "message": "Building Permissions",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
         "code": "DSS_BUILDING_PLANNING_DASHBOARD",
         "message": "OBPS Dashboard",
         "module": "rainmaker-dss",
@@ -1147,7 +1141,7 @@
     },
     {
         "code": "DSS_MCOLLECT",
-        "message": "User Charges",
+        "message": "mCollect",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -1285,7 +1279,7 @@
     },
     {
         "code": "DSS_OBPS",
-        "message": "Building Permissions",
+        "message": "Online Building Plan Approval System",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -1345,7 +1339,7 @@
     },
     {
         "code": "DSS_PGR",
-        "message": "Municipal Grievances",
+        "message": "Public Grievances & Redressal",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -3504,12 +3498,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "NURT_COMPLAINS",
-        "message": "Municipal Grievances",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
         "code": "NURT_DASHBOARD",
         "message": "National Urban Real-Time Dashboard",
         "module": "rainmaker-dss",
@@ -3536,12 +3524,6 @@
     {
         "code": "NURT_LIVE_ULB",
         "message": "Live ULBs",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "NURT_MCOLLECT",
-        "message": "User Charges",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -4555,7 +4537,7 @@
     },
     {
         "code": "TIP_DSS_HEADER_ARREAR_CHARGES",
-        "message": "The amount collected for the previous billing periods to gather in the current billing period",
+        "message": "The amount collected for the previous billing periods together in the current billing period",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -8348,6 +8330,150 @@
     {
         "code": "DSS_TB_UMERKOTE",
         "message": "Umerkote",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_WF_CONTRACTOR_ENLISTMENT",
+        "message": "Contractor Enlistment",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_FTP_DEMOLITION_WASTE",
+        "message": "Demolition Waster",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_NKS_BUILDING_SAFETY_CERTIFICATE_FEE",
+        "message": "Building Safety Certificate Fee",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_TX_PROPERTY_TAX_2013_14",
+        "message": "Property Tax 2013-14",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_FTP_BUILDING_PLANNER_RENEW",
+        "message": "Building Planner Renew",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_CH_BURNING_OF_WASTE_CHALLAN_FEE",
+        "message": "Burning of Waste Challan Fee",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_ADVT_CANOPY_FEE",
+        "message": "Canopy Fee",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_SNT_CLEAN_SAFAI_SANITATION",
+        "message": "Clean/Safai Sanitation",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_TX_ELECTRICITY_CHUNGI",
+        "message": "Electricity Chungi",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_RT_SALE_OF_LAND",
+        "message": "Sale of Land",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_ST_EXPENDITURE_SANTITATION_NOT_INCOME",
+        "message": "Expenditure Sanitation (Not Income)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_OTHER_SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES",
+        "message": "Swimming Pool And Gymnactics Hall Fees",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_FN_TENDER_EARNEST_MONEY_DEPOSIT_REFUNDABLE_FEE",
+        "message": "Tender Earnest Money Deposit ( Refundable Fee)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_ADMN_ELECTION_RALLY_FEES",
+        "message": "Election rally fees",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_ADMN_PARKING_BOOKING_FEE",
+        "message": "Parking Booking Fee",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_TX_HOUSE_TAX",
+        "message": "House Tax",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_TB_REHRI_CHALLAN",
+        "message": "Rehri Challan",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_RT_COMMUNITY_CENTRE_BOOKING_FEE",
+        "message": "Community Centre Booking Fee",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_ADMN_NO_DUES_CERTIFICATE",
+        "message": "NDC - No Dues Certificate",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_OM_PLUMBER_LICENSE_FEE",
+        "message": "Plumber License Fee",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_NKS_ALTERATION_ADDITIONAL_CHARGE",
+        "message": "Alteration additional charge",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_LCF_REHRI_RICKSHAW_FEE",
+        "message": "Rehri/Rickshaw Fee",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_NKS_2_YEAR_TIME_LIMIT_OF_RENEWAL_BUILDING_NAKSHA",
+        "message": "2 year time limit of Renewal Building Naksha",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_CSS_COW_CESS",
+        "message": "Cow Cess",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     }
