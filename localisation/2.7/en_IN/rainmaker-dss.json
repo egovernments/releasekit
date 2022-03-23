@@ -31,7 +31,7 @@
     },
     {
         "code": "ACTUAL_NOC",
-        "message": "Actual NOC",
+        "message": "New NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -169,13 +169,13 @@
     },
     {
         "code": "DSS_ACTUAL_NOC_ISSUED_USAGETYPE",
-        "message": "Actual Fire NOCs by usage type",
+        "message": "New Fire NOCs by usage type",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "DSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL",
-        "message": "Total applications vs Provisional NOCs issued vs Actual NOCs issued",
+        "message": "Total applications vs Provisional NOCs issued vs New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -457,7 +457,7 @@
     },
     {
         "code": "DSS_HEADER_ACTUAL_FIRE_NOCS_ISSUED",
-        "message": "Actual Fire NOC Issued",
+        "message": "New Fire NOC Issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -529,7 +529,7 @@
     },
     {
         "code": "DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
-        "message": "Avg days to issue Actual NOC",
+        "message": "Average days to issue New NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -553,7 +553,7 @@
     },
     {
         "code": "DSS_HEADER_AVERAGE_DEVIATION",
-        "message": "Deviation",
+        "message": "Deviation %",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -673,7 +673,7 @@
     },
     {
         "code": "DSS_HEADER_PROVISIONAL_FIRE_NOCS_ISSUED",
-        "message": "Provisional FireNoc Issued",
+        "message": "Provisional Fire NOC Issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -763,7 +763,7 @@
     },
     {
         "code": "DSS_HEADER_SLA_COMPLIANCE(ACTUAL_NOC)",
-        "message": "SLA Compliance (Actual NOC)",
+        "message": "SLA Compliance (New NOC)",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -1153,13 +1153,13 @@
     },
     {
         "code": "DSS_NOC_ACTUAL_ISSUED",
-        "message": "Actual NOCs Issued",
+        "message": "New NOCs Issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "DSS_NOC_AVERAGE_DAYS_TO_ISSUE_ACTUAL",
-        "message": "Avg. days to issue Actual Fire NOC",
+        "message": "Avg. days to issue New Fire NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -1375,7 +1375,7 @@
     },
     {
         "code": "DSS_TAB_ACTUAL",
-        "message": "Actual",
+        "message": "New",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -1405,7 +1405,7 @@
     },
     {
         "code": "DSS_TB_ACTUAL_FIRE_NOCS_ISSUED",
-        "message": "Actual NOCs Issued",
+        "message": "New NOCs Issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -1465,7 +1465,7 @@
     },
     {
         "code": "DSS_TB_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
-        "message": "Avg. days to issue Actual Fire NOC",
+        "message": "Avg. days to issue New Fire NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -1891,7 +1891,7 @@
     },
     {
         "code": "DSS_TB_SLA_COMPLIANCE(ACTUAL_NOC)",
-        "message": "SLA Compliance (Actual Fire NOC)",
+        "message": "SLA Compliance (New Fire NOC)",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -2330,6 +2330,12 @@
     {
         "code": "DSS_WS_ACTIVE_CONNECTIONS",
         "message": "Total Active Connections",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_W&S_ACTIVE_CONNECTIONS",
+        "message": "Total Connections",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -2983,7 +2989,7 @@
     },
     {
         "code": "NATIONAL_DSS_WS_TOTAL_APPLICATIONS",
-        "message": "Total Applications",
+        "message": "Total Connections",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -3013,37 +3019,37 @@
     },
     {
         "code": "NEW_NOCS_ISSUED",
-        "message": "NOCs issued",
+        "message": "New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "NSS_ACTUAL_NOC_ISSUED_USAGETYPE",
-        "message": "Actual Fire NOCs by usage type",
+        "message": "New Fire NOCs by usage type",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL",
-        "message": "Total applications vs Provisional NOCs issued vs Actual NOCs issued",
+        "message": "Total applications vs Provisional NOCs issued vs New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL(CR)",
-        "message": "Total applications vs Provisional NOCs issued vs Actual NOCs issued(Cr)",
+        "message": "Total applications vs Provisional NOCs issued vs New NOCs issued(Cr)",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL(LAC)",
-        "message": "Total applications vs Provisional NOCs issued vs Actual NOCs issued(Lac)",
+        "message": "Total applications vs Provisional NOCs issued vs New NOCs issued(Lac)",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL(UNIT)",
-        "message": "Total applications vs Provisional NOCs issued vs Actual NOCs issued(In Unit)",
+        "message": "Total applications vs Provisional NOCs issued vs New NOCs issued(In Unit)",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -3055,13 +3061,13 @@
     },
     {
         "code": "NSS_NOC_ACTUAL_ISSUED",
-        "message": "Actual NOCs Issued",
+        "message": "New NOCs Issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "NSS_NOC_AVERAGE_DAYS_TO_ISSUE_ACTUAL",
-        "message": "Avg. days to issue Actual Fire NOC",
+        "message": "Avg. days to issue New Fire NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -3091,7 +3097,7 @@
     },
     {
         "code": "NSS_NOC_SLA_COMPLIANCE_ACTUAL",
-        "message": "SLA Compliance (Actual Fire NOC)",
+        "message": "SLA Compliance (New Fire NOC)",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -3175,7 +3181,7 @@
     },
     {
         "code": "NSS_OBPS_DASHBOARD",
-        "message": "Online Building Plan Approval System National Dashboard",
+        "message": "Online Building Plan Approval System Dashboard",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -3612,523 +3618,685 @@
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_ACTIVE",
+        "code": "COMMON_MASTERS_ACTIVE",
         "message": "Active",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_ACTUAL",
-        "message": "Actual",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_APPLIED",
-        "message": "Applied",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_APPROVED",
-        "message": "Approved",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_ASSIGNED",
-        "message": "Assigned",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_BBPS",
-        "message": "BBPS",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_BRICKFIELD",
-        "message": "Brickfield",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CANCELLED",
-        "message": "Cancelled",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CARD",
-        "message": "Card",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CASH",
-        "message": "Cash",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CFC_COUNTER",
-        "message": "CFC Counter",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CHARCOAL_KLIN",
-        "message": "Charcoal Klin",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CHEQUE",
-        "message": "Cheque",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CITIZEN",
-        "message": "Citizen",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CLOSED",
-        "message": "Closed",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL",
-        "message": "Commercial",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_Commercial",
-        "message": "Commercial",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL_MOTOR",
-        "message": "Commercial Motor",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_COUNTER",
-        "message": "Counter",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CREDIT_CARD",
-        "message": "Credit Card",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_CSC",
-        "message": "CSC",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DATA_ENTRY",
-        "message": "Data Entry",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DATAENTRY",
-        "message": "Data Entry",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DD",
-        "message": "DD",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DEBIT_CARD",
-        "message": "Card",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DEPOSITED",
-        "message": "Deposited",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DEPT1",
-        "message": "Department 1",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DEPT2",
-        "message": "Department 2",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DEPT3",
-        "message": "Department 3",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DISHONOURED",
-        "message": "Dishonoured",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_Domestic",
-        "message": "Domestic",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_Domestic SLC",
-        "message": "Domestic SLC",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DOMESTIC_EXEMPTED",
-        "message": "Domestic Exempted",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DOMESTIC_SLC",
-        "message": "Domestic SLC",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_DSS_OTHERS",
-        "message": "Others",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_EXPIRED",
-        "message": "Expired",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_FIELD",
-        "message": "Field",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_FIELDINSPECTION",
-        "message": "Field Inspection",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_FNOC",
-        "message": "Fire NOC",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_FREECHARGE",
-        "message": "Freecharge",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_GROCERYSTORES",
-        "message": "Grocery Stores",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_HIGH",
-        "message": "High",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_INDUSTRIAL",
-        "message": "Industrial",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_INITIATED",
-        "message": "Initiated",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL",
-        "message": "Institutional",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_Institutional",
-        "message": "Institutional",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_LOW",
-        "message": "Low",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_MCOLLECT",
-        "message": "mCollect",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_MEDIUM",
-        "message": "Medium",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_MIGRATION",
-        "message": "Migration",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_MOBILE",
-        "message": "Mobile",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_NEW",
+        "code": "COMMON_MASTERS_ACTUAL",
         "message": "New",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL_COMMERCIAL",
+        "code": "COMMON_MASTERS_APPLIED",
+        "message": "Applied",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_APPROVED",
+        "message": "Approved",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_ASSIGNED",
+        "message": "Assigned",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_BBPS",
+        "message": "BBPS",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_BRICKFIELD",
+        "message": "Brickfield",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CANCELLED",
+        "message": "Cancelled",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CARD",
+        "message": "Card",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CASH",
+        "message": "Cash",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CFC_COUNTER",
+        "message": "CFC Counter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CHARCOAL_KLIN",
+        "message": "Charcoal Klin",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CHEQUE",
+        "message": "Cheque",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CITIZEN",
+        "message": "Citizen",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CLOSED",
+        "message": "Closed",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_COMMERCIAL",
         "message": "Commercial",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL_COMMERCIAL_RETAIL_MALLS",
+        "code": "COMMON_MASTERS_COMMERCIAL.HOTEL",
+        "message": "HOTEL",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_COMMERCIAL.RESTAURANT",
+        "message": "RESTAURANT",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_COMMERCIAL_MOTOR",
+        "message": "Commercial Motor",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_COMPLAINT_CELL",
+        "message": "Complaint Cell",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_COUNTER",
+        "message": "Counter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CREDIT_CARD",
+        "message": "Credit Card",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_CSC",
+        "message": "CSC",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_Commercial",
+        "message": "Commercial",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DATAENTRY",
+        "message": "Data Entry",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DATA_ENTRY",
+        "message": "Data Entry",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DD",
+        "message": "DD",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEBIT_CARD",
+        "message": "Card",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPOSITED",
+        "message": "Deposited",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPT1",
+        "message": "Department 1",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPT2",
+        "message": "Department 2",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPT3",
+        "message": "Department 3",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DISHONOURED",
+        "message": "Dishonoured",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DOMESTIC",
+        "message": "Domestic",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DOMESTIC_EXEMPTED",
+        "message": "Domestic Exempted",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DOMESTIC_SLC",
+        "message": "Domestic SLC",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DSS.OTHERS",
+        "message": "Others",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_DSS_OTHERS",
+        "message": "Others",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_Domestic",
+        "message": "Domestic",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_Domestic SLC",
+        "message": "Domestic SLC",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_EXPIRED",
+        "message": "Expired",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_FIELD",
+        "message": "Field",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_FIELDINSPECTION",
+        "message": "Field Inspection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_FNOC",
+        "message": "Fire NOC",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_FREECHARGE",
+        "message": "Freecharge",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GROCERYSTORES",
+        "message": "Grocery Stores",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GROUP_A_RESIDENTIAL_SUBDIVISIONA_1",
+        "message": "Subdivision A-1 Lodging and rooming houses",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GROUP_A_RESIDENTIAL_SUBDIVISIONA_2",
+        "message": "Subdivision A-2 One or two family private dwellings",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GROUP_B_EDUCATIONAL_SUBDIVISIONB_1",
+        "message": "Subdivision B-1 Schools up to senior secondary level",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GROUP_B_EDUCATIONAL_SUBDIVISIONB_2",
+        "message": "Subdivision B-2 All others/training institutions",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_1",
+        "message": "Subdivision C-1 Hospitals and sanatoria",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_2",
+        "message": "Subdivision C-2 Custodial institutions",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_GROUP_E_BUSINESS_SUBDIVISIONE_1",
+        "message": "Subdivision E-1 Offices, banks, professional establishments, like offices of architects, engineers, doctors, lawyers, post offices and police stations",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_HEALTH_&_SANITATION",
+        "message": "Health & Sanitation",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_HIGH",
+        "message": "High",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_INDUSTRIAL",
+        "message": "Industrial",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_INITIATED",
+        "message": "Initiated",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_INSTITUATIONAL",
+        "message": "Instituational",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_INSTITUTIONAL",
+        "message": "Institutional",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_INSTITUTIONAL.MOSQUE",
+        "message": "MOSQUE",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_INSTITUTIONAL.SCHOOL",
+        "message": "SCHOOL",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_IVR",
+        "message": "IVR",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_Institutional",
+        "message": "Institutional",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_LOW",
+        "message": "Low",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_MCOLLECT",
+        "message": "mCollect",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_MEDIUM",
+        "message": "Medium",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_MIGRATION",
+        "message": "Migration",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_MOBILE",
+        "message": "Mobile",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_NEW",
+        "message": "New",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_NONRESIDENTIAL.COMMERCIAL",
+        "message": "Commercial",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_NONRESIDENTIAL.OTHERS",
+        "message": "Others",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_NONRESIDENTIAL_COMMERCIAL",
+        "message": "Commercial",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_NONRESIDENTIAL_COMMERCIAL_FOODJOINTS_ACRESTAURANT",
+        "message": "Non-Residential - Commercial Foodjoint AC Restaurant ",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_NONRESIDENTIAL_COMMERCIAL_RETAIL_MALLS",
         "message": "Non-Residential Commercial Retail Malls",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL_OTHERS",
+        "code": "COMMON_MASTERS_NONRESIDENTIAL_INSTITUTIONAL",
+        "message": "Non-Residential - Instituional",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_NONRESIDENTIAL_OTHERS",
         "message": "Others",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL.COMMERCIAL",
-        "message": "Commercial",
+        "code": "COMMON_MASTERS_OBPS",
+        "message": "Online Building Plan Approval System",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL.OTHERS",
-        "message": "Others",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-            "code": "PROPERTYTYPE_MASTERS_OBPS",
-            "message": "Online Building Plan Approval System",
-            "module": "rainmaker-dss",
-            "locale": "en_IN"
-        },
-    {
-        "code": "PROPERTYTYPE_MASTERS_OFFLINE_NEFT",
+        "code": "COMMON_MASTERS_OFFLINE_NEFT",
         "message": "NEFT",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_OFFLINE_RTGS",
+        "code": "COMMON_MASTERS_OFFLINE_RTGS",
         "message": "RTGS",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_ONLINE",
+        "code": "COMMON_MASTERS_ONLINE",
         "message": "Online",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_OPEN",
+        "code": "COMMON_MASTERS_OPEN",
         "message": "Open",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_PAID",
+        "code": "COMMON_MASTERS_OPERATION_&_MAINTENANCE",
+        "message": "Operation & Maintenance",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_PAID",
         "message": "Paid",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_PAYTM",
+        "code": "COMMON_MASTERS_PAYTM",
         "message": "Paytm",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_Paytm",
-        "message": "Paytm",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_PAYU",
+        "code": "COMMON_MASTERS_PAYU",
         "message": "PayU",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_PENDINGAPPROVAL",
+        "code": "COMMON_MASTERS_PENDINGAPPROVAL",
         "message": "Pending approval",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_PENDINGPAYMENT",
+        "code": "COMMON_MASTERS_PENDINGPAYMENT",
         "message": "Pending Payment",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_POS",
+        "code": "COMMON_MASTERS_POS",
         "message": "POS",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_POSTAL_ORDER",
+        "code": "COMMON_MASTERS_POSTAL_ORDER",
         "message": "Postal Order",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_PROVISIONAL",
+        "code": "COMMON_MASTERS_PROPERTY_TAX_BRANCH",
+        "message": "Property Tax Branch",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_PROVISIONAL",
         "message": "Provisional",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_PT",
+        "code": "COMMON_MASTERS_PT",
         "message": "Property Tax",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_RAZORPAY",
+        "code": "COMMON_MASTERS_Paytm",
+        "message": "Paytm",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_RAZORPAY",
         "message": "Razorpay",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_REASSIGN_REQUESTED",
+        "code": "COMMON_MASTERS_REASSIGNED",
+        "message": "Reassigned",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_REASSIGNREQUESTED",
         "message": "Reassign Requested",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_REASSIGNED",
-        "message": "Reassign",
+        "code": "COMMON_MASTERS_REASSIGN_REQUESTED",
+        "message": "Reassign Requested",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_REJECTED",
+        "code": "COMMON_MASTERS_REJECTED",
         "message": "Rejected",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_REOPENED",
+        "code": "COMMON_MASTERS_REOPENED",
         "message": "Reopened",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL",
+        "code": "COMMON_MASTERS_RESIDENTIAL",
         "message": "Residential",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_RESOLVED",
+        "code": "COMMON_MASTERS_RESIDENTIAL.APARTMENT",
+        "message": "APARTMENT",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_RESIDENTIAL.INDEPENDENT_HOUSE",
+        "message": "HOUSE",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_RESIDENTIAL.ROW_HOUSES",
+        "message": "HOUSES",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_RESOLVED",
         "message": "Resolved",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_SEWAKENDRA",
+        "code": "COMMON_MASTERS_SEWAKENDRA",
         "message": "Sewakendra",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_Sewakendra",
+        "code": "COMMON_MASTERS_STREET_LIGHTS",
+        "message": "Street Lights",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_SYSTEM",
+        "message": "System",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_Sewakendra",
         "message": "Sewakendra",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_System",
+        "code": "COMMON_MASTERS_System",
         "message": "System",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_SYSTEM",
-        "message": "System",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTYPE_MASTERS_TL",
+        "code": "COMMON_MASTERS_TL",
         "message": "Trade License",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_UPI",
+        "code": "COMMON_MASTERS_UPI",
         "message": "UPI",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_WEB",
+        "code": "COMMON_MASTERS_WEB",
         "message": "Web",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
-        "code": "PROPERTYTYPE_MASTERS_WS",
+        "code": "COMMON_MASTERS_WHATSAPP",
+        "message": "WhatsApp",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_WS",
         "message": "W&S",
         "module": "rainmaker-dss",
         "locale": "en_IN"
@@ -4357,13 +4525,13 @@
     },
     {
         "code": "TIP_DSS_ACTUAL_NOC_ISSUED_USAGETYPE",
-        "message": "Actual Fire NOCs by usage type",
+        "message": "New Fire NOCs by usage type",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_DSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL",
-        "message": "Total applications vs Provisional NOCs issued vs Actual NOCs issued",
+        "message": "Total applications vs Provisional NOCs issued vs New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -4513,7 +4681,7 @@
     },
     {
         "code": "TIP_DSS_HEADER_ACTUAL_FIRE_NOCS_ISSUED",
-        "message": "Total # of Actual NOCs issued",
+        "message": "Total # of New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -4555,7 +4723,7 @@
     },
     {
         "code": "TIP_DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
-        "message": "Total # of days taken to issue an actual NOC / Actual NOCs issued",
+        "message": "Total # of days taken to issue a new NOC / New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -4771,7 +4939,7 @@
     },
     {
         "code": "TIP_DSS_HEADER_SLA_COMPLIANCE(ACTUAL_NOC)",
-        "message": "% of Actual NOCs issued within SLA",
+        "message": "% of New NOCs issued within SLA",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5089,13 +5257,13 @@
     },
     {
         "code": "TIP_DSS_NOC_ACTUAL_ISSUED",
-        "message": "Total # of Actual Fire NOCs issued",
+        "message": "Total # of New Fire NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_DSS_NOC_AVERAGE_DAYS_TO_ISSUE_ACTUAL",
-        "message": "Total # of days taken to issue an actual NOC / Actual NOCs issued",
+        "message": "Total # of days taken to issue a new NOC / New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5131,7 +5299,7 @@
     },
     {
         "code": "TIP_DSS_NOC_SLA_COMPLIANCE_ACTUAL",
-        "message": "% of Actual NOCs issued within SLA",
+        "message": "% of New NOCs issued within SLA",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5143,7 +5311,7 @@
     },
     {
         "code": "TIP_DSS_NOC_TODAYS_COLLECTION",
-        "message": "Sum of revenue collected from issuance of a Provisional and Actual Fire NOC",
+        "message": "Sum of revenue collected from issuance of a Provisional and New Fire NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5161,7 +5329,7 @@
     },
     {
         "code": "TIP_DSS_NOC_TOTAL_APPLICATIONS",
-        "message": "Total # of applications submitted for a new Provisional NOC",
+        "message": "Total # of applications submitted for Provisional and New NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5245,13 +5413,13 @@
     },
     {
         "code": "TIP_DSS_TB_ACTUAL_FIRE_NOCS_ISSUED",
-        "message": "Total # of applications submitted for new Actual Fire NOC",
+        "message": "Total # of applications submitted for new New Fire NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_DSS_TB_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
-        "message": "Total # of days taken to issue an actual NOC / Actual NOCs issued",
+        "message": "Total # of days taken to issue a new NOC / New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5281,7 +5449,7 @@
     },
     {
         "code": "TIP_DSS_TB_TOTAL_APPLICATIONS",
-        "message": "Total # of applications submitted for a new Provisional NOC",
+        "message": "Total # of applications submitted for Provisional and New NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5383,7 +5551,7 @@
     },
     {
         "code": "TIP_DSS_TOTAL_COLLECTION",
-        "message": "Sum of revenue collected from mCollect for the applied date filter",
+        "message": "Sum of revenue collections from mCollect module. This will not include collection from revenue modules that are live.",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5545,25 +5713,25 @@
     },
     {
         "code": "TIP_DSS_WS_ACTIVE_CONNECTIONS",
-        "message": "Total # of water + sewerage connections approved by the concerned authority",
+        "message": "Total # of active water + sewerage connections",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_DSS_WS_ACTIVE_METERED_WATER_CONNECTIONS",
-        "message": "Total # of metered water connections approved by the concerned authority",
+        "message": "Total # of active metered water connections ",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_DSS_WS_ACTIVE_NON_METERED_WATER_CONNECTIONS",
-        "message": "Total # of non-metered water connections approved by the concerned authority",
+        "message": "Total # of active non-metered water connections ",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_DSS_WS_ACTIVE_SEWERAGE_CONNECTIONS",
-        "message": "Total # of sewerage connections approved by the concerned authority",
+        "message": "Total # of active sewerage connections ",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5659,7 +5827,13 @@
     },
     {
         "code": "TIP_DSS_WS_TOTAL_COLLECTION",
-        "message": "Sum of W&S revenue collected for the applied date filter",
+        "message": "Sum of revenue collections from Water & Sewerage module",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_ACTIVE_CONNECTIONS",
+        "message": "Total number of connections activated",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -6073,7 +6247,7 @@
     },
     {
         "code": "TIP_NATIONAL_DSS_WS_TOTAL_APPLICATIONS",
-        "message": "Total # of connections approved by the concerned authority",
+        "message": "Total # of connections activated",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -6097,25 +6271,25 @@
     },
     {
         "code": "TIP_NSS_ACTUAL_NOC_ISSUED_USAGETYPE",
-        "message": "Actual Fire NOCs by usage type",
+        "message": "New Fire NOCs by usage type",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL",
-        "message": "Total applications vs Provisional NOCs issued vs Actual NOCs issued",
+        "message": "Total applications vs Provisional NOCs issued vs New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_NSS_NOC_ACTUAL_ISSUED",
-        "message": "Total # of applications submitted for Actual Fire NOC",
+        "message": "Total # of applications submitted for New Fire NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_NSS_NOC_AVERAGE_DAYS_TO_ISSUE_ACTUAL",
-        "message": "Total # of days taken to issue an actual NOC / Actual NOCs issued",
+        "message": "Total # of days taken to issue a new NOC / New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -6145,7 +6319,7 @@
     },
     {
         "code": "TIP_NSS_NOC_SLA_COMPLIANCE_ACTUAL",
-        "message": "% of Actual NOCs issued within SLA",
+        "message": "% of New NOCs issued within SLA",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -6163,7 +6337,7 @@
     },
     {
         "code": "TIP_NSS_NOC_TOTAL_APPLICATIONS",
-        "message": "Total # of applications submitted for a new Provisional NOC",
+        "message": "Total # of applications submitted for Provisional and New NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -6331,13 +6505,13 @@
     },
     {
         "code": "TIP_NSS_TB_ACTUAL_FIRE_NOCS_ISSUED",
-        "message": "Total # of Actual NOCs issued",
+        "message": "Total # of New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_NSS_TB_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
-        "message": "Total # of days taken to issue an actual NOC / Actual NOCs issued",
+        "message": "Total # of days taken to issue a new NOC / New NOCs issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -6355,7 +6529,7 @@
     },
     {
         "code": "TIP_NSS_TB_SLA_COMPLIANCE(ACTUAL_NOC)",
-        "message": "% of Actual NOCs issued within SLA",
+        "message": "% of New NOCs issued within SLA",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -6367,7 +6541,7 @@
     },
     {
         "code": "TIP_NSS_TB_TOTAL_APPLICATIONS",
-        "message": "Total # of applications submitted for a new Provisional NOC",
+        "message": "Total # of applications submitted for Provisional and New NOC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -6385,25 +6559,25 @@
     },
     {
         "code": "TIP_NSS_WS_ACTIVE_CONNECTIONS",
-        "message": "Total # of water + sewerage connections approved by the concerned authority",
+        "message": "Total # of active water + sewerage connections",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_NSS_WS_ACTIVE_METERED_WATER_CONNECTIONS",
-        "message": "Total # of metered water connections approved by the concerned authority",
+        "message": "Total # of active metered water connections ",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_NSS_WS_ACTIVE_NON_METERED_WATER_CONNECTIONS",
-        "message": "Total # of non-metered water connections approved by the concerned authority",
+        "message": "Total # of active non-metered water connections ",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_NSS_WS_ACTIVE_SEWERAGE_CONNECTIONS",
-        "message": "Total # of sewerage connections approved by the concerned authority",
+        "message": "Total # of active sewerage connections ",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -8478,14 +8652,8 @@
         "locale": "en_IN"
     },
     {
-        "code": "NSS_OBPS_DASHBOARD",
-        "message": "Online Building Plan Approval System National Dashboard",
-        "module": "rainmaker-dss",
-        "locale": "en_IN"
-    },
-    {
         "code": "NATIONAL_DSS_PGR_DASHBOARD",
-        "message": "Public Grievances & Redressal National Dashboard",
+        "message": "Public Grievances & Redressal Dashboard",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -8503,7 +8671,7 @@
     },
     {
         "code": "NSS_NOC_SLA_COMPLIANCE_PROVISIONAL",
-        "message": "SLA Compliance (Provisional Fire NOC)",
+        "message": "SLA Compliance <br/> (Provisional Fire NOC)",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -10093,7 +10261,7 @@
     },
     {
         "code": "ACTUAL_NOCS_ISSUED",
-        "message": "Actual NOCs Issued",
+        "message": "New NOCs Issued",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -10106,6 +10274,174 @@
     {
         "code": "TIP_DSS_HEADER_FIRENOC_TOTAL_COLLECTION",
         "message": "Sum of revenue collected from Fire NOC for the applied date filter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_DISTRICT",
+        "message": "DDR",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_DDR",
+        "message": "DDR",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_ALL_DDR_SELECTED",
+        "message": "All DDR Selected",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_OC_ISSUED",
+        "message": "Total OC issued",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_OC_ISSUED_TIP",
+        "message": "Total # of occupancy certificates issued by the concerned authority for new construction",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_FIRENOC_DEPARTMENT",
+        "message": "Department",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_FIRENOC_DEPARTMENT",
+        "message": "Department",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_OD_BHUBANESWAR_DEVELOPMENT_AUTHORITY",
+        "message": "Bhubaneswar Development Authority",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_OD_G__UDAYAGIRI",
+        "message": "Udaygiri",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_OD_KHARIAR_ROAD",
+        "message": "Khariar Road",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_GROUP_E_BUSINESS_SUBDIVISIONE_1",
+        "message": "Subdivision E-1 Offices, banks, professional establishments, like offices of architects, engineers, doctors, lawyers, post offices and police stations",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_SLA_ACHIEVED_OVERVIEW",
+        "message": "SLA Achievement",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_SLA_ACHIEVED_OVERVIEW",
+        "message": "% of applications and complaints closed within SLA",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TOTAL_COLLECTION_OVERVIEW",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_COLLECTION_OVERVIEW",
+        "message": "Sum of revenue collections across all modules",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TARGET_ACHIEVED_OVERVIEW",
+        "message": "Target Achieved",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_TARGET_ACHIEVED_OVERVIEW",
+        "message": "Total Collections / Target Collections",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TOTAL_APPLICATION_OVERVIEW",
+        "message": "Total Applications",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_APPLICATION_OVERVIEW",
+        "message": "Sum of applications across all modules. This does not include complaints. ",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_CLOSED_APPLICATION_OVERVIEW",
+        "message": "Closed Applications",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_CLOSED_APPLICATION_OVERVIEW",
+        "message": "Sum of applications closed across all modules",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_COLLECTIONS",
+        "message": "Total Collections",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_COLLECTIONS_TIP",
+        "message": "Sum of revenue collections from Building Permissions module",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_UK_CHAMOLI_GOPESHWAR",
+        "message": "Chamoli Gopeshwar",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DEPARTMENT1",
+        "message": "Department 1",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DEPARTMENT2",
+        "message": "Department 2",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+     {
+        "code": "DEPARTMENT3",
+        "message": "Department 3",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DEPARTMENT4",
+        "message": "Department 4",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     }
