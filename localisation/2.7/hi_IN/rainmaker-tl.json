@@ -1,0 +1,1484 @@
+[
+    {
+        "code": "tl.en.counter.approved",
+        "message": "प्रिय <1>, <2> के लिए आपका व्यापार लाइसेंस आवेदन अब स्वीकार कर लिया गया है। कृपया आप व्यापार लाइसेंस प्रमाणपत्र प्राप्त करने के लिए अपनेे एमसेवा खाते से ऑनलाइन या नगर निगम कार्यालय में INR <3> के व्यापार लाइसेंस शुल्क का भुगतान करें। भुगतान लिंक: {भुगतान_लिंक} धन्यवाद",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.approved.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस आवेदन बन चूका है _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY आवेदन संदर्भ संख्या ZZZZ के साथ तैयार किया गया है। आप आवेदन की वर्तमान स्थिति की जांच करने के लिए आवेदन में दिए गए अपने मोबाइल नंबर का उपयोग करके पोर्टल पर लॉग इन कर सकते हैं। {br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और नमस्कार {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.cancelled",
+        "message": "प्रिय {1},  आपका {2} व्यापार लाइसेंस रद्द कर दिया गया है। अधिक जानकारी के लिए कृपया अपने नगर निगम कार्यालय से संपर्क करें। आपका रद्द किया गया ट्रेड लाइसेंस नंबर {3} है। \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.cancelled.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस रद्द कर दिया गया है _ RRRR{/h2},{p}प्रिय XXXX, {br}आपका व्यापार लाइसेंस RRRR रद्द कर दिया गया है। अधिक जानकारी के लिए कृपया अपने नगर निगम कार्यालय से संपर्क करें। {br} धन्यवाद और नमस्कार {br} सीसीसी {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.initiate",
+        "message": "प्रिय <1>, आपका <2> के लिए व्यापार लाइसेंस आवेदन नंबर तैयार है। आपका आवेदन नंबर <3> है। आप अपने आवेदन की स्थिति पता करने के लिए इस आवेदन नंबर का उपयोग कर सकते हैं। धन्यवाद",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.initiate.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस का एप्लिकेशन तैयार किया गया _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY एप्लिकेशन संदर्भ संख्या ZZZZ के साथ बनाया गया है। आप आवेदन की वर्तमान स्थिति की जांच करने के लिए आवेदन में दिए गए अपने मोबाइल नंबर का उपयोग करके पोर्टल पर लॉग इन कर सकते हैं। {br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और नमस्कार {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.initiated.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस का एप्लिकेशन तैयार किया गया _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY एप्लिकेशन संदर्भ संख्या ZZZZ के साथ बनाया गया है। आप आवेदन की वर्तमान स्थिति की जांच करने के लिए आवेदन में दिए गए अपने मोबाइल नंबर का उपयोग करके पोर्टल पर लॉग इन कर सकते हैं। {br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.payment.successful.owner",
+        "message": "प्रिय {1}, {2} का भुगतान सफलतापूर्वक एकत्र कर लिया गया है। आपकी रसीद नं. {4} है। \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.payment.successful.payer",
+        "message": "प्रिय {1}, {2} का भुगतान सफलतापूर्वक एकत्र कर लिया गया है। आपकी रसीद नं. {4} है। \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.pending.approval",
+        "message": "प्रिय {1}, आपका {2} के लिए आवेदन सत्यापन के लिए भेजा गया है। इसके संसाधित होते ही हम आपको अपडेट कर देंगे \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.pending.approval.email",
+        "message": "{h2}मेल का विषय - व्यापार के लाइसेंस के लिए आवेदन जाँच के अधीन _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY आवेदन ZZZZ संसाधित किया जा रहा है। आवेदन की वर्तमान स्थिति की जांच करने के लिए आप अपने मोबाइल नंबर का उपयोग करके पोर्टल में प्रवेश कर सकते हैं।{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p}\n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.rejected",
+        "message": "प्रिय <1>, आपका <2> के लिए व्यापार लाइसेंस आवेदन अस्वीकृत किया गया है। अस्वीकृति का कारण जानने के लिए अपने एमसेवा खाते में लॉगिन करें, अथवा अधिक जानकारी के लिए अपने नगरपालिका कार्यालय पर जाएँ। धन्यवाद",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.rejected.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस के लिए आवेदन अस्वीकार कर दिया गया है _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका व्यापार लाइसेंस RRRR अस्वीकार कर दिया गया है। अस्वीकृति का कारण जानने के लिए कृपया पोर्टल में लॉग इन करें या अधिक जानकारी के लिए अपने नगरपालिका कार्यालय में जाएं। {br} धन्यवाद और सादर {br} सीसीसी {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.renewal.payment.successful.owner",
+        "message": "प्रिय {1}, {2} का भुगतान सफलतापूर्वक एकत्र कर लिया गया है। आपकी रसीद संख्या {3} है। धन्यवाद \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.renewal.payment.successful.payer",
+        "message": "प्रिय {1}, {2} का भुगतान सफलतापूर्वक एकत्र कर लिया गया है। आपकी रसीद संख्या {3} है। धन्यवाद \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.submit",
+        "message": "प्रिय <1>, <2> के लिए व्यापार लाइसेंस आवेदन नंबर <3> जमा करने के लिए धन्यवाद। आपका आवेदन दस्तावेज सत्यापन के लिए भेजा गया है।",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.submit.email",
+        "message": "{h2}मेल का विषय - दस्तावेज़ जांच के अधीन व्यापार लाइसेंस आवेदन_ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY आवेदन ZZZZ दस्तावेज़ जांच के अधीन है। दस्तावेज़ जांच के सफल होने पर आवेदन को क्षेत्रीय निरीक्षण के लिए संसाधित किया जाएगा। आवेदन की वर्तमान स्थिति की जांच करने के लिए आप अपने मोबाइल नंबर का उपयोग करके पोर्टल में प्रवेश कर सकते हैं।{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.field.change",
+        "message": "प्रिय {1},\nआवेदन संख्या {APPLICATION_NUMBER} के साथ आपका व्यापार लाइसेंस संशोधित किया गया था। जोड़ी गई वस्तुएं हैं {FIELDS} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.field.change.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस आवेदन संशोधित _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY आवेदन संख्या ZZZZ को संशोधित किया गया है। आप अपने मोबाइल नंबर का उपयोग करके पोर्टल पर लॉग इन कर सकते हैं। आवेदन.{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.object.added",
+        "message": "प्रिय <1>, आपका व्यापार लाइसेंस जिसका आवेदन नंबर {आवेदन_नंबर} है, संशोधित किया गया। संशोधित क्षेत्र हैं {संशोधित_क्षेत्र}",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.object.added.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस का आवेदन संशोधित _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY आवेदन संख्या ZZZZ संशोधित किया गया है। आप अपने मोबाइल नंबर का उपयोग करके पोर्टल पर लॉग इन कर सकते हैं। आवेदन.{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.object.modified",
+        "message": "प्रिय {1}, आवेदन संख्या {APPLICATION_NUMBER} के साथ आपका व्यापार लाइसेंस संशोधित किया गया था। \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.object.modified.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस का आवेदन संशोधित _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY आवेदन संख्या ZZZZ संशोधित किया गया है। आप अपने मोबाइल नंबर का उपयोग करके पोर्टल पर लॉग इन कर सकते हैं। आवेदन.{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.object.removed",
+        "message": "प्रिय {1},\nआवेदन संख्या {APPLICATION_NUMBER} के साथ आपका व्यापार लाइसेंस संशोधित किया गया था। हटाए गए विषय-वस्तु हैं {FIELDS} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.object.removed.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस आवेदन संशोधित _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY आवेदन संख्या ZZZZ संशोधित किया गया है। आप अपने मोबाइल नंबर का उपयोग करके पोर्टल पर लॉग इन कर सकते हैं। आवेदन.{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.object.renew.modified",
+        "message": "प्रिय {1},\nआवेदन संख्या {APPLICATION_NUMBER} के साथ आपका नवीनीकरण व्यापार लाइसेंस संशोधित किया गया था। \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.edit.object.renew.modified.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस आवेदन संशोधित _ ZZZZ{/h2},{p}प्रिय XXXX , {br},{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.field.inspection",
+        "message": "प्रिय <1>, आपके <2> के लिए व्यापार लाइसेंस आवेदन को क्षेत्र निरिक्षण के लिए भेजा गया है। सत्यापन के लिए फील्ड इंस्पेक्टर आपसे संपर्क कर सकते हैं। धन्यवाद",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.field.inspection.email",
+        "message": "{h2}मेल का विषय - फील्ड निरीक्षण के अधीन व्यापार लाइसेंस आवेदन _ ZZZZ{/h2},{p}प्रिय XXXX, {br}फील्ड निरीक्षण के अधीन आपका YYYY एप्लिकेशन ZZZZ। फील्ड निरीक्षण के दौरान फील्ड इंस्पेक्टर आपके मोबाइल पर आपसे संपर्क करेगा।{ br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.forward.citizen",
+        "message": "प्रिय {1},\nआवेदन संख्या {2} और व्यापार नाम {3} के साथ आपका व्यापार लाइसेंस फील्ड निरीक्षण के लिए अग्रेषित किया जाता है। \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.forward.citizen.email",
+        "message": "{h2}मेल का विषय - फील्ड निरीक्षण के अधीन व्यापार लाइसेंस के लिए आवेदन _ ZZZZ{/h2},{p}प्रिय XXXX, {br}फील्ड निरीक्षण के अधीन आपका YYYY एप्लिकेशन ZZZZ। फील्ड निरीक्षण के दौरान फील्ड इंस्पेक्टर आपके मोबाइल पर आपसे संपर्क करेगा।{ br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.forward.citizene",
+        "message": "प्रिय {1},\nआवेदन संख्या {2} और व्यापार नाम {3} के साथ आपका व्यापार लाइसेंस फील्ड निरीक्षण के लिए अग्रेषित किया जाता है। \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.pending.approval",
+        "message": "प्रिय <1>, आपका <2> के लिए व्यापार लाइसेंस आवेदन स्वीकृति के लिए भेजा गया है। धन्यवाद",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.pending.approval.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस के आवेदन के अनुमोदन लंबित _ ZZZZ{/h2},{p}प्रिय XXXX, {br}फील्ड निरीक्षण पूरा हो गया है और आपका YYYY आवेदन ZZZZ अनुमोदन के लिए भेजा गया है। आप अपने मोबाइल का उपयोग करके पोर्टल में प्रवेश कर सकते हैं आवेदन की वर्तमान स्थिति की जांच करने के लिए नंबर।{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.reminder",
+        "message": "प्रिय {OWNER_NAME}, {TRADE_NAME} के लिए आपका व्यापार लाइसेंस नंबर {LICENSE_NUMBER} {EXPIRY_DATE} को समाप्त हो रहा है। किसी भी दंड से बचने के लिए कृपया अपने व्यापार लाइसेंस को नवीनीकृत करें।\n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.reminder.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस की समाप्ति _ {LICENSE_NUMBER},{/h2},{p}प्रिय {OWNER_NAME}, {br}आपका व्यापार लाइसेंस {LICENSE_NUMBER} नवीनीकरण के लिए है और {EXPIRY_DATE} को समाप्त होने वाला है। अपने लाइसेंस को नवीनीकृत करने के लिए अपने मोबाइल नंबर का उपयोग करके पोर्टल में प्रवेश कर सकते हैं।{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.sendback.citizen",
+        "message": "प्रिय <1>, आवेदन नंबर <2> और व्यापार नाम <3> का आपका व्यापार लाइसेंस आगे की कार्यवाही के लिए आपको वापस भेजा गया है। कृपया टिप्पणियों की जाँच करें और एमसेवा एप के माध्यम से या निकाय काउंटर पर आवेदन पुनः जमा करें।",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.sendback.citizen.email",
+        "message": "{h2}मेल का विषय - लंबित व्यापार लाइसेंस के लिए आवेदक का स्पष्टीकरण _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपके YYYY एप्लिकेशन ZZZZ पर अधिकारी द्वारा कुछ स्पष्टीकरण दिए गए हैं। आप अपने मोबाइल का उपयोग करके पोर्टल पर लॉग इन कर सकते हैं विवरण जानने और जवाब देने के लिए नंबर।{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.counter.approved",
+        "message": "प्रिय <1>, आपका <2> के लिए नवीकरण का आवेदन स्वीकृत हो गया है। आपका व्यापार लाइसेंस नवीकृत कर दिया गया है। आपका व्यापार लाइसेंस नंबर <3> है। यह <4> तक वैध है। कृपया व्यापार लाइसेंस प्रमाणपत्र प्राप्त करने के लिए अपने एमसेवा खाते से ऑनलाइन या अपने नगर निगम के कार्यालय में जाकर व्यापार लाइसेंस शुल्क का भुगतान करें। भुगतान लिंक: {भुगतान_लिंक} धन्यवाद!",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.counter.approved.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस के नवीनीकरण के लिए आवेदन को स्वीकृत _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY आवेदन संख्या ZZZZ स्वीकृत है। नवीनीकरण शुल्क का भुगतान करने के लिए आप अपने मोबाइल नंबर का उपयोग करके पोर्टल में प्रवेश कर और नवीनीकरण प्रमाणपत्र डाउनलोड कर सकते हैं।{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.counter.initiate",
+        "message": "प्रिय <1>, <2> के लिए आपका नवीनीकरण का आवेदन तैयार है। आपका आवेदन नंबर <3> है",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.counter.initiate.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस नवीनीकरण के लिए आवेदन किया गया _ ZZZZ{/h2},{p}प्रिय XXXX, {br}आपका YYYY आवेदन संख्या ZZZZ बनाया गया है। आप अपने मोबाइल नंबर का उपयोग करके पोर्टल पर लॉग इन कर सकते हैं। आवेदन पत्र। {br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.counter.rejected",
+        "message": "प्रिय <1>, हमें आपको सूचित करने में खेद है कि <2> के लिए आपका नवीनीकृत करने का आवेदन अस्वीकृत कर दिया गया है. आप अपने व्यापार के लिए फिर से आवेदन कर सकते हैं।",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.counter.rejected.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस के नवीनीकरण के लिए आवेदन को अस्वीकार कर दिया गया है _ ZZZZ {/h2},{p}प्रिय {OWNER_NAME}, {br}आपका व्यापार लाइसेंस के नवीनीकरण के लिए आवेदन को आरआरआरआर अस्वीकार कर दिया गया है। अस्वीकृति का कारण जानने के लिए कृपया पोर्टल में लॉग इन करें या अधिक विवरण के लिए अपने नगरपालिका कार्यालय में जाएं।{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.counter.submit",
+        "message": "प्रिय <1>, <2> के लिए आपका नवीनीकरण का आवेदन जमा कर दिया गया है। आपका आवेदन नंबर <3> है, कृपया अपने व्यापार लाइसेंस शुल्क का भुगतान ऑनलाइन या अपने नगर निगम के कार्यालय में जाकर करें",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.counter.submit.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस के नवीनीकरण के लिए आवेदन को भुगतान लाइसेंस शुल्क _ ZZZZ{/h2},{p}प्रिय XXXX, {br}ZZZZ संदर्भ के साथ आपका YYYY आवेदन जमा कर दिया गया है। आप रु.{AMOUNT_TO_BE_PAID}/- के परमिट शुल्क का भुगतान करने के लिए पोर्टल पर लॉग इन कर सकते हैं। ऑनलाइन भुगतान करने के बाद आप सीधे व्यापार लाइसेंस प्रमाणपत्र डाउनलोड कर सकते हैं या इसे नगर पालिका कार्यालय काउंटर पर भुगतान कर सकते हैं।{br} पोर्टल यूआरएल - {PORTAL_LINK },{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.field.inspection",
+        "message": "प्रिय <1>, <3> के लिए आपके नवीनीकरण के आवेदन नंबर <2> को स्वीकृति के लिए भेज दी गयी है",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.field.inspection.email",
+        "message": "{h2}मेल का विषय - फील्ड निरीक्षण के तहत व्यापार लाइसेंस के नवीनीकरण के लिए आवेदन को _ ZZZZ{/h2},{p}प्रिय XXXX, {br}फील्ड निरीक्षण के तहत आपका YYYY आवेदन ZZZZ। फील्ड निरीक्षण के दौरान फील्ड इंस्पेक्टर आपके मोबाइल पर आपसे संपर्क करेगा। {br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.pending.approval",
+        "message": "प्रिय {1},आपका नवीनीकरण आवेदन सं. {2} {3} के लिए अनुमोदन के लिए अग्रेषित कर दिया गया है। \n\nईजीओवीएस",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.renew.en.pending.approval.email",
+        "message": "{h2}मेल का विषय - व्यापार लाइसेंस के नवीनीकरण के लिए लंबित आवेदन का अनुमोदन _ ZZZZ{/h2},{p}प्रिय XXXX, {br}क्षेत्र निरीक्षण पूरा हो गया है और आपका YYYY आवेदन ZZZZ अनुमोदन के लिए भेजा गया है। आवेदन की वर्तमान स्थिति की जांच करने के लिए मोबाइल नंबर।{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.manual.expire",
+        "message": "प्रिय {1}, लाइसेंस संख्या {2} के साथ आपका व्यापार लाइसेंस {3} को समाप्त हो गया है। कृपया अपने एमएससेवा खाते में या अपने नगरपालिका कार्यालय में लॉग इन करके अपने व्यापार लाइसेंस का नवीनीकरण करें। नवीनीकरण के लिए देय कुल राशि {AMOUNT_PAID} है। (इस {AMOUNT_PAID} में लाइसेंस शुल्क + कोई विलंब शुल्क जुर्माना और शुल्क शामिल हैं)। \n\nईजीओवीएस",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.manual.expire.email",
+        "message": "<h2>मेल का विषय - व्यापार लाइसेंस की समाप्ति _ {2}</h2><p>प्रिय XXXX, लाइसेंस संख्या {2} के साथ आपका व्यापार लाइसेंस {3} को समाप्त हो गया है। कृपया अपने एमएससेवा खाते में या अपने नगरपालिका कार्यालय में लॉग इन करके अपने व्यापार लाइसेंस का नवीनीकरण करें। नवीनीकरण के लिए देय कुल राशि {AMOUNT_PAID} है। (इस {AMOUNT_PAID} में लाइसेंस शुल्क + कोई भी विलंब शुल्क जुर्माना और शुल्क शामिल हैं)।<br> CCC <br> XYZ</p> \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.expire",
+        "message": "प्रिय {1}, लाइसेंस संख्या {2} के साथ आपका व्यापार लाइसेंस {3} को समाप्त हो गया है। कृपया अपने एमएससेवा खाते में या अपने नगरपालिका कार्यालय में लॉग इन करके अपने व्यापार लाइसेंस का नवीनीकरण करें। नवीनीकरण के लिए देय कुल राशि {AMOUNT_PAID} है। (इस {AMOUNT_PAID} में लाइसेंस शुल्क + कोई विलंब शुल्क जुर्माना और शुल्क शामिल हैं)।\n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "tl.en.counter.expire.email",
+        "message": "<h2>मेल का विषय - व्यापार लाइसेंस की समाप्ति _ {2}</h2><p>प्रिय XXXX, लाइसेंस संख्या {2} के साथ आपका व्यापार लाइसेंस {3} को समाप्त हो गया है। कृपया अपने एमएससेवा खाते में या अपने नगरपालिका कार्यालय में लॉग इन करके अपने व्यापार लाइसेंस का नवीनीकरण करें। नवीनीकरण के लिए देय कुल राशि {AMOUNT_PAID} है। (इस {AMOUNT_PAID} में लाइसेंस शुल्क + कोई भी विलंब शुल्क जुर्माना और शुल्क शामिल हैं)।<br> CCC <br> XYZ</p> \n\nEGOVS",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_NOTIF_WF_MT_NEW",
+        "message": "प्रिय {मालिक_नाम>, रुपये का एक नया भुगतान। {amount_paid> भुगतान लेनदेन आईडी के साथ {rcpt_no> {mod_name> के लिए {unique_id> के साथ सफलतापूर्वक किया गया है। आप नीचे दिए गए लिंक पर रसीद देख सकते हैं - {rcpt_link>। धन्यवाद.\n\nEGOVS",
+        "module": "collection-services",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_INSTITUTION_NAME_LABEL",
+        "message": "संस्था का नाम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_INSTITUTION_TYPE_LABEL",
+        "message": "संस्था का प्रकार:",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_OWNERSHIP_INSTITUTIONALPRIVATE",
+        "message": "संस्थागत - निजी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_OWNERSHIP_INSTITUTIONALGOVERNMENT",
+        "message": "संस्थागत - सरकार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_TELEPHONE_NUMBER_LABEL",
+        "message": "टेलीफ़ोन नंबर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_AUTHORIZED_PERSON_DETAILS",
+        "message": "प्राधिकृत व्यक्ति का विवरण",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INDIVIDUAL_OTHERSPRIVATEINSTITUITION",
+        "message": "संस्थागत - निजी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INDIVIDUAL_OTHERGOVERNMENTINSTITUITION",
+        "message": "संस्थागत - सरकार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_TRADE_UPDATE_APPLICATION_FAILED",
+        "message": "आवेदन जमा करने में विफल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_LOCATION_AND_OWNER_DETAILS",
+        "message": "स्थान और मालिक का विवरण",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_DOCUMENT_DETAIL",
+        "message": "पंजीकरण दस्तावेज़ विवरण",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_NEW_OWNER_DETAILS_GUARDIAN_LABEL",
+        "message": "अभिभावक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_DIRECTRENEWAL_EXPIRE",
+        "message": "समय सीमा समाप्त",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_EDITRENEWAL_EXPIRE",
+        "message": "समय सीमा समाप्त",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_INITIATE_APPLICATION",
+        "message": "शुरू करें",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NewTL_INITIATE_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक शुरू किया गया",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_LOCALIZATION_EMAIL_ID",
+        "message": "ईमेल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_NO_DOCUMENTS_MSG",
+        "message": "कोई दस्तावेज अपलोड नहीं किया गया",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_RECEIPT_DATE_LABEL",
+        "message": "रसीद की दिनांक",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_RECEIPT_NO_LABEL",
+        "message": "रसीद नंबर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FLAT_DETAILS",
+        "message": "भू तल की जानकारी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FLAT_DETAILS_DESC",
+        "message": "भूतल पर निर्मित क्षेत्र और उपयोग का प्रकार दर्ज करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM2_BUILT_UP_AREA",
+        "message": "कुल सुपर निर्माण क्षेत्रफल (वर्ग फ़ीट)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_KNOW_PT_ID",
+        "message": "मैं अपनी संपत्ति आईडी जानता हूँ",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_KNOW_PT_DETAIL",
+        "message": "मैं संपत्ति विवरण का उपयोग करके खोजना चाहता हूँ",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SEARCH_OR_DESC",
+        "message": "(या)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PT_HOME_SEARCH_RESULTS_DESC",
+        "message": "काम से काम एक खोज मापदंड प्रदान करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROPERTY_ADDR_DOOR_HOUSE_NO",
+        "message": "दरवाजा संख्या / घर संख्या:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FROM_DATE",
+        "message": "तिथि से",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TO_DATE",
+        "message": "दिनांक तक",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_UNIT-0",
+        "message": "इकाई 0",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_UNIT-1",
+        "message": "इकाई 1",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_UNIT-2",
+        "message": "इकाई 2",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_UNIT-3",
+        "message": "इकाई 3",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_UNIT-4",
+        "message": "इकाई 4",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTAX_FLOOR_-3",
+        "message": "तीसरा तहखाना",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTAX_FLOOR_-4",
+        "message": "चौथा तहखाना",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SEARCH_BY_SEARCHID",
+        "message": "संपत्ति आईडी द्वारा",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SEARCH_BY_SEARCHDETAIL",
+        "message": "संपत्ति विवरण द्वारा",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER_SPECIALCATEGORYPROOF_GENERALID",
+        "message": "सामान्य आईडी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_OWNER_SPECIALCATEGORYPROOF.GENERALID",
+        "message": "सामान्य आईडी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PAYERS_DETAILS_HEADER",
+        "message": "भुगतानकर्ता का विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PTLOCALITYMANDATORY",
+        "message": "आवश्यक",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_MIN_3CHAR",
+        "message": "न्यूनतम 3 अक्षर आवश्यक",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_VIEW_PAYMENT",
+        "message": "भुगतान का इतिहास",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ADDRESS_LABEL",
+        "message": "पता",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PLOT_SIZE_HEADER",
+        "message": "प्लॉट का आकार",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FLAT_DETAILS_HEADER",
+        "message": "फ्लैट विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SPL_CAT",
+        "message": "विशेष श्रेणी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_NONE",
+        "message": "लागू नहीं",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SPL_CAT_DOC_TYPE",
+        "message": "विशेष श्रेणी दस्तावेज़ का प्रकार",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SPL_CAT_DOC_ID",
+        "message": "विशेष श्रेणी दस्तावेज़ आईडी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_STREET_INVALID",
+        "message": "अमान्य सड़क का नाम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TX_ASSESSMENT",
+        "message": "संपत्ति कर आकलन",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_DUES",
+        "message": "बकाया",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ADDRESS",
+        "message": "संपत्ति का पता:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ADD_REBATE_PENALITY",
+        "message": "छूट या जुर्माना जोड़ें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_AD_PENALTY",
+        "message": "एडहॉक जुर्माना",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TX_HEADS",
+        "message": "कर हेड",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_HEAD_AMT",
+        "message": "कर हेड राशि",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_AD_REBATE",
+        "message": "एडहॉक छूट",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_CANCEL",
+        "message": "रद्द करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ADD",
+        "message": "जोड़ें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_CALC_DETAILS",
+        "message": "गणना का विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_CALC_LOGIC_HEADER",
+        "message": "गणना का तर्क",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_CALC_LOGIC",
+        "message": "संपत्ति कर = भूतल पर निर्मित क्षेत्र + भूतल की प्रति इकाई दर - भूतल पर निर्मित खाली भूमि + भूतल की प्रति इकाई दर - खाली भूमि Σ (एन मंजिल का निर्मित क्षेत्र \n * दर n मंजिल के प्रति निर्मित क्षेत्र)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_APPLICABLE_CHARGE_SLABS",
+        "message": "लागू शुल्क स्लैब",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_GRND_FLOOR_UNIT-1",
+        "message": "भूतल इकाई - 1:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_GRND_FLOOR_UNIT-2",
+        "message": "भूतल इकाई - 2:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_GRND_FLOOR_UNIT-3",
+        "message": "भूतल इकाई - 3:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_GRND_FLOOR_UNIT-4",
+        "message": "भूतल इकाई - 4:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_DESIGNATION_ERROR_MESSAGE",
+        "message": "पदनाम का अमान्य प्रारूप",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_APPLICANT_ALT_NUMBER_INVALID",
+        "message": "अमान्य मोबाइल नंबर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PENDING_DUES_FROM_EARLIER",
+        "message": "पहले से बकाया राशि",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_MISCALCULATION_OF_EARLIER_ASSESSMENT",
+        "message": "पहले मूल्यांकन/असेसमेंट के गलत अनुमान",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ONE_TIME_PENALITY",
+        "message": "एक बार का जुर्माना",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_OTHERS",
+        "message": "अन्य",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ADVANCED_PAID_BY_CITIZEN_EARLIER",
+        "message": "नागरिक द्वारा चुकाई गयी अग्रिम (एडवांस) राशि",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_REBATE_PROVIDED_BY_COMMISSIONER_EO",
+        "message": "आयुक्त ईओ द्वारा प्रदान की गई छूट",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ADDITIONAL_AMOUNT_CHARGED_FROM_THE_CITIZEN",
+        "message": "नागरिक पर लगाया गया अतिरिक्त शुल्क",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_REASON",
+        "message": "कारण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_NEW",
+        "message": "नया",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_DEPOSITED",
+        "message": "जमा किया",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CANCELLED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FEE_AMOUNT",
+        "message": "शुल्क राशि",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PAYMENT_STATUS",
+        "message": "भुगतान की स्तिथि",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_DOOR_OR_HOUSE",
+        "message": "दरवाजा संख्या./घर संख्या",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TYPE_OF_INSTITUTION",
+        "message": "संस्था का प्रकार",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_NAME_AUTHORIZED_PERSON",
+        "message": "नाम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_LANDLINE_NUMBER",
+        "message": "लैंडलाइन नंबर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_INSTITUTION_DESIGNATION",
+        "message": "पद",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_MUTATION_PENDING_COURT",
+        "message": "क्या नामांतरण कोर्ट में लंबित है ?",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_DETAILS_COURT_CASE",
+        "message": "कोर्ट केस का विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROP_UNDER_GOV_AQUISITION",
+        "message": "क्या संपत्ति या संपत्ति का हिस्सा राज्य/केंद्र सरकार के अधिग्रहण के अधीन है?",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_DETAILS_GOV_AQUISITION",
+        "message": "सरकारी अधिग्रहण का विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_REGISTRATION_DETAILS",
+        "message": "पंजीकरण का विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_REASON_PROP_TRANSFER",
+        "message": "संपत्ति हस्तांतरण का कारण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROP_MARKET_VALUE",
+        "message": "संपत्ति का बाजार मूल्य",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_REG_NUMBER",
+        "message": "पंजीकरण दस्तावेज़ नंबर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_DOC_ISSUE_DATE",
+        "message": "दस्तावेज़ जारी करने की तिथि",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_REG_DOC_VALUE",
+        "message": "पंजीकरण दस्तावेज मूल्य",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_REMARKS",
+        "message": "टिप्पणियाँ",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_NO_DOCUMENTS_MSG",
+        "message": "कोई दस्तावेज नहीं",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_OWNERS_NAME",
+        "message": "मालिक का नाम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROPERTY_ADDRESS_PINCODE_INVALID",
+        "message": "अमान्य पिनकोड",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PAYERS_MOBILE_NO",
+        "message": "भुगतानकर्ता का मोबाइल नंबर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PAYERS_NAME",
+        "message": "भुगतानकर्ता का नाम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_BILLING_DUE_DATE",
+        "message": "बिल की नियत तिथि:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TAX_ESTIMATION_HEADER",
+        "message": "कर अनुमान:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_CANNOT_TRANSFER_IF_AMOUNT_PENDING",
+        "message": "यदि आपके पास कोई बकाया राशि बकाया है तो आप हस्तांतरण नहीं कर सकते हैं",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OTHERSPRIVATEINSTITUITION",
+        "message": "संस्थागत - निजी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_PT.CREATE_SENDBACKFROMFI",
+        "message": "वापस भेजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_PT.CREATE_SENDBACKFROMAP",
+        "message": "वापस भेजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.CREATE_SENDBACKFROMAP_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक वापस भेजा गया",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.CREATE_SENDBACKFROMFI_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक वापस भेजा गया",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SENDBACKFROMFI_APPLICATION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_PT.CREATE_SENDBACKFROMFI",
+        "message": "वापस भेजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_PLEASE_REFINED_UR_SEARCH",
+        "message": "कृपया खोज को परिष्कृत करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SENDBACKFROMAP_APPLICATION",
+        "message": "वापस भेजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_PT.CREATE_SENDBACKFROMAP",
+        "message": "वापस भेजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_UNIT",
+        "message": "वापस भेजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILL_ALREADY_PAID",
+        "message": "बिल पहले ही चुकाया जा चुका है",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HR_ACTION_NO_FILEUPLOADED",
+        "message": "फ़ाइल अपलोड नहीं हुई",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_PROVIDE_MORE_PARAM_WITH_TYPE_STATUS",
+        "message": "कृपया एप्लिकेशन प्रकार/स्थिति के साथ अधिक खोज मानदंड दें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_PROVIDE_BOTH_FORM_TO_DATE",
+        "message": "कृपया दिनांक और आज तक दोनों उपलब्ध कराएँ",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MT_FEE_RECIEPT",
+        "message": "म्यूटेशन शुल्क की रसीद",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ASSEMBLY_DET",
+        "message": "संपत्ति के संयोजन का विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROP_TYPE",
+        "message": "सम्पत्ती का प्रकार",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TOT_LAND_AREA",
+        "message": "संपत्ति का कुल भूमि क्षेत्र",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TOT_CONSTRUCTION_AREA",
+        "message": "संपत्ति का कुल निर्मित क्षेत्र",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROP_CITY",
+        "message": "शहर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROP_LOCALITY",
+        "message": "इलाका / मोहल्ला:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_HOUSE_DOOR_NO",
+        "message": "मकान / दरवाज नं .:",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_BUILDING_COLONY_NAME",
+        "message": "भवन / कॉलोनी का नाम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_LANDMARK_NAME",
+        "message": "सीमाचिह्न",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_OWNERSHIP_DETAILS",
+        "message": "संपत्ति के स्वामित्व का विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_NEW_OWNER_DETAILS_OWNERSHIP_TYPE_LABEL",
+        "message": "स्वामित्व के प्रकार",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INDIVIDUAL_OTHERSPRIVATEINSTITUITION",
+        "message": "संस्थागत - निजी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_OWNERSHIPCATEGORY_INDIVIDUAL_OTHERGOVERNMENTINSTITUITION",
+        "message": "संस्थागत - सरकारी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SPECIAL_APPLICANT_CATEGORY",
+        "message": "विशेष आवेदक श्रेणी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_CORRESPONDANCE_ADDRESS",
+        "message": "पत्राचार का पता",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROPERTY_LINKED",
+        "message": "यह संपत्ति जुड़ी हुई है!",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROPERTY_CREATE",
+        "message": "नई संपत्ति निर्मित",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_KNOW_PTID",
+        "message": "मैं अपनी संपत्ति आईडी जानता हूँ",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SEARCH_DOOR_NO",
+        "message": "मैं डोरनंबर का उपयोग करके खोजना चाहता हूँ",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_COMMON_PROPERTY_TAX",
+        "message": "संपत्ति",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CREATE_PROP_ON_NEW_CONN",
+        "message": "संपत्ति बनाएं (नए कनेक्शन पर)",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_USAGE_TYPE",
+        "message": "उपयोग के प्रकार",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_LOCATION_DETAILS",
+        "message": "संपत्ति स्थान का विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_INVALID_OWNERS_MOBILE_NO",
+        "message": "मालिक के विवरण के साथ उपलब्ध मोबाइल नंबर गलत है। भविष्य में सूचनाएं प्राप्त करने के लिए कृपया सही मोबाइल नंबर अपडेट करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CPT_SEARCH_PROPERTY_INFO",
+        "message": "चयन करने पर, संपत्ति के मालिक को उसके पंजीकृत मोबाइल नंबर पर एक ओटीपी प्राप्त होगा। चयनित संपत्ति को वर्तमान एप्लिकेशन से लिंक करने के लिए आपको ओटीपी दर्ज करना होगा।",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TOT_LAND_AREA_ERROR_MESSAGE",
+        "message": "कृपया एक मान्य मान दें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_TOT_CONSTRUCTION_AREA_ERROR_MESSAGE",
+        "message": "कृपया एक मान्य मान दें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS",
+        "message": "संपत्ति ब्यौरा",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_PT.UPDATE_SENDBACKFROMFI",
+        "message": "वापस भेजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.UPDATE_SENDBACKFROMFI_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक वापस भेजा गया",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_PT.UPDATE_SENDBACKFROMAP",
+        "message": "वापस भेजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PT.UPDATE_SENDBACKFROMAP_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक वापस भेजा गया",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SEARCH_PROP_APP",
+        "message": "संपत्ति आवेदन खोजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_ROLE_PT_CEMP",
+        "message": "काउंटर कर्मचारी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_NO_PAYMENTS_HISTORY",
+        "message": "कोई भुगतान इतिहास नहीं मिला!",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_DO_YOU_KNOW_YOUR_PROPERTY",
+        "message": "क्या आप अपनी संपत्ति जानते हैं?",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_ASSESMENT_INFO_USAGE_TYPE",
+        "message": "संपत्ति के संयोजन का विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_MOBILE_NUMBER",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_OWNER_NAME",
+        "message": "नाम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_GENDER",
+        "message": "लिंग",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_COMMON_GENDER_MALE",
+        "message": "पुरुष",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_COMMON_GENDER_FEMALE",
+        "message": "महिला",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_COMMON_GENDER_TRANSGENDER",
+        "message": "ट्रांसजेंडर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_GUARDIAN_NAME",
+        "message": "अभिभाव",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_FORM3_RELATIONSHIP",
+        "message": "अभिभावक के साथ रिश्ता",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_RELATION_HUSBAND",
+        "message": "पति",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_RELATION_FATHER",
+        "message": "पिता",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_COMMON_SAME_AS_PROPERTY_ADDRESS",
+        "message": "संपत्ति का पता",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PROPERTY_APPLICATION_SUCCESS",
+        "message": "एप्लिकेशन सफलतापूर्वक जमा की गयी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_RESPONSE",
+        "message": "आवेदन संदर्भ आपके पंजीकृत मोबाइल नंबर पर भेजा जाता है। आपको जल्द ही लागू सेवा के शुल्कों के बारे में सूचित किया जाएगा। कृपया अधिसूचना प्राप्त करने के बाद होम पेज से माय एप्लिकेशन लिंक का उपयोग करके भुगतान करें।",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_PROPTYPE_BUILTUP_INDEPENDENTPROPERTY",
+        "message": "स्वतंत्र भवन",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_PROPTYPE_BUILTUP_SHAREDPROPERTY",
+        "message": "फ्लैट / भवन का हिस्सा",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_PROPTYPE_VACANT",
+        "message": "खाली जमीन",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SELECT_CITY",
+        "message": "शहर",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+        "message": "खोजें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_SEARCH_RESULTS",
+        "message": "खोज परिणाम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_DETAILS",
+        "message": "संपत्ति विवरण",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OWNER_NAME",
+        "message": "नाम",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTY_ADDRESS",
+        "message": "संपत्ति का पता",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_PROPERTY_ID",
+        "message": "संपत्ति आईडी",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CPT_COMPLETE_PROPERTY_DETAILS",
+        "message": "संपत्ति का पूरा विवरण देखें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CPT_SELECT_PROPERTY",
+        "message": "संपत्ति चुनें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PT_NO_PROPERTIES_FOUND",
+        "message": "कोई संपत्ति नहीं मिला",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_SELECT_LOCALITY",
+        "message": "इलाका चुनें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CPT_REG_NEW_PROPERTY",
+        "message": "नई संपत्ति पंजीकृत करें",
+        "module": "rainmaker-pt",
+        "locale": "hi_IN"
+    }
+]

@@ -1,0 +1,6752 @@
+[
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_EVENT_DASHBOARD",
+        "message": "औसत समाधान समय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_EVENT_DASHBOARD(LAC)",
+        "message": "औसत समाधान समय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_OPEN_COMPLAINTS",
+        "message": "चालू शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_REASSIGNED_COMPLAINTS",
+        "message": "फिर से सौंपी गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_REJECTED_COMPLAINTS",
+        "message": "अस्वीकृत शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_REOPENED_COMPLAINTS",
+        "message": "फिर से खोली गयी शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_RESOLVED_COMPLAINTS",
+        "message": "हल की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_TOP_COMPLAINTS",
+        "message": "शीर्ष शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_TOTAL_COMPLAINTS",
+        "message": "नागरिक या कर्मचारी द्वारा उठाई गई अनूठी शिकायतों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_UNIQUE_CITIZENS",
+        "message": "अनूठा नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_UNIQUE_CITIZENS(LAC)",
+        "message": "अनूठा नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PROPERTIES_ASSESSED",
+        "message": "संपत्तियों की संख्या जिनके लिए आकलन तैयार किए गए थे",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_BOTTOM_3_PERFORMING_STATES",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_BOTTOM_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "निष्पादन की दर के आधार पर शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_BOTTOM_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "लक्ष्य उपलब्धियों के आधार पर निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_COLLECTION_BY_USAGE_TYPE",
+        "message": "उपयोग प्रकार द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_CUMULATIVE_PROPERTIES_ASSESSED",
+        "message": "आकलित की गई कुल संचयी संपत्तियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_KEY_FY_INDICATORS",
+        "message": "मुख्य निष्पादन संकेतक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_PROPERTIES_BY_FINANCIAL_YEAR",
+        "message": "वित्तीय वर्ष के अनुसार संपत्तियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_PROPERTIES_BY_USAGE_TYPE",
+        "message": "उपयोग के अनुसार संपत्तियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_TAX_HEAD",
+        "message": "कर हेड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_TOP_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "निष्पादन की दर के आधार पर शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_TOP_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "लक्ष्य उपलब्धियों के आधार पर शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_TOTAL_ASSESSMENTS",
+        "message": "कुल संपत्ति का आकलन किया गया x वित्तीय वर्षों की गणना जिसके लिए आकलन भेजे गए थे",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_TOTAL_COLLECTION",
+        "message": "संपत्ति कर मॉड्यूल से कुल राजस्व संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_TOTAL_PROPERTIES",
+        "message": "सिस्टम पर पंजीकृत संपत्तियों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_TOTAL_PROPERTIES_ASSESSED",
+        "message": "संपत्तियों की संख्या जिनके लिए आकलन तैयार किए गए थे",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_SLA_ACHIEVED",
+        "message": "SLA के भीतर हल की गई शिकायतों का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TARGET_ACHIEVED",
+        "message": "कुल संग्रह / लक्ष्य संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TARGET_COLLECTION",
+        "message": "एक विशिष्ट समय अवधि के लिए राज्यों और यूएलबी द्वारा निर्धारित लक्ष्य संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TL_TOTAL_COLLECTION",
+        "message": "व्यापार लाइसेंस मॉड्यूल से कुल राजस्व संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOP_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOP_PERFORMING_STATES",
+        "message": "लक्ष्य उपलब्धि के आधार पर शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_APPLICATION",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_APPLICATION_&_CLOSED_APPLICATION",
+        "message": "कुल आवेदन और पूर्ण आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_APPLICATIONS",
+        "message": "सभी मॉड्यूल में कुल आवेदन। इसमें शिकायतें शामिल नहीं हैं।",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_APPLICATIONS_SERVICE_WISE",
+        "message": "प्रत्येक सेवा के लिए कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_COLLECTION",
+        "message": "सभी मॉड्यूल से कुल राजस्व संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_COLLECTION_TODAY",
+        "message": "डेटा अंतिम बार अपडेट किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_COMPLAINTS_BY_SOURCE",
+        "message": "स्रोत के अनुसार शिकायत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_COMPLAINTS_STATUS",
+        "message": "स्थिति के अनुसार कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_CUMULATIVE_CLOSED_COMPLAINTS",
+        "message": "संचित बंद शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_CUMULATIVE_COLLECTION_SERVICE_WISE",
+        "message": "कुल संचयी संग्रह सेवा के अनुसार",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_TOTAL_TL_APPLICATIONS",
+        "message": "नए व्यापार लाइसेंस और व्यापार लाइसेंस के नवीनीकरण दोनों के लिए कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_WS_TOTAL_COLLECTION",
+        "message": "जल और सीवरेज मॉड्यूल से कुल राजस्व संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_PT_DSS_TARGET_COLLECTION",
+        "message": "संपत्ति कर संग्रह के लिए राज्य द्वारा निर्धारित कुल लक्ष्य राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_PT_DSS_TOTAL_COLLECTION",
+        "message": "लागू दिनांक सीमा फ़िल्टर के दौरान एकत्रित कुल संपत्ति कर राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_ACTUAL_NOC_ISSUED_USAGETYPE",
+        "message": "उपयोग के प्रकार के अनुसार नई आग अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL",
+        "message": "कुल आवेदन बनाम जारी किए गए प्रोविजनल एनOC बनाम जारी किए गए नए एनOC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_ACTUAL_ISSUED",
+        "message": "नए वास्तविक फायर एनOC के लिए जमा किए गए आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_AVERAGE_DAYS_TO_ISSUE_ACTUAL",
+        "message": "वास्तविक एनOC जारी करने में लगने वाले दिनों की कुल संख्या / वास्तविक एनOC जारी किए गए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_AVERAGE_DAYS_TO_ISSUE_PROVISIONAL",
+        "message": "प्रोविजनल एनOC जारी करने में लिए गए दिनों की कुल संख्या / प्रोविजनल एनOC जारी किए गए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_BOTTOM_3_PERFORMING_STATES",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_COLLECTION_BY_PAYMENT_MODE",
+        "message": "भुगतान मोड के अनुसार संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_PROVISIONAL_ISSUED",
+        "message": "जारी किए गए प्रोविजनल एनOC की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_SLA_COMPLIANCE_ACTUAL",
+        "message": "SLA के भीतर जारी किए गए वास्तविक एनOC का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_SLA_COMPLIANCE_PROVISIONAL",
+        "message": "SLA के भीतर जारी किए गए प्रोविजनल अनापत्ति प्रमाणपत्र का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_TOP_3_PERFORMING_STATES",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_TOTAL_APPLICATIONS",
+        "message": "सबमिट किए गए नए प्रोविजनल एनOC आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_TOTAL_COLLECTION",
+        "message": "लागू दिनांक सीमा फ़िल्टर के दौरान Fire NOC से एकत्रित कुल आय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS__SLA_COMPLIANCE_PERMIT",
+        "message": "एसएलए अनुपालन (परमिट)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_AVERAGE_DAYS_TO_ISSUE_OC",
+        "message": "OC जारी करने में लगे दिनों की कुल संख्या / जारी किए गए कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_AVERAGE_DAYS_TO_ISSUE_PERMIT",
+        "message": "परमिट जारी करने में लिए गए कुल दिन / जारी किए गए कुल परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_BOTTOM_3_PERFORMING_ULBS",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_COLLECTION_BY_PAYMENT_MODE",
+        "message": "भुगतान मोड के अनुसार संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_PERMIT_ISSUED_BY_OCCUPANCY_TYPE",
+        "message": "अधिभोग के अनुसार जारी किए गए परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_PERMIT_ISSUED_BY_RISK_TYPE",
+        "message": "जोखिम के अनुसार जारी किए गए परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_SERVICE_REPORT",
+        "message": "सेवा रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_SLA_COMPLIANCE_OC",
+        "message": "SLA के अंतर्गत जारी किए गए OCs का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_SLA_COMPLIANCE_PERMIT",
+        "message": "एसएलए के अंतर्गत जारी किए गए परमिट का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TODAYS_COLLECTION",
+        "message": "डेटा अंतिम बार अपडेट किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TOP_3_PERFORMING_ULBS",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TOTAL_APPLICATIONS_SUBMITTED",
+        "message": "नए निर्माण के लिए भवन परमिट के लिए जमा किए गए कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TOTAL_COLLECTION",
+        "message": "लागू दिनांक सीमा फ़िल्टर के लिए OBPS से एकत्रित कुल राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TOTAL_OC_ISSUED",
+        "message": "नए निर्माण के लिए संबंधित प्राधिकरण द्वारा जारी किए गए कुल अधिभोग प्रमाण पत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TOTAL_OC_PLANS_SCRUTINIZED",
+        "message": "कुल OC योजनाओं की जांच की गई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TOTAL_OC_SUBMITTED",
+        "message": "जमा किया गया कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TOTAL_PERMITS_ISSUED",
+        "message": "संबंधित प्राधिकारी द्वारा जारी किए गए कुल नए परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OBPS_TOTAL_PLANS_SCRUTINIZED",
+        "message": "नए निर्माण की जांच के लिए एक वास्तुकार द्वारा प्रस्तुत योजनाओं की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OVERVIEW_REVENUE",
+        "message": "अवलोकन-राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_OVERVIEW_SERVICES",
+        "message": "अवलोकन-सेवा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_REVENUE",
+        "message": "राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_TB_ACTUAL_FIRE_NOCS_ISSUED",
+        "message": "जमा किए गए नए वास्तविक फायर एनOC आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_TB_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
+        "message": "वास्तविक एनOC जारी करने में लगने वाले दिनों की कुल संख्या / वास्तविक एनOC जारी किए गए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_TB_AVERAGE_DAYS_TO_ISSUE_PROVISIONAL_NOC",
+        "message": "प्रोविजनल एनOC जारी करने में लिए गए दिनों की कुल संख्या / प्रोविजनल एनOC जारी किए गए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_TB_PROVISIONAL_FIRE_NOCS_ISSUED",
+        "message": "जारी किए गए प्रोविजनल एनOC की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_TB_SLA_COMPLIANCE(ACTUAL_NOC)",
+        "message": "SLA के भीतर जारी किए गए वास्तविक एनOC का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_TB_SLA_COMPLIANCE(PROVISIONAL_NOC)",
+        "message": "SLA के भीतर जारी किए गए प्रोविजनल अनापत्ति प्रमाणपत्र का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_TB_TOTAL_APPLICATIONS",
+        "message": "सबमिट किए गए नए प्रोविजनल एनOC आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_TOTAL_NOC_ISSUED_TYPE",
+        "message": "प्रकार द्वारा जारी कुल एनOC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_TOTAL_PERMITS_VS_TOTAL_OC_SUBMITTED_VS_OC_ISSUED",
+        "message": "जारी किए गए कुल परमिट बनाम कुल जमा किए गए OC बनाम जारी किए गए कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_BOTTOM_3_PERFORMING_STATES",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_COLLECTION_BY_CHANNEL",
+        "message": "चैनल के अनुसार कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_COLLECTION_BY_USAGE",
+        "message": "उपयोग के प्रकार के अनुसार कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_CONNECTION_AGEING",
+        "message": "कनेक्शन एजिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_CONNECTION_BY_CHANNEL",
+        "message": "चैनल के अनुसार कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_CUMULATIVE_CONNECTION",
+        "message": "संचयी कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_KEY_FY_INDICATORS",
+        "message": "प्रमुख वित्तीय संकेतक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_SEWERAGE_CONNECTION_BY_USAGE",
+        "message": "उपयोग के अनुसार सीवरेज कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_SLA_COMPLIANCE",
+        "message": "एसएलए के अंतर्गत पूर्ण किए गए आवेदनों का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_TARGET_ACHIEVED",
+        "message": "कुल संग्रह / संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_TARGET_COLLECTION",
+        "message": "जल और सीवरेज संग्रह के लिए राज्य द्वारा निर्धारित कुल लक्ष्य राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_TAX_HEAD_BOUNDARY",
+        "message": "कर हेड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_TODAYS_COLLECTION",
+        "message": "डेटा अंतिम बार अपडेट किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_TOP_3_PERFORMING_STATES",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_TOTAL_APPLICATIONS",
+        "message": "नए, संशोधित और विच्छेदन अनुरोधों के लिए कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_TOTAL_COLLECTION",
+        "message": "लागू दिनांक सीमा फ़िल्टर के दौरान एकत्रित कुल जल और सीवरेज राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "लागू दिनांक सीमा फ़िल्टर के दौरान एकत्रित कुल जल और सीवरेज राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NSS_WS_WATER_CONNECTION_BY_USAGE",
+        "message": "उपयोग के अनुसार पानी का कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NURT_LIVE_STATES",
+        "message": "एक राज्य को लाइव माना जाता है जब राज्य में 50% निकाय कार्यशील होते हैं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NURT_LIVE_ULB",
+        "message": "एक यूएलबी तब लाइव होता है जब कम से कम 2 मॉड्यूल कार्यशील होते हैं और पहले 90 दिनों में लेनदेन NUGP पर दर्ज किए जाते हैं।",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NURT_ONBOARDED_STATES",
+        "message": "राज्य ने NUDM टीम के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NURT_SLA_ACHIEVED",
+        "message": "एसएलए के अंतर्गत बंद किए गए आवेदनों और शिकायतों का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NURT_TOTAL_CITIZENS",
+        "message": "सिस्टम पर पंजीकृत नागरिकों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NURT_UNDERIMPL_STATES",
+        "message": "राज्य में कार्यक्रम स्थापित किया गया है - NUDM राज्य टास्क फोर्स का गठन किया गया है, DTL नियुक्त किया गया है और NUDM टीम तैनात है",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_SERVICE_REPORT",
+        "message": "सेवा रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "लागू दिनांक सीमा फ़िल्टर के दौरान एकत्रित कुल व्यापार लाइसेंस राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_TOTAL_Sq_m_LAND_AREA_APPLIED_IN_SYSTEM",
+        "message": "निर्माण के लिए स्वीकृत वर्ग मीटर में क्षेत्रफल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_APPLICATION",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_COMPLAINTS",
+        "message": "कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई में)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_OC_ISSUED",
+        "message": "जारी किया गया कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_OC_SUBMITTED",
+        "message": "जमा किया गया कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_PERMITS_ISSUED",
+        "message": "जारी किए गए कुल परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_Sq_m_LAND_AREA_APPLIED_IN_SYSTEM",
+        "message": "बीपीए सिस्टम में लागू कुल वर्ग मीटर भूमि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTALOCISSUED",
+        "message": "जारी किया गया कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTALOCSUBMITTED",
+        "message": "जमा किया गया कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTALPERMITISSUED",
+        "message": "जारी किए गए कुल परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TRADE_LICENCE_ISSUED",
+        "message": "जारी किया गया व्यापार लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TRADE_LICENSES_ISSUED",
+        "message": "जारी किया गया कुल लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TRIP_CHARGES",
+        "message": "यात्रा शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TX.No_Dues_Certificate",
+        "message": "NDC - नो ड्यूस प्रमाण पत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TX.Transfer_Property_Fees",
+        "message": "संपत्ति का हस्तांतरण",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TX.TS1_copy_register_for_old_survey",
+        "message": "पुराने सर्वेक्षण के लिए TS1 प्रतिलिपि रजिस्टर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "USER.FEES",
+        "message": "उपयोगकर्ता शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UTTARAKHAND_NURT_LIVE_ACTIVE_ULBS",
+        "message": "उत्तराखंड: ऑनबोर्डेड बनाम लाइव निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_COLLECTIONS",
+        "message": "पानी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTIONS",
+        "message": "पानी कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS",
+        "message": "पानी और सीवरेज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS.ONE_TIME_FEE",
+        "message": "पानी के लिए एकमुश्त शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TL_TARGET_ACHIEVED",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_APPLIED",
+        "message": "आवेदनों की संख्या जहां नागरिक ने सफलतापूर्वक आवेदन पूरा किया है",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PENDINGAPPROVAL",
+        "message": "अनुमोदन के लिए लंबित आवेदनों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PENDINGPAYMENT",
+        "message": "नागरिकों की ओर से भुगतान के लिए लंबित आवेदनों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TARGET_COLLECTION_PT ",
+        "message": "लक्ष्य संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TARGET_COLLECTION_PT",
+        "message": "संपत्ति कर संग्रह के लिए राज्य द्वारा निर्धारित कुल लक्ष्य राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_2",
+        "message": "उपखंड सी-2 हिरासत संस्थान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_GROUP_B_EDUCATIONAL_SUBDIVISIONB_2",
+        "message": "अनुमंडल बी-2 अन्य सभी/प्रशिक्षण संस्थान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_GROUP_A_RESIDENTIAL_SUBDIVISIONA_2",
+        "message": "अनुमंडल ए-2 एक या दो परिवार निजी आवास",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_GROUP_C_INSTITUTIONAL_SUBDIVISIONC_1",
+        "message": "अनुमंडल सी-1 अस्पताल एवं सेनेटोरिया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_GROUP_B_EDUCATIONAL_SUBDIVISIONB_1",
+        "message": "उपखण्ड बी-1 विद्यालय वरिष्ठ माध्यमिक स्तर तक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_GROUP_A_RESIDENTIAL_SUBDIVISIONA_1",
+        "message": "अनुमंडल ए-1 आवास एवं कक्ष गृह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_ACTUAL_NOC_ISSUED_USAGETYPE",
+        "message": "उपयोग के प्रकार के अनुसार नई फायर एनOC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_TODAYS_COLLECTION",
+        "message": "संग्रह पर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NSS_OBPS_TOP_3_PERFORMING_ULBS",
+        "message": "जारी किए गए परमिट का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NSS_WS_BOTTOM_3_PERFORMING_STATES",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NSS_WS_TOP_3_PERFORMING_STATES",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW.ONE_TIME_FEE",
+        "message": "सीवरेज एकमुश्त शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_ACTUAL_NOC_ISSUED_USAGETYPE",
+        "message": "उपयोग के प्रकार के अनुसार नई आग अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL",
+        "message": "कुल आवेदन बनाम जारी किए गए प्रोविजनल अनापति प्रमाणपत्र बनाम जारी किए गए नए अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_AVERAGE_DAYS_ISSUE_OC",
+        "message": "OC जारी करने में लगे दिनों की कुल संख्या / जारी किए गए कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_AVERAGE_DAYS_ISSUE_PERMIT",
+        "message": "परमिट जारी करने में लगे दिनों की कुल संख्या / जारी किए गए कुल परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_PERMIT_ISSUED_BY_OCCUPANCY_TYPE",
+        "message": "ऑक्यूपेंसी टाइप के अनुसार जारी किए गए परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_PERMIT_ISSUED_BY_RISK_TYPE",
+        "message": "जोखिम प्रकार के अनुसार जारी किए गए परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_SLA_COMPLIANCE",
+        "message": "एसएलए के अंतर्गत जारी किए गए परमिट का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_SLA_COMPLIANCE_OC",
+        "message": "एसएलए के अंतर्गत जारी किए गए OCएस का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_TODAYS_COLLECTION",
+        "message": "भवन परमिट जारी करने से प्राप्त राजस्व का योग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_TOTAL_APPLICATIONS_SUBMITTED",
+        "message": "नए निर्माण के लिए जमा किए गए भवन अनुज्ञा आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_TOTAL_COLLECTION",
+        "message": "तारीख के लिए लागू किए गए फ़िल्टर के लिए ओबीपीएस से एकत्रित राजस्व का योग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_TOTAL_LAND_APPLIED",
+        "message": "वर्ग मीटर में स्वीकृत निर्माण क्षेत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_TOTAL_PERMITS_ISSUED",
+        "message": "संबंधित प्राधिकारी द्वारा जारी किए गए नए परमिटों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_BPA_TOTAL_PLANS_SCRUTINIZED",
+        "message": "जांच के लिए एक वास्तुकार द्वारा प्रस्तुत नई निर्माण योजनाओं की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2015_16",
+        "message": "2015-2016",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2016_17",
+        "message": "2016-2017",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2017_18",
+        "message": "2017-2018",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2018_19",
+        "message": "2018-2019",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2019_20",
+        "message": "2019-2020",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2020_21",
+        "message": "2020-2021",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2021_22",
+        "message": "2021-2022",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2022_23",
+        "message": "2022-2023",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2023_24",
+        "message": "2023-2024",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2024_25",
+        "message": "2024-2025",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_2025_26",
+        "message": "2025-2026",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ACTUAL_FIRE_NOCS_ISSUED",
+        "message": "कुल नई वास्तविक आग अनापत्ति प्रमाण पत्र आवेदन जमा किए गए",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ADHOC_PENALTY",
+        "message": "एडहॉक जुर्माना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ADHOC_REBATE",
+        "message": "एडहॉक छूट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ADVANCE",
+        "message": "एक बिलिंग अवधि के लिए देय कुल पानी और सीवरेज शुल्क से अधिक एकत्र की गई राशि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ARREAR_CHARGES",
+        "message": "पिछली बिलिंग अवधि की मौजूदा बिलिंग अवधि में एकत्रित की गई राशि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ASSESSED_PROPERTIES",
+        "message": "मूल्यांकन की गयी सम्पत्तियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ASSIGNED_COMPLAINTS",
+        "message": "संबंधित विभाग को सौंपी गई शिकायतों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
+        "message": "वास्तविक एनOC जारी करने में लगने वाले दिनों की कुल संख्या / वास्तविक एनOC जारी किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_OC",
+        "message": "OC जारी करने में लगे दिनों की कुल संख्या / जारी किए गए कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_PERMIT",
+        "message": "परमिट जारी करने में लगे दिनों की कुल संख्या / जारी किए गए कुल परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_PROVISIONAL_NOC",
+        "message": "जारी किए गए प्रोविजनल एनOC जारी करने में लिए गए दिनों की कुल संख्या / प्रोविजनल एनOC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_AVERAGE_DEVIATION",
+        "message": "विचलन वाले सभी एप्लीकेशन में औसत विचलन%",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CESS",
+        "message": "उपकर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_COMPLETION_RATE",
+        "message": "बंद शिकायतें / कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CURRENT_CHARGES",
+        "message": "वर्तमान बिलिंग अवधि में बकाया को छोड़कर एकत्र की गई राशि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DDR",
+        "message": "डी.डी.आर.",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DDRS",
+        "message": "डी.डी.आर.",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DEVIATION",
+        "message": "विचलन वाले सभी एप्लीकेशन में औसत विचलन%",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_FIELDINSPECTION",
+        "message": "क्षेत्र निरीक्षण के लिए लंबित आवेदनों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_INITIATED",
+        "message": "पहल किए गए व्यापार लाइसेंस आवेदनों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_INTEREST",
+        "message": "पानी और सीवरेज शुल्क के देर से भुगतान पर अर्जित ब्याज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_LATE_CHARGES",
+        "message": "पानी और सीवरेज बिल पर लेट पेमेंट चार्ज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_MC_TOTAL_COLLECTION",
+        "message": "लागू दिनांक फ़िल्टर के लिए mCollect से एकत्रित कुल आय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_OPEN_COMPLAINTS",
+        "message": "नागरिक द्वारा दायर की गई शिकायतों की संख्या जिन्हें सौंपा जाना बाकी है",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PENALTY",
+        "message": "जुर्माना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PENDING_FROM_0_TO_3_DAYS",
+        "message": "संबंधित प्राधिकारी के पास 0 से 3 दिनों से लंबित आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PENDING_FROM_3_TO_7_DAYS",
+        "message": "संबंधित प्राधिकारी के पास 3 से 7 दिनों से लंबित आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PENDING_FROM_7_TO_15_DAYS",
+        "message": "संबंधित प्राधिकारी के पास 7 से 15 दिनों से लंबित आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PENDING_FROM_MORE_THAN_15_DAYS",
+        "message": "संबंधित प्राधिकारी के पास 15 दिनों से अधिक समय से लंबित कुल # आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PROVISIONAL_FIRE_NOCS_ISSUED",
+        "message": "जारी किए गए प्रोविजनल एनOC की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PT_TAX",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_REASSIGN_REQUESTED",
+        "message": "कर्मचारियों द्वारा पुन: असाइनमेंट के लिए अनुरोधित शिकायतों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_REASSIGNED_COMPLAINTS",
+        "message": "शिकायत निवारण अधिकारी को पुन: सौंपे गए शिकायतों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_REBATE",
+        "message": "छूट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_REGION",
+        "message": "क्षेत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_REJECTED",
+        "message": "संबंधित प्राधिकारी द्वारा अस्वीकृत आवेदनों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_REJECTED_COMPLAINTS",
+        "message": "निवारण अधिकारी द्वारा समाप्त की गई शिकायतों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_REOPENED_COMPLAINTS",
+        "message": "असफल समाधान के कारण नागरिक द्वारा फिर से खोली गई शिकायतों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_S_N_",
+        "message": "क्रमांक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SLA_ACHIEVED",
+        "message": "SLA के भीतर हल की गई शिकायतों का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SLA_COMPLIANCE_OC",
+        "message": "SLA के भीतर जारी किए गए OCs का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SLA_COMPLIANCE_PERMIT",
+        "message": "SLA के भीतर जारी किए गए परमिट का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SLA_COMPLIANCE(ACTUAL_NOC)",
+        "message": "SLA के भीतर जारी किए गए वास्तविक एनOC का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SLA_COMPLIANCE(PROVISIONAL_NOC)",
+        "message": "SLA के भीतर जारी किए गए प्रोविजनल अनापत्ति प्रमाणपत्र का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_STATE",
+        "message": "राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TARGET_ACHIEVED",
+        "message": "कुल संग्रह / संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TARGET_COLLECTION",
+        "message": "जल और सीवरेज संग्रह के लिए राज्य द्वारा निर्धारित कुल राजस्व लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TENANTS",
+        "message": "निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TL_TARGET_ACHIEVED",
+        "message": "कुल संग्रह / संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TL_TARGET_COLLECTION",
+        "message": "राज्य/यूएलबी द्वारा निर्धारित व्यापार लाइसेंस के लिए कुल राजस्व लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TL_TAX",
+        "message": "व्यापर लाइसेंस कर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TL_TOTAL_COLLECTION",
+        "message": "लागू दिनांक फ़िल्टर के दौरान एकत्रित कुल व्यापार लाइसेंस राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL",
+        "message": "कुल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_AMOUNT",
+        "message": "कुल राशि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_APPLICATIONS_SUBMITTED",
+        "message": "नए निर्माण के लिए भवन अनुज्ञापत्र के लिए प्रस्तुत आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_CHALLANS",
+        "message": "बनाए गए चालानों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_CLOSED_COMPLAINTS",
+        "message": "बंद की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_COLLECTION",
+        "message": "लागू दिनांक फ़िल्टर के लिए फायर एनOC से एकत्रित कुल राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_COMPLAINTS",
+        "message": "नागरिक या कर्मचारी द्वारा उठाई गई विशिष्ट शिकायतों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_CONNECTIONS",
+        "message": "संबंधित प्राधिकारी द्वारा अनुमोदित जल एवं सीवरेज कनेक्शनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_LICENCE_ISSUED",
+        "message": "संबंधित प्राधिकारी द्वारा जारी किए गए ट्रेड लाइसेंस की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_OC_ISSUED",
+        "message": "नए निर्माण के लिए संबंधित प्राधिकरण द्वारा जारी किए गए अधिभोग प्रमाणपत्रों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_OC_SCRUTINIZED",
+        "message": "नए निर्माण के लिए जांच के लिए एक वास्तुकार द्वारा OC जारी करने के लिए प्रस्तुत योजनाओं की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_OC_SCRUTNIZED",
+        "message": "OC जारी करने के लिए संबंधित प्राधिकरण को नए निर्माण की जाँच के लिए एक आर्किटेक्ट द्वारा प्रस्तुत योजनाओं की कुल #",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_OC_SUBMITTED",
+        "message": "नए निर्माण के लिए OC के लिए प्रस्तुत आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_OC_WITH_DEVIATION",
+        "message": "विचलन के साथ आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_PENDING",
+        "message": "कुल लंबित कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_PENDING_APPLICATIONS",
+        "message": "कुल लंबित कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_PERMITS_ISSUED",
+        "message": "जारी किए गए नए परमिटों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_PLANS_SCRUTINIZED",
+        "message": "नए निर्माण की जांच के लिए एक वास्तुकार द्वारा प्रस्तुत योजनाओं की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_PLANS_SCRUTNIZED",
+        "message": "नए निर्माण की जांच के लिए एक वास्तुकार द्वारा प्रस्तुत योजनाओं की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_RECEIPTS",
+        "message": "सेवा के लिए भुगतान के बाद नागरिक को जारी की गई रसीदों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_RESOLVED_COMPLAINTS",
+        "message": "नागरिकों की प्रतिक्रिया की प्रतीक्षा में हल की गई शिकायतों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_TRANSACTIONS",
+        "message": "आवेदन शुल्क और पानी और सीवरेज बिलों के भुगतान के लेनदेन की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TRANSACTIONS",
+        "message": "व्यापार लाइसेंस के आवेदन और नवीनीकरण के लिए लेनदेन की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ULB",
+        "message": "निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ULBS",
+        "message": "निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_USAGE_TYPE",
+        "message": "उपयोग का प्रकार",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_WARD",
+        "message": "वार्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_WARDS",
+        "message": "वार्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_WS_TOTAL_COLLECTION",
+        "message": "लागू दिनांक फ़िल्टर के दौरान एकत्रित कुल जल और सीवरेज राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_CHALLAN_COUNT_BY_STATUS",
+        "message": "स्थिति के अनुसार चालान की गिनती",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_COLLECTION_BY_PAYMENT_TYPE",
+        "message": "भुगतान मोड द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_COLLECTION_BY_STATUS",
+        "message": "स्थिति के अनुसार संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_COLLECTION_CATEGORY_WISE",
+        "message": "श्रेणी वार संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_HEADER_TOTAL_COLLECTION",
+        "message": "लागू दिनांक सीमा के दौरान mCollect से एकत्रित कुल आय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_MONTHLY_REPORT",
+        "message": "मासिक संग्रह रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_RECEIPTS_BY_PAYMENTMODE",
+        "message": "भुगतान मोड द्वारा प्राप्तियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_RECEIPTS_BY_STATUS",
+        "message": "स्थिति के अनुसार प्राप्तियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_REPORT_BY_TENANT",
+        "message": "संग्रह रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_TOTAL_CATEGORIES",
+        "message": "विविध संग्रह के लिए श्रेणियों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_TOTAL_CHALLANS",
+        "message": "बनाए गए चालानों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_TOTAL_RECEIPTS",
+        "message": "सेवा के भुगतान के लिए नागरिक को जारी की गई रसीदों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_ACTUAL_ISSUED",
+        "message": "जारी किए गए फायर एनOC की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_AVERAGE_DAYS_TO_ISSUE_ACTUAL",
+        "message": "जारी किए गए वास्तविक एनOC जारी करने में लगने वाले दिनों की कुल संख्या / वास्तविक एनOC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_AVERAGE_DAYS_TO_ISSUE_PROVISIONAL",
+        "message": "प्रोविजनल एनOC जारी करने के लिए कुल दिनों की संख्या / प्रोविजनल एनOC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_BOTTOM_3_PERFORMING_STATES",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_BOTTOM_3_PERFORMING_ULBS",
+        "message": "निचले 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_COLLECTION_BY_PAYMENT_MODE",
+        "message": "भुगतान मोड द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_PROVISIONAL_ISSUED",
+        "message": "जारी किए गए प्रोविजनल एनOC की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_SLA_COMPLIANCE_ACTUAL",
+        "message": "SLA के भीतर जारी किए गए वास्तविक एनOC का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_SLA_COMPLIANCE_PROVISIONAL",
+        "message": "SLA के भीतर जारी किए गए प्रोविजनल अनापत्ति प्रमाणपत्र का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_TODAYS_COLLECTION",
+        "message": "प्रोविजनल और वास्तविक फायर एनOC जारी करने से एकत्र कुल राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_TOP_3_PERFORMING_STATES",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_TOP_3_PERFORMING_ULBS",
+        "message": "शीर्ष 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_TOTAL_APPLICATIONS",
+        "message": "नए प्रोविजनल एनOC के लिए जमा किए गए आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_TOTAL_COLLECTION",
+        "message": "लागू दिनांक सीमा के दौरान फायर एनOC से एकत्रित कुल राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_NOC_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_OBPS_BOTTOM_ULB_BY_PERFORMANCE",
+        "message": "निचले 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_OBPS_COLLECTION_BY_USAGE_TYPE",
+        "message": "उपयोग प्रकार द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_OBPS_SERVICE_REPORT",
+        "message": "सेवा रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_OBPS_TOP_ULB_BY_PERFORMANCE",
+        "message": "शीर्ष 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_OVERVIEW_REVENUE",
+        "message": "अवलोकन-राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_OVERVIEW_SERVICES",
+        "message": "अवलोकन-सेवा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_COMPLAINTS_BY_STATUS",
+        "message": "स्थिति के अनुसार शिकायत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_REVENUE",
+        "message": "राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TARGET_ACHIEVED",
+        "message": "कुल संग्रह / संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TARGET_COLLECTION",
+        "message": "राज्य/यूएलबी द्वारा निर्धारित व्यापार लाइसेंस के लिए कुल लक्ष्य राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TB_ACTUAL_FIRE_NOCS_ISSUED",
+        "message": "जमा किए गए नए वास्तविक फायर एनOC आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TB_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
+        "message": "जारी किए गए वास्तविक एनOC जारी करने में लगने वाले दिनों की कुल संख्या / वास्तविक एनOC ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TB_AVERAGE_DAYS_TO_ISSUE_PROVISIONAL_NOC",
+        "message": "प्रोविजनल अनापत्ति प्रमाण पत्र जारी करने में लिए गए दिनों की कुल संख्या / प्रोविजनल अनापत्ति प्रमाण पत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TB_PROVISIONAL_FIRE_NOCS_ISSUED",
+        "message": "जारी किए गए प्रोविजनल एनOC की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TB_SLA_COMPLIANCE(ACTUAL_NOC)",
+        "message": "SLA के भीतर जारी किए गए वास्तविक एनOC का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TB_SLA_COMPLIANCE(PROVISIONAL_NOC)",
+        "message": "SLA के भीतर जारी किए गए प्रोविजनल अनापत्ति प्रमाणपत्र का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TB_TOTAL_APPLICATIONS",
+        "message": "सबमिट किए गए नए प्रोविजनल एनOC आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_BOTTOM_3_PERFORMING_ULBS",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_CUMULATIVE_LICENSE_ISSUED",
+        "message": "जारी किए गए संचयी लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_HEADER_TARGET_ACHIEVED",
+        "message": "कुल संग्रह / संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_HEADER_TARGET_COLLECTION",
+        "message": "राज्य/यूएलबी द्वारा निर्धारित व्यापार लाइसेंस के लिए कुल लक्ष्य राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_HEADER_TOTAL_COLLECTION",
+        "message": "लागू दिनांक फ़िल्टर के दौरान एकत्र किए गए ट्रेड लाइसेंस राजस्व का योग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_KEY_FY_INDICATORS",
+        "message": "प्रमुख वित्तीय संकेतक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_LICENSE_BY_STATUS",
+        "message": "स्थिति के अनुसार व्यापार लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_LICENSE_BY_TYPE",
+        "message": "व्यापार प्रकार के अनुसार लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_STATUS_BOUNDARY",
+        "message": "स्थिति की रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_TAX_HEAD_BREAKUP",
+        "message": "कर हेड ब्रेकअप",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_TOP_3_PERFORMING_ULBS",
+        "message": "शीर्ष 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_TOTAL_COLLECTION",
+        "message": "लागू दिनांक फ़िल्टर के दौरान एकत्र किए गए ट्रेड लाइसेंस राजस्व का योग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TODAYS_COLLECTION",
+        "message": "संग्रह पर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_APPLICATIONS",
+        "message": "नए और नवीनीकरण व्यापार लाइसेंस आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_CATEGORIES",
+        "message": "विविध संग्रह के लिए श्रेणियों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_CHALLANS",
+        "message": "बनाए गए चालानों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_COLLECTION",
+        "message": "लागू दिनांक फ़िल्टर के दौरान mCollect से एकत्रित कुल राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_COLLECTION_TODAY",
+        "message": "दी गई तारीख को mCollect से एकत्रित कुल राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_LICENSES",
+        "message": "जारी किए गए व्यापार लाइसेंसों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_NOC_ISSUED_TYPE",
+        "message": "प्रकार द्वारा जारी कुल एनOC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_PERMIT_ISSUED_VS_TOTAL_OC_ISSUED_VS_TOTAL_OC_SUBMITTED",
+        "message": "जारी किए गए कुल परमिट बनाम कुल जमा किए गए OC बनाम जारी किए गए कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_RECEIPTS",
+        "message": "सेवा के भुगतान पर नागरिक को जारी की गई रसीदों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_BOTTOM_3_PERFORMING_ULBS",
+        "message": "निचले 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_COLLECTION_BY_CHANNEL",
+        "message": "चैनल के अनुसार कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_COLLECTION_BY_USAGE",
+        "message": "उपयोग के प्रकार के अनुसार कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_CONNECTION_AGEING",
+        "message": "कनेक्शन एजिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_CONNECTION_BY_CHANNEL",
+        "message": "चैनल के अनुसार कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_CUMULATIVE_CONNECTION",
+        "message": "संचयी कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_CUMULATIVE_CONNECTION(CR)",
+        "message": "संचयी कनेक्शन (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_CUMULATIVE_CONNECTION(LAC)",
+        "message": "संचयी कनेक्शन (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_CUMULATIVE_CONNECTION(UNIT)",
+        "message": "संचयी कनेक्शन (इकाई में)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_SEWERAGE_CONNECTION_BY_USAGE",
+        "message": "उपयोग के अनुसार सीवरेज कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TARGET_ACHIEVED",
+        "message": "कुल संग्रह / संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TARGET_COLLECTION",
+        "message": "जल और सीवरेज संग्रह के लिए राज्य द्वारा निर्धारित कुल लक्ष्य राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TAX_HEAD_BOUNDARY",
+        "message": "कर हेड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TODAYS_COLLECTION",
+        "message": "पानी और सीवरेज से कुल संग्रह। आवेदन शुल्क + उपभोग शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TOP_3_PERFORMING_ULBS",
+        "message": "शीर्ष 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TOTAL_COLLECTION",
+        "message": "लागू तिथि फ़िल्टर के दौरान एकत्रित कुल पानी और सीवरेज राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "लागू तिथि फ़िल्टर के दौरान एकत्रित कुल पानी और सीवरेज राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई में)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_W&S_WATER_CONNECTION_BY_USAGE",
+        "message": "उपयोग प्रकार के अनुसार पानी के कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_BOTTOM_3_PERFORMING_ULBS",
+        "message": "निचले 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_COLLECTION_BY_CHANNEL",
+        "message": "चैनल के अनुसार कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_COLLECTION_BY_USAGE",
+        "message": "उपयोग प्रकार के अनुसार कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_CONNECTION_AGEING",
+        "message": "कनेक्शन एजिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_CONNECTION_BY_CHANNEL",
+        "message": "चैनल के अनुसार कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_CUMULATIVE_CONNECTION",
+        "message": "संचयी कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_KEY_FY_INDICATORS",
+        "message": "प्रमुख वित्तीय संकेतक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_SEWERAGE_CONNECTION_BY_USAGE",
+        "message": "उपयोग के अनुसार सीवरेज कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_SLA_COMPLIANCE",
+        "message": "SLA के भीतर पूर्ण किए गए आवेदनों का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_TARGET_ACHIEVED",
+        "message": "कुल संग्रह / संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_TARGET_COLLECTION",
+        "message": "पानी और सीवरेज संग्रह के लिए डीडीआर द्वारा निर्धारित कुल लक्ष्य राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_TAX_HEAD_BOUNDARY",
+        "message": "कर हेड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_TODAYS_COLLECTION",
+        "message": "पानी और सीवरेज से कुल संग्रह। आवेदन शुल्क + उपभोग शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_TOP_3_PERFORMING_ULBS",
+        "message": "शीर्ष 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_TOTAL_APPLICATIONS",
+        "message": "नए, संशोधित और डिस्कनेक्शन अनुरोधों के लिए आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "लागू तिथि फ़िल्टर के दौरान एकत्रित कुल पानी और सीवरेज राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_DSS_WS_WATER_CONNECTION_BY_USAGE",
+        "message": "उपयोग के अनुसार पानी का कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_BOTTOM_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "प्रतिस्पर्द्धा दर के आधार पर निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_BOTTOM_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "उपलब्धि के आधार पर निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_BOTTOM_PERFORMING_STATES",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_CITIZEN_REGISTERED",
+        "message": "सिस्टम पर पंजीकृत नागरिकों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_CLOSED_APPLICATION",
+        "message": "सभी मॉड्यूल में बंद आवेदन की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_COMPLAINTS",
+        "message": "नागरिक द्वारा दर्ज शिकायतों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_FIRENOC_TOTAL_APPLICATIONS",
+        "message": "जारी किए गए एनOC की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_FIRENOC_TOTAL_COLLECTION",
+        "message": "फायर एनOC मॉड्यूल से कुल राजस्व संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_MCOLLECT_TOTAL_COLLECTION",
+        "message": "mCollect मॉड्यूल से कुल राजस्व संग्रह। इसमें लाइव राजस्व मॉड्यूल से संग्रह शामिल नहीं है।",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_MCOLLECT_TOTAL_RECEIPTS",
+        "message": "सेवा के भुगतान के लिए नागरिक को जारी की गई रसीदों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_OBPS_TOTAL_APPLICATIONS",
+        "message": "स्वीकृत बिल्डिंग परमिट की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_OBPS_TOTAL_COLLECTION",
+        "message": "भवन अनुमति मॉड्यूल से कुल राजस्व संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_OVERVIEW_SLA_ACHIEVED",
+        "message": "SLA के भीतर बंद किए गए आवेदनों और शिकायतों का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_OVERVIEW_TOTAL_APPLICATION",
+        "message": "सभी मॉड्यूल में नागरिक द्वारा प्रस्तुत आवेदनों की कुल संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_ASSIGNED_COMPLAINTS",
+        "message": "सौंपी गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_CLOSED_COMPLAINTS",
+        "message": "सफलतापूर्वक समाधान किया गया शिकायतों की कुल संख्या ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_COMPLAINTS_BY_CHANNEL",
+        "message": "चैनल द्वारा शिकायत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_COMPLAINTS_BY_DEPARTMENT",
+        "message": "विभाग द्वारा शिकायत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PGR_COMPLETION_RATE",
+        "message": "समापन दर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_TL_APPLICATIONS",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_WS_TOTAL_APPLICATIONS",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_WS_TOTAL_COLLECTION",
+        "message": "संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_OVERVIEW_DASHBOARD",
+        "message": "समीक्षा डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_PT_DSS_TARGET_COLLECTION",
+        "message": "लक्ष्य संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_PT_DSS_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NEW_NOCS_ISSUED",
+        "message": "जारी किया गया अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_ACTUAL_NOC_ISSUED_USAGETYPE",
+        "message": "उपयोग के प्रकार के अनुसार नई फायर अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL",
+        "message": "कुल आवेदन बनाम जारी किए गए प्रोविजनल अनापति प्रमाणपत्र बनाम जारी किए गए नए अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL(CR)",
+        "message": "कुल आवेदन बनाम जारी किए गए प्रोविजनल अनापति प्रमाणपत्र बनाम जारी किए गए नए अनापति प्रमाणपत्र (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL(LAC)",
+        "message": "कुल आवेदन बनाम जारी किए गए प्रोविजनल अनापति प्रमाणपत्र बनाम जारी किए गए नए अनापति प्रमाणपत्र (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL(UNIT)",
+        "message": "जारी किए गए कुल आवेदन बनाम प्रोविजनल अनापति प्रमाणपत्र बनाम जारी किए गए नए अनापति प्रमाणपत्र (इकाई में)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_FIRE_NOC_DASHBOARD",
+        "message": "फायर अनापति प्रमाणपत्र डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_ACTUAL_ISSUED",
+        "message": "जारी किए गए नए अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_AVERAGE_DAYS_TO_ISSUE_ACTUAL",
+        "message": "नई फायर एनOC जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_AVERAGE_DAYS_TO_ISSUE_PROVISIONAL",
+        "message": "प्रोविजनल फायर एनOC जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_BOTTOM_3_PERFORMING_STATES",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_COLLECTION_BY_PAYMENT_MODE",
+        "message": "भुगतान मोड द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_PROVISIONAL_ISSUED",
+        "message": "प्रोविजनल अनापत्ति प्रमाण पत्र जारी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_SLA_COMPLIANCE_ACTUAL",
+        "message": "एसएलए अनुपालन (नई फायर अनापति प्रमाणपत्र )",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_SLA_COMPLIANCE_PROVISIONAL",
+        "message": "एसएलए अनुपालन (प्रोविजनल फायर अनापति प्रमाणपत्र )",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_TODAYS_COLLECTION",
+        "message": "आज का संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_TOP_3_PERFORMING_STATES",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_TOTAL_APPLICATIONS",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_NOC_TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS__SLA_COMPLIANCE_PERMIT",
+        "message": "एसएलए अनुपालन (परमिट)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_AVERAGE_DAYS_TO_ISSUE_OC",
+        "message": "OC जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_AVERAGE_DAYS_TO_ISSUE_PERMIT",
+        "message": "परमिट जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_BOTTOM_3_PERFORMING_ULBS",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_COLLECTION_BY_PAYMENT_MODE",
+        "message": "भुगतान मोड द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_DASHBOARD",
+        "message": "ओबीपीएस डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_PERMIT_ISSUED_BY_OCCUPANCY_TYPE",
+        "message": "अधिभोग प्रकार द्वारा जारी किए गए परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_PERMIT_ISSUED_BY_RISK_TYPE",
+        "message": "जोखिम प्रकार द्वारा जारी किए गए परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_SERVICE_REPORT",
+        "message": "सेवा रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_SLA_COMPLIANCE_OC",
+        "message": "एसएलए अनुपालन (OC)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TODAYS_COLLECTION",
+        "message": "पर संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOP_3_PERFORMING_ULBS",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_APPLICATIONS_SUBMITTED",
+        "message": "जमा किए गए कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_OC_ISSUED",
+        "message": "कुल जारी OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_OC_PLANS_SCRUTINIZED",
+        "message": "कुल OC योजनाओं की जांच की गई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_OC_SUBMITTED",
+        "message": "जमा किया गया कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_PERMITS_ISSUED",
+        "message": "जारी किए गए कुल परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OBPS_TOTAL_PLANS_SCRUTINIZED",
+        "message": "कुल योजनाओं की जांच की गई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OVERVIEW_REVENUE",
+        "message": "अवलोकन-राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OVERVIEW_SERVICES",
+        "message": "अवलोकन-सेवा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_REVENUE",
+        "message": "राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_SERVICE",
+        "message": "सर्विस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_TOTAL_NOC_ISSUED_TYPE",
+        "message": "प्रकार द्वारा जारी कुल अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_TOTAL_PERMITS_VS_TOTAL_OC_SUBMITTED_VS_OC_ISSUED",
+        "message": "जारी किए गए कुल परमिट बनाम कुल जमा किए गए OC बनाम जारी किए गए कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_ACTIVE_CONNECTIONS",
+        "message": "कुल सक्रिय कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_ACTIVE_METERED_WATER_CONNECTIONS",
+        "message": "पानी - मीटर वाला कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_ACTIVE_NON_METERED_WATER_CONNECTIONS",
+        "message": "पानी - गैर मीटर वाला कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_ACTIVE_SEWERAGE_CONNECTIONS",
+        "message": "सीवरेज कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_BOTTOM_3_PERFORMING_STATES",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_COLLECTION_BY_CHANNEL",
+        "message": "चैनल के माध्यम से संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_COLLECTION_BY_USAGE",
+        "message": "उपयोग प्रकार द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_CONNECTION_AGEING",
+        "message": "कनेक्शन एजिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_CONNECTION_BY_CHANNEL",
+        "message": "चैनल के माध्यम से कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_CONNECTIONS",
+        "message": "कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_CUMULATIVE_CONNECTION",
+        "message": "संचयी कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_CUMULATIVE_CONNECTION(CR)",
+        "message": "संचयी कनेक्शन (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_CUMULATIVE_CONNECTION(LAC)",
+        "message": "संचयी कनेक्शन (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_CUMULATIVE_CONNECTION(UNIT)",
+        "message": "संचयी कनेक्शन (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_KEY_FY_INDICATORS",
+        "message": "प्रमुख वित्तीय संकेतक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_SEWERAGE_CONNECTION_BY_USAGE",
+        "message": "उपयोग के अनुसार सीवरेज कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_SLA_COMPLIANCE",
+        "message": "एसएलए अनुपालन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TARGET_ACHIEVED",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TARGET_COLLECTION",
+        "message": "लक्ष्य संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TAX_HEAD_BOUNDARY",
+        "message": "कर हेड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TODAYS_COLLECTION",
+        "message": "पर संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TOP_3_PERFORMING_STATES",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TOTAL_APPLICATIONS",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_WATER_CONNECTION_BY_USAGE",
+        "message": "उपयोग के अनुसार पानी का कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_COMPLAINS",
+        "message": "नगरपालिका की शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_DASHBOARD",
+        "message": "राष्ट्रीय शहरी रीयल-टाइम डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_FIRENOC",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_LIVE_ACTIVE_ULBS",
+        "message": "पैन इंडिया: ऑनबोर्डेड बनाम लाइव निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_LIVE_STATES",
+        "message": "लाइव स्टेट्स",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_LIVE_ULB",
+        "message": "लाइव निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_MCOLLECT",
+        "message": "उपयोगकर्ता शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_ONBOARDED_STATES",
+        "message": "ऑनबोर्ड स्टेट्स",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_PROJECT_STAUS",
+        "message": "परियोजना की स्थिति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_PROPERTY_TAX",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_SLA_ACHIEVED",
+        "message": "एसएलए उपलब्धि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_TOTAL_CITIZENS",
+        "message": "कुल नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_TRADE_LICENCE",
+        "message": "व्यापार लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_UNDERIMPL_STATES",
+        "message": "निष्पादन के अधीन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_WATER_SEWERAGE",
+        "message": "पानी और सीवरेज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OC_ISSUED",
+        "message": "कुल जारी OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OC_SUBMITTED",
+        "message": "कुल जमा किया गया OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ODISSA_NURT_LIVE_ACTIVE_ULBS",
+        "message": "ओडिशा: ऑनबोर्डेड बनाम लाइव निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ONE_TIME_FEE",
+        "message": "सिर्फ एक बार लगने वाला शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PERMITS_ISSUED",
+        "message": "जारी किए गए कुल परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_ACTIVE",
+        "message": "सक्रिय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_ACTUAL",
+        "message": "नया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_APPLIED",
+        "message": "लागू किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_APPROVED",
+        "message": "स्वीकार किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_ASSIGNED",
+        "message": "सौंपा गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_BBPS",
+        "message": "बीबीपीएस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_BRICKFIELD",
+        "message": "ब्रिकफील्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CANCELLED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CARD",
+        "message": "कार्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CASH",
+        "message": "नकद",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CFC_COUNTER",
+        "message": "सीएफ़सी काउंटर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CHARCOAL_KLIN",
+        "message": "चारकोल भट्ठी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CHEQUE",
+        "message": "चेक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CITIZEN",
+        "message": "नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CLOSED",
+        "message": "बंद किया हुआ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_Commercial",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL_MOTOR",
+        "message": "वाणिज्यिक मोटर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COUNTER",
+        "message": "काउंटर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CREDIT_CARD",
+        "message": "क्रेडिट कार्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_CSC",
+        "message": "सीएससी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DATA_ENTRY",
+        "message": "डाटा एंट्री",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DATAENTRY",
+        "message": "डाटा एंट्री",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DD",
+        "message": "डीडी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DEBIT_CARD",
+        "message": "कार्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DEPOSITED",
+        "message": "जमा किया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DEPT1",
+        "message": "विभाग 1",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DEPT2",
+        "message": "विभाग 2",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DEPT3",
+        "message": "विभाग 3",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DISHONOURED",
+        "message": "अस्वीकृत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_Domestic",
+        "message": "घरेलू",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_Domestic SLC",
+        "message": "घरेलू SLC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DOMESTIC_EXEMPTED",
+        "message": "घरेलू छूट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DOMESTIC_SLC",
+        "message": "घरेलू SLC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DSS_OTHERS",
+        "message": "अन्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_EXPIRED",
+        "message": "समय सीमा समाप्त",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_FIELD",
+        "message": "क्षेत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_FIELDINSPECTION",
+        "message": "क्षेत्र का निरीक्षण",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_FNOC",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_FREECHARGE",
+        "message": "फ्रीचार्ज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_GROCERYSTORES",
+        "message": "किराना स्टोर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_HIGH",
+        "message": "उच्च",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INDUSTRIAL",
+        "message": "औद्योगिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL",
+        "message": "संस्थागत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_Institutional",
+        "message": "संस्थागत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_LOW",
+        "message": "कम",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_MCOLLECT",
+        "message": "एम कलेक्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_MEDIUM",
+        "message": "मध्यम",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_MIGRATION",
+        "message": "प्रवास",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_MOBILE",
+        "message": "मोबाइल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_NEW",
+        "message": "नया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL_COMMERCIAL",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL_COMMERCIAL_RETAIL_MALLS",
+        "message": "गैर-आवासीय वाणिज्यिक खुदरा मॉल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL_OTHERS",
+        "message": "अन्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL.COMMERCIAL",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_NONRESIDENTIAL.OTHERS",
+        "message": "अन्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_OBPS",
+        "message": "ओबीपीएस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_OFFLINE_NEFT",
+        "message": "एनईएफटी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_OFFLINE_RTGS",
+        "message": "आरटीजीएस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_ONLINE",
+        "message": "ऑनलाइन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_OPEN",
+        "message": "खोलें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_PAID",
+        "message": "भुगतान किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_PAYTM",
+        "message": "पेटीएम",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_Paytm",
+        "message": "पेटीएम",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_PAYU",
+        "message": "पेयू",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_PENDINGAPPROVAL",
+        "message": "स्वीकृति रुकी हुई है",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_PENDINGPAYMENT",
+        "message": "रुका हुआ भुगतान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_POS",
+        "message": "पीओएस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_POSTAL_ORDER",
+        "message": "पोस्टल ऑर्डर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_PROVISIONAL",
+        "message": "प्रोविशनल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_PT",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RAZORPAY",
+        "message": "रेजरपे",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_REASSIGN_REQUESTED",
+        "message": "फिर से आवंटित करने का अनुरोध किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_REASSIGNED",
+        "message": "पुनः नियुक्त करें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_REJECTED",
+        "message": "अस्वीकृत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_REOPENED",
+        "message": "पुन: खोला गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL",
+        "message": "अवासीय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESOLVED",
+        "message": "हल की गयी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_SEWAKENDRA",
+        "message": "सेवाकेंद्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_Sewakendra",
+        "message": "सेवाकेंद्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_System",
+        "message": "प्रणाली",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_SYSTEM",
+        "message": "प्रणाली",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_TL",
+        "message": "व्यापार लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_UPI",
+        "message": "यूपीआई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_WEB",
+        "message": "वेब",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_WS",
+        "message": "पानी और सीवर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROVISIONAL_NOC",
+        "message": "प्रोविजनल अनापत्ति प्रमाण पत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT.MUTATION",
+        "message": "स्वामित्व का हस्तांतरण",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PUNJAB_NURT_LIVE_ACTIVE_ULBS",
+        "message": "पंजाब: ऑनबोर्डेड बनाम लाइव निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "Reassign_Requested",
+        "message": "पुनः नियुक्त करें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REOPENED_COMPLAINTS",
+        "message": "फिर से खोली गयी शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ROAD.SHOW",
+        "message": "रोड शो",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RT.Municipal_Shops_Rent",
+        "message": "नगरपालिका की दुकान का किराया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SERVICE_REPORT",
+        "message": "सेवा रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_COLLECTIONS",
+        "message": "सीवरेज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTIONS",
+        "message": "सीवरेज कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_NOC_BOTTOM_3_PERFORMING_ULBS",
+        "message": "जारी किए गए आग अनापति प्रमाणपत्र का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_NOC_TOP_3_PERFORMING_ULBS",
+        "message": "जारी किए गए आग अनापति प्रमाणपत्र का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_OBPS_BOTTOM_ULB_BY_PERFORMANCE",
+        "message": "जारी किए गए परमिट का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_OBPS_TOP_ULB_BY_PERFORMANCE",
+        "message": "जारी किए गए परमिट का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_TL_BOTTOM_3_PERFORMING_ULBS",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_TL_TOP_3_PERFORMING_ULBS",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_W&S_BOTTOM_3_PERFORMING_ULBS",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_W&S_TOP_3_PERFORMING_ULBS",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_WS_BOTTOM_3_PERFORMING_ULBS",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_WS_TOP_3_PERFORMING_ULBS",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_BOTTOM_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "समापन दर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_BOTTOM_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_BOTTOM_PERFORMING_STATES",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_PT_BOTTOM_3_PERFORMING_STATES",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_PT_BOTTOM_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "समापन दर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_PT_BOTTOM_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_PT_TOP_3_PERFORMING_STATES",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_PT_TOP_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "समापन दर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_PT_TOP_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_TOP_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "समापन दर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_TOP_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NATIONAL_DSS_TOP_PERFORMING_STATES",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_NSS_OBPS_BOTTOM_3_PERFORMING_ULBS",
+        "message": "जारी किए गए परमिट का %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "_DSS_HEADER_S_N_",
+        "message": "#",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "(SUB_DSS_WS_BOTTOM_3_PERFORMING_ULBS)",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "(SUB_DSS_WS_TOP_3_PERFORMING_ULBS)",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "(SUB_NSS_WS_BOTTOM_3_PERFORMING_STATES)",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "(SUB_NSS_WS_TOP_3_PERFORMING_STATES)",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTUAL_NOC",
+        "message": "नया अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ADVT.Gas_Balloon_Advertisement",
+        "message": "गैस के गुब्बारे का विज्ञापन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ADVT.Hoardings",
+        "message": "होर्डिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ADVT.Light_Wala_Board",
+        "message": "लाइट वाला बोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ADVT.Unipolls",
+        "message": "यूनिपोल्स",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ADVT.Wall_Paint_Advertisement",
+        "message": "वॉल पेंट विज्ञापन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ANDHRA PRADESH_NURT_LIVE_ACTIVE_ULBS",
+        "message": "आंध्र प्रदेश: ऑनबोर्डेड बनाम लाइव निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "AUCTION.FEE",
+        "message": "नीलामी शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA.LOW_RISK_PERMIT_FEE",
+        "message": "कम जोखिम के लिए परमिट शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA.NC_APP_FEE",
+        "message": "बीपीए आवेदन शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA.NC_OC_APP_FEE",
+        "message": "अधिभोग प्रमाणपत्र आवेदन शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA.NC_OC_SAN_FEE",
+        "message": "अधिभोग प्रमाणपत्र स्वीकृति शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA.NC_SAN_FEE",
+        "message": "बीपीए स्वीकृति शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CLOSED_APPLICATION",
+        "message": "पूर्ण आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CLOSED_APPLICATIONS",
+        "message": "पूर्ण आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CLOSED_COMPLAINTS",
+        "message": "बंद की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_AUCTION_FEE",
+        "message": "नीलामी शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_HOARDING",
+        "message": "होर्डिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_ROAD_SHOW",
+        "message": "रोड शो",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_TOWER_ANNUAL_RENT",
+        "message": "टावर वार्षिक किराया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_TOWER_INSTALLATION",
+        "message": "टॉवर स्थापना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_UNIPOLLS",
+        "message": "यूनिपोल्स",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_USER_FEES",
+        "message": "उपयोगकर्ता शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_ACTUAL_NOC_ISSUED_USAGETYPE",
+        "message": "उपयोग के प्रकार के अनुसार नई आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_APPLICATION_VS_PROVISIONAL_VS_ACTUAL",
+        "message": "कुल आवेदन बनाम जारी किए गए प्रोविजनल अनापत्ति प्रमाणपत्र बनाम जारी किए गए नए अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_AVERAGE_DAYS_ISSUE_OC",
+        "message": "OC जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_AVERAGE_DAYS_ISSUE_PERMIT",
+        "message": "परमिट जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_PERMIT_ISSUED_BY_OCCUPANCY_TYPE",
+        "message": "अधिभोग के प्रकार के अनुसार जारी किए गए परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_PERMIT_ISSUED_BY_RISK_TYPE",
+        "message": "जोखिम के अनुसार जारी किए गए परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_SLA_COMPLIANCE",
+        "message": "एसएलए अनुपालन (परमिट)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_SLA_COMPLIANCE_OC",
+        "message": "एसएलए अनुपालन (OC)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TODAYS_COLLECTION",
+        "message": "आज का संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_APPLICATIONS_SUBMITTED",
+        "message": "जमा किए गए कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई में)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_LAND_APPLIED",
+        "message": "बीपीए प्रणाली में लागू भूमि - कुल वर्ग मीटर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_PERMITS_ISSUED",
+        "message": "जारी किए गए कुल परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPA_TOTAL_PLANS_SCRUTINIZED",
+        "message": "कुल योजनाओं की जांच की गई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BPACUMULATIVECOLLECTIONS",
+        "message": "संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BUILDING_PERMISSION",
+        "message": "भवन निर्माण के लिए अनुमतियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BUILDING_PLANNING_DASHBOARD",
+        "message": "ओबीपीएस डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_CMN_TABLE_INFO",
+        "message": "% मान पिछले वर्ष की इसी अवधि के मुकाबले परिवर्तन दर्शाते हैं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_CUMULATIVECOLLECTIONOVERVIEW",
+        "message": "संचयी संग्रह समीक्षा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_CUMULATIVECOLLECTIONV3",
+        "message": "संचयी संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_CUMULATIVEPROPERTIESASSESSEDV3",
+        "message": "संचयी संपत्ति का आकलन किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FILTER_CLEAR_ST",
+        "message": "फ़िल्टर हटाएं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FILTER_CLEAR_TN",
+        "message": "फ़िल्टर हटाएं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FILTER_SHOWALL",
+        "message": "सभी देखें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FILTER_SHOWLESS",
+        "message": "कम देखें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FIRE_NOC_DASHBOARD",
+        "message": "आग अनापत्ति प्रमाणपत्र डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FIRENOC",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FSM_TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FSM_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FSM_TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई में)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2014_15",
+        "message": "2014-2015",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2015_16",
+        "message": "2015-2016",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2016_17",
+        "message": "2016-2017",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2017_18",
+        "message": "2017-2018",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2018_19",
+        "message": "2018-2019",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2018-19",
+        "message": "2018-19",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2019_20",
+        "message": "2019-2020",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2019-20",
+        "message": "2019-20",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2020_21",
+        "message": "2020-2021",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2020-21",
+        "message": "2020-21",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2021_22",
+        "message": "2021-2022",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2021-22",
+        "message": "2021-22",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2022_23",
+        "message": "2022-2023",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2023_24",
+        "message": "2023-2024",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_2024_25",
+        "message": "2024-2025",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ACTUAL_FIRE_NOCS_ISSUED",
+        "message": "नया आग अनापत्ति प्रमाणपत्र जारी किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ADHOC_PENALTY",
+        "message": "एडहॉक जुर्माना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ADHOC_REBATE",
+        "message": "एडहॉक छूट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ADVANCE",
+        "message": "अग्रिम",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ADVANCE (₹)",
+        "message": "अग्रिम",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_APPLIED",
+        "message": "लागू किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_APPROVED",
+        "message": "स्वीकार किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ARREAR_CHARGES",
+        "message": "बकाया शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ARREAR_CHARGES (₹)",
+        "message": "बकाया शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ASSESSED PROPERTIES",
+        "message": "मूल्यांकन की गयी सम्पत्तियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ASSESSED_PROPERTIES",
+        "message": "मूल्यांकन की गयी सम्पत्तियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ASSIGNED_COMPLAINTS",
+        "message": "सौंपी गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
+        "message": "नया अनापत्ति प्रमाणपत्र जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_OC",
+        "message": "OC जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_PERMIT",
+        "message": "परमिट जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_PROVISIONAL_NOC",
+        "message": "प्रोविजनलअनापति प्रमाणपत्र जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_AVERAGE_DEVIATION",
+        "message": "विचलन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_CESS",
+        "message": "उपकर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_COMPLETION_RATE",
+        "message": "समापन दर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_CURRENT_CHARGES",
+        "message": "मौजूदा प्रभार",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_DDR",
+        "message": "डी.डी.आर.",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_DDRS",
+        "message": "डी.डी.आर.",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_DEPARTMENT",
+        "message": "विभाग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_DEVIATION",
+        "message": "विचलन %",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_FIELDINSPECTION",
+        "message": "क्षेत्र निरीक्षण",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_INTEREST",
+        "message": "ब्याज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_LATE_CHARGES",
+        "message": "विलंब शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_MC_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_COMPLAINTS",
+        "message": "चालू शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_PENALTY",
+        "message": "जुर्माना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_PENDING_FROM_0_TO_3_DAYS",
+        "message": "0 से 3 दिनों से लंबित",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_PENDING_FROM_3_TO_7_DAYS",
+        "message": "3 से 7 दिनों से लंबित",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_PENDING_FROM_7_TO_15_DAYS",
+        "message": "7 से 15 दिनों से लंबित",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_PENDING_FROM_MORE_THAN_15_DAYS",
+        "message": "15 दिनों से अधिक समय से लंबित",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_PENDINGPAYMENT",
+        "message": "रुका हुआ भुगतान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_PROVISIONAL_FIRE_NOCS_ISSUED",
+        "message": "प्रोविजनल आग अनापति प्रमाणपत्र जारी किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_PT_TAX",
+        "message": "पीटी कर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_REASSIGN_REQUESTED",
+        "message": "फिर से आवंटित करने का अनुरोध किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_REASSIGNED_COMPLAINTS",
+        "message": "फिर से आवंटित की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_REBATE",
+        "message": "छूट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_REGION",
+        "message": "क्षेत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_REJECTED",
+        "message": "अस्वीकृत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_REJECTED_COMPLAINTS",
+        "message": "अस्वीकृत शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_REOPENED_COMPLAINTS",
+        "message": "फिर से खोली गयी शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_REPONED_COMPLAINTS",
+        "message": "फिर से खोली गयी शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_S_N_",
+        "message": "क्रमांक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_SLA_ACHIEVED",
+        "message": "एसएलए उपलब्धि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_SLA_COMPLIANCE",
+        "message": "एसएलए अनुपालन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_SLA_COMPLIANCE_OC",
+        "message": "एसएलए अनुपालन (OC)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_SLA_COMPLIANCE_PERMIT",
+        "message": "एसएलए अनुपालन (परमिट)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_SLA_COMPLIANCE(ACTUAL_NOC)",
+        "message": "एसएलए अनुपालन (नयाअनापति प्रमाणपत्र )",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_SLA_COMPLIANCE(PROVISIONAL_NOC)",
+        "message": "एसएलए अनुपालन (प्रोविजनल अनापत्ति प्रमाण पत्र)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_STATE",
+        "message": "राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_STATES",
+        "message": "राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TARGET ACHIEVED",
+        "message": "लक्ष्य हासिल किया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TARGET COLLECTION",
+        "message": "लक्ष्य संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TARGET_ACHIEVED",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TARGET_COLLECTION",
+        "message": "लक्ष्य संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TENANTS",
+        "message": "निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TL_TARGET_ACHIEVED",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TL_TARGET_COLLECTION",
+        "message": "लक्ष्य संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TL_TAX",
+        "message": "व्यापर लाइसेंस कर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TL_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL",
+        "message": "कुल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL AMOUNT",
+        "message": "कुल राशि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_AMOUNT",
+        "message": "कुल राशि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_APPLICATIONS",
+        "message": "आवेदन जमा किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_APPLICATIONS_SUBMITTED",
+        "message": "जमा किए गए कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_CHALLANS",
+        "message": "चालानों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_CLOSED_COMPLAINTS",
+        "message": "बंद की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_COMPLAINTS",
+        "message": "कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_CONNECTIONS",
+        "message": "कुल कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_LICENCE_ISSUED",
+        "message": "जारी किए गए कुल लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_OC_ISSUED",
+        "message": "कुल जारी OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_OC_SCRUTINIZED",
+        "message": "कुल OC योजनाओं की जांच की गई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_OC_SCRUTNIZED",
+        "message": "कुल OC योजनाओं की जांच की गई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_OC_SUBMITTED",
+        "message": "कुल OC जमा किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_OC_WITH_DEVIATION",
+        "message": "विचलन के साथ कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_PENDING",
+        "message": "कुल लंबित आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_PENDING_APPLICATIONS",
+        "message": "कुल लंबित आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_PERMITS_ISSUED",
+        "message": "जारी किए गए कुल परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_PLANS_SCRUTINIZED",
+        "message": "कुल योजनाओं की जांच की गई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_PLANS_SCRUTNIZED",
+        "message": "कुल योजनाओं की जांच की गई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_RECEIPTS",
+        "message": "प्राप्तियों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_RESOLVED_COMPLAINTS",
+        "message": "हल की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_TRANSACTIONS",
+        "message": "कुल लेनदेन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_TRANSACTIONS",
+        "message": "कुल लेनदेन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_ULBS",
+        "message": "निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_USAGE_TYPE",
+        "message": "उपयोग का प्रकार",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_WARDS",
+        "message": "बालक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_HEADER_WS_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_LIVE",
+        "message": "लाइव",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_LIVE_ULBS",
+        "message": "लाइव निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_LIVEULBPERMODULE",
+        "message": "लाइव निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_LIVEULBSCOUNT",
+        "message": "लाइव निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_M_COLLECT_DASHBOARD",
+        "message": "एमकलेक्ट डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_CHALLAN_COUNT_BY_STATUS",
+        "message": "स्थिति के अनुसार चालान की गणना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_COLLECTION_BY_PAYMENT_TYPE",
+        "message": "भुगतान मोड द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_COLLECTION_BY_STATUS",
+        "message": "स्थिति के अनुसार संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_COLLECTION_CATEGORY_WISE",
+        "message": "संग्रह की शीर्ष श्रेणियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_COLLECTION:_CATEGORY_WISE",
+        "message": "संग्रह की शीर्ष श्रेणियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_DEMAND_COLLECTION_BOUNDARYDDR",
+        "message": "संग्रह रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_MONTHLY_REPORT",
+        "message": "मासिक संग्रह (गणना बनाम राशि)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_RECEIPTS_BY_PAYMENTMODE",
+        "message": "भुगतान मोड द्वारा प्राप्तियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_RECEIPTS_BY_STATUS",
+        "message": "स्थिति के अनुसार प्राप्तियाँ की गणना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_REPORT_BY_TENANT",
+        "message": "संग्रह रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_TOTAL_CATEGORIES",
+        "message": "श्रेणियों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_TOTAL_CHALLANS",
+        "message": "कुल चालान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MC_TOTAL_RECEIPTS",
+        "message": "कुल प्राप्तियां",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MCCUMULATIVECOLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MCMONTHLYCUMULATIVECOLLECTIONV2",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MCOLLECT",
+        "message": "एमकलेक्ट डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_MODULE",
+        "message": "मॉड्यूल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_ACTUAL_ISSUED",
+        "message": "जारी किए गए नए अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_AVERAGE_DAYS_TO_ISSUE_ACTUAL",
+        "message": "नई फायर एनOC जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_AVERAGE_DAYS_TO_ISSUE_PROVISIONAL",
+        "message": "औसत अस्थायी आग अनापति प्रमाणपत्र जारी करने के लिए दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_BOTTOM_3_PERFORMING_ULBS",
+        "message": "निचले 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_COLLECTION_BY_PAYMENT_MODE",
+        "message": "भुगतान मोड द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_CUMULATIVE_COLLECTIONS",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_PROVISIONAL_ISSUED",
+        "message": "प्रोविजनल अनापत्ति प्रमाण पत्र जारी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_SLA_COMPLIANCE_ACTUAL",
+        "message": "एसएलए अनुपालन (नई आग अनापति प्रमाणपत्र)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_SLA_COMPLIANCE_PROVISIONAL",
+        "message": "एसएलए अनुपालन (प्रोविजनल आग अनापति प्रमाणपत्र)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_TODAYS_COLLECTION",
+        "message": "आज का संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_TOP_3_PERFORMING_ULBS",
+        "message": "शीर्ष 3 प्रदर्शन करने वाले निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_TOTAL_APPLICATIONS",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOC_TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NOCCUMULATIVECOLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NONE",
+        "message": "कोई नहीं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NSSNOCCUMULATIVECOLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_NSSOBPSCUMULATIVECOLLECTION",
+        "message": "संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_OBPS",
+        "message": "भवन निर्माण के लिए अनुमतियाँ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_OBPS_BOTTOM_ULB_BY_PERFORMANCE",
+        "message": "निचले 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_OBPS_COLLECTION_BY_PAYMENT_MODE",
+        "message": "भुगतान मोड द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_OBPS_COLLECTION_BY_USAGE_TYPE",
+        "message": "भुगतान मोड द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_OBPS_SERVICE_REPORT",
+        "message": "सेवा रिपोर्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_OBPS_TOP_ULB_BY_PERFORMANCE",
+        "message": "शीर्ष 3 निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_ONBOARDED",
+        "message": "ऑनबोर्डेड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_ONBOARDEULBSCOUNT",
+        "message": "ऑनबोर्डेड उल्ब्स",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_OVERVIEW_REVENUE",
+        "message": "अवलोकन-राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_OVERVIEW_SERVICES",
+        "message": "अवलोकन-सेवाएं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_PGR",
+        "message": "नगरपालिका की शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_PGRAVERAGESOLUTIONTIME",
+        "message": "अवधि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_PGRUNIQUECITIZENS",
+        "message": "नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_PT",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_SEWERAGE_COLLECTIONS",
+        "message": "सीवरेज संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_SEWERAGE_CONNECTIONS",
+        "message": "सीवरेज कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TAB_ACTUAL",
+        "message": "नया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TAB_CATEGORY",
+        "message": "श्रेणी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TAB_PROVISIONAL",
+        "message": "प्रोविशनल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TAB_STATE",
+        "message": "राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_2021-22",
+        "message": "2021-22",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_ACTUAL_FIRE_NOCS_ISSUED",
+        "message": "नया अनापति प्रमाणपत्र जारी किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_ADVT_GAS_BALLOON_ADVERTISEMENT",
+        "message": "गैस गुब्बारा वाला विज्ञापन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_ADVT_HOARDINGS",
+        "message": "होर्डिंग वाला विज्ञापन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_ADVT_LIGHT_WALA_BOARD",
+        "message": "लाइट बोर्ड वाला विज्ञापन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_ADVT_UNIPOLLS",
+        "message": "यूनिपोल वाला विज्ञापन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_ADVT_WALL_PAINT_ADVERTISEMENT",
+        "message": "वॉल पेंट विज्ञापन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_AJIT_NAGAR",
+        "message": "अजीत नगर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_AMRITSAR",
+        "message": "अमृतसर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_AMRITSAR_DISTRICT",
+        "message": "अमृतसर मंडल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_AMRITSAR_FIRESTATION",
+        "message": "अमृतसर अग्निशमन केंद्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_AVERAGE_DAYS_TO_ISSUE_ACTUAL_NOC",
+        "message": "नई आग अनापति प्रमाणपत्र जारी करने के लिए औसत दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_AVERAGE_DAYS_TO_ISSUE_PROVISIONAL_NOC",
+        "message": "आग अनापति प्रमाणपत्र अनापत्ति प्रमाणपत्र जारी करने के लिए औसत प्रोविजनल दिन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BLOCK_1",
+        "message": "ब्लॉक 1",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BLOCK_10",
+        "message": "ब्लॉक 10",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BLOCK_11",
+        "message": "ब्लॉक 11",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BLOCK_2",
+        "message": "ब्लॉक 2",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BLOCK_3",
+        "message": "ब्लॉक 3",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BLOCK_4",
+        "message": "ब्लॉक 4",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BLOCK_5",
+        "message": "ब्लॉक 5",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BLOCK_6",
+        "message": "ब्लॉक 6",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BPA_LOW_RISK_PERMIT_FEE",
+        "message": "कम जोखिम वाला परमिट शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BPA_NC_APP_FEE",
+        "message": "बीपीए आवेदन शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BPA_NC_OC_APP_FEE",
+        "message": "बीपीए अधिभोग आवेदन शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BPA_NC_OC_SAN_FEE",
+        "message": "अधिभोग स्वीकृति शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_BPA_NC_SAN_FEE",
+        "message": "स्वीकृति शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_CESS",
+        "message": "उपकर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMERCIAL",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_AUCTION_FEE",
+        "message": "नीलामी शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_DEPARTMENT1",
+        "message": "विभाग 1",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_DEPARTMENT2",
+        "message": "विभाग 2",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_HOARDING",
+        "message": "होर्डिंग",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_MUNICIPAL_SHOPS_RENT",
+        "message": "नगरपालिका की दुकान का किराया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_PARKING_FEE",
+        "message": "पार्किंग शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_ROAD_SHOW",
+        "message": "रोड शो",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_TOWER_ANNUAL_RENT",
+        "message": "वार्षिक किराया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_TOWER_INSTALLATION",
+        "message": "टॉवर स्थापना",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_UNIPOLLS",
+        "message": "यूनिपोल्स",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_COMMON_MASTERS_USER_FEES",
+        "message": "उपयोगकर्ता शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_DEPT1",
+        "message": "विभाग 1",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_DEPT2",
+        "message": "विभाग 2",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_DEPT3",
+        "message": "विभाग 3",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_DERABASSI",
+        "message": "डेराबस्सी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_DERABASSI_DISTRICT",
+        "message": "डेराबस्सी जिला",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_FIRENOC",
+        "message": "आग अनापति प्रमाणपत्र शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_FSM_TRIP_CHARGES",
+        "message": "एफएसएम प्रभार",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_HALSALAS",
+        "message": "वार्ड 12",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_HARYANA",
+        "message": "हरयाणा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_INDUSTRIAL",
+        "message": "औद्योगिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_INTEREST",
+        "message": "ब्याज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_JALANDHAR",
+        "message": "जालंधर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_JALANDHAR_DISTRICT",
+        "message": "जालंधर जिला",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_JALANDHAR_FIRESTATION",
+        "message": "जालधर अग्निशमन केंद्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_MOHALI",
+        "message": "मोहाली",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_MOHALI_DISTRICT",
+        "message": "मोहाली जिला",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_NAWANSHAHR",
+        "message": "नवांशहर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_NAWANSHAHR_DISTRICT",
+        "message": "नवांशहर जिला",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_NAWANSHAR_DISTRICT",
+        "message": "नवांशहर जिला",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_NAYAGAON",
+        "message": "नयागांव",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_NAYAGAON_DISTRICT",
+        "message": "नयागांव जिला",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_OD_BALASORE",
+        "message": "बालासोर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_OD_DHENKANAL",
+        "message": "ढेंकनाल",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_OD_PURI",
+        "message": "पुरी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_OD_VYASANAGAR",
+        "message": "व्यासनगर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_ODISHA",
+        "message": "उड़ीसा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PB_AMRITSAR",
+        "message": "अमृतसर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PB_DERABASSI",
+        "message": "डेराबस्सी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PB_JALANDHAR",
+        "message": "जालंधर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PB_NAWANSHAHR",
+        "message": "नवांशहर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PB_PHAGWARA",
+        "message": "फगवाड़ा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PHAGWARA",
+        "message": "फगवाड़ा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PHAGWARA_DISTRICT",
+        "message": "फगवाड़ा जिला",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PROVISIONAL_FIRE_NOCS_ISSUED",
+        "message": "प्रोविजनल अनापत्ति प्रमाण पत्र जारी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PT_MUTATION",
+        "message": "उत्परिवर्तन शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_PUNJAB",
+        "message": "पंजाब",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_RAM_NAGAR",
+        "message": "राम नगर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_RANK",
+        "message": "श्रेणी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_REGION",
+        "message": "क्षेत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_REPONED_COMPLAINTS",
+        "message": "फिर से खोली गयी शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_RESIDENTIAL",
+        "message": "अवासीय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_REV_GRANTS",
+        "message": "राजस्व अनुदान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_RT_MUNICIPAL_SHOPS_RENT",
+        "message": "नगरपालिका की दुकान का किराया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_SLA_COMPLIANCE(ACTUAL_NOC)",
+        "message": "एसएलए अनुपालन (नई आग अनापति प्रमाणपत्र)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_SLA_COMPLIANCE(PROVISIONAL_NOC)",
+        "message": "एसएलए अनुपालन (प्रोविजनल आग अनापति प्रमाणपत्र)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_STATE",
+        "message": "राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_STATES",
+        "message": "राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_SW",
+        "message": "सीवरेज शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_SW_ONE_TIME_FEE",
+        "message": "सिर्फ एक बार लगने वाला शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_TARGET_ACHIEVED",
+        "message": "लक्ष्य हासिल किया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_TOTAL_APPLICATIONS",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_TOTAL_CHALLANS",
+        "message": "कुल चालान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_TOTAL_CLOSED_COMPLAINTS",
+        "message": "बंद की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_TOTAL_RECEIPTS",
+        "message": "कुल प्राप्तियां",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_TX_NO_DUES_CERTIFICATE",
+        "message": "एनडीसी - नो ड्यूस प्रमाण पत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_TX_TRANSFER_PROPERTY_FEES",
+        "message": "स्थानांतरण शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_TX_TS1_COPY_REGISTER_FOR_OLD_SURVEY",
+        "message": "कॉपी रजिस्टर पुराना सर्वेक्षण",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UK_DEHRADUN",
+        "message": "देहरादून",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UK_HALDWANI",
+        "message": "हल्द्वानी",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UK_KEDARNATH",
+        "message": "केदारनाथ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UK_RISHIKESH",
+        "message": "ऋषिकेश",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UK_RUDRAPUR",
+        "message": "रुद्रपुर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_ULB",
+        "message": "निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_ULBS",
+        "message": "निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UP_AGRA",
+        "message": "आगरा",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UP_ALIGARH",
+        "message": "अलीगढ़",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UP_FATEHPUR",
+        "message": "फतेहपुर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UP_GHAZIABAD",
+        "message": "गाज़ियाबाद",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UP_LUCKNOW",
+        "message": "लखनऊ",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_UTTARAKHAND",
+        "message": "उत्तराखंड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WARD",
+        "message": "बालक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WARD_1",
+        "message": "वार्ड 1",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WARD_10",
+        "message": "वार्ड 10",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WARD_11",
+        "message": "वार्ड 11",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WARD_3",
+        "message": "वार्ड3",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WARD_4",
+        "message": "वार्ड 4",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WARD_45",
+        "message": "वार्ड 45",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WARD_5",
+        "message": "वार्ड 5",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WARD_6",
+        "message": "वार्ड 6",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WS",
+        "message": "पानी सेवाएं",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TB_WS_ONE_TIME_FEE",
+        "message": "डब्ल्यूएस वन टाइम फीस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TL",
+        "message": "व्यापार लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TL_CUMULATIVE_LICENSE_ISSUED(CR)",
+        "message": "जारी किए गए संचयी लाइसेंस (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TL_CUMULATIVE_LICENSE_ISSUED(LAC)",
+        "message": "जारी किए गए संचयी लाइसेंस (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TL_CUMULATIVE_LICENSE_ISSUED(UNIT)",
+        "message": "जारी किए गए संचयी लाइसेंस (इकाई में)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TL_TOTAL_ACTIVE_ULBS",
+        "message": "कुल सक्रिय निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TL_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TLMONTHLYCUMULATIVECOLLECTIONV2",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TODAYS_COLLECTION",
+        "message": "डेटा अंतिम बार अपडेट किया गया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_APPLICATIONS",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_CATEGORIES",
+        "message": "श्रेणियों की संख्या",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_CHALLANS",
+        "message": "कुल चालान",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_COLLECTIONS_LEGEND",
+        "message": "संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_LICENSES",
+        "message": "कुल लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_NOC_ISSUED_TYPE",
+        "message": "प्रकार द्वारा जारी कुल अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_PERMIT_AND_OC_ISSUED",
+        "message": "जारी किए गए कुल परमिट बनाम कुल जमा किए गए OC बनाम जारी किए गए कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_PERMIT_ISSUED_VS_TOTAL_OC_ISSUED_VS_TOTAL_OC_SUBMITTED",
+        "message": "जारी किए गए कुल परमिट बनाम कुल जमा किए गए OC बनाम जारी किए गए कुल OC",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_RECEIPTS",
+        "message": "कुल प्राप्तियां",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TOTAL_ULBS",
+        "message": "कुल निकाय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_UNDERIMPLEMENTATION",
+        "message": "कार्यान्वयन के अधीन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_ACTIVE_METERED_WATER_CONNECTIONS",
+        "message": "पानी - मीटर वाला कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_ACTIVE_NON_METERED_WATER_CONNECTIONS",
+        "message": "पानी - गैर मीटर वाला कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_ACTIVE_SEWERAGE_CONNECTIONS",
+        "message": "सीवरेज कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_ACTIVE_WATER_CONNECTIONS",
+        "message": "सक्रिय पानी कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_COLLECTION_BY_CHANNEL",
+        "message": "चैनल द्वारा संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_CUMULATIVE_CONNECTION",
+        "message": "संचयी कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_CUMULATIVE_CONNECTION(CR)",
+        "message": "संचयी कनेक्शन (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_CUMULATIVE_CONNECTION(LAC)",
+        "message": "संचयी कनेक्शन (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_CUMULATIVE_CONNECTION(UNIT)",
+        "message": "संचयी कनेक्शन (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_W&S_TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WATER_COLLECTIONS",
+        "message": "पानी संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WATER_CONNECTIONS",
+        "message": "पानी कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS",
+        "message": "जल और सीवरेज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS_ACTIVE_CONNECTIONS",
+        "message": "कुल सक्रिय कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS_ACTIVE_METERED_WATER_CONNECTIONS",
+        "message": "पानी - मीटर वाला कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS_ACTIVE_NON_METERED_WATER_CONNECTIONS",
+        "message": "पानी - गैर मीटर वाला कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS_ACTIVE_SEWERAGE_CONNECTIONS",
+        "message": "सीवरेज कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS_CONNECTIONS",
+        "message": "कनेक्शन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS_KEY_FY_INDICATORS",
+        "message": "प्रमुख वित्तीय संकेतक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS_SLA_COMPLIANCE",
+        "message": "एसएलए अनुपालन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_WS_TOTAL_APPLICATIONS",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_MCOLLECT",
+        "message": "एम कलेक्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_FIRENOC",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_MCOLLECT",
+        "message": "एम कलेक्ट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_PGR",
+        "message": "पीजीआर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_PROPERTYTAX",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_TRADELICENSE",
+        "message": "व्यापार लाइसेंस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_WS",
+        "message": "पानी और सीवरेज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NOC",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NSS_OBPS",
+        "message": "ओबीपीएस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_OBPS",
+        "message": "ओबीपीएस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_WS",
+        "message": "पानी और सीवरेज",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_DSS_ALL_STATE_SELECTED",
+        "message": "सभी चयनित राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_DSS_STATE",
+        "message": "राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_DSS_STATE_SELECTED",
+        "message": "चयनित राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM.TRIP_CHARGES",
+        "message": "सेप्टिक टैंक या पिट को खाली करने का शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "LOW_RISK_PERMIT_FEE",
+        "message": "कम जोखिम परमिट शुल्क",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "Municipal_Shops_Rent",
+        "message": "नगरपालिका की दुकान का किराया",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_BOTTOM_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_BOTTOM_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_BOTTOM_PERFORMING_STATES",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_CITIZEN_REGISTERED",
+        "message": "पंजीकृत नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_CLOSED_APPLICATION",
+        "message": "पूर्ण आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_COMPLAINTS",
+        "message": "कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_COMPLETION_RATE",
+        "message": "समापन दर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_FIRENOC_TOTAL_APPLICATIONS",
+        "message": "कुल जारी किया गया आग अनापति प्रमाणपत्र",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_FIRENOC_TOTAL_COLLECTION",
+        "message": "संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_MCOLLECT_TOTAL_COLLECTION",
+        "message": "संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_MCOLLECT_TOTAL_RECEIPTS",
+        "message": "कुल प्राप्तियां",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_OBPS_TOTAL_APPLICATIONS",
+        "message": "कुल जारी किया गया परमिट",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_OBPS_TOTAL_COLLECTION",
+        "message": "संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_OVERVIEW_SLA_ACHIEVED",
+        "message": "एसएलए उपलब्धि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_OVERVIEW_TOTAL_APPLICATION",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_ASSIGNED_COMPLAINTS",
+        "message": "सौंपी गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_CLOSED_COMPLAINTS",
+        "message": "बंद की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_COMPLAINTS_BY_CHANNEL",
+        "message": "चैनल द्वारा शिकायत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_COMPLAINTS_BY_DEPARTMENT",
+        "message": "विभाग द्वारा शिकायत",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_COMPLETION_RATE",
+        "message": "समापन दर",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_DASHBOARD",
+        "message": "पीजीआर राष्ट्रीय डैशबोर्ड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_EVENT_DASHBOARD",
+        "message": "औसत समाधान समय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_EVENT_DASHBOARD(LAC)",
+        "message": "औसत समाधान समय",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_OPEN_COMPLAINTS",
+        "message": "चालू शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_REASSIGNED_COMPLAINTS",
+        "message": "पुन: असाइन की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_REJECTED_COMPLAINTS",
+        "message": "अस्वीकृत शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_REOPENED_COMPLAINTS",
+        "message": "फिर से खोली गयी शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_RESOLVED_COMPLAINTS",
+        "message": "हल की गई शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_TOP_COMPLAINTS",
+        "message": "शीर्ष शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_TOTAL_COMPLAINTS",
+        "message": "कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_UNIQUE_CITIZENS",
+        "message": "अद्वितीय नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PGR_UNIQUE_CITIZENS(LAC)",
+        "message": "अद्वितीय नागरिक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PROPERTIES_ASSESSED",
+        "message": "संपत्ति मूल्यांकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_BOTTOM_3_PERFORMING_STATES",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_BOTTOM_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_BOTTOM_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "निचले 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_COLLECTION_BY_USAGE_TYPE",
+        "message": "उपयोग प्रकार के अनुसार कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_CUMULATIVE_PROPERTIES_ASSESSED",
+        "message": "कुल संचित संपत्ति मूल्यांकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_CUMULATIVE_PROPERTIES_ASSESSED(CR)",
+        "message": "कुल संचयी संपत्ति का आकलन (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_CUMULATIVE_PROPERTIES_ASSESSED(LAC)",
+        "message": "कुल संचयी संपत्ति का आकलन (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_CUMULATIVE_PROPERTIES_ASSESSED(UNIT)",
+        "message": "कुल संचयी संपत्ति का आकलन (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_KEY_FY_INDICATORS",
+        "message": "मुख्य निष्पादन संकेतक",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_PROPERTIES_BY_FINANCIAL_YEAR",
+        "message": "वित्त वर्ष के अनुसार संपत्तियां",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_PROPERTIES_BY_USAGE_TYPE",
+        "message": "उपयोग प्रकार के अनुसार संपत्तियां",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_TAX_HEAD",
+        "message": "कर हेड",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_TOP_3_PERFORMING_STATES",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_TOP_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_TOP_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_TOTAL_ASSESSMENTS",
+        "message": "कुल मूल्यांकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_TOTAL_COLLECTION",
+        "message": "संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_TOTAL_PROPERTIES",
+        "message": "कुल उपलब्ध संपत्तियां",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_TOTAL_PROPERTIES_ASSESSED",
+        "message": "कुल संपत्ति का मूल्यांकन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_REVENUE",
+        "message": "राजस्व",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_SERVICE",
+        "message": "सर्विस",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_SLA_ACHIEVED",
+        "message": "एसएलए उपलब्धि",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TARGET_ACHIEVED",
+        "message": "लक्ष्य प्राप्ति",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TARGET_COLLECTION",
+        "message": "लक्ष्य संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TL_TOTAL_COLLECTION",
+        "message": "संग्रह लक्ष्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOP_3_PERFORMING_STATES_COMPLETION_RATE",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOP_3_PERFORMING_STATES_TARGET_ACHIEVEMENT",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOP_PERFORMING_STATES",
+        "message": "शीर्ष 3 राज्य",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_APPLICATION",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_APPLICATION_&_CLOSED_APPLICATION",
+        "message": "कुल आवेदन और पूर्ण आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_APPLICATIONS",
+        "message": "कुल आवेदन",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_APPLICATIONS_SERVICE_WISE",
+        "message": "कुल आवेदन (सेवा के अनुसार)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_APPLICATIONS:_SERVICE_WISE",
+        "message": "कुल आवेदन (सेवा के अनुसार)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_COLLECTION",
+        "message": "कुल संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_COLLECTION_TODAY",
+        "message": "पर संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_COMPLAINTS",
+        "message": "कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_COMPLAINTS_BY_SOURCE",
+        "message": "स्रोत द्वारा कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_COMPLAINTS_STATUS",
+        "message": "स्टेटस द्वारा कुल शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_CLOSED_COMPLAINTS",
+        "message": "संचित बंद शिकायतें",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_CLOSED_COMPLAINTS(CR)",
+        "message": "संचयी बंद शिकायतें (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_CLOSED_COMPLAINTS(LAC)",
+        "message": "संचयी बंद शिकायतें (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_CLOSED_COMPLAINTS(UNIT)",
+        "message": "संचयी बंद शिकायतें (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_COLLECTION",
+        "message": "कुल संचित संग्रह",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_COLLECTION_SERVICE_WISE",
+        "message": "कुल संचयी संग्रह (सेवा वार)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_COLLECTION:_SERVICE_WISE",
+        "message": "कुल संचयी संग्रह (सेवा वार)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_COLLECTION(CR)",
+        "message": "कुल संचयी संग्रह (करोड़)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_COLLECTION(LAC)",
+        "message": "कुल संचयी संग्रह (लाख)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_TOTAL_CUMULATIVE_COLLECTION(UNIT)",
+        "message": "कुल संचयी संग्रह (इकाई)",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    }
+]

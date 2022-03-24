@@ -1,0 +1,650 @@
+[
+    {
+        "code": "WS_PAYMENT_NOTIFICATION_APP",
+        "message": "{बिलिंग अवधि} के लिए {सेवा} बिल की {राशि का भुगतान} का आपका भुगतान प्राप्त हो गया है। {एक्शन बटन} रसीद डाउनलोड करें{/Action Button } \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_DEMAND_SUCCESSFUL_SMS_MESSAGE",
+        "message": "प्रिय {प्रथम नाम},{अंतिम नाम}, बिलिंग अवधि के लिए {ULB} में सभी {सेवा} कनेक्शन की मांग: {बिलिंग चक्र} सफलतापूर्वक उत्पन्न हो गई है। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_DEMAND_FAILURE_SMS_MESSAGE",
+        "message": "प्रिय {प्रथम नाम},{अंतिम नाम}, {ULB} में {सेवा} कनेक्शन की मांग बिलिंग अवधि के लिए विफल रही: {बिलिंग चक्र}। कृपया अपनी तकनीकी टीम को रिपोर्ट करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_DEMAND_SUCCESSFUL_EMAIL_MESSAGE",
+        "message": "<h2>विषय: {बिलिंग चक्र} के लिए सफल {सेवा} के लिए मांग उत्पन्न करना</h2><p>प्रिय {प्रथम नाम},{अंतिम नाम}, <br>{ULB} में सभी {सेवा} कनेक्शनों की मांग बिलिंग अवधि के लिए: {बिलिंग चक्र} सफलतापूर्वक जनरेट किया गया है।<br> यह एक सिस्टम जनरेटेड ईमेल है।</p> \n\nEGovS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_DEMAND_FAILURE_EMAIL_MESSAGE",
+        "message": "<h2>विषय: {बिलिंग चक्र} के लिए {सेवा} के लिए मांग उत्पन्न नहीं हुई</h2><p>प्रिय {प्रथम नाम},{अंतिम नाम}, <br>{ULB} में {सेवा} कनेक्शन की मांग विफल बिलिंग अवधि के लिए: {बिलिंग चक्र} <br>कृपया अपनी तकनीकी टीम को रिपोर्ट करें। <br> यह एक सिस्टम जनरेटेड ईमेल है।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_BILL_SUCCESSFUL_SMS_MESSAGE",
+        "message": "प्रिय {नाम}, बिलिंग अवधि के लिए {ULB} में सभी {सेवा} कनेक्शन के बिल: {बिलिंग चक्र} सफलतापूर्वक जेनरेट किए जा चुके हैं। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_BILL_FAILURE_SMS_MESSAGE",
+        "message": "{ULB} में निम्न {सेवा} कनेक्शन का बिल बिलिंग अवधि के लिए विफल रहा: {बिलिंग चक्र}। कृपया अपनी तकनीकी टीम को रिपोर्ट करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_BILL_SUCCESSFUL_EMAIL_MESSAGE",
+        "message": "<h2>विषय: {बिलिंग चक्र} के लिए {सेवा} कनेक्शन के लिए बिल बनाना</h2><p>प्रिय {नाम}, <br>बिलिंग अवधि के लिए {ULB} में सभी {सेवा} कनेक्शन के बिल: {बिलिंग चक्र} सफलतापूर्वक जेनरेट हो गया है। <br> यह एक सिस्टम जनरेटेड ईमेल है।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_BILL_FAILURE_EMAIL_MESSAGE",
+        "message": "<h2>विषय: {बिलिंग चक्र} के लिए सफल {सेवा} कनेक्शन के लिए बिल बनाना</h2><p>प्रिय {नाम}, <br>बिलिंग अवधि के लिए {ULB} में सभी {सेवा} कनेक्शन के बिल: {बिलिंग चक्र} विफल हो गया है। <br>कृपया अपनी तकनीकी टीम को रिपोर्ट करें। <br> यह एक सिस्टम जनरेटेड ईमेल है।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_DEMAND_SUCCESSFUL_SMS_MESSAGE",
+        "message": "प्रिय {प्रथम नाम},{अंतिम नाम}, बिलिंग अवधि के लिए {ULB} में सभी {सेवा} कनेक्शन की मांग: {बिलिंग चक्र} सफलतापूर्वक उत्पन्न हो गई है। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_DEMAND_FAILURE_SMS_MESSAGE",
+        "message": "प्रिय {प्रथम नाम},{अंतिम नाम}, {ULB} में {सेवा} कनेक्शन की मांग बिलिंग अवधि के लिए विफल रही: {बिलिंग चक्र}। कृपया अपनी तकनीकी टीम को रिपोर्ट करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_DEMAND_SUCCESSFUL_EMAIL_MESSAGE",
+        "message": "<h2>विषय: {सर्विस} के लिए {बिलिंग चक्र} के लिए सफल मांग</h2><p>प्रिय {प्रथम नाम},{अंतिम नाम}, <br>{ULB} में सभी {सेवा} कनेक्शन की मांग बिलिंग अवधि के लिए: {बिलिंग चक्र} सफलतापूर्वक जेनरेट हो गया है। <br> यह एक सिस्टम जनरेटेड ईमेल है।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_DEMAND_FAILURE_EMAIL_MESSAGE",
+        "message": "<h2>विषय: {बिलिंग चक्र} के लिए {सेवा} के लिए मांग उत्पन्न नहीं हुई</h2><p>प्रिय {प्रथम नाम},{अंतिम नाम}, <br>{ULB} में {सेवा} कनेक्शन की मांग विफल बिलिंग अवधि के लिए: {बिलिंग चक्र} <br>कृपया अपनी तकनीकी टीम को रिपोर्ट करें। <br> यह एक सिस्टम जनरेटेड ईमेल है।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_BILL_SUCCESSFUL_SMS_MESSAGE",
+        "message": "प्रिय {नाम}, बिलिंग अवधि के लिए {ULB} में सभी {सेवा} कनेक्शन के बिल: {बिलिंग चक्र} सफलतापूर्वक जेनरेट किए जा चुके हैं। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_BILL_FAILURE_SMS_MESSAGE",
+        "message": "{ULB} में निम्न {सेवा} कनेक्शन का बिल बिलिंग अवधि के लिए विफल रहा: {बिलिंग चक्र}। कृपया अपनी तकनीकी टीम को रिपोर्ट करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_BILL_SUCCESSFUL_EMAIL_MESSAGE",
+        "message": "<h2>विषय: {बिलिंग चक्र} के लिए सफल {सेवा} कनेक्शन के लिए बिल बनाना</h2><p>प्रिय {नाम}, <br>बिलिंग अवधि के लिए {ULB} में सभी {सेवा} कनेक्शन के बिल: {बिलिंग चक्र} सफलतापूर्वक जेनरेट हो गया है। <br> यह एक सिस्टम जनरेटेड ईमेल है।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_BILL_FAILURE_EMAIL_MESSAGE",
+        "message": "<h2>विषय: {बिलिंग चक्र} के लिए सफल {सेवा} कनेक्शन के लिए बिल बनाना</h2><p>प्रिय {नाम}, <br>बिलिंग अवधि के लिए {ULB} में सभी {सेवा} कनेक्शन के बिल: {बिलिंग चक्र} विफल हो गया है।<br>कृपया अपनी तकनीकी टीम को रिपोर्ट करें। <br> यह एक सिस्टम जनरेटेड ईमेल है।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} स्वीकृत हो गया है। परिवर्तन {तिथि से प्रभावी} से प्रभावी होंगे। अधिक जानकारी के लिए यहाँ क्लिक करें। {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} स्वीकृत हो गया है। परिवर्तन {तिथि से प्रभावी} से प्रभावी होंगे। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_REJECT_REJECTED_APP_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} अस्वीकार कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} अस्वीकार कर दिया गया है। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_SMS_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_IN_APP_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें। {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
+        "message": "प्रिय उपभोक्ता, आपने कनेक्शन के संशोधन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपका आवेदन संख्या {आवेदन संख्या} है। {एक्शन बटन}एप्लिकेशन डाउनलोड करें{/Action Button } \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
+        "message": "प्रिय उपभोक्ता, आपने कनेक्शन के संशोधन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपका आवेदन संख्या {आवेदन संख्या} है। अपना आवेदन {आवेदन डाउनलोड लिंक} डाउनलोड करने के लिए यहाँ क्लिक करें। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DEFAULT_EDIT_MODIFY_CONNECTION_APP_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें}। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DEFAULT_EDIT_MODIFY_CONNECTION_SMS_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DEFAULT_EDIT_NEW_CONNECTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें}। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DEFAULT_EDIT_NEW_CONNECTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आवेदन {आवेदन संख्या} के विरुद्ध आपका नया {सेवा} कनेक्शन सक्रिय कर दिया गया है। अपने कनेक्शन के विवरण की जांच करने के लिए, यहाँ क्लिक करें {कनेक्शन के विवरण का पृष्ठ} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आवेदन {आवेदन संख्या} के विरुद्ध आपका नया {सेवा} कनेक्शन सक्रिय कर दिया गया है। अपने कनेक्शन के विवरण की जांच करने के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGovS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_EMAIL_MESSAGE",
+        "message": "<h2>विषय: आपका नया {सेवा} कनेक्शन सक्रिय है </h2><p>प्रिय {स्वामी का नाम}, <br>एप्लिकेशन के विरुद्ध आपका नया {सेवा} कनेक्शन {आवेदन संख्या} सक्रिय है। <br>अपने कनेक्शन के विवरण की जांच करने के लिए, यहाँ क्लिक करें {कनेक्शन के विवरण का पृष्ठ} <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम} , आवेदन {आवेदन संख्या} के विरुद्ध नए {सेवा} कनेक्शन के लिए आपका भुगतान सफलतापूर्वक दर्ज कर लिया गया है। आप रसीद डाउनलोड करें पर क्लिक करके रसीद डाउनलोड कर सकते हैं। आपका कनेक्शन {SLA} दिनों के भीतर सक्रिय हो जाएगा।{प्लंबर जानकारी} आपको आवंटित संबंधित प्लंबर {प्लंबर नाम}, लाइसेंस नंबर {प्लंबर लाइसेंस नंबर}, संपर्क नंबर {प्लंबर मोबाइल नंबर}, {एक्शन बटन} है। रसीद डाउनलोड करें{/Action Button } \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम} , आवेदन {आवेदन संख्या} के विरुद्ध नए {सेवा} कनेक्शन के लिए आपका भुगतान सफलतापूर्वक दर्ज कर लिया गया है। इस लिंक {रसीद डाउनलोड लिंक} का उपयोग करके अपनी रसीद डाउनलोड करें। आपका कनेक्शन {SLA} दिनों के भीतर सक्रिय हो जाएगा।{प्लंबर जानकारी} आपको आवंटित संबंधित प्लंबर {प्लंबर नाम}, लाइसेंस नंबर {प्लंबर लाइसेंस नंबर}, संपर्क नंबर {प्लंबर मोबाइल नंबर} है।{/प्लंबर जानकारी} अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_EMAIL_MESSAGE",
+        "message": "<h2>विषय: विषय: नए {सेवा} कनेक्शन के लिए आपका भुगतान प्राप्त हो गया है </h2><p>प्रिय {स्वामी का नाम}, <br>नए {सेवा} कनेक्शन के लिए आपका भुगतान प्राप्त हो गया है। <br>अपनी रसीद डाउनलोड करने के लिए दिए गए लिंक पर क्लिक करें {रसीद डाउनलोड लिंक}। आपका कनेक्शन {SLA} दिनों के भीतर सक्रिय हो जाएगा।<br> अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br> यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आवेदन {आवेदन संख्या} के विरुद्ध आपका नया {सेवा} कनेक्शन स्वीकृत कर दिया गया है। अपने आवेदन के लिए भुगतान करने के लिए, कृपया अभी भुगतान करें पर क्लिक करें। {एक्शन बटन}अभी भुगतान करें{/Action Button } \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आवेदन {आवेदन संख्या} के विरुद्ध आपका नया {सेवा} कनेक्शन स्वीकृत कर दिया गया है। अपने आवेदन के लिए भुगतान करने के लिए, कृपया {भुगतान लिंक} पर क्लिक करें। अधिक विवरण के लिए {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_EMAIL_MESSAGE",
+        "message": "<h2>विषय: नई {सेवा} के लिए आपका आवेदन स्वीकृत है। अब भुगतान करें। </h2><p>प्रिय {स्वामी का नाम}, <br>आवेदन के विरुद्ध आपका नया {सेवा} कनेक्शन {आवेदन संख्या} स्वीकृत है। <br>कृपया अपने कनेक्शन को सक्रिय करने के लिए भुगतान करें {कनेक्शन नंबर},{भुगतान लिंक} <br>अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपके आवेदन {आवेदन संख्या} की स्थिति 'अनुमोदन के लिए लंबित' से 'फ़ील्ड निरीक्षण के लिए लंबित' से बदल गई है। अपने आवेदन को ट्रैक करने के लिए, {कार्रवाई बटन} इतिहास देखें पर क्लिक करें लिंक{/Action Button } \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपके आवेदन {आवेदन संख्या} की स्थिति 'क्षेत्र निरीक्षण के लिए लंबित' से 'अनुमोदन के लिए लंबित' में बदल गई है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, नए {सेवा} कनेक्शन के लिए आपके आवेदन {आवेदन संख्या} की स्थिति 'दस्तावेज़ सत्यापन के लिए लंबित' से 'फ़ील्ड निरीक्षण के लिए लंबित' में बदल गई है। अपने आवेदन को ट्रैक करने के लिए, {एक्शन बटन} देखें पर क्लिक करें इतिहास लिंक{/Action Button } \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपके आवेदन {आवेदन संख्या} की स्थिति 'दस्तावेज़ सत्यापन के लिए लंबित' से 'फ़ील्ड निरीक्षण के लिए लंबित' में बदल गई है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_EMAIL_MESSAGE",
+        "message": "<h2>विषय: नई {सेवा} के लिए आपका आवेदन वापस भेज दिया गया है</h2><p>प्रिय {स्वामी का नाम}, <br>एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। <br>अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_EMAIL_MESSAGE",
+        "message": "<h2>विषय: नई {सेवा} के लिए आपका आवेदन वापस भेज दिया गया है</h2><p>प्रिय {स्वामी का नाम}, <br>एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। <br>अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_EMAIL_MESSAGE",
+        "message": "<h2>विषय: नई {सेवा} के लिए आपका आवेदन वापस भेज दिया गया है</h2><p>प्रिय {स्वामी का नाम}, <br>एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। <br>अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_EMAIL_MESSAGE",
+        "message": "<h2>विषय: नई {सेवा} के लिए आपका आवेदन वापस भेज दिया गया है</h2><p>प्रिय {स्वामी का नाम}, <br>एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। <br>अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REJECT_REJECTED_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} अस्वीकार कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} अस्वीकार कर दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आपने एक नए {सेवा} कनेक्शन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपका आवेदन संख्या {आवेदन संख्या} है। {एक्शन बटन}एप्लिकेशन डाउनलोड करें{/Action Button }। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आपने एक नए {सेवा} कनेक्शन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपकी आवेदन संख्या {आवेदन संख्या} है। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_EMAIL_MESSAGE",
+        "message": "<h2>विषय: नई {सेवा} के लिए आपका आवेदन सफलतापूर्वक सबमिट किया गया है</h2> <p> प्रिय {स्वामी का नाम}, <br> आपने नए {सेवा} कनेक्शन के लिए अपना आवेदन सफलतापूर्वक सबमिट कर दिया है। आपका आवेदन क्रमांक है {आवेदन संख्या} <br> अपना आवेदन डाउनलोड करने के लिए यहाँ क्लिक करें {आवेदन डाउनलोड लिंक} <br>अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_EMAIL_MESSAGE",
+        "message": "प्रिय उपभोक्ता, आपने कनेक्शन के संशोधन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपका आवेदन संख्या {आवेदन संख्या} है। अपना आवेदन {आवेदन डाउनलोड लिंक} डाउनलोड करने के लिए यहाँ क्लिक करें। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_NOTIFICATION_SMS",
+        "message": "प्रिय उपभोक्ता, {बिलिंग अवधि} के लिए {सेवा} बिल की {राशि भुगतान} का आपका भुगतान प्राप्त हो गया है। आपकी रसीद का लिंक निम्न है: {रसीद डाउनलोड लिंक} \n\nEGovS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_EDIT_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम} , आवेदन {आवेदन संख्या} के विरुद्ध नए {सेवा} कनेक्शन के लिए आपका भुगतान सफलतापूर्वक दर्ज कर लिया गया है। आप रसीद डाउनलोड करें क्लिक करके रसीद डाउनलोड कर सकते हैं। {एक्शन बटन}रसीद डाउनलोड करें{/Action Button } आपका कनेक्शन {एसएलए} दिनों के भीतर सक्रिय हो जाएगा। {प्लंबर जानकारी} आपको आवंटित संबंधित प्लंबर {प्लंबर नाम}, लाइसेंस नंबर {प्लंबर लाइसेंस नंबर}, संपर्क नंबर {प्लंबर मोबाइल नंबर} है।{/प्लंबर जानकारी} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम} , आवेदन {आवेदन संख्या} के विरुद्ध नए {सेवा} कनेक्शन के लिए आपका भुगतान सफलतापूर्वक दर्ज कर लिया गया है। इस लिंक {रसीद डाउनलोड लिंक} का उपयोग करके अपनी रसीद डाउनलोड करें। आपका कनेक्शन {SLA} दिनों के भीतर सक्रिय हो जाएगा।{प्लंबर जानकारी} आपको आवंटित संबंधित प्लंबर {प्लंबर नाम}, लाइसेंस नंबर {प्लंबर लाइसेंस नंबर}, संपर्क नंबर {प्लंबर मोबाइल नंबर} है।{/प्लंबर जानकारी }अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपके आवेदन {आवेदन संख्या} की स्थिति 'लंबित: कनेक्शन के लिए स्वीकृति' से 'फ़ील्ड निरीक्षण के लिए लंबित' में बदल गई है। अपने आवेदन को ट्रैक करने के लिए, {इतिहास का लिंक देखें} पर क्लिक करें \n\nEGovS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आवेदन {आवेदन संख्या} के विरुद्ध आपका नया {सेवा} कनेक्शन सक्रिय कर दिया गया है। अपने कनेक्शन के विवरण की जांच करने के लिए, यहाँ {कनेक्शन के विवरण का पृष्ठ} क्लिक करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें}। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} वापस भेज दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपके आवेदन {आवेदन संख्या} की स्थिति 'लंबित: कनेक्शन के लिए स्वीकृति' से 'फ़ील्ड निरीक्षण के लिए लंबित' में बदल गई है। अपने आवेदन को ट्रैक करने के लिए, {इतिहास का लिंक देखें} पर क्लिक करें \n\nEGovS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपके आवेदन {आवेदन संख्या} की स्थिति 'दस्तावेज़ सत्यापन के लिए लंबित' से 'फ़ील्ड निरीक्षण के लिए लंबित' में बदल गई है। अपने आवेदन को ट्रैक करने के लिए, {इतिहास का लिंक देखें} पर क्लिक करें \n\nEGovS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, एक नए {सेवा} कनेक्शन के लिए आपके आवेदन {आवेदन संख्या} की स्थिति 'दस्तावेज़ सत्यापन के लिए लंबित' से 'फ़ील्ड निरीक्षण के लिए लंबित' में बदल गई है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_EMAIL_MESSAGE",
+        "message": "<h2>विषय: विषय: नए {सेवा} कनेक्शन के लिए आपका भुगतान प्राप्त हो गया है </h2><p>प्रिय {स्वामी का नाम}, <br>नए {सेवा} कनेक्शन के लिए आपका भुगतान प्राप्त हो गया है। <br>अपनी रसीद डाउनलोड करने के लिए दिए गए लिंक पर क्लिक करें {रसीद डाउनलोड लिंक}। आपका कनेक्शन {SLA} दिनों के भीतर सक्रिय हो जाएगा।<br> अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br> यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आवेदन {आवेदन संख्या} के विरुद्ध आपका नया {सेवा} कनेक्शन स्वीकृत कर दिया गया है। अपने आवेदन के लिए भुगतान करने के लिए, कृपया {भुगतान लिंक} पर क्लिक करें। अधिक विवरण के लिए {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आवेदन {आवेदन संख्या} के विरुद्ध आपका नया {सेवा} कनेक्शन स्वीकृत कर दिया गया है। अपने आवेदन के लिए भुगतान करने के लिए, कृपया अभी भुगतान करें पर क्लिक करें। {एक्शन बटन}अभी भुगतान करें{/Action Button } \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_EMAIL_MESSAGE",
+        "message": "<h2>विषय: नई {सेवा} के लिए आपका आवेदन स्वीकृत है। अब भुगतान करें। </h2><p>प्रिय {स्वामी का नाम}, <br>आवेदन के विरुद्ध आपका नया {सेवा} कनेक्शन {आवेदन संख्या} स्वीकृत है। <br>कृपया अपने कनेक्शन को सक्रिय करने के लिए भुगतान करें {कनेक्शन नंबर},{भुगतान लिंक} <br>अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आपने एक नए {सेवा} कनेक्शन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपका आवेदन संख्या {आवेदन संख्या} है। {एक्शन बटन}एप्लिकेशन डाउनलोड करें{/Action Button }। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आपने एक नए {सेवा} कनेक्शन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपकी आवेदन संख्या {आवेदन संख्या} है। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_EMAIL_MESSAGE",
+        "message": "<h2>विषय: नई {सेवा} के लिए आपका आवेदन सफलतापूर्वक सबमिट कर दिया गया है</h2><p> प्रिय {स्वामी का नाम}, <br> आपने नए {सेवा} कनेक्शन के लिए अपना आवेदन सफलतापूर्वक सबमिट कर दिया है। आपका आवेदन क्रमांक है {आवेदन संख्या} <br> अपना आवेदन डाउनलोड करने के लिए यहाँ क्लिक करें {आवेदन डाउनलोड लिंक} <br>अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAYMENT_NOTIFICATION_SMS",
+        "message": "प्रिय उपभोक्ता, {बिलिंग अवधि} के लिए {सेवा} बिल की {राशि भुगतान} का आपका भुगतान प्राप्त हो गया है। आपकी रसीद का लिंक निम्नलिखित है: {रसीद डाउनलोड लिंक} \n\nEGovS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAYMENT_NOTIFICATION_APP",
+        "message": "{बिलिंग अवधि} के लिए {सेवा} बिल की {राशि का भुगतान} का आपका भुगतान प्राप्त हो गया है। {एक्शन बटन}रसीद डाउनलोड करें{/Action Button } \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} अस्वीकार कर दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_REJECT_REJECTED_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} अस्वीकार कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} स्वीकृत हो गया है। परिवर्तन {तिथि से प्रभावी} से प्रभावी होंगे। अधिक जानकारी के लिए यहाँ क्लिक करें। {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} स्वीकृत हो गया है। परिवर्तन {तिथि से प्रभावी} से प्रभावी होंगे। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_REJECT_REJECTED_APP_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} अस्वीकार कर दिया गया है। अधिक विवरण के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें। \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, नए {सेवा} कनेक्शन के लिए आपका आवेदन {आवेदन संख्या} अस्वीकार कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_SMS_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} संपादित कर दिया गया है। अधिक जानकारी के लिए यहाँ क्लिक करें। {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_IN_APP_MESSAGE",
+        "message": "प्रिय उपभोक्ता, आपने कनेक्शन के संशोधन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपका आवेदन संख्या {आवेदन संख्या} है। {एक्शन बटन}एप्लिकेशन डाउनलोड करें{/Action Button } \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
+        "message": "प्रिय उपभोक्ता, कनेक्शन में संशोधन के लिए आपका आवेदन {आवेदन संख्या} अस्वीकार कर दिया गया है। अधिक विवरण के लिए यहाँ क्लिक करें {इतिहास का लिंक देखें} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
+        "message": "प्रिय उपभोक्ता, आपने कनेक्शन के संशोधन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपका आवेदन संख्या {आवेदन संख्या} है। अपना आवेदन {आवेदन डाउनलोड लिंक} डाउनलोड करने के लिए यहाँ क्लिक करें। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_EMAIL_MESSAGE",
+        "message": "प्रिय उपभोक्ता, आपने कनेक्शन के संशोधन के लिए अपना आवेदन सफलतापूर्वक जमा कर दिया है। आपका आवेदन संख्या {आवेदन संख्या} है। अपना आवेदन {आवेदन डाउनलोड लिंक} डाउनलोड करने के लिए यहाँ क्लिक करें। अधिक जानकारी के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आवेदन {आवेदन संख्या} के विरुद्ध आपका नया {सेवा} कनेक्शन सक्रिय कर दिया गया है। अपने कनेक्शन के विवरण की जांच करने के लिए, कृपया {मीसेवा यूआरएल} में लॉग इन करें या {मीसेवा ऐप लिंक} डाउनलोड करें \n\nEGovS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_EMAIL_MESSAGE",
+        "message": "<h2>विषय: आपका नया {सेवा} कनेक्शन सक्रिय है </h2><p>प्रिय {स्वामी का नाम}, <br>एप्लिकेशन के विरुद्ध आपका नया {सेवा} कनेक्शन {आवेदन संख्या} सक्रिय है। <br>अपने कनेक्शन के विवरण की जांच करने के लिए, यहाँ क्लिक करें {कनेक्शन के विवरण का पृष्ठ} <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p> \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_BILL_GENERATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आपका {सेवा} बिल जनरेट हो गया है। कृपया देय राशि का भुगतान करें: {बिल राशि} देय तिथि {देय तिथि} तक। आपके बिल का लिंक निम्न है: {बिल का लिंक}\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_BILL_GENERATION_SMS_MESSAGE",
+        "message": "प्रिय {स्वामी का नाम}, आपका {सेवा} बिल जनरेट हो गया है। कृपया देय राशि का भुगतान करें: {बिल राशि} देय तिथि {देय तिथि} तक। आपके बिल का लिंक निम्न है: {बिल का लिंक}\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BILL_CANCELLATION_NOTIF_MSG",
+        "message": "प्रिय {OWNER_NAME}, {BILLING_PERIOD} के लिए आपका {SERVICE} बिल रद्द कर दिया गया है। रद्द करने का कारण: {REASON_FOR_CANCELLATION}. \n\nईजीओवीएस",
+        "module": "billing-services",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_PAYMENT_NOTIFICATION_EMAIL",
+        "message": "<h2>विषय: {सेवा} बिल के लिए आपका भुगतान सफल हुआ </h2><p>प्रिय {स्वामी का नाम}, <br>{बिलिंग अवधि} के लिए {सेवा} बिल के लिए आपका {भुगतान की गई राशि} का भुगतान सफल हो गया है। <br>भुगतान रसीद डाउनलोड करने के लिए नीचे दिए गए लिंक पर क्लिक करें: {रसीद डाउनलोड लिंक}<br>अधिक विवरण के लिए, कृपया {mseva URL} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_PAYMENT_NOTIFICATION_EMAIL",
+        "message": "<h2>विषय: {सेवा} बिल के लिए आपका भुगतान सफल हुआ </h2><p>प्रिय {स्वामी का नाम}, <br>{बिलिंग अवधि} के लिए {सेवा} बिल के लिए आपका {भुगतान की गई राशि} का भुगतान सफल हो गया है। <br>भुगतान रसीद डाउनलोड करने के लिए नीचे दिए गए लिंक पर क्लिक करें: {रसीद डाउनलोड लिंक}<br>अधिक विवरण के लिए, कृपया {mseva URL} में लॉग इन करें <br>यह एक सिस्टम जनरेटेड ईमेल है। इस ईमेल का उत्तर न दें।</p>",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    }
+]
