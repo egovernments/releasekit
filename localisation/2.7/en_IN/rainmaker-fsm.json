@@ -1,19 +1,19 @@
 [
   {
-    "code": "ES_FSM_PAYMhiT_PREFERhiCE_LABEL",
-    "message": "Select Paymhit Preferhice",
+    "code": "ES_FSM_payment_PREFERhiCE_LABEL",
+    "message": "Select Payment Preference",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "ES_FSM_PAYMhiT_PREFERhiCE_TEXT",
-    "message": "Please select whhi you want to pay",
+    "code": "ES_FSM_payment_PREFERhiCE_TEXT",
+    "message": "Please select when you want to pay",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_CHECK_INFO_PAY_NOW",
-    "message": "Application process will take a minute to complete. A service provider will be assigned to you once the paymhit is complete.",
+    "message": "Application process will take a minute to complete. A service provider will be assigned to you once the payment is complete.",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -43,7 +43,7 @@
   },
   {
     "code": "CS_COMMON_SELECT_GhiDER",
-    "message": "Select your ghider",
+    "message": "Select your gender",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -79,7 +79,7 @@
   },
   {
     "code": "ES_ACTION_REASON_UNDER_MAINThiANCE",
-    "message": "Under Mainthiance",
+    "message": "Under Maintenance",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -133,7 +133,7 @@
   },
   {
     "code": "CORE_COMMON_PROFILE_NAME",
-    "message": "Profie Name",
+    "message": "Profile Name",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -217,7 +217,7 @@
   },
   {
     "code": "ES_FSM_DISPOSE_UPDATE_FAILURE",
-    "message": "Dsispose Update Failure",
+    "message": "Dispose Update Failure",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -271,7 +271,7 @@
   },
   {
     "code": "ES_FSM_RESPONSE_SCHEDULE_DISPLAY ",
-    "message": "De-sludging service has been successfully scheduled as per your request. The Desludging Operator will be arriving soon.",
+    "message": "Desludging service has been successfully scheduled as per your request. The Desludging Operator will be arriving soon.",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -283,7 +283,7 @@
   },
   {
     "code": "CS_FILE_APPLICATION_INFO_TEXT",
-    "message": "{CONThiT} It might cost around Rs.{MINAMOUNT}-{MAXAMOUNT} for cleaning your septic tank and there are concessed rates for people living in slum areas",
+    "message": "{CONThiT} It might cost around Rs.{MINAMOUNT}-{MAX AMOUNT} for cleaning your septic tank and there are concession rates for people living in slum areas",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -295,7 +295,7 @@
   },
   {
     "code": "ES_FSM_RESPONSE_SCHEDULE_DISPLAY_ERROR",
-    "message": " Sorry! Looks like there are no vehicles matching this vehicle capacity. Please go back and select a vehicle capacity of available vehicles.",
+    "message": "Sorry! Looks like there are no vehicles matching this vehicle capacity. Please go back and select a vehicle capacity of available vehicles.",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -337,13 +337,13 @@
   },
   {
     "code": "COMMON_MASTERS_RESIDhiTIAL_APARTMhiT",
-    "message": "Recidhitial Apartmhit",
+    "message": "Residential Apartment",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "COMMON_MASTERS_RESIDhiTIAL_INDEPhiDhiT_HOUSE",
-    "message": "Indephidhit House",
+    "message": "Independent House",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
