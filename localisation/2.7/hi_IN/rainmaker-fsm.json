@@ -1,12 +1,12 @@
 [
   {
-    "code": "ES_FSM_PAYMENT_PREFERENCE_LABEL",
+    "code": "ES_FSM_PAYMenT_PREFERenCE_LABEL",
     "message": "भुगतान का पसंदीदा विकल्प चुनें",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
   {
-    "code": "ES_FSM_PAYMENT_PREFERENCE_TEXT",
+    "code": "ES_FSM_PAYMenT_PREFERenCE_TEXT",
     "message": "कृपया चुनें कि आप कब भुगतान करना चाहते हैं",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
@@ -36,19 +36,19 @@
     "locale": "hi_IN"
   },
   {
-    "code": "CS_COMMON_CHOOSE_GhiDER",
+    "code": "CS_COMMON_CHOOSE_GENDER",
     "message": "अपना लिंग चुनें",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
   {
-    "code": "CS_COMMON_SELECT_GhiDER",
+    "code": "CS_COMMON_SELECT_GENDER",
     "message": "अपना लिंग चयनित करें",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
   {
-    "code": "COMMON_APPLICANT_GhiDER",
+    "code": "COMMON_APPLICANT_GENDER",
     "message": "आवेदक का लिंग",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
@@ -78,7 +78,7 @@
     "locale": "hi_IN"
   },
   {
-    "code": "ES_ACTION_REASON_UNDER_MAINThiANCE",
+    "code": "ES_ACTION_REASON_UNDER_MAINTenANCE",
     "message": "रखरखाव के अधीन",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
@@ -235,7 +235,7 @@
   },
   {
     "code": "FSM_TIMELINE_LOCATION_DETAILS",
-    "message": "स्थान/इलाके का  विवरण",
+    "message": "स्थान/इलाके का विवरण",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
@@ -270,7 +270,7 @@
     "locale": "hi_IN"
   },
   {
-    "code": "ES_FSM_RESPONSE_SCHEDULE_DISPLAY ",
+    "code": "ES_FSM_RESPONSE_SCHEDULE_DISPLAY",
     "message": "आपके अनुरोध के अनुसार कीचड़ हटाने की सेवा सफलतापूर्वक निर्धारित की गई है। Desluding ऑपरेटर जल्द ही आने वाला है।",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
@@ -283,7 +283,7 @@
   },
   {
     "code": "CS_FILE_APPLICATION_INFO_TEXT",
-    "message": "{CONThiT} सेप्टिक टंकी की सफाई में लगभग {MINAMOUNT}-{MAXAMOUNT} रुपय की लागत आ सकती है तथा स्लम क्षेत्रों में रहने वाले लोगों के लिए दरों में छूट है",
+    "message": "{CONThiT}, सेप्टिक टंकी की सफाई में लगभग {MINAMOUNT},-{MAXAMOUNT}, रुपय की लागत आ सकती है तथा स्लम क्षेत्रों में रहने वाले लोगों के लिए दरों में छूट है",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
@@ -330,19 +330,19 @@
     "locale": "hi_IN"
   },
   {
-    "code": "DSS_FSM_RESQUEST_BY_GhiDER",
+    "code": "DSS_FSM_REQUEST_BY_GENDER",
     "message": "लिंग के आधार पर FSM सेवा अनुरोध",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
   {
-    "code": "COMMON_MASTERS_RESIDhiTIAL_APARTMhiT",
+    "code": "COMMON_MASTERS_RESIDenTIAL_APARTMenT",
     "message": "आवासीय अपार्टमेंट",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
   {
-    "code": "COMMON_MASTERS_RESIDhiTIAL_INDEPhiDhiT_HOUSE",
+    "code": "COMMON_MASTERS_RESIDenTIAL_INDEPenDenT_HOUSE",
     "message": "स्वतंत्र घर",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
@@ -354,8 +354,8 @@
     "locale": "hi_IN"
   },
   {
-    "code": "COMMON_MASTERS_RESIDhiTIAL_ROW_HOUSES",
-    "message": " घरों की पंक्ति",
+    "code": "COMMON_MASTERS_RESIDenTIAL_ROW_HOUSES",
+    "message": "  घरों की पंक्ति",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
@@ -385,7 +385,7 @@
   },
   {
     "code": "COMMON_MASTERS_INSTITUTIONAL_HOSPITAL",
-    "message": " अस्पताल",
+    "message": "  अस्पताल",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
@@ -396,8 +396,8 @@
     "locale": "hi_IN"
   },
   {
-    "code": "DSS_FSM_RESQUEST_BY_GhiDER ",
-    "message": " लिंग द्वारा अनुरोध",
+    "code": "DSS_FSM_REQUEST_BY_GENDER",
+    "message": "  लिंग द्वारा अनुरोध",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
@@ -408,8 +408,8 @@
     "locale": "hi_IN"
   },
   {
-    "code": "COMMON_MASTERS_TRANSGhiDER",
-    "message": " ट्रांसजेंडर",
+    "code": "COMMON_MASTERS_TRANSGENDER",
+    "message": "  ट्रांसजेंडर",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
@@ -427,13 +427,13 @@
   },
   {
     "code": "CS_COMMON_DISPOSAL_IN_PROGRESS",
-    "message": " निपटान प्रगति पर है",
+    "message": "  निपटान प्रगति पर है",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
   {
     "code": "COMMON_MASTERS_COMMERCIAL_COMMUNITY_TOILETS",
-    "message": " प्रसाधन",
+    "message": "  प्रसाधन",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
@@ -457,7 +457,7 @@
   },
   {
     "code": "ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
-    "message": " ट्रिप शेड्यूल्ड",
+    "message": "  ट्रिप शेड्यूल्ड",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
