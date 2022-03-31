@@ -163,7 +163,7 @@
   },
   {
     "code": "ES_FSM_RESPONSE_ASSIGN_DSO_LABEL",
-    "message": "DSO चुनें",
+    "message": "आवेदन संख्या,
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
@@ -472,5 +472,11 @@
     "message": "डिस्लुजिंग ऑन",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
-  }
+  },
+  {
+  "code": "ES_PAYMENT_SUCCESSFUL_DESCRIPTION",
+  "message": "भुगतान पूरा करने के लिए धन्यवाद।",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+}
 ]
