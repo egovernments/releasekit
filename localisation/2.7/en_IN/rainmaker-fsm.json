@@ -1,91 +1,91 @@
 [
   {
-    "code": "ES_FSM_PAYMhiT_PREFERhiCE_LABEL",
-    "message": "SelectPaymhitPreferhice",
+    "code": "ES_FSM_PAYMENT_PREFERENCE_LABEL",
+    "message": "Select Payment Preference",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "ES_FSM_PAYMhiT_PREFERhiCE_TEXT",
-    "message": "Pleaseselectwhhiyouwanttopay",
+    "code": "ES_FSM_PAYMENT_PREFERENCE_TEXT",
+    "message": "Please select when you want to pay",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_CHECK_INFO_PAY_NOW",
-    "message": "Applicationprocesswilltakeaminutetocomplete.Aserviceproviderwillbeassignedtoyouoncethepaymhitiscomplete.",
+    "message": "Application process will take a minute to complete. A service provider will be assigned to you once the payment is complete.",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_CHECK_INFO_PAY_LATER",
-    "message": "Applicationprocesswilltakeaminutetocomplete.Aserviceproviderwillbeassignedtoyoushortly.Youwillreceivedetailsregardingtheamounttobepaidoncetheserviceproviderarrivesatyourlocation.",
+    "message": "Application process will take a minute to complete. A service provider will be assigned to you shortly. You will receive details regarding the amount to be paid once the service provider arrives at your location.",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_ACTION_PRE_PAY",
-    "message": "PayNow",
+    "message": "Pay Now",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_ACTION_POST_PAY",
-    "message": "PayOnService",
+    "message": "Pay On Service",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "CS_COMMON_CHOOSE_GhiDER",
-    "message": "ChooseYourGhider",
+    "code": "CS_COMMON_CHOOSE_GENDER",
+    "message": "Choose Your gender",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "CS_COMMON_SELECT_GhiDER",
-    "message": "Selectyourghider",
+    "code": "CS_COMMON_SELECT_GENDER",
+    "message": "Select your gender",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "COMMON_APPLICANT_GhiDER",
-    "message": "ApplicantGhider",
+    "code": "COMMON_APPLICANT_GENDER",
+    "message": "Applicant Gender",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "UPLOAD_PIT_PHOTO",
-    "message": "UploadPitPhoto",
+    "message": "Upload Pit Photo",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_ACTION_TITLE_DECLINEVEHICLE",
-    "message": "DeclineVehicle",
+    "message": "Decline Vehicle",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_ACTION_REASON_SEPTAGE_SOURCE",
-    "message": "SeptageSource",
+    "message": "Septage Source",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_ACTION_REASON_OUTSIDE_OPERATIONAL_HOURS",
-    "message": "Outsideoperationalhours",
+    "message": "Outside operational hours",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "ES_ACTION_REASON_UNDER_MAINThiANCE",
-    "message": "UnderMainthiance",
+    "code": "ES_ACTION_REASON_UNDER_MAINTENANCE",
+    "message": "Under Maintenance",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_COMMON_FSM_WAITING_FOR_DISPOSAL",
-    "message": "WaitingforDisposal",
+    "message": "Waiting for Disposal",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -97,7 +97,7 @@
   },
   {
     "code": "CS_COMMON_DECLINEVEHICLE",
-    "message": "DeclineVehicle",
+    "message": "Decline Vehicle",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -109,43 +109,43 @@
   },
   {
     "code": "CS_ACTION_DECLINEVEHICLE",
-    "message": "DeclineVehicle",
+    "message": "Decline Vehicle",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_COMMON_PINCODE_NOT_SERVICABLE",
-    "message": "Sorrywearenotprovidingserviceinthiscity",
+    "message": "Sorry we are not providing service in this city",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "PT_PROPERTY_ADDRESS_STREET_NAME",
-    "message": "StreetName",
+    "message": "Street Name",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "PT_PROPERTY_ADDRESS_HOUSE_NO",
-    "message": "Door/HouseNo.",
+    "message": "Door/House No.",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CORE_COMMON_PROFILE_NAME",
-    "message": "ProfieName",
+    "message": "Profile Name",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CORE_COMMON_PROFILE_MOBILE_NUMBER",
-    "message": "MobileNumber",
+    "message": "Mobile Number",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CORE_COMMON_PROFILE_EMAIL",
-    "message": "EmailAddress",
+    "message": "Email Address",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -157,49 +157,49 @@
   },
   {
     "code": "ES_FSM_RESPONSE_ASSIGN_DSO_ACTION",
-    "message": "SelectDSONow",
+    "message": "Select DSO Now",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_RESPONSE_ASSIGN_DSO_LABEL",
-    "message": "SelectDSO",
+    "message": "Select DSO",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_COMMON_FSM_DISPOSAL_IN_PROGRESS",
-    "message": "DisposalinProgress",
+    "message": "Disposal in Progress",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_COMMON_FSM_ASSIGN_DSO",
-    "message": "AssignDSO",
+    "message": "Assign DSO",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_COMMON_ASSIGN_DSO",
-    "message": "AssignDSO",
+    "message": "Assign DSO",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_ACTION_TITLE_SCHEDULE",
-    "message": "DSOVehicleSelection",
+    "message": "DSO Vehicle Selection",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_SCHEDULE",
-    "message": "ScheduleVehicle",
+    "message": "Schedule Vehicle",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_SCHEDULE_UPDATE_SUCCESS",
-    "message": "VehicleScheduleComplete",
+    "message": "Vehicle Schedule Complete",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -211,13 +211,13 @@
   },
   {
     "code": "CS_COMMON_FSM_WAITING_FOR_DISPOSAL",
-    "message": "WaitingforDisposal",
+    "message": "Waiting for Disposal",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_DISPOSE_UPDATE_FAILURE",
-    "message": "DsisposeUpdateFailure",
+    "message": "Dispose Update Failure",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -229,19 +229,19 @@
   },
   {
     "code": "FSM_TIMELINE_PROPERTY_DETAILS",
-    "message": "PropertyDetails",
+    "message": "Property Details",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "FSM_TIMELINE_LOCATION_DETAILS",
-    "message": "LocationDetails",
+    "message": "Location Details",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "FSM_TIMELINE_SEPTIC_TANK_DETAILS",
-    "message": "SeptictankDetails",
+    "message": "Septic tank Details",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -253,55 +253,55 @@
   },
   {
     "code": "NUMBER_OF_TRIPS",
-    "message": "NoOfTrips",
+    "message": "No Of Trips",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_VEHICLE_TRIP_NO",
-    "message": "VehicleTripNo",
+    "message": "Vehicle Trip No",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "EDIT_PROFILE",
-    "message": "EditProfile",
+    "message": "Edit Profile",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_RESPONSE_SCHEDULE_DISPLAY",
-    "message": "De-sludging service has been successfully scheduled as per your request. The Desludging Operator will be arriving soon.",
+    "message": "Desludging service has been successfully scheduled as per your request. The Desludging Operator will be arriving soon.",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_DEFAULT_INFO_TEXT",
-    "message": "Applicationprocesswilltakeaminutetocomplete",
+    "message": "Application process will take a minute to complete",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "CS_FILE_APPLICATION_INFO_TEXT",
-    "message": "{CONThiT} It might cost around Rs.{MINAMOUNT}-{MAXAMOUNT} for cleaning your septic tank and there are concessed rates for people living in slum areas",
+    "message": "{CONThiT}, It might cost around Rs.{MINAMOUNT}-{MAX AMOUNT}, for cleaning your septic tank and there are concession rates for people living in slum areas",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_RESPONSE_SCHEDULE_ACTION_ERROR",
-    "message": "NoVehiclesAvailable",
+    "message": "No Vehicles Available",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_RESPONSE_SCHEDULE_DISPLAY_ERROR",
-    "message": "Sorry!Looksliketherearenovehiclesmatchingthisvehiclecapacity.Pleasegobackandselectavehiclecapacityofavailablevehicles.",
+    "message": "Sorry! Looks like there are no vehicles matching this vehicle capacity. Please go back and select a vehicle capacity of available vehicles.",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "ES_FSM_RESPONSE_CREATE_DISPLAY_POST_PAY",
-    "message": "Yourapplicationhasbehicreated.Adesludgingoperatorwillbeassignedsoon.",
+    "message": "Your application has been created. A desludging operator will be assigned soon.",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -313,49 +313,49 @@
   },
   {
     "code": "ES_COMMON_DSS_FSM",
-    "message": "FSMDashboard",
+    "message": "FSM Dashboard",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "SUB_DSS_FSM_TOP_ULB_BY_PERFORMANCE",
-    "message": "Pleasefindbelowthe3highperformingULBs",
+    "message": "Please find below the 3 high performing ULBs",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "SUB_DSS_FSM_BOTTOM_ULB_BY_PERFORMANCE",
-    "message": "Pleasefindbelowthe3lowperformingULBs",
+    "message": "Please find below the 3 low performing ULBs",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "DSS_FSM_RESQUEST_BY_GhiDER",
-    "message": "FSMServiceRequestbyGhider",
+    "code": "DSS_FSM_REQUEST_BY_GENDER",
+    "message": "FSM Service Request by Gender",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "COMMON_MASTERS_RESIDhiTIAL_APARTMhiT",
-    "message": "RecidhitialApartmhit",
+    "code": "COMMON_MASTERS_RESIDENTIAL_APARTMENT",
+    "message": "Residential Apartment",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "COMMON_MASTERS_RESIDhiTIAL_INDEPhiDhiT_HOUSE",
-    "message": "IndephidhitHouse",
+    "code": "COMMON_MASTERS_RESIDENTIAL_INDEPENDENT_HOUSE",
+    "message": "Independent House",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
     "code": "COMMON_MASTERS_COMMERCIAL_SHOPPING_MALL",
-    "message": "ShoppingMall",
+    "message": "Shopping Mall",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
   {
-    "code": "COMMON_MASTERS_RESIDhiTIAL_ROW_HOUSES",
-    "message": "RowHouses",
+    "code": "COMMON_MASTERS_RESIDENTIAL_ROW_HOUSES",
+    "message": "Row Houses",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -396,8 +396,8 @@
     "locale": "en_IN"
   },
   {
-    "code": "DSS_FSM_RESQUEST_BY_GhiDER",
-    "message": "RequestbyGhider",
+    "code": "DSS_FSM_REQUEST_BY_GENDER",
+    "message": "Request by Gender",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -408,8 +408,8 @@
     "locale": "en_IN"
   },
   {
-    "code": "COMMON_MASTERS_TRANSGhiDER",
-    "message": "Transghider",
+    "code": "COMMON_MASTERS_TRANSGENDER",
+    "message": "TransGender",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -427,7 +427,7 @@
   },
   {
     "code": "CS_COMMON_DISPOSAL_IN_PROGRESS",
-    "message": "DisposalinProgress",
+    "message": "Disposal in Progress",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -452,6 +452,24 @@
   {
     "code": "COMMON_MASTERS_COMMERCIAL_BANK",
     "message": "Bank",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
+    "message": "Trip Scheduled",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_INBOX_VEHICLE_STATUS",
+    "message": "Vehicle Status",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_ACTION_DESLUDGING_ON",
+    "message": "Desludging On",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   }
