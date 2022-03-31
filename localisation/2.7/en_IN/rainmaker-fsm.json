@@ -283,7 +283,7 @@
   },
   {
     "code": "CS_FILE_APPLICATION_INFO_TEXT",
-    "message": "{CONThiT}, It might cost around Rs.{MINAMOUNT}-{MAX AMOUNT}, for cleaning your septic tank and there are concession rates for people living in slum areas",
+    "message": "{CONTENT}, It might cost around Rs.{MINAMOUNT}-{MAX AMOUNT}, for cleaning your septic tank and there are concession rates for people living in slum areas",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -478,5 +478,17 @@
   "message": "Thank you for completing the payment.",
   "module": "rainmaker-fsm",
   "locale": "en_IN"
-  }
+  },
+  {
+  "code": "ES_ERROR_DSO_LOGIN",
+  "message": "Please use a registered number for logging as a DSO",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+   },
+  {
+  "code": "CMN_NOOPTION",
+  "message": "No Options Available",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+}
 ]
