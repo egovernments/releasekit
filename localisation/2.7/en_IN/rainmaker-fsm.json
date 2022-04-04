@@ -31,7 +31,7 @@
   },
   {
     "code": "ES_ACTION_POST_PAY",
-    "message": "Pay On Service",
+    "message": "Pay Later",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
@@ -490,5 +490,30 @@
   "message": "No Options Available",
   "module": "rainmaker-common",
   "locale": "en_IN"
-}
+},
+ {
+    "code": "PAYMENT_CS_CONSUMER_NO",
+    "message": "Consumer No",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PAYMENT_CS_BILLING_PERIOD",
+    "message": "Billing Period",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PAYMENT_CS_BILL_NO",
+    "message": "Bill No",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PAYMENT_CS_TOTAL_DUE_DATE",
+    "message": "Due Date",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }
+  
 ]
