@@ -31,7 +31,7 @@
   },
   {
     "code": "ES_ACTION_POST_PAY",
-    "message": "सेवा पर भुगतान करें",
+    "message": "बाद में भुगतान करें",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
   },
@@ -490,5 +490,29 @@
   "message": "कोई विकल्प उपलब्ध नहीं",
   "module": "rainmaker-common",
   "locale": "hi_IN"
-}
+},
+    {
+    "code": "PAYMENT_CS_CONSUMER_NO",
+    "message": "उपभोक्ता संख्या",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PAYMENT_CS_BILLING_PERIOD",
+    "message": "बिलिंग अवधि",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PAYMENT_CS_BILL_NO",
+    "message": "बिल नहीं",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PAYMENT_CS_TOTAL_DUE_DATE",
+    "message": "नियत तारीख",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  }
 ]
