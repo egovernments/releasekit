@@ -168,20 +168,14 @@
         "locale": "hi_IN"
     },
     {
-        "code": "ACTION_TEST_NATIONAL_DASHBOARD_OBPS",
-        "message": "ओबीपीएस राष्ट्रीय डैशबोर्ड",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "ACTION_TEST_NATIONAL_FIRE_NOC",
-        "message": "आग अनापत्ति प्रमाणपत्र का राष्ट्रीय डैशबोर्ड",
+        "message": "आग अनापत्ति प्रमाणपत्र",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
     {
         "code": "ACTION_TEST_NATIONAL_MCOLLECT",
-        "message": "एमकलेक्ट राष्ट्रीय डैशबोर्ड",
+        "message": "एमकलेक्ट",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -192,20 +186,14 @@
         "locale": "hi_IN"
     },
     {
-        "code": "ACTION_TEST_NATIONAL_PGR",
-        "message": "पीजीआर राष्ट्रीय डैशबोर्ड",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "ACTION_TEST_NATIONAL_PROPERTY_TAX",
-        "message": "संपत्ति कर राष्ट्रीय डैशबोर्ड",
+        "message": "संपत्ति कर",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
     {
         "code": "ACTION_TEST_NATIONAL_TRADELICENSE",
-        "message": "व्यापार लाइसेंस राष्ट्रीय डैशबोर्ड",
+        "message": "व्यापार लाइसेंस",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -223,13 +211,7 @@
     },
     {
         "code": "ACTION_TEST_NATIONAL_WATER_&_SEWERAGE",
-        "message": "जल और सीवरेज राष्ट्रीय डैशबोर्ड",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "ACTION_TEST_OBPS",
-        "message": "ओबीपीएस",
+        "message": "जल और सीवरेज",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -452,6 +434,426 @@
     {
         "code": "TL_PROPERTY_ID_REQUIRED",
         "message": "संपत्ति विवरण आवश्यक",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_ULB_HOME",
+        "message": "डैशबोर्ड",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_ULB_PGR",
+        "message": "पी.जी.आर.",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_ULB_PROPERTYTAX",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_ULB_TRADELICENSE",
+        "message": "व्यापार लाइसेंस",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_ULB_WATER_SEWERAGE",
+        "message": "पानी और सीवरेज",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_WATER_SEWERAGE",
+        "message": "पानी और सीवरेज",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_OVERVIEW",
+        "message": "अवलोकन",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_PROPERTY_TAX",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_TRADE_LICENCE",
+        "message": "व्यापार लाइसेंस",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_COMPLAINS",
+        "message": "नगरपालिका की शिकायतें",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_DASHBOARD",
+        "message": "राष्ट्रीय शहरी रीयल-टाइम डैशबोर्ड",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_FIRENOC",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_MCOLLECT",
+        "message": "उपयोगकर्ता शुल्क",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NURT_WATER_SEWERAGE",
+        "message": "पानी और सीवरेज",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_BUILDING_PERMISSION",
+        "message": "भवन निर्माण के लिए अनुमतियाँ",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_DSS_LAC",
+        "message": "लाख",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_DSS_CR",
+        "message": "करोड़",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_DSS_UNIT",
+        "message": "इकाई",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_UNIT",
+        "message": "₹",
+        "module": "rainmaker-dss",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_NUMBER_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_APPLICATION_NAME_LABEL",
+        "message": "आवेदक का नाम",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PLOT_DETAILS_TITLE",
+        "message": "प्लॉट विवरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PLOT_NUMBER_LABEL",
+        "message": "प्लॉट संख्या",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_KHATHA_NUMBER_LABEL",
+        "message": "खाता संख्या",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOLDING_NUMBER_LABEL",
+        "message": "होल्डिंग संख्या",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_EDCR_DETAILS",
+        "message": "ईडीसीआर का विवरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_PLAN_DIAGRAM",
+        "message": "अपलोड किया गया योजना आरेख",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SCRUNTINY_REPORT_OUTPUT",
+        "message": "जाँच प्रतिवेदन का आउटपुट",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SCRUTINY_REPORT_PDF",
+        "message": "स्क्रूटनी रिपोर्ट.पीडीएफ",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BUILDING_EXTRACT_HEADER",
+        "message": "प्रस्तावित भवन सार",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SCRUTINY_DETAILS_NUMBER_OF_FLOORS_LABEL",
+        "message": "मंजिलों की संख्या",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEIGHT_FROM_GROUND_LEVEL",
+        "message": "ममटी से जमीनी स्तर तक ऊंचाई",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OCC_SUBOCC_HEADER",
+        "message": "ब्लॉकवार कब्जा और उप-कब्जा का विवरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_OCCUPANCY_LABEL",
+        "message": "उप-अधिकृत",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TABLE_COL_FLOOR",
+        "message": "मंजिल/फर्श ",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TABLE_COL_LEVEL",
+        "message": "स्तर ",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LOC_MOHALLA_LABEL",
+        "message": "इलाका / मोहल्ला",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOCUMENT_DETAILS_LABEL",
+        "message": "दस्तावेज़ विवरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FIRE_NOC_HEADER",
+        "message": "आग अनापत्ति प्रमाण पत्र",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FIRE_NOC_LABEL",
+        "message": "फायर एनओसी आवेदन संख्या",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOCUMENT_DETAILS_LABEL",
+        "message": "दस्तावेज़ विवरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_AIRPORT_AUTHORITY_HEADER",
+        "message": "हवाई अड्डा अनापत्ति प्रमाण पत्र ",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_AIRPORT_AUTHORITY_LABEL",
+        "message": "एयरपोर्ट अथॉरिटी आवेदन संख्या",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOCUMENT_DETAILS_LABEL",
+        "message": "दस्तावेज़ विवरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_OBPS_SEARCH",
+        "message": "आवेदन खोजें",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_OBPS_SEARCH_BPA",
+        "message": "आवेदन का विवरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "AUTO_APPROVED",
+        "message": "स्वत: स्वीकृत",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "AIRPORT_AUTHORITY",
+        "message": "हवाई अड्डा प्राधिकरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NEW_BUILDING_HEADER",
+        "message": "नई हितधारक के पंजीकरण के लिए आवेदन",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NEW_BUILDING_PERMIT_DESCRIPTION",
+        "message": "इस आवेदन को भरने में 5 मिनट का समय लगेगा तथा आवेदन को पूरा करने के लिए पीडीएफ या जेपीईजी प्रारूप में नीचे दिए गए दस्तावेजों की आवश्यकता होगी।",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_HEADER_APPL_BPAREG_GOVT_APPROVED_ID_CARD",
+        "message": "पहचान का सबूत",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_HEADER_APPL_BPAREG_EDC_CERTIFICATE",
+        "message": "शैक्षणिक प्रमाणपत्र ",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_HEADER_APPL_BPAREG_EXP_CERTIFICATE",
+        "message": "अनुभव प्रमाण पत्र",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_HEADER_APPL_BPAREG_PASS_PORT_SIZE_PHOTO",
+        "message": "आवेदक का हालिया पासपोर्ट आकार का फोटो",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_HEADER_APPL_BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "message": "कारण बताओ नोटिस",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_HEADER_APPL_BPAREG_INCOMETAX_STATEMENT",
+        "message": "आय कर का स्टेटमेंट",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_HEADER_APPL_BPAREG_OTHERS",
+        "message": "अन्य",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_HEADER_APPL_BPAREG_REGISTRATION_CERTIFICATE",
+        "message": "लाइसेंस का पंजीकरण प्रमाण पत्र",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OBPS_DOCS_FILE_SIZE",
+        "message": "फ़ाइल का आकार अधिकतम 5 एमबी होना चाहिए।",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LICENSE_DETAILS_LABEL",
+        "message": "लाइसेंसधारक का विवरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LICENSE_DET_CAPTION",
+        "message": "लाइसेंसधारक का विवरण",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LICENSE_TYPE",
+        "message": "लाइसेंस के प्रकार",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LICENSE_TYPE_TEXT",
+        "message": "कृपया उस प्रकार का लाइसेंस चुनें जिसके लिए आप आवेदन करना चाहते हैं",
+        "module": "rainmaker-common",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COUNCIL_NUMBER",
+        "message": "वास्तुकला परिषद नंबर",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     }

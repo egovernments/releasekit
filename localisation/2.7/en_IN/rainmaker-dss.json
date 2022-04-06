@@ -535,13 +535,13 @@
     },
     {
         "code": "DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_OC",
-        "message": "Average days to Issue OC",
+        "message": "Avg days to Issue OC",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "DSS_HEADER_AVERAGE_DAYS_TO_ISSUE_PERMIT",
-        "message": "Average days to issue permit",
+        "message": "Avg days to issue permit",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -2407,7 +2407,7 @@
     },
     {
         "code": "ES_COMMON_DSS_NATIONAL_PGR",
-        "message": "PGR",
+        "message": "Public Grievances & Redressal",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -2599,13 +2599,13 @@
     },
     {
         "code": "NATIONAL_DSS_PGR_COMPLAINTS_BY_CHANNEL",
-        "message": "Complaint By Channel",
+        "message": "Complaints By Channel",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "NATIONAL_DSS_PGR_COMPLAINTS_BY_DEPARTMENT",
-        "message": "Complaint By Department",
+        "message": "Complaints By Department",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -3781,7 +3781,7 @@
     },
     {
         "code": "COMMON_MASTERS_DEBIT_CARD",
-        "message": "Card",
+        "message": "Debit Card",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5389,7 +5389,7 @@
     },
     {
         "code": "TIP_DSS_PGR_COMPLAINTS_BY_STATUS",
-        "message": "Complaint By Status",
+        "message": "Complaints By Status",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -5953,13 +5953,13 @@
     },
     {
         "code": "TIP_NATIONAL_DSS_PGR_COMPLAINTS_BY_CHANNEL",
-        "message": "Complaint By Channel",
+        "message": "Complaints By Channel",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_NATIONAL_DSS_PGR_COMPLAINTS_BY_DEPARTMENT",
-        "message": "Complaint By Department",
+        "message": "Complaints By Department",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -6211,13 +6211,13 @@
     },
     {
         "code": "TIP_NATIONAL_DSS_TOTAL_COMPLAINTS_BY_SOURCE",
-        "message": "Complaint By Source",
+        "message": "Complaints By Source",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
     {
         "code": "TIP_NATIONAL_DSS_TOTAL_COMPLAINTS_STATUS",
-        "message": "Complaint By Status",
+        "message": "Complaints By Status",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
@@ -10433,7 +10433,7 @@
         "module": "rainmaker-dss",
         "locale": "en_IN"
     },
-     {
+    {
         "code": "DEPARTMENT3",
         "message": "Department 3",
         "module": "rainmaker-dss",
@@ -10442,6 +10442,270 @@
     {
         "code": "DEPARTMENT4",
         "message": "Department 4",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_LAC",
+        "message": "Lac",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_CR",
+        "message": "Cr",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_DSS_UNIT",
+        "message": "Unit",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_DASHBOARD",
+        "message": "PGR Dashboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PROPERTY_TAX_DASHBOARD",
+        "message": "Property Tax Dashboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_W&S_DASHBOARD",
+        "message": "Water & Sewerage Dashboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_OVERVIEW_DASHBOARD",
+        "message": "Overview Dashboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT",
+        "message": "Property Tax",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MCOLLECT",
+        "message": "mCollect",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL",
+        "message": "Trade Licence",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FIRE_NOC",
+        "message": "Fire NOC",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TRADE_LICENCE",
+        "message": "Trade Licence",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PGR",
+        "message": "Public Grievances & Redressal",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "W&S",
+        "message": "Water & Sewerage",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS",
+        "message": "Online Building Plan Approval System",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_DEBIT_CARD",
+        "message": "Debit Card",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLAINTS_BY_CATEGORY",
+        "message": "Complaints By Category",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLAINTS_BY_CHANNEL",
+        "message": "Complaints By Channel",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLAINTS_BY_DEPARTMENT",
+        "message": "Complaints By Department",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLAINTS_BY_DISTRICT",
+        "message": "Complaints By District",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLAINTS_BY_STATUS",
+        "message": "Complaints By Status",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_COMPLAINTS_BY_TENANT",
+        "message": "Complaints By Tenant",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_ULB_PGR",
+        "message": "Public Grievances & Redressal",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_STATE_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_STATE_WS_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NATIONAL_WS_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_MCOLLECT_NATIONAL_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_NONRESIDENTIAL_COMMERCIAL_RETAIL_SHOWROOM",
+        "message": "Non-Residential Commercial Retail Showroom",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_MCOLLECT_STATE_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NATIONAL_WS_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_REVENUE",
+        "message": "Overview-Revenue",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NOC_OVERVIEW",
+        "message": "Overview-Services",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PT_TOTAL_COLLECTION",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PT_TOTAL_COLLECTION",
+        "message": "Sum of Property Tax revenue collected for the applied date filter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TL_TOTAL_APPLICATION",
+        "message": "Total Applications",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_TL_TOTAL_APPLICATION",
+        "message": "Sum of applications for both new and renewal of trade license",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_PGR_SLA_ACHIEVED",
+        "message": "SLA Achievement",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PGR_SLA_ACHIEVED",
+        "message": "% of Complaints resolved within SLA ",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_FSM_TOTAL_COLLECTION",
+        "message": "Total Collection for fsm for the applied date filter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_FSM_TOTAL_APPLICATION",
+        "message": "Total Applications",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_FSM_TOTAL_APPLICATION",
+        "message": "Sum of applications for fsm",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_MC_TOTAL_COLLECTION",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_MC_TOTAL_COLLECTION",
+        "message": "Sum of revenue collections from mCollect module. This will not include collection from revenue modules that are live.",
         "module": "rainmaker-dss",
         "locale": "en_IN"
     }
