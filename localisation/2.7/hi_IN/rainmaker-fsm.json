@@ -514,5 +514,119 @@
     "message": "नियत तारीख",
     "module": "rainmaker-fsm",
     "locale": "hi_IN"
-  }
+  },
+  {
+  "code": "ES_FSM_ACTION_PAYMENT_PREFERENCE_TYPE",
+  "message": "भुगतान वरीयता प्रकार",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_FSM_ACTION_GENDER_TYPE",
+  "message": "लिंग प्रकार",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_FSM_ACTION_NUMBER_OF_TRIPS",
+  "message": "यात्राओं की संख्या",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_FSM_NUMBER_OF_TRIPS_TEXT",
+  "message": "कृपया सफाई प्रक्रिया के लिए अपनी आवश्यकता के अनुसार यात्राएं दर्ज करें",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_ACTION_TRIP_1 ",
+  "message": "1",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_ACTION_TRIP_2 ",
+  "message": "2",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_ACTION_TRIP_3 ",
+  "message": "3",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_ACTION_TRIP_4 ",
+  "message": "4",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_ACTION_TRIP_5 ",
+  "message": "5",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_ACTION_TRIP_6 ",
+  "message": "6",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_ACTION_TRIP_7 ",
+  "message": "7",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_ACTION_TRIP_8 ",
+  "message": "8",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "ES_ACTION_TRIP_9 ",
+  "message": "9",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+},
+{
+  "code": "FSM_POST_PAY_SMS_CREATED_CREATE",
+  "message": "प्रिय नागरिक, सेप्टिक टैंक/गड्ढे की सफाई के लिए आपका आवेदन आवेदन संदर्भ संख्या {2} के साथ बनाया गया है। जब एक ऑपरेटर को एक अनुरोध सौंपा जाता है, तो आपको सूचित किया जाएगा। अनुरोध {SLA_HOURS}घंटे के भीतर पूरा होने की उम्मीद है। शुक्रिया। सरकार ओडिशा के।",
+  "module": "rainmaker-common",
+  "locale": "hi_IN"
+},
+{
+  "code": "FSM_SMS_ASSIGN_DSO_APPLY",
+  "message": "प्रिय नागरिक, सेप्टिक टैंक/गड्ढे की सफाई के लिए आपका आवेदन आवेदन संदर्भ संख्या {2} के साथ बनाया गया है। जब एक ऑपरेटर को एक अनुरोध सौंपा जाता है, तो आपको सूचित किया जाएगा। अनुरोध {SLA_HOURS}घंटे के भीतर पूरा होने की उम्मीद है। शुक्रिया। सरकार ओडिशा के।",
+  "module": "rainmaker-common",
+  "locale": "hi_IN"
+},
+{
+  "code": "FSM_POST_PAY_SMS_DSO_INPROGRESS_DSO_ACCEPT",
+  "message": "प्रिय नागरिक, वाहन {VEHICLE_REG_NO} आपके आवेदन संख्या {2} के संदर्भ में {POSSIBLE_SERVICE_DATE} को सेप्टिक टैंक/गड्ढे को साफ करने के लिए आपके स्थान पर पहुंचेगा। आप ऑपरेटर से +91 {DSO_MOBILE_NUMBER} पर संपर्क कर सकते हैं। शुक्रिया। सरकार ओडिशा के 1007079818368142096",
+  "module": "rainmaker-common",
+  "locale": "hi_IN"
+},
+{
+  "code": "FSM_SMS_PENDING_APPL_FEE_PAYMENT_SCHEDULE",
+  "message": "प्रिय नागरिक, सेप्टिक टैंक / गड्ढे की सफाई के लिए आपका आवेदन आवेदन संख्या {2} के साथ बनाया गया है, और ऑपरेटर ने ट्रिप की संख्या दर्ज की है: {NO_OF_TRIPS}। कृपया अपने सेप्टिक टैंक/गड्ढे की सफाई के लिए रु.{AMOUNT_TO_BE_PAID} की राशि का भुगतान करने के लिए इस लिंक {PAY_LINK} पर क्लिक करें। शुक्रिया। सरकार ओडिशा के।",
+  "module": "rainmaker-common",
+  "locale": "hi_IN"
+},
+{
+  "code": "FSM_SMS_DISPOSAL_IN_PROGRESS_PAY",
+  "message": "प्रिय नागरिक, रु.{AMOUNT_TO_BE_PAID}/- की राशि संदर्भ संख्या के लिए सेप्टिक टैंक/गड्ढे की सफाई के भुगतान के लिए प्राप्त होती है। {रसीद संख्या}। रसीद डाउनलोड करने के लिए कृपया इस लिंक {RECEIPT_LINK} पर क्लिक करें। शुक्रिया। सरकार ओडिशा के।",
+  "module": "rainmaker-common",
+  "locale": "hi_IN"
+},
+{
+  "code": "FSM_SMS_FSTPO_TRIP_DECLINED",
+  "message": "प्रिय कर्मचारी, वाहन को FSTP में स्वीकार करने का अनुरोध {FSM_FSTP_REJECT_REASON} कारण से अस्वीकार कर दिया गया है। यदि आवश्यक हो तो एक नया अनुरोध बनाने के लिए कृपया इस लिंक {NEW_FSM_LINK} का उपयोग करें। शुक्रिया। सरकार ओडिशा के।",
+  "module": "rainmaker-fsm",
+  "locale": "hi_IN"
+}
 ]
