@@ -514,6 +514,126 @@
     "message": "Due Date",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }
-  
+  },
+  {
+    "code": "ES_FSM_ACTION_PAYMENT_PREFERENCE_TYPE",
+    "message": "Payment Preference Type",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_ACTION_GENDER_TYPE",
+    "message": "Gender Type",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_ACTION_NUMBER_OF_TRIPS",
+    "message": "Number of Trips",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ACTION_TRIP_1",
+    "message": "1",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ACTION_TRIP_2",
+    "message": "2",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ACTION_TRIP_3",
+    "message": "3",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ACTION_TRIP_4",
+    "message": "4",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ACTION_TRIP_5",
+    "message": "5",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ACTION_TRIP_6",
+    "message": "6",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ACTION_TRIP_7",
+    "message": "7",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ACTION_TRIP_8",
+    "message": "8",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ACTION_TRIP_9",
+    "message": "9",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_NUMBER_OF_TRIPS",
+    "message": "Number of Trips",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_NUMBER_OF_TRIPS_TEXT",
+    "message": "Please enter the trips as per your requirement for the cleaning process",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+  "code": "FSM_POST_PAY_SMS_CREATED_CREATE",
+  "message": "Dear citizen, your application for cleaning septic tank/pit is created with application reference no {2}. You will be notified when an operator is assigned to a request. Request is expected to be completed within {SLA_HOURS}hrs. Thank You. Govt. of Odisha.",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "FSM_SMS_ASSIGN_DSO_APPLY",
+  "message": "Dear citizen, your application for cleaning septic tank/pit is created with application reference no {2}. You will be notified when an operator is assigned to a request. Request is expected to be completed within {SLA_HOURS}hrs. Thank You. Govt. of Odisha.",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "FSM_POST_PAY_SMS_DSO_INPROGRESS_DSO_ACCEPT",
+  "message": "Dear citizen, Vehicle {VEHICLE_REG_NO} will be reaching your location to clean the septic tank/pit on {POSSIBLE_SERVICE_DATE} with reference to your application number {2}. You can contact the operator in +91 {DSO_MOBILE_NUMBER}. Thank You.  Govt. of Odisha 1007079818368142096",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "FSM_SMS_PENDING_APPL_FEE_PAYMENT_SCHEDULE",
+  "message": "Dear citizen, your application for cleaning septic tank /pit is created with application number {2}, and the operator has entered the number of trips: {NO_OF_TRIPS}. Please click this link {PAY_LINK} to pay the amount of Rs.{AMOUNT_TO_BE_PAID} towards cleaning of your septic tank/pit. Thank You. Govt. of Odisha.",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "FSM_SMS_DISPOSAL_IN_PROGRESS_PAY",
+  "message": "Dear citizen, amount of Rs.{AMOUNT_TO_BE_PAID}/- is received towards the payment of cleaning septic tank /pit for reference no. {RECEIPT_NO}. Please click this link {RECEIPT_LINK} to download the receipt. Thank You. Govt. of Odisha.",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "FSM_SMS_FSTPO_TRIP_DECLINED",
+  "message": "Dear employee, the request for accepting the vehicle into FSTP is rejected with the reason {FSM_FSTP_REJECT_REASON}. Please use this link {NEW_FSM_LINK} to create a new request if needed. Thank You. Govt. of Odisha.",
+  "module": "rainmaker-fsm",
+  "locale": "en_IN"
+}
 ]
+ 
