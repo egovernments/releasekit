@@ -10708,5 +10708,947 @@
         "message": "Sum of revenue collections from mCollect module. This will not include collection from revenue modules that are live.",
         "module": "rainmaker-dss",
         "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_*_1_0",
+        "message": "<2",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_15_0_29_0",
+        "message": "15-29",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_2_0_14_0",
+        "message": "44606",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_30_0_44_0",
+        "message": "30-44",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_45_0_59_0",
+        "message": "45-59",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_60_0_74_0",
+        "message": "60-74",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_75_0_",
+        "message": ">=75",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_FEMALE",
+        "message": "Female",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_MALE",
+        "message": "Male",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_MOBILEAPP",
+        "message": "Mobile App",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_TRANSGENDER",
+        "message": "Transgender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BIRTH",
+        "message": "Birth",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BIRTH_BY_GENDER",
+        "message": "Births by Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BIRTH_BY_PLACE",
+        "message": "Birth by Place",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BIRTH_DEATH",
+        "message": "Birth & Death",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BIRTH_DOWNLOAD_TREND",
+        "message": "Certificate Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BIRTH_NET_COLLECTION",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BIRTH_TOTAL_APPLICATION",
+        "message": "Total Certificate Downloads",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BIRTHDOWNLOADTREND",
+        "message": "Birth Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_BND_NET_COLLECTION",
+        "message": "Total Collection ",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_CERT_DOWNLOAD_BY_TENANT",
+        "message": "Certificate Downloads by Boundary",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DEATH",
+        "message": "Death",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DEATH_BY_CATEGORY_DRILLDOWN_AGE_FEMALE",
+        "message": "Female",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DEATH_BY_CATEGORY_DRILLDOWN_AGE_MALE",
+        "message": "Male",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DEATH_BY_CATEGORY_DRILLDOWN_AGE_TRANSGENDER",
+        "message": "Transgender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DEATH_BY_GENDER",
+        "message": "Deaths by Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DEATH_DOWNLOAD_TREND",
+        "message": "Certificate Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DEATH_NET_COLLECTION",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DEATH_TOTAL_APPLICATION",
+        "message": "Total Death Applications",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_DOWNLOADS_BY_CHANNEL",
+        "message": "Certificate Downloads by Channel",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_DEATH_DELAYED_REGISTRATIONS",
+        "message": "Delayed Registrations",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_DEATH_TOTAL_DOWNLOADS",
+        "message": "Total Downloads",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_DELAYED_REGISTRATIONS",
+        "message": "Delayed Registrations",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_DOWNLOADS",
+        "message": "Total Downloads",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_DOWNLOADS_(MOBILE_APP)",
+        "message": "Total Downloads  (Mobile App)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_DOWNLOADS_(WEB)",
+        "message": "Total Downloads  (Web)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_DELAYED_REGISTRATIONS",
+        "message": "Delayed Registrations",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_PANJAB",
+        "message": "Punjab",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_TOTAL_DOWNLOADS",
+        "message": "Total Downloads",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_TOTAL_DOWNLOADS_(MOBILE_APP)",
+        "message": "Total Downloads (Mobile App)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_TB_TOTAL_DOWNLOADS_(WEB)",
+        "message": "Total Downloads (Web)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_BIRTH_DEATH",
+        "message": "Birth & Death",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_BIRTH_BY_GENDER",
+        "message": "Birth by Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_BIRTH_BY_PLACE",
+        "message": "Birth by Place",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_BIRTH_DOWNLOAD_TREND",
+        "message": "Certificate Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_BIRTH_NET_COLLECTION",
+        "message": "Total revenue collected for downloading birth certificates for the applied date filter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_BIRTH_TOTAL_APPLICATION",
+        "message": "Total number of birth certificates downloaded",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_BND_NET_COLLECTION",
+        "message": "Sum of revenue from Birth & Death module",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_CERT_DOWNLOAD_BY_TENANT",
+        "message": "Certificate Downloads by Boundary",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_DEATH_BY_AGE_CATEGORY",
+        "message": "Death by Age Category",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_DEATH_BY_GENDER",
+        "message": "Deaths by Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_DEATH_DOWNLOAD_TREND",
+        "message": "Certificate Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_DEATH_NET_COLLECTION",
+        "message": "Total revenue collected for downloading death certificates for the applied date filter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_DEATH_TOTAL_APPLICATION",
+        "message": "Total number of death certificates downloaded",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_DOWNLOADS_BY_CHANNEL",
+        "message": "Certificate Downloads by Channel",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DEATH_DELAYED_REGISTRATIONS",
+        "message": "Total number of death registrations where the difference between death date and registration date differs by more than a year",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DEATH_TOTAL_DOWNLOADS",
+        "message": "Total number of death certificates downloaded",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DELAYED_REGISTRATIONS",
+        "message": "Total number of birth registrations where the difference between birth date and registration date differs by more than a year",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_DOWNLOADS_MOBILE_APP",
+        "message": "Total number of death certificates downloaded through Mobile App",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_DOWNLOADS_(MOBILE_APP)",
+        "message": "Total number of birth certificates downloaded through Mobile App",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_DOWNLOADS_(WEB)",
+        "message": "Total number of birth certificates downloaded through Web",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Property Tax",
+        "message": "Property Tax",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Search Certificate",
+        "message": "Search Certificate",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Birth and Death",
+        "message": "Birth and Death",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Birth Records Count",
+        "message": "Birth Records Count",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "birth-certificate",
+        "message": "birth-certificate",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BnD Paid and Downloaded Records",
+        "message": "BnD Paid and Downloaded Records",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "cbbnd",
+        "message": "cbbnd",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Dashboard",
+        "message": "Dashboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Death Records Count",
+        "message": "Death Records Count",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "death-certificate",
+        "message": "death-certificate",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_DOWNLOADS_WEB",
+        "message": "Total number of birth certificates downloaded through Web",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_DOWNLOADS_MOBILE_APP",
+        "message": "Total Downloads (Mobile App)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_DOWNLOADS_MOBILE_APP",
+        "message": "Total number of death certificates downloaded through Mobile App",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_DOWNLOADS_WEB",
+        "message": "Total Downloads (Web)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_DOWNLOADS_WEB",
+        "message": "Total number of death certificates downloaded through Web",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_CMN_PIE_INFO",
+        "message": "Click on each slice to view deaths by age category",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_OTHERS",
+        "message": "Others",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_BIRTH",
+        "message": "Birth",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH",
+        "message": "Death",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_BIRTH_DEATH",
+        "message": "Birth and Death Dashboard",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_BIRTH_TOTAL_CERTIFICATE_DOWNLOAD",
+        "message": "Total Certificate Downloads",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_BIRTH_TODAYS_COLLECTION",
+        "message": "Todays Collection For Birth",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_BIRTH_TOTAL_CERTIFICATE_DOWNLOAD",
+        "message": "Total number of Birth Certificates downloaded",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_BIRTH_TODAYS_COLLECTION",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_BIRTH_CERTIFICATE_DOWNLOAD_TREND",
+        "message": "Certificate Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_BIRTH_CERTIFICATE_DOWNLOAD_TREND",
+        "message": "Certificate Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NUMBER_OF_BIRTH_CERTIFICATE_DOWNLOAD_BY_CHANNEL",
+        "message": "Number of Birth Certificate Download By Channel",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NUMBER_OF_BIRTH_CERTIFICATE_DOWNLOAD_BY_CHANNEL",
+        "message": "Certificate Downloads by Channel",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NUMBER_OF_BIRTHS_TODAY_BY_GENDER",
+        "message": "Births by Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NUMBER_OF_BIRTHS_TODAY_BY_GENDER",
+        "message": "Births by Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_CERT_DOWNLOAD_BY_BOUNDARY",
+        "message": "Certificate Downloads by Boundary",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_CERT_DOWNLOAD_BY_BOUNDARY",
+        "message": "Certificate Downloads by Boundary",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH_TOTAL_CERTIFICATE_DOWNLOAD",
+        "message": "Total Certificate Downloads",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH_TODAYS_COLLECTION",
+        "message": "Todays Collection For Death",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_DEATH_TODAYS_COLLECTION",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH_CERTIFICATE_DOWNLOAD_TREND",
+        "message": "Deat Certificate Download by Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_DEATH_CERTIFICATE_DOWNLOAD_TREND",
+        "message": "Certificate Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NUMBER_OF_DEATH_CERTIFICATE_DOWNLOAD_BY_CHANNEL",
+        "message": "Certificate Downloads by Channel",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NUMBER_OF_DEATH_CERTIFICATE_DOWNLOAD_BY_CHANNEL",
+        "message": "Certificate Downloads by Channel",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NUMBER_OF_DEATHS_TODAY_BY_GENDER",
+        "message": "Death By Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NUMBER_OF_DEATHS_TODAY_BY_GENDER",
+        "message": "Death By Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_CERT_DOWNLOAD_BY_TENANT",
+        "message": "Certificate Downloads by Boundary",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_CERT_DOWNLOAD_BY_TENANT",
+        "message": "Certificate Downloads by Boundary",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_DSS_NSS_BIRTH_DEATH",
+        "message": "Birth & Death",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_BIRTH_TOTAL_COLLECTION",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_BIRTH_TOTAL_COLLECTION",
+        "message": "Total revenue collected for downloading birth certificates for the applied date filter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH_TOTAL_COLLECTION",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_DEATH_TOTAL_COLLECTION",
+        "message": "Total revenue collected for downloading death certificates for the applied date filter",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_NSSBIRTHCERTIFICATEDOWNLOADTREND",
+        "message": "Birth Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NUMBER_OF_DEATHS_TODAY_BY_AGE_CATEGORY",
+        "message": "Deaths By Age Category",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NUMBER_OF_DEATHS_TODAY_BY_AGE_CATEGORY",
+        "message": "Deaths By Age Category",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_NSSDEATHCERTIFICATEDOWNLOADTREND",
+        "message": "Death Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_BIRTH_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_BIRTH_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_DEATH_OVERVIEW",
+        "message": "Overview",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_BIRTH_TOTAL_DOWNLOADS_(MOBILE_APP)",
+        "message": "Total Downloads (Mobile App)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_BIRTH_TOTAL_DOWNLOADS_(WEB)",
+        "message": "Total Downloads (Web)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_BIRTH_TOTAL_DOWNLOADS",
+        "message": "Total Downloads",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_BIRTH_DELAYED_REGISTRATIONS",
+        "message": "Delayed Registrations",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_BIRTH_TOTAL_DOWNLOADS_(MOBILE_APP)",
+        "message": "Total number of birth certificates downloaded through Mobile App",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_BIRTH_TOTAL_DOWNLOADS_(WEB)",
+        "message": "Total number of birth certificates downloaded through Web",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_BIRTH_TOTAL_DOWNLOADS",
+        "message": "Total number of birth certificates downloaded",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_BIRTH_DELAYED_REGISTRATIONS",
+        "message": "Total number of birth registrations where the difference between birth date and registration date differs by more than a year",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_DEATH_TOTAL_DOWNLOADS_(MOBILE_APP)",
+        "message": "Total Downloads (Mobile App)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_DEATH_TOTAL_DOWNLOADS_(WEB)",
+        "message": "Total Downloads (Web)",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_DEATH_TOTAL_DOWNLOADS",
+        "message": "Total Downloads",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_HEADER_DEATH_DELAYED_REGISTRATIONS",
+        "message": "Delayed Registrations",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DEATH_TOTAL_DOWNLOADS_(MOBILE_APP)",
+        "message": "Total number of death certificates downloaded through Mobile App",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DEATH_TOTAL_DOWNLOADS_(WEB)",
+        "message": "Total number of death certificates downloaded through Web",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DEATH_TOTAL_DOWNLOADS",
+        "message": "Total number of death certificates downloaded",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DEATH_DELAYED_REGISTRATIONS",
+        "message": "Total number of death registrations where the difference between death date and registration date differs by more than a year",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_1_LESSTHAN_2",
+        "message": "<2",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_6_60_74",
+        "message": "60-74",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_4_30_44",
+        "message": "30-44",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_5_45_59",
+        "message": "45-59",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_7_GREATERTHAN_75",
+        "message": ">=75",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_3_15_29",
+        "message": "15-29",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_2_2_14",
+        "message": "44606",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH_BY_CATEGORY_DRILLDOWN_AGE_FEMALE",
+        "message": "Female",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH_BY_CATEGORY_DRILLDOWN_AGE_MALE",
+        "message": "Male",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH_BY_CATEGORY_DRILLDOWN_AGE_TRANSGENDER",
+        "message": "Transgender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NURT_BND",
+        "message": "Birth & Death",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_BND_TOTAL_COLLECTION",
+        "message": "Total Collection",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_BND_TOTAL_COLLECTION",
+        "message": "Sum of revenue from Birth & Death module",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NUMBER_OF_DEATHS_BY_AGE",
+        "message": "Deaths By Age Category",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NUMBER_OF_DEATHS_BY_CATEGORY",
+        "message": "Deaths By Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NUMBER_OF_DEATHS_BY_AGE",
+        "message": "Deaths By Age Category",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_NUMBER_OF_DEATHS_BY_CATEGORY",
+        "message": "Deaths By Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_MASTERS_BND",
+        "message": "B&D",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_BND_TOTAL_APPLICATION",
+        "message": "Total Certificates Issued",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_BND_TOTAL_APPLICATION",
+        "message": "Total # of birth & death certificates issued by concerned authority.",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_DEATH_CERTIFICATE_DOWNLOAD_TREND",
+        "message": "Certificate Download Trend",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NUMBER_OF_DEATHS_BY_CATEGORY",
+        "message": "Deaths by Gender",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_NUMBER_OF_DEATHS_BY_AGE",
+        "message": "Deaths By Age Category",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NSS_DEATH_TOTAL_CERTIFICATE_DOWNLOAD",
+        "message": "Total number of death certificates downloaded",
+        "module": "rainmaker-dss",
+        "locale": "en_IN"
     }
 ]
