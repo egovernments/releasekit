@@ -31,7 +31,7 @@
     },
     {
         "code": "BND_APPL_CANT",
-        "message": "City",
+        "message": "छावनी",
         "module": "rainmaker-bnd",
         "locale": "hi_IN"
     },
@@ -100,13 +100,7 @@
         "message": "जन्म प्रमाण पत्र डाउनलोड करें",
         "module": "rainmaker-bnd",
         "locale": "hi_IN"
-    },
-    {
-        "code": "BND_BIRTH_COMMON",
-        "message": "Download Birth Certificate",
-        "module": "rainmaker-bnd",
-        "locale": "hi_IN"
-    },
+    },  
     {
         "code": "BND_BIRTH_DATE",
         "message": "जन्म तिथि",
@@ -128,12 +122,6 @@
     {
         "code": "BND_BIRTH_SEARCH_DOWNLOAD",
         "message": "जन्म प्रमाण पत्र खोजें और डाउनलोड करें",
-        "module": "rainmaker-bnd",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "BND_BRITH_APPL_HOSP_PLACEHOLDER",
-        "message": "Select birth place",
         "module": "rainmaker-bnd",
         "locale": "hi_IN"
     },
@@ -914,6 +902,152 @@
     {
         "code": "PRESENT_TO_PERM_ADDR_SWITCH_DEATH",
         "message": "यदि मृतक का स्थायी पता मृत्यु के समय मृतक के पते के समान है।",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "Mobile Number",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "Name",
+        "message": "नाम",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BND_ERROR_DOBINVALID",
+        "message": "बीएनडी: अमान्य जन्म तिथि",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_BIRTH_CERT",
+        "message": "जन्म प्रमाणपत्र",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_DEATH_CERT",
+        "message": "मृत्यु प्रमाणपत्र",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_FAILURE_NULL_PAYMENT_MESSAGE",
+        "message": "भुगतान विफल रहा",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_FAILURE_NULL_PAYMENT_MESSAGE_DETAIL",
+        "message": "भुगतान विफल रहा",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_BIRTH_CERT_PAYMENT_MESSAGE",
+        "message": "भुगतान सफलतापूर्वक किया गया!",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_BIRTH_CERT_PAYMENT_MESSAGE_DETAIL",
+        "message": "भुगतान की जानकारी उपयोगकर्ता/स्वामी के पंजीकृत मोबाइल नंबर पर भेज दी गई है।",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_BIRTH_CERT_PAYMENT_RECEIPT_NO",
+        "message": "रसीद संख्या",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_DEATH_CERT_PAYMENT_MESSAGE",
+        "message": "भुगतान सफलतापूर्वक किया गया!",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_DEATH_CERT_PAYMENT_MESSAGE_DETAIL",
+        "message": "भुगतान की जानकारी उपयोगकर्ता/स्वामी के पंजीकृत मोबाइल नंबर पर भेज दी गई है।",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_DEATH_CERT_PAYMENT_RECEIPT_NO",
+        "message": "रसीद संख्या",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BIRTH_CERT_FEE",
+        "message": "जन्म प्रमाणपत्र शुल्क",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BND_FILL_REQUIRED_FIELDS",
+        "message": "आवश्यक फ़ील्ड भरें",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BND_NEW_REGISTRATION_SUBTEXT",
+        "message": "(*) चिह्नित आइटम अनिवार्य हैं",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+ 
+    {
+        "code": "CORE_COMMON_SUBMIT",
+        "message": "जमा करें",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DEATHRECORDSCOUNTREPORT",
+        "message": "मृत्यु रिकॉर्ड संख्या",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DEATHRECORDSCOUNTREPORTCBLEVEL",
+        "message": "शहर के अनुसार मृत्यु रिकॉर्ड की गणना",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_FATHER_MOTHER_DECEASED_NAME",
+        "message": "अमान्य नाम",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MODULE_DEATH_CERT",
+        "message": "मृत्यु प्रमाणपत्र",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+ 
+    {
+        "code": "BND_ERROR_DOBINVALID",
+        "message": "बीएनडी: अमान्य जन्म तिथि",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NEW_REGISTRATION",
+        "message": "नया पंजीकरण",
+        "module": "rainmaker-bnd",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_SEARCH_CERTIFICATE",
+        "message": "प्रमाणपत्र खोजें",
         "module": "rainmaker-bnd",
         "locale": "hi_IN"
     }
