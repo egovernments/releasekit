@@ -944,12 +944,6 @@
   "locale":"en_IN"
 },
 {
-  "code":"ES_FSM_FSTP_NEW_ENTRY",
-  "message":"Select FSM Request",
-  "module":"rainmaker-fsm",
-  "locale":"en_IN"
-},
-{
   "code":"ES_COMMON_ADD_NEW",
   "message":"Add New Vehicle Entry",
   "module":"rainmaker-fsm",
@@ -990,6 +984,12 @@
   "message":"Vehicle matching the required capacity not found.",
   "module":"rainmaker-fsm",
   "locale":"en_IN"
-}
+},
+  {
+  "code":"ES_FSM_FSTP_NEW_ENTRY",
+  "message":"Add New Vehicle Entry",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
 ]
  
