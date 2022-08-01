@@ -1,0 +1,358 @@
+[
+  {
+  "code":"ES_ACTION_PAYED_IN_CASH",
+  "message":"Payment Received",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_ACTION_NETBANKING",
+  "message":"Paid In cash",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_ACTION_PAYED_IN_COUNTER",
+  "message":"Net Banking",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_APPLICATION_DETAILS_AMOUNT_RECEIVED",
+  "message":"Paid at counter",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
+  "message":"Payment Method",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_SCHEDULE",
+  "message":"Trips Updated Successfully",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_SERVICE_REQUEST_TEXT",
+  "message":"Update Trips",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"FSM_GENDER_DETAILS",
+  "message":"Please provide below details",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"FSM_PAYMENT_DETAILS",
+  "message":"Gender Details",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"FSM_TIMELINE_PROPERTY_DETAILS",
+  "message":"Payment",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"FSM_TIMELINE_LOCATION_DETAILS",
+  "message":"Property Details",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"FSM_TIMELINE_SEPTIC_TANK_DETAILS",
+  "message":"Location Details",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"FSM_TIMELINE_SUMMARY",
+  "message":"Septic tank Details",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_SERVICE_REQUEST",
+  "message":"Summary",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"CS_COMMON_SERVICE_SKIP_INFO",
+  "message":"Service request",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_SUB_HEADING_DSO_UPLOADS",
+  "message":"Don't know how many trips or vehicle capacity it takes to complete this service?",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_TITLE_NEW_DESULDGING_APPLICATION",
+  "message":"DSO Uploads",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_APPLICATION_SCHEDULE",
+  "message":"New Desludging Application",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_SUB_HEADING_CITIZEN_UPLOADS",
+  "message":"Update Trips",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_SUB_HEADING_DSO_UPLOADS",
+  "message":"Photos uploaded by citizen",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_RESPONSE_SUBMIT_DISPLAY",
+  "message":"Photos uploaded by DSO",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_RESPONSE_SUBMIT_ACTION",
+  "message":"The notification along with the application number is sent to your applicant's mobile number. Applicant can track the application status using mobile or web app.",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_RESPONSE_ASSIGN_DSO_LABEL",
+  "message":"Application Updated Successfully",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
+  "message":"Application Number",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_RESPONSE_SCHEDULE_DISPLAY",
+  "message":"Number of Trips Updated Successfully",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_PAYMENT_SUCCESSFUL_DESCRIPTION",
+  "message":"The notification along with the application number is sent to your applicant's mobile number. Applicant can track the application status using mobile or web app.",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"PAYED_IN_CASH",
+  "message":"The notification along with the application number is sent to your applicant's mobile number. Applicant can track the application status using mobile or web app.",
+  "module":"rainmaker-common",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"DSS_FSM_RESQUEST_BY_PAYMENT_PREFERENCE",
+  "message":"Paid In Cash",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"DSS_FSM_TOTAL_REQUESTS_BY_STATUS",
+  "message":"Payment Preference",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"DSS_FSM_CUSTOMER_RATINGS",
+  "message":"Request Status",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"CS_FILE_PROPERTY_RESPONSE",
+  "message":"Customer Ratings",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"COMMON_MASTERS_PRE_PAY",
+  "message":"Application reference is sent to your registered mobile number. You will be notified with the charges for the applied service shortly. Please make the payment using my applications link from home page anytime before the service completion.",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"COMMON_MASTERS_POST_PAY",
+  "message":"Pre Pay",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_ADD_NEW_BUTTON",
+  "message":"Post Pay",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSTP_INVALID_START_TIME",
+  "message":"Add Vehicle Log",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSTP_INVALID_VEHICLE_NUMBER",
+  "message":"Please enter valid Vehicle In time",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSTP_INVALID_DSO_NAME",
+  "message":"Invalid Vehicle Number",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSTP_INVALID_LOCALITY",
+  "message":"Invalid DSO Namer",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"CS_COMMON_CITIZEN_NAME",
+  "message":"Invalid Locality",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"CS_COMMON_CITIZEN_NUMBER",
+  "message":"Citizen Name",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_COMMON_HOME",
+  "message":"Citizen Mobile Number",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_ADD_VEHICLE_LOG",
+  "message":"Home",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_VEHICLE_NUMBER",
+  "message":"Add Vehicle Log",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_COMMON_FSTP_OPERATION",
+  "message":"Vehicle Number",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_COMMON_FSTP_OPERATION",
+  "message":"FSTP Operations",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_COMMON_INBOX",
+  "message":"View Reports",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_INBOX_VEHICLE_NO",
+  "message":"Inbox",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_INBOX_DSO_NAME",
+  "message":"Vehicle No",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_INBOX_LOCALITY",
+  "message":"DSO Name",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_ADDITIONAL_DETAILS",
+  "message":"Locality",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_FSTP_SERVICE_REQUEST",
+  "message":"Additional Details",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_FSTP_NEW_ENTRY",
+  "message":"Add New Vehicle Entry",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_COMMON_ADD_NEW",
+  "message":"Add New Vehicle Entry",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_VIEW_REPORTS_BUTTON",
+  "message":"Add New",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_COMMON_FSTP_OPERATION",
+  "message":"q",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_ATTACHMENT",
+  "message":"FSTP Operations",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"CS_ACTION_READY_FOR_DISPOSAL",
+  "message":"Attachments",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_FSM_RESPONSE_SCHEDULE_LABEL_ERROR",
+  "message":"DISPOSE",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+},
+{
+  "code":"ES_TITLE_NEW_DESULDGING_APPLICATION",
+  "message":"Vehicle matching the required capacity not found.",
+  "module":"rainmaker-fsm",
+  "locale":"en_IN"
+}
+]
+ 
