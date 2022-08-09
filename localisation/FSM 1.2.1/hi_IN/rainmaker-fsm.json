@@ -353,5 +353,47 @@
    "message":"नया डिसैल्यूडिंग ऐप",
    "module":"rainmaker-fsm",
    "locale":"hi_IN"
+},
+   {
+   "code":"CS_ACTION_READY_FOR_DISPOSAL",
+   "message":"प्रस्तुत करना",
+   "module":"rainmaker-fsm",
+   "locale":"hi_IN"
+},
+{
+   "code":"ES_FSM_RESPONSE_SCHEDULE_LABEL_ERROR",
+   "message":"आवश्यक क्षमता से मेल खाने वाला वाहन नहीं मिला",
+   "module":"rainmaker-fsm",
+   "locale":"hi_IN"
+},
+{
+   "code":"ES_FSM_VEHICLE_NUMBER",
+   "message":"वाहन संख्या दर्ज करें",
+   "module":"rainmaker-fsm",
+   "locale":"hi_IN"
+},
+{
+   "code":"ES_FSM_RESPONSE_SCHEDULE_LABEL_ERROR",
+   "message":"यात्रा अपडेट में सामान्य से अधिक समय लग रहा है। कृपया 30 सेकंड के बाद पुन: प्रयास करेंयात्रा अपडेट में सामान्य से अधिक समय लग रहा है। कृपया 30 सेकंड के बाद पुन: प्रयास करें",
+   "module":"rainmaker-fsm",
+   "locale":"hi_IN"
+},
+{
+   "code":"ES_FSM_RESPONSE_SCHEDULE_ACTION_ERROR",
+   "message":"ट्रिप अपडेट विफल",
+   "module":"rainmaker-fsm",
+   "locale":"hi_IN"
+},
+{
+   "code":"ES_FSM_RESPONSE_SCHEDULE_DISPLAY_ERROR",
+   "message":"आप ट्रिप अपडेट करें पेज पर वापस जा सकते हैं और ट्रिप की संख्या अपडेट करने का फिर से प्रयास कर सकते हैं",
+   "module":"rainmaker-fsm",
+   "locale":"hi_IN"
+},
+{
+   "code":"ES_FSM_FSTP_NEW_ENTRY",
+   "message":"नई वाहन प्रविष्टि जोड़ें",
+   "module":"rainmaker-fsm",
+   "locale":"hi_IN"
 }
 ]
