@@ -1,0 +1,5534 @@
+[
+    {
+        "code": "ACTION_TEST_BPA_STAKE_HOLDER_SEARCH",
+        "message": "खोजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NOC",
+        "message": "अनापत्ति प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_SEARCH_NOC_APPLICATION",
+        "message": "अनापत्ति प्रमाण पत्र खोज",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "AIRPORT_AUTHORITY",
+        "message": "हवाई अड्डा प्राधिकरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL",
+        "message": "आवेदक के विवरण और अन्य सामान्य दस्तावेजों",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.ADDRESSPROOF",
+        "message": "पते का सबूत",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.ADDRESSPROOF.ELECTRICITYBILL",
+        "message": "बिजली का बिल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.ADDRESSPROOF.PASSPORT",
+        "message": "पासपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.BUILDING_DIAGRAM.ELEVATION_PLAN",
+        "message": "एलिवेशन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.BUILDING_DIAGRAM.FLOOR_PLAN",
+        "message": "मंजिल प्लान / मंजिल योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.BUILDING_DIAGRAM.SECTION_PLAN",
+        "message": "सेक्शन प्लान / सेक्शन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.IDENTITYPROOF",
+        "message": "पहचान का प्रमाण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.IDENTITYPROOF.AADHAAR",
+        "message": "आधार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.IDENTITYPROOF.DRIVINGLICENSE",
+        "message": "ड्राइविंग लाइसेंस",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.IDENTITYPROOF.PASSPORT",
+        "message": "पासपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.LAC",
+        "message": "लेआउट स्वीकृति कॉपी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.LAC.LAC",
+        "message": "लेआउट स्वीकृति कॉपी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.LOCALBODY.DTCP_APPROVAL",
+        "message": "डीटीसीपी स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.LOCALBODY.MUNCIPAL_APPROVAL",
+        "message": "नगर निगम की स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.LOCALBODY.PANCHAYAT_APPROVAL",
+        "message": "पंचायत स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.LSVS",
+        "message": "स्थान का नक्शाऔर गाँव का नक्शा / स्थान स्केच और गांव स्केच",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.LSVS.LSVS",
+        "message": "स्थान का नक्शाऔर गाँव का नक्शा / स्थान स्केच और गांव स्केच",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.LTR",
+        "message": "भूमि कर की रसीद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.LTR.LTR",
+        "message": "भूमि कर की रसीद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.SSC",
+        "message": "स्ट्रक्चरल स्थिरता का प्रमाण पत्र / संरचात्मक स्थिरता का प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.SSC.SSC",
+        "message": "स्ट्रक्चरल स्थिरता का प्रमाण पत्र / संरचात्मक स्थिरता का प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.TDP",
+        "message": "संपत्ति का शीर्षक विलेख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL.TDP.TDP",
+        "message": "संपत्ति का शीर्षक विलेख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPLICATION_CREATE_MSG",
+        "message": "प्रिय <1>, <2> (सेवा प्रकार) के लिए आपका आवेदन तैयार है। कृपया भविष्य में संदर्भ के लिए आवेदन नंबर <3> का उपयोग करें।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPLICATION_FEE_PENDING_MSG",
+        "message": "प्रिय <1>, <2> (सेवा प्रकार) के लिए तैयार आपके आवेदन का आवेदन नंबर <3> है। आवेदन पर आगे कार्रवाई करने के लिए कृपया <4> / -रुपये के आवेदन शुल्क का भुगतान करें।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPLICATION_NUMBER_ALREADY_EXISTS",
+        "message": "आवेदन नंबर पहले से मौजूद है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPLICATION_REJECTED_MSG",
+        "message": "प्रिय <1>, <2> (सेवा प्रकार) <3> के लिए आपके आवेदन को अस्वीकार कर दिया गया है। आवेदन की अस्वीकृति के कारणों की जांच करने के लिए आप पोर्टल पर लोग इन करे सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_ADDRESSPROOF",
+        "message": "पते का सबूत",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_ADDRESSPROOF_ELECTRICITYBILL",
+        "message": "बिजली का बिल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_ADDRESSPROOF_PASSPORT",
+        "message": "पासपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_BUILDING_DIAGRAM",
+        "message": "भवन का नक्शा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_BUILDING_DIAGRAM_ELEVATION",
+        "message": "एलिवेशन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_BUILDING_DIAGRAM_ELEVATION_PLAN",
+        "message": "एलिवेशन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_BUILDING_DIAGRAM_FLOOR",
+        "message": "मंजिल प्लान / मंजिल योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_BUILDING_DIAGRAM_FLOOR_PLAN",
+        "message": "मंजिल प्लान / मंजिल योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_BUILDING_DIAGRAM_SECTION",
+        "message": "सेक्शन प्लान / सेक्शन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_BUILDING_DIAGRAM_SECTION_PLAN",
+        "message": "सेक्शन प्लान / सेक्शन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_IDENTITYPROOF",
+        "message": "पहचान का प्रमाण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_IDENTITYPROOF_AADHAAR",
+        "message": "आधार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_IDENTITYPROOF_DRIVINGLICENSE",
+        "message": "ड्राइविंग लाइसेंस",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_IDENTITYPROOF_PASSPORT",
+        "message": "पासपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LAC",
+        "message": "लेआउट स्वीकृति कॉपी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LAC_LAC",
+        "message": "लेआउट स्वीकृति कॉपी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LOCALBODY",
+        "message": "स्थानीय निकाय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LOCALBODY_DTCP",
+        "message": "डीटीसीपी स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LOCALBODY_DTCP_APPROVAL",
+        "message": "डीटीसीपी स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LOCALBODY_MUNCIPAL",
+        "message": "नगर निगम की स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LOCALBODY_MUNCIPAL_APPROVAL",
+        "message": "नगर निगम की स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LOCALBODY_PANCHAYAT",
+        "message": "पंचायत स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LOCALBODY_PANCHAYAT_APPROVAL",
+        "message": "पंचायत स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LSVS",
+        "message": "स्थान का नक्शाऔर गाँव का नक्शा / स्थान स्केच और गांव स्केच",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LSVS_LSVS",
+        "message": "स्थान का नक्शाऔर गाँव का नक्शा / स्थान स्केच और गांव स्केच",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LTR",
+        "message": "भूमि कर की रसीद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_LTR_LTR",
+        "message": "भूमि कर की रसीद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_SSC",
+        "message": "स्ट्रक्चरल स्थिरता का प्रमाण पत्र / संरचात्मक स्थिरता का प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_SSC_SSC",
+        "message": "स्ट्रक्चरल स्थिरता का प्रमाण पत्र / संरचात्मक स्थिरता का प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_TDP",
+        "message": "संपत्ति का शीर्षक विलेख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPL_TDP_TDP",
+        "message": "संपत्ति का शीर्षक विलेख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "APPROVED_AND_PERMIT_GENERATED_MSG",
+        "message": "प्रिय <1>, <2> (सेवा प्रकार) <3> के आपके आवेदन के लिए भवन परमिट आदेश बन गया है। आप पोर्टल पर लॉग इन करके परमिट आदेश डाउनलोड कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "AUTO_APPROVED",
+        "message": "स्वत: स्वीकृत",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BIHAR_TENANT",
+        "message": "पंजाब",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BLOCK_1",
+        "message": "ब्लॉक 1",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BLOCK_2",
+        "message": "ब्लॉक 2",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BLOCK_3",
+        "message": "ब्लॉक 3",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BLOCK_4",
+        "message": "ब्लॉक 4",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BLOCK_5",
+        "message": "ब्लॉक 5",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BOA_PDF_WRT_TXT",
+        "message": "आपके आवेदन नंबर के सम्बन्ध में",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_DOC_VERIFIER",
+        "message": "बीपीएआरईजी दस्तावेज सत्यापनकर्ता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPAREG_SERVICE",
+        "message": "हितधारक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ACTUAL_BUILDING_ABSTRACT_HEADER",
+        "message": "वास्तविक निर्माण सार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ACTUAL_BUILDING_DETAILS_LABEL",
+        "message": "वास्तविक भवन विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ADD_ANOTHER_FI_REPORT_LABEL",
+        "message": "एक और फील्ड निरीक्षण रिपोर्ट जोड़ें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ADD_HOC_CHARGES_POPUP_BUTTON_NA",
+        "message": "ना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ADD_HOC_CHARGES_POPUP_BUTTON_NO",
+        "message": "नहीं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ADD_HOC_CHARGES_POPUP_BUTTON_YES",
+        "message": "हाँ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ADD_MORE",
+        "message": "और जोड़ें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ADD_OWNER",
+        "message": "मालिक जोड़ें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ADD_OWNER_LABEL",
+        "message": "मालिक जोड़ें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ANNUAL_EXPECTED_EXPENDITURE_LABEL",
+        "message": "वार्षिक अनुमानित खर्च",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ANNUAL_EXPECTED_EXPENDITURE_PLACEHOLDER",
+        "message": "वार्षिक अनुमानित खर्च दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_CORRESPONDENCE_ADDRESS_LABEL",
+        "message": "पत्राचार का पता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_DETAILS_HEADER",
+        "message": "मालिक का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_DOB_LABEL",
+        "message": "जन्म की तारीख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_EMAIL_LABEL",
+        "message": "ईमेल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_FATHER_HUSBAND_NAME_LABEL",
+        "message": "पिता / पति का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_GENDER_LABEL",
+        "message": "लिंग",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_GENDER_PLACEHOLDER",
+        "message": "लिंग चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_GUARDIAN_NAME_LABEL",
+        "message": "अभिभावक का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_GUARDIAN_NAME_PLACEHOLDER",
+        "message": "अभिभावक का नाम दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_MOBILE_NO_LABEL",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_NAME_LABEL",
+        "message": "नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_PAN_LABEL",
+        "message": "पैन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_RELATIONSHIP_FATHER_RADIOBUTTON",
+        "message": "पिता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_RELATIONSHIP_HUSBAND_RADIOBUTTON",
+        "message": "पति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_RELATIONSHIP_LABEL",
+        "message": "संबंध / रिश्ता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION",
+        "message": "आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATIONTYPE_BUILDING_OC_PLAN_SCRUTINY",
+        "message": "बिल्डिंग ओसी योजना परीक्षण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATIONTYPE_BUILDING_PLAN_SCRUTINY",
+        "message": "बिल्डिंग परमिट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_APPROVED_ARCT_SUCCESS_BODY_MESSAGE",
+        "message": "नागरिक द्वारा आवेदन स्वीकृति सम्बंधित सूचना पंजीकृत मोबाइल नंबर पर हितधारक को भेज दी जाएगी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_APPROVED_ARCT_SUCCESS_MESSAGE_MAIN",
+        "message": "नागरिक द्वारा आवेदन सफलतापूर्वक स्वीकार किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_APPROVED_SUCCESS_MESSAGE_MAIN",
+        "message": "आवेदन सफलतापूर्वक स्वीकृत किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_BLOCK1_LABEL",
+        "message": "ब्लॉक 1",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_BLOCK_WISE_OCCUPANCY_SUB_OCCUPANCY_USAGE_TITLE",
+        "message": "ब्लॉक अधिभोग / उप अधिभोग और उपयोग विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_BUILDING_PERMIT_NO_LABEL",
+        "message": "बिल्डिंग परमिट आवेदन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_BUTTON_DOWN_CONF",
+        "message": "पुष्टि फार्म डाउनलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_BUTTON_PRINT_CONF",
+        "message": "पुष्टि फार्म प्रिंट करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_DEMOLITION_AREA_LABEL",
+        "message": "तोड़फोड़ का क्षेत्र / स्थान",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_FORWARD_SUCCESSFULLY",
+        "message": "आवेदन सफलतापूर्वक आगे बढ़ाया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_HIGH_FROM_GROUND",
+        "message": "जमीनी स्तर से मम्टी की ऊंचाई (मी)",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_MARKED_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक चिह्नित किया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_NO_CODE",
+        "message": "आवेदन नंबर {0}",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_NO_OF_FLOORS",
+        "message": "मंजिलों की संख्या",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_OCCUPANCY_PLACEHOLDER",
+        "message": "अधिभोग का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_OC_PERMIT_NO_CODE",
+        "message": "अधिभोग प्रमाण पत्र नंबर {0}",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_PERMIT_NO_CODE",
+        "message": "परमिट नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_PROPOSED_BUILDING_LABEL",
+        "message": "प्रस्तावित भवन विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_RESIDENTIAL_LABEL",
+        "message": "आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_SCRUNITY_DETAILS_TITLE",
+        "message": "बिल्डिंग प्लान परीक्षण के आवेदन का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_SCRUNITY_REPORT_LABEL",
+        "message": "परीक्षण रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_SENDBACK_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक वापस भेज दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_SEND_TO_ARCHITECT_SUCCESS_MESSAGE_MAIN",
+        "message": "आवेदन सफलतापूर्वक वास्तुकार को भेजा गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_SENT_TO_CITIZEN_SUCCESS_MESSAGE_MAIN",
+        "message": "आवेदन सफलतापूर्वक नागरिक को भेजा गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_SUCCESS_MESSAGE_SUB",
+        "message": "आवेदन जमा करने से संबंधित सूचना पंजीकृत मोबाइल नंबर पर भवन मालिक को भेज दी गयी है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_TOTAL_BUILDUP_AREA",
+        "message": "कुल निर्माण क्षेत्र (वर्ग मीटर)",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICATION_UPLOAD_DIAGRAM_LABEL",
+        "message": "अपलोड किया गया नक्शा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLY_FOR_BUILDING_PERMIT_HEADER",
+        "message": "बिलिंग परमिट के लिए आवेदन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLY_FOR_BUILDING_PERMIT_OC_HEADER",
+        "message": "बिल्डिंग ओसी परमिट के लिए आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLY_SERVICE",
+        "message": "बीपीए",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPL_FEE",
+        "message": "आवेदन शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_CHECKLIST_BUTTON_DOWN_LIC",
+        "message": "बीपीए डाउनलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_CHECKLIST_HEAD",
+        "message": "सत्यापन की जानकारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_CHECKLIST_PRINT_LIC",
+        "message": "बीपीए प्रिंट करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_NUMBER_LABEL",
+        "message": "स्वीकृति नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_OC_REVOCATED_MESSAGE_HEAD",
+        "message": "अधिभोग प्रमाण पत्र के लिए आवेदन रद्द किया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_REJECTED_MESSAGE_HEAD",
+        "message": "परमिट आदेश के आवेदन को अस्वीकार कर दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_REJE_MESSAGE_SUBHEAD",
+        "message": "भवन परमिट आवेदन की अस्वीकृति से संबंधित सूचना पंजीकृत मोबाइल नंबर पर आवेदक को भेज दी गयी है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_REVOCATED_MESSAGE_HEAD",
+        "message": "परमिट आदेश का आवेदन रद्द कर दिया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_REV_MESSAGE_SUBHEAD",
+        "message": "बिल्डिंग परमिट आवेदन रद्द होने से सम्बंधित सूचना आवेदक को पंजीकृत नंबर पर भेज दी गयी है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_SEND_TO_ARCHITECT_SUBHEAD",
+        "message": "आवेदन सफलतापूर्वक वास्तुकार को भेजा गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_SENT_TO_CITIZEN_SUBHEAD",
+        "message": "आवेदन सफलतापूर्वक नागरिक को भेजा गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_UPLOAD_HEAD",
+        "message": "सहायक दतावेज / सहकारी दस्तावेज़",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_UPLOAD_SUBHEAD",
+        "message": "केवल .jpg और .pdf फ़ाइल। 5एमबी अधिकतम फ़ाइल आकार।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVED_REJECTED_ON_LABEL",
+        "message": "स्वीकृत/रद्द करने की तिथि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVER",
+        "message": "बीपीएआरईजी अनुमोदनकर्त्ता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVE_BUTTON",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APP_DETAILS_DEMOLITION_DETAILS_LABEL",
+        "message": "तोड़फोड़ का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APP_DETAILS_PROPOSED_BUILDING_DETAILS_LABEL",
+        "message": "प्रस्तावित भवन विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APP_FEE_RECEIPT",
+        "message": "आवेदन शुल्क की रसीद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ARCHITECT",
+        "message": "बीपीए वास्तुकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_AUTHORIZED_PERSON_EMAIL_LABEL",
+        "message": "प्राधिकृत व्यक्ति का ईमेल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_AUTHORIZED_PERSON_EMAIL_PLACEHOLDER",
+        "message": "प्राधिकृत व्यक्ति का ईमेल दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_AUTHORIZED_PERSON_LABEL",
+        "message": "प्राधिकृत व्यक्ति का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_AUTHORIZED_PERSON_MOBILE_LABEL",
+        "message": "प्राधिकृत व्यक्ति का मोबाइल नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_AUTHORIZED_PERSON_MOBILE_PLACEHOLDER",
+        "message": "प्राधिकृत व्यक्ति का मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_AUTHORIZED_PERSON_PLACEHOLDER",
+        "message": "प्राधिकृत व्यक्ति का नाम दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_APPLICATION_TYPE_LABEL",
+        "message": "आवेदन का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_APPLICATION_TYPE_PLACEHOLDER",
+        "message": "आवेदन प्रकार का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_APP_DATE_LABEL",
+        "message": "आवेदन तिथि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_APP_FEE_LABEL",
+        "message": "आवेदन शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_OCCUPANCY_LABEL",
+        "message": "अधिभोग",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_OCCUPANCY_PLACEHOLDER",
+        "message": "अधिभोग का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_REMARKS_LABEL",
+        "message": "टिप्पणियाँ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_REMARKS_PLACEHOLDER",
+        "message": "टिप्पणियां यहाँ दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_RISK_TYPE_LABEL",
+        "message": "जोखिम का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_SCRUTINY_NO_LABEL",
+        "message": "बिल्डिंग योजना परीक्षण नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_SCRUTINY_NUMBER_LABEL",
+        "message": "बिल्डिंग योजना परीक्षण नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_SCRUTINY_NUMBER_PLACEHOLDER",
+        "message": "परीक्षण नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_SCRUTINY_NUMBER_SEARCH_TITLE",
+        "message": "कृपया परीक्षण नंबर से जुड़ी परीक्षण जानकारी खोजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_SCRUTINY_REPORT",
+        "message": "परीक्षण रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_SCRUTINY_REPORT_PDF",
+        "message": "संवीक्षारिपोर्ट.pdf",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_SERVICE_TYPE_LABEL",
+        "message": "सेवा प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_SERVICE_TYPE_PLACEHOLDER",
+        "message": "सेवा प्रकार का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_TITLE",
+        "message": "मूल जानकारी / मूलभूत विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_UPLOADED_DIAGRAM",
+        "message": "अपलोड किया गया नक्शा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_DETAILS_UPLOADED_DIAGRAM_DXF",
+        "message": "UploadedDiagram.dxf",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BASIC_RISK_TYPE_PLACEHOLDER",
+        "message": "जोखिम का प्रकार चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BLOCK_A",
+        "message": "आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_CIRCLE_LABEL",
+        "message": "क्षेत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_CIRCLE_PLACEHOLDER",
+        "message": "क्षेत्र का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_CITY_TOWN_LABEL",
+        "message": "शहर / क़स्बा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_CITY_TOWN_PLACEHOLDER",
+        "message": "शहर / क़स्बे का नाम दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_DETAILS_TITLE",
+        "message": "सीमा का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_GOVT_QUASI_LABEL",
+        "message": "सरकारी या अर्ध सरकारी ?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_GOVT_QUASI_PLACEHOLDER",
+        "message": "सरकार का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_HOLDING_NO_LABEL",
+        "message": "होल्डिंग नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_HOLDING_NO_PLACEHOLDER",
+        "message": "होल्डिंग नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_KHATA_NO_LABEL",
+        "message": "खाता नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_KHATA_NO_PLACEHOLDER",
+        "message": "खाता नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_LAND_REG_DETAIL_LABEL",
+        "message": "भूमि पंजीकरण का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_LAND_REG_DETAIL_PLACEHOLDER",
+        "message": "भूमि पंजीकरण का विवरण दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_PLOT_AREA_LABEL",
+        "message": "प्लाट क्षेत्रफल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_PLOT_DETAILS_TITLE",
+        "message": "प्लाट का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_PLOT_NO_LABEL",
+        "message": "प्लाट नंबर (एमएसपी)",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_PLOT_NO_PLACEHOLDER",
+        "message": "प्लाट नंबर (एमएसपी) दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_REVENUE_WARD_LABEL",
+        "message": "राजस्व वार्ड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_REVENUE_WARD_PLACEHOLDER",
+        "message": "राजस्व वार्ड चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BOUNDARY_SUMMARY",
+        "message": "प्लॉट और सीमा का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BPA_APPL_FEES",
+        "message": "आवेदन शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BPA_SANC_FEES",
+        "message": "स्वीकृति शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BUILDER",
+        "message": "बीपीए बिल्डर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CANCEL_CHECKLIST_HEAD",
+        "message": "रद्द करने पर टिप्पणियां",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CERTIFICATE",
+        "message": "व्यापर लाइसेंस प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CHECK_LIST_DETAILS",
+        "message": "जांच सूची",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CITIZEN_1_DECLARAION_LABEL",
+        "message": "मैं सत्यनिष्ठा से यह दावा और घोषणा करता हूं कि मेरी जानकारी और विश्वास के अनुसार दी गयी जानकारी सत्य और सही है। अगर किसी भी स्तिथि में मेरे द्वारा दी गयी कोई भी जानकारी गलत पायी जाती है तो मेरा आवेदन पंजीकरण बिना किसी सूचना के रद्द करने के लिए मान्य होगा और मैं किसी भी प्रकार के मुआवजे की मांग नहीं करूँगा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CITIZEN_APPROVE_BUTTON",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CITIZEN_CANCEL_BUTTON",
+        "message": "रद्द करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CITIZEN_MAKE_PAYMENT",
+        "message": "भुगतान करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CITIZEN_SELECT_BUTTON",
+        "message": "चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CITY_LABEL",
+        "message": "शहर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CITY_PLACEHOLDER",
+        "message": "शहर चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CITY_SELECT_TITLE",
+        "message": "अपना शहर चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COL_ASSIGNEDTO",
+        "message": "को नियुक्त किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COL_MODULE_SERVICE",
+        "message": "मॉड्यूल / सेवा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_APPLY_BPA_HEADER_LABEL",
+        "message": "बिल्डिंग परमिट आदेश के लिए आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_APPLY_BPA_OC_HEADER_LABEL",
+        "message": "अधिभोग प्रमाण पत्र के लिए आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_BUTTON_BACK",
+        "message": "वापस जाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_BUTTON_HOME",
+        "message": "मुख्या पेज पर जाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_BUTTON_NXT_STEP",
+        "message": "अगला कदम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_BUTTON_PREV_STEP",
+        "message": "पिछला कदम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_BUTTON_SUBMIT",
+        "message": "जमा करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_DOCS",
+        "message": "दस्तावेज़",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_APP_DATE_LABEL",
+        "message": "आवेदन तिथि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_APP_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_APP_STATUS_LABEL",
+        "message": "आवेदन की स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_BUILD_AREA",
+        "message": "निर्माण क्षेत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_CARPET_AREA",
+        "message": "कालीन क्षेत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_FLOOR_AREA",
+        "message": "फर्श क्षेत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_FLOOR_DES",
+        "message": "मंजिल का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_FLOOR_LEVEL",
+        "message": "लेवल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_OCCUP",
+        "message": "अधिभोग / उप अधिभोग",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_OWN_NAME_LABEL",
+        "message": "आवेदक का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TABLE_COL_STATUS_LABEL",
+        "message": "स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMMON_TOTAL_AMT",
+        "message": "कुल राशि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_COMPARISON_REPORT_LABEL",
+        "message": "तुलना रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CONFIRMATION_MESSAGE_MAIN",
+        "message": "भुगतान सफलतापूर्वक प्राप्त हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CONFIRMATION_MESSAGE_SUB",
+        "message": "भुगतान प्राप्ति से सम्बंधित सूचना व्यापर मालिक को पंजीकृत मोबाइल नंबर पर भेज दी गयी है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DECLARATION_COMMON_LABEL",
+        "message": "आगे बढ़ने के लिए नीचे दिए गए चेकबॉक्स को चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DECLARATION_TITLE",
+        "message": "घोषणा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_BLDG_NAME_LABEL",
+        "message": "भवन / कॉलोनी का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_BLDG_NAME_PLACEHOLDER",
+        "message": "भवन / कॉलोनी का नाम दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_DOOR_NO_LABEL",
+        "message": "दरवाजा / मकान नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_DOOR_NO_PLACEHOLDER",
+        "message": "दरवाजा / मकान नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_GIS_CORD_LABEL",
+        "message": "जीआईएस निर्देशांक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_GIS_CORD_PLACEHOLDER",
+        "message": "नक्शे पर अपने व्यापार स्थल का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_MOHALLA_LABEL",
+        "message": "मोहल्ला",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_MOHALLA_PLACEHOLDER",
+        "message": "मोहल्ला चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_PIN_LABEL",
+        "message": "पिन कोड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_PIN_PLACEHOLDER",
+        "message": "पिनकोड दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_SRT_NAME_LABEL",
+        "message": "सड़क का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DETAILS_SRT_NAME_PLACEHOLDER",
+        "message": "सड़क का नाम दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOB_ERROR_MESSAGE",
+        "message": "अमान्य जन्म तिथि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOCUMENT_AND_NOC_DETAILS_HEADER",
+        "message": "दस्तावेज़ और अनापत्ति प्रमाणपत्र विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOCUMENT_DETAILS_HEADER",
+        "message": "आवश्यक दस्तावेज़",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOCUMENT_DETAILS_SUBTEXT",
+        "message": "एक दस्तावेज़ के लिए केवल एक फ़ाइल अपलोड की जा सकती है। एक से अधिक फ़ाइलों तो अपलोड करने के लिए सभी फाइलों का एक पीडीऍफ़ बना कर अपलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOC_DETAILS_HEADER",
+        "message": "आवश्यक दस्तावेज़",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOC_DETAILS_SUMMARY",
+        "message": "दस्तावेज़ विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOC_DETAILS_TEXT",
+        "message": "एक दस्तावेज़ के लिए केवल एक फ़ाइल अपलोड की जा सकती है। एक से अधिक फ़ाइलों तो अपलोड करने के लिए सभी फाइलों का एक पीडीऍफ़ बना कर अपलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOC_DET_BTN_UPLOAD_FILE",
+        "message": "फ़ाइल अपलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOC_UPLOAD_BUTTON",
+        "message": "फ़ाइल अपलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOC_VERIFIER",
+        "message": "बीपीए दस्तावेज सत्यापनकर्ता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_DOWNLOAD",
+        "message": "डाउनलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_EDCR_NO_LABEL",
+        "message": "ईडीसीआर नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_EDCR_SEARCH_RESULTS_FOR_APP",
+        "message": "ईडीसीआर आवेदन के खोज परिणाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENGINEER",
+        "message": "बीपीए इंजीनियर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENTER_APPLICANT_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
+        "message": "आवेदक का पत्राचार पता दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENTER_APPLICANT_CORR_ADDR_PLACEHOLDER",
+        "message": "पत्राचार पता दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENTER_APPLICANT_DOB_PLACEHOLDER",
+        "message": "DD/MM/YYYY",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENTER_APPLICANT_EMAIL_PLACEHOLDER",
+        "message": "ईमेल दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENTER_APPLICANT_MOBILE_NO_PLACEHOLDER",
+        "message": "मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENTER_APPLICANT_NAME_PLACEHOLDER",
+        "message": "नाम दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENTER_APPLICANT_PAN_PLACEHOLDER",
+        "message": "आवेदक के पैन नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENTER_QSTN_PLACEHOLDER",
+        "message": "परमिट की स्थिति दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ENTER_REMARKS",
+        "message": "टिपण्णियाँ ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FEE_RECEIPT",
+        "message": "शुल्क रसीद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FIELD_INSPECTION_DETAILS_TITLE",
+        "message": "फील्ड निरीक्षण विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FIELD_INSPECTION_DOCUMENTS",
+        "message": "दस्तावेज़",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FIELD_INSPECTOR",
+        "message": "बीपीए फील्ड इंस्पेक्टर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FILE_LABEL",
+        "message": "फाइल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FI_DATE_LABEL",
+        "message": "निरीक्षण की तारीख़",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FI_DATE_LABEL_NAME",
+        "message": "निरीक्षण की तारीख़",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FI_REPORT",
+        "message": "निरीक्षण रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FI_TIME_LABEL",
+        "message": "निरीक्षण का समय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FI_TIME_LABEL_NAME",
+        "message": "निरीक्षण का समय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_0",
+        "message": "भू तल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_1",
+        "message": "पहली मंजिल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_2",
+        "message": "दूसरी मंजिल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_3",
+        "message": "तीसरी मंजिल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_4",
+        "message": "चौथी मंजिल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FLOOR_NAME_5",
+        "message": "पांचवीं मंजिल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FOOTER_BUTTON_NXT_STEP",
+        "message": "अगला कदम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FOOTER_BUTTON_PREV_STEP",
+        "message": "पिछला कदम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FOOTER_SELECT_DOC_TYPE",
+        "message": "कृपया दस्तावेज़ के प्रकार का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FOOTER_UPLOAD_MANDATORY_DOC",
+        "message": "अनिवार्य दस्तावेजों को अपलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FORWARD_APPLICATION_HEADER",
+        "message": "आवेदन आगे बढ़ाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FORWARD_BUTTON",
+        "message": "आगे बढ़ाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FORWARD_SUCCESS_MESSAGE_MAIN",
+        "message": "आवेदन सफलतापूर्वक अग्रेषित किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FROM_DATE_LABEL",
+        "message": "दिनांक से",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FROM_DATE_PLACEHOLDER",
+        "message": "दिनांक से",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_F_NOC_VERIFIER",
+        "message": "बीपीए नगर नियोजक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_GENDER_FEMALE_RADIOBUTTON",
+        "message": "महिला",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_GENDER_LABEL",
+        "message": "लिंग",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_GENDER_MALE_RADIOBUTTON",
+        "message": "पुरुष",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_GENDER_TRANSGENDER_RADIOBUTTON",
+        "message": "ट्रांसजेंडर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_BUTTON",
+        "message": "मुख्या पेज पर जाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESET_BUTTON",
+        "message": "रीसेट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_APP_NO_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_APP_NO_PLACEHOLDER",
+        "message": "आवेदन नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_APP_STATUS_LABEL",
+        "message": "आवेदन की स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_APP_STATUS_PLACEHOLDER",
+        "message": "आवेदन स्थिति चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_BPA_NO_LABEL",
+        "message": "बीपीए नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+        "message": "खोजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_DESC",
+        "message": "आवेदन खोजने के लिए कम से कम एक मापदंड प्रदान करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_NEW_APP_BUTTON",
+        "message": "नया आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_OWN_MOB_LABEL",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_OWN_MOB_PLACEHOLDER",
+        "message": "अपना मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_SEARCH_RESULTS_TL_NO_LABEL",
+        "message": "व्यापार लाइसेंस नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_INCORRECT_PERMIT_NUMBER",
+        "message": "आपके द्वारा दर्ज किया गया परमिट नंबर गलत है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_INCORRECT_SCRUTINY_NUMBER",
+        "message": "गलत परीक्षण नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_INSTITUTION_DESIGNATION_LABEL",
+        "message": "संस्थान में पद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_INSTITUTION_DESIGNATION_PLACEHOLDER",
+        "message": "संस्थान में पद दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_INSTITUTION_LABEL",
+        "message": "संस्था का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_INSTITUTION_PLACEHOLDER",
+        "message": "संस्था का नाम दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_INVALID_ADDRESS",
+        "message": "अमान्य पता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_INVALID_EMIAL",
+        "message": "अमान्य ईमेल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_IS_AFFRORADABLE_HOUSING_LABEL",
+        "message": "सस्ती आवास योजना है?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_IS_CHARITABLE_TRUSTBUILDING_LABEL",
+        "message": "चैरिटेबल ट्रस्ट भवन है?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_IS_PRIMARY_OWNER_LABEL",
+        "message": "प्राथमिक मालिक है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LICENSE_TYPE_LABEL",
+        "message": "लाइसेंस के प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LICENSE_VALID_LABEL",
+        "message": "परमिट {0} तक वैध",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LOW_APPL_FEES",
+        "message": "आवेदन शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LOW_SANC_FEES",
+        "message": "स्वीकृति शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_MAP_CLOSE_LABEL",
+        "message": "बंद करे",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_MAP_PICK_LABEL",
+        "message": "अपना शहर चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_MARK_SUCCESS_MESSAGE_MAIN",
+        "message": "आवेदन सफलतापूर्वक चिह्नित किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_MY_APPLICATIONS",
+        "message": "मेरे आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NEW_OWNER_DETAILS_DOB_PLACEHOLDER",
+        "message": "जन्मतिथि दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NEW_OWNER_DETAILS_HEADER",
+        "message": "व्यापार के मालिक का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_APPLICATION_HEADER",
+        "message": "अनापत्ति प्रमाणपत्र आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_APP_NO_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_DETAILS",
+        "message": "अनापत्ति प्रमाणपत्र विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_DETAILS_SUMMARY",
+        "message": "अनापत्ति प्रमाणपत्र विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_MODULE_SOURCE_LABEL",
+        "message": "स्रोत मॉड्यूल/ सोर्स मॉड्यूल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_STATUS_LABEL",
+        "message": "स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_VERIFIER",
+        "message": "बीपीए अनापत्ति प्रमाणपत्र सत्यापनकर्ता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NOC_VIEW_APP_BUTTON",
+        "message": "आवेदन देखें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NO_DOCS_UPLOAD_LABEL",
+        "message": "कोई दस्तावेज अपलोड नहीं किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NO_DOCUMENTS_UPLOADED_LABEL",
+        "message": "कोई दस्तावेज अपलोड नहीं किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_NO_REC_FOUND_LABEL",
+        "message": "क्षमा करें, कोई मिलता-जुलता रिकॉर्ड नहीं मिला",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC",
+        "message": "बीपीए ओसी / बीपीए आपत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCYTYPE_A",
+        "message": "आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCYTYPE_NA",
+        "message": "नहीं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCYTYPE_RESIDENTIAL",
+        "message": "आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCY_TYPE",
+        "message": "अधिभोग का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCY_TYPE_NA",
+        "message": "नहीं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCY_TYPE_PLACEHOLDER",
+        "message": "अधिभोग का प्रकार चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_APPLICATION_SCRUNITY_DETAILS_TITLE",
+        "message": "भवन प्लान ओसी संवीक्षा आवेदन विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_APPL_FEES",
+        "message": "आवेदन शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_APPROVAL_REJECTED_MESSAGE_HEAD",
+        "message": "अधिभोग प्रमाण पत्र के लिए आवेदन अस्वीकार कर दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_CERTIFICATE",
+        "message": "अधिभोग प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_CER_SCRUNITY_DETAILS_TITLE",
+        "message": "अधिभोग प्रमाण पत्र जांच का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_COMMON_APPL_NEW_CONSTRUCTION",
+        "message": "नए भवन निर्माण के लिए अधिभोग प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_DEV_PEN_RECEIPT",
+        "message": "डेविएशन पेनल्टी रसीद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_PERMIT_ORDER",
+        "message": "अधिभोग प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_SCRUTINY_NO_LABEL",
+        "message": "अधिभोग प्रमाण पत्र संवीक्षा नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_SCRUTINY_NUMBER_PLACEHOLDER",
+        "message": "ओसी परीक्षण नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_SCRUTINY_TITLE",
+        "message": "अधिभोग प्रमाण पत्र eDCR संवीक्षा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OFFICIAL_ADDRESS_LABEL",
+        "message": "आधिकारिक पत्राचार पता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OFFICIAL_ADDRESS_PLACEHOLDER",
+        "message": "आधिकारिक पत्राचार पता दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_ADDRESS_LABEL",
+        "message": "पत्राचार का पता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_ADDRESS_PLACEHOLDER",
+        "message": "पत्राचार पता दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_CATEGORY_LABEL",
+        "message": "विशेष मालिक श्रेणी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_CATEGORY_PLACEHOLDER",
+        "message": "विशेष मालिक श्रेणी का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_DETAILS_TITLE",
+        "message": "मालिक का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_DOB_LABEL",
+        "message": "जन्म की तारीख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_EMAIL_LABEL",
+        "message": "ईमेल पता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_EMAIL_PLACEHOLDER",
+        "message": "ईमेल पता दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_FATHER_HUSBAND_NAME_LABEL",
+        "message": "पिता / पति का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_FATHER_HUSBAND_NAME_PLACEHOLDER",
+        "message": "पिता / पति का नाम दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_FATHER_RADIOBUTTON",
+        "message": "पिता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_HUSBAND_RADIOBUTTON",
+        "message": "पति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_INFORMATION",
+        "message": "मालिक के बारे में जानकारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_INFORMATION_SUBHEADER",
+        "message": "मालिक के बारे में जानकारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_INFO_TITLE",
+        "message": "मालिक के बारे में जानकारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_MOBILE_NO_LABEL",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_MOBILE_NO_PLACEHOLDER",
+        "message": "मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_NAME_LABEL",
+        "message": "मालिक का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_NAME_PLACEHOLDER",
+        "message": "मालिक का नाम दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_PAN_LABEL",
+        "message": "पैन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_PAN_PLACEHOLDER",
+        "message": "मालिक का पैन नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_RELATIONSHIP_LABEL",
+        "message": "संबंध / रिश्ता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_SUBTYPE_LABEL",
+        "message": "मालिक के प्रकार - उपप्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_SUBTYPE_PLACEHOLDER",
+        "message": "मालिक उपप्रकार का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_SUB_TYPE_LABEL",
+        "message": "मालिक के प्रकार - उपप्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_SUB_TYPE_PLACEHOLDER",
+        "message": "मालिक उपप्रकार का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_TYPE",
+        "message": "मालिक का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_TYPE_LABEL",
+        "message": "मालिक का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_TYPE_PLACEHOLDER",
+        "message": "मालिक का प्रकार चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PAYMENT_FAILED",
+        "message": "भुगताम असफल रहा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PAYMENT_FAILURE_MESSAGE_SUB",
+        "message": "भुगतान असफ़ल होने से सम्बंधित सूचना व्यापार मालिक और आवेदक को भेज दी गयी है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PAYMENT_NOTIFICATION",
+        "message": "भुगतान असफ़ल होने से सम्बंधित सूचना भवन के मालिक और आवेदक को भेज दी गयी है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PAYMENT_SUCCESS_MESSAGE_SUB",
+        "message": "भुगतान प्राप्त होने से सम्बंधित सूचना पंजीकृत मोबाइल नंबर पर भवन के मालिक को भेज दी गयी है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_AMOUNT_TXT",
+        "message": "राशि (रु)",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_APPENDIX",
+        "message": "परिशिष्ट एच",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_APPLICATIONNO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_APPROVED_BY",
+        "message": "के द्वारा स्वीकृत",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_AST_ENGR",
+        "message": "सहायक यंत्री / सहायक इंजीनियर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_AUTH_DSCR",
+        "message": "आवेदन की प्रदान किये गए दस्तावेजों के आधार पर जांच की जाएगी एवं साईट का निरीक्षण किया जाएगा। यदि प्रदान की गयी जानकारी में विसंगतियाँ पाई जाती हैं, तो आदेश निरस्त करा दिया जाएगा।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_AUTH_OFFICER",
+        "message": "प्राधिकृत अधिकारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_BPA_REVOCATION_TITLE",
+        "message": "भवन परमिट का रद्दीकरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_BYELAWS",
+        "message": "उपनियम संख्या -8 (4)",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_BY_ORDER",
+        "message": "हुक्म से",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_CERTIFICATE_USE",
+        "message": "उपयोग प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_CERTIFIED_TXT",
+        "message": "प्रमाणित किया जाता है की परमिट नंबर <> के तहत नया निर्माण कार्य",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_COMMISSIONER",
+        "message": "आयुक्त/ कमिशनर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_CONDNS_TXT",
+        "message": "निम्न स्थितियों / प्रतिबंधों के अधीन।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_CONTACT_ULB",
+        "message": "आगे की कार्रवाई के लिए निकाय अधिकारियों से संपर्क करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_CS_PLOT",
+        "message": "(सीएस)",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_DATED",
+        "message": "दिनांक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_DATED_SMALL",
+        "message": "दिनांक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_DSCR",
+        "message": "के संबंध में एक आवासीय भवन का निर्माण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_FEE_DSCR",
+        "message": "शुल्क विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_FOR",
+        "message": "के लिये",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_FORM",
+        "message": "फार्म-VIII ए",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_FORM_APPROVAL_TXT",
+        "message": "भवन परमिट की स्वीकृति का आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_FROM",
+        "message": "से",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_GENERATED_ON",
+        "message": "दिनांक को उत्पन्न",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_HOLDINGNO_TXT",
+        "message": "होल्डिंग नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_ISSUED_TO",
+        "message": "के लिए जारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_IS_REVOCATED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_KHATANO_TXT",
+        "message": "खाता नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_MSP_PLOT",
+        "message": "(एमएसपी)",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_MUNCIPAL",
+        "message": "नगर निगम परिषद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_NOTE",
+        "message": "नोट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_NOT_AUTH_TXT",
+        "message": "आप इमारत का निर्माण करने के लिए अधिकृत नहीं हैं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_OCNAME",
+        "message": "अधिभोग प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_OC_SUMMARY",
+        "message": "मेरे द्वारा निरीक्षण किया जा चुका है और काम परमिट के अनुसार हुआ है, और नया निर्माण अब occupancy / उपयोग के लिए तैयार है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_OF",
+        "message": "का",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_ONLY",
+        "message": "केवल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_OR",
+        "message": "या",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_PERMISSION_GRANT_TXT",
+        "message": "एतद्द्वारा अनुमति <> के पक्ष में प्रदान की जाती है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_PERMISSION_ISSUED",
+        "message": "योजना अनुमति जारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_PERMITFEE_DETAILS_TXT",
+        "message": "परमिट शुल्क विवरण इस प्रकार है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_PLACE",
+        "message": "जगह/स्थान",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_PLANPERMISSION_NO",
+        "message": "प्लान अनुमति नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_PLOTNO_TXT",
+        "message": "प्लॉट नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_PROPOSE_LAND",
+        "message": "प्रस्तावित भूमि का उपयोग",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_REASON_REVOCATION_TXT",
+        "message": "रद्द करने का कारण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_REF",
+        "message": "संदर्भ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_REPORT_RUNDATE",
+        "message": "रिपोर्ट की तारीख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_SALUTATION",
+        "message": "श्रीमती / श्री",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_SEERULE",
+        "message": "नियम 22 (3) और 142 (2) देखें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_SERVEYNO_TXT",
+        "message": "सर्वे नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_SUMMARY1",
+        "message": "निर्माण योजना एवं वास्तविक निर्माण दोनों में, मालिक के साथ-साथ वास्तुकार/लाइसेंस प्राप्त इंजीनियर उपनियमों के प्रावधानों का पालन करने के लिए पूरी तरह से जिम्मेदार हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_SUMMARY2",
+        "message": "नगर अधिनियम 2007 और / या उपनियम 14 के तहत रद्द",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_SUPERVISED_BY",
+        "message": "के पर्यवेक्षण में",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_TOTAL",
+        "message": "कुल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_TOWN_PLANNING_TXT",
+        "message": "की नगर नियोजन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_VALIDITY_DSCR",
+        "message": "वैधता: यह प्रमाणपत्र तक मान्य है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PDF_WRT_APPNO",
+        "message": "आवेदन नंबर के संदर्भ में",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PERMIT_CONDITIONS",
+        "message": "परमिट शर्तें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PERMIT_CONDITIONS_LABEL",
+        "message": "बिल्डिंग परमिट शर्तें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PICK_YOUR_CITY_CITIZEN",
+        "message": "अपना शहर चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PMT_RCPT_NO",
+        "message": "भुगतान रसीद नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PREVIEW_LABEL",
+        "message": "पूर्व दर्शन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PRINT",
+        "message": "प्रिंट करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PROCEED_PAYMENT",
+        "message": "भुगतान के लिए आगे बढ़ें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PROPOSED_BUILDING_ABSTRACT_HEADER",
+        "message": "प्रस्तावित भवन सार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_RECEIPT",
+        "message": "रसीद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_REMARKS",
+        "message": "टिप्पणियाँ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_REMARKS_LABEL",
+        "message": "टिप्पणियाँ अनिवार्य हैं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_RETRY",
+        "message": "पुन: प्रयास करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_REVOCATION_PDF_LABEL",
+        "message": "रद्दीकरण पीडीएफ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_RISK_TYPE_VALIDATION_WARNING",
+        "message": "परमिट जोखिम प्रकार ओसी जोखिम प्रकार से मेल नहीं खाता है। क्या आप आगे बढ़ना चाहते हैं?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SANC_FEE",
+        "message": "स्वीकृति शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SANC_FEES",
+        "message": "स्वीकृति शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SAN_FEE_RECEIPT",
+        "message": "स्वीकृति शुल्क रसीद",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SCRUNITY_SUMMARY",
+        "message": "परीक्षण विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_APPLICATION_NO_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_APPLICATION_NO_PLACEHOLDER",
+        "message": "आवेदन नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_APPLICATION_STATUS_LABEL",
+        "message": "आवेदन की स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_APPLICATION_STATUS_PLACEHOLDER",
+        "message": "आवेदन स्थिति चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_APPLICATION_TYPE_LABEL",
+        "message": "आवेदन का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_APPLICATION_TYPE_PLACEHOLDER",
+        "message": "आवेदन प्रकार का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_BUTTON",
+        "message": "खोजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_FROM_DATE_LABEL",
+        "message": "\"दिनांक से\"",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_FROM_DATE_PLACEHOLDER",
+        "message": "\"दिनांक से\" चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_MOBILE_NO_LABEL",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_MOBILE_NO_PLACEHOLDER",
+        "message": "अपना मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_PAGE_DESC",
+        "message": "आवेदन खोजने के लिए कम से कम एक मापदंड प्रदान करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_PAGE_TITLE",
+        "message": "बीपीए आवेदन खोजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_RESET_BUTTON",
+        "message": "रीसेट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_RESULTS_FOR_APP",
+        "message": "बीपीए आवेदन के खोज परिणाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_RESULTS_HEADING",
+        "message": "बिल्डिंग परमिट आदेश के लिए आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_RISK_TYPE_LABEL",
+        "message": "जोखिम का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_SELECT_AT_LEAST_ONE_TOAST_MESSAGE",
+        "message": "खोज की शुरुआत करने के लिए काम से काम एक क्षेत्र को भरें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_SERVICE_TYPE_PLACEHOLDER",
+        "message": "जोखिम का प्रकार चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_TO_DATE_LABEL",
+        "message": "तारीख तक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEARCH_TO_DATE_PLACEHOLDER",
+        "message": "\"तारीख तक\" चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SECOND_STAKEHOLDER_DECLARAION_LABEL",
+        "message": "आवेदन जमा करने में पाए गए किसी भी दोष / त्रुटियों / चूक के लिए मैं जिम्मेदार हूँ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SELECT_CITY",
+        "message": "शहर चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SELECT_DOCS_LABEL",
+        "message": "दस्तावेज चुनें ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SELECT_LABEL",
+        "message": "चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SELECT_LICENSE_TYPE_LABEL",
+        "message": "लाइसेंस प्रकार चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SENDBACK_CHECKLIST_MESSAGE_HEAD",
+        "message": "आवेदन सफलतापूर्वक वापस भेज दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SENDBACK_SUCCESS_MESSAGE_MAIN",
+        "message": "आवेदन सफलतापूर्वक वापस भेज दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEND_TO_ARCHITECT_BUTTON",
+        "message": "वास्तुकार को भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEND_TO_CITIZEN_BUTTON",
+        "message": "नागरिक को भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SERVICETYPE_NEW_CONSTRUCTION",
+        "message": "नया निर्माण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STAKEHOLDER_1_DECLARAION_LABEL",
+        "message": "मैं घोषणा करता हूं कि माप, विनिर्देश और ऊपर उल्लेखित अन्य विवरण और विशिष्टाएँ , सही, पूर्ण और मेरे ज्ञान और विश्वास के अनुसार सच हैं और मैं निर्माण के उपक्रम और नियमों में अनुमोदित योजना और अधिनियमों का पालन करूँगा।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STAKEHOLDER_2_DECLARAION_LABEL",
+        "message": "आवेदन जमा करने में पाए गए किसी भी दोष / त्रुटियों / चूक के लिए मैं जिम्मेदार हूँ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STATUS_LABEL",
+        "message": "स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STATUS_PLACEHOLDER",
+        "message": "स्थिति चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STEPPER_BASIC_DETAILS_HEADER",
+        "message": "मूल जानकारी / मूलभूत विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STEPPER_DOCUMENT_NOC_DETAILS_HEADER",
+        "message": "दस्तावेज़ और अनापत्ति प्रमाणपत्र विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STEPPER_OWNER_INFO_HEADER",
+        "message": "मालिक संबंधी जानकारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STEPPER_SCRUTINY_DETAILS_HEADER",
+        "message": "परीक्षण विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STEPPER_SUMMARY_HEADER",
+        "message": "सारांश",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_STRUCTURALENGINEER",
+        "message": "बीपीए स्ट्रक्चरल इंजीनियर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-AF",
+        "message": "अपार्टमेंट फ्लैट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-FH",
+        "message": "फार्म हाउस",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-HE",
+        "message": "छात्रावास शैक्षिक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-PO",
+        "message": "व्यावसायिक कार्यालय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-R",
+        "message": "आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-SA",
+        "message": "सर्विस अपार्टमेंट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A-SR",
+        "message": "विशेष आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A2",
+        "message": "वृद्धाश्रम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_APARTMENT_FLAT",
+        "message": "अपार्टमेंट / फ्लैट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_APPARTMENT_FLAT",
+        "message": "अपार्टमेंट फ्लैट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A_AF",
+        "message": "अपार्टमेंट फ्लैट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A_FH",
+        "message": "फार्म हाउस",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A_HE",
+        "message": "छात्रावास शैक्षिक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A_PO",
+        "message": "व्यावसायिक कार्यालय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A_R",
+        "message": "आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A_SA",
+        "message": "सर्विस अपार्टमेंट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_A_SR",
+        "message": "विशेष आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_FARM_HOUSE",
+        "message": "फार्म हाउस",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_HOSTEL_EDUCATIONAL",
+        "message": "छात्रावास शैक्षिक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_NA",
+        "message": "नहीं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_OLD_AGE_HOME",
+        "message": "वृद्धाश्रम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_PROFESSIONAL_OFFICE",
+        "message": "व्यावसायिक कार्यालय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_RESIDENTIAL",
+        "message": "आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_SERVICE_APARTMENT",
+        "message": "सेवा अपार्टमेंट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBOCCUPANCYTYPE_SPECIAL_RESIDENTIAL",
+        "message": "विशेष आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_OCCUP_TYPE_LABEL",
+        "message": "उप अधिभोग प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_OCCUP_TYPE_PLACEHOLDER",
+        "message": "उप अधिभोग प्रकार चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUDMITTED_ON_LABEL",
+        "message": "जमा करने की तिथि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUMMARY_EDIT",
+        "message": "बदलाव करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUMMARY_EDIT_BTN",
+        "message": "बदलाव करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUMMARY_FEE_EST",
+        "message": "शुल्क अनुमान",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUMMARY_HEADER",
+        "message": "आवेदन सारांश",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TASK_DETAILS_HEADER",
+        "message": "आवेदन विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TELEPHONE_NUMBER_LABEL",
+        "message": "आधिकारिक टेलीफोन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TELEPHONE_NUMBER_PLACEHOLDER",
+        "message": "आधिकारिक टेलीफोन नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TITLE_LABEL",
+        "message": "बीपीए ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TL_CANCELLED_MESSAGE_HEAD",
+        "message": "व्यापार लाइसेंस रद्द किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TL_CANCELLED_MESSAGE_SUBHEAD",
+        "message": "व्यापार लाइसेंस रद्द करने से संबंधित सूचना पंजीकृत मोबाइल नंबर पर व्यापार मालिक को भेज दी गयी है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TO_DATE_LABEL",
+        "message": "तारीख तक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TO_DATE_PLACEHOLDER",
+        "message": "तारीख तक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_BY_LABEL",
+        "message": "द्वारा अपलोड किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_DATE_LABEL",
+        "message": "अपलोड करने की तिथि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOAD_FILES_BUTTON",
+        "message": "फाइल अपलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOAD_FILE_RESTRICTIONS",
+        "message": "केवल .jpg .jpeg .png और .pdf फ़ाइल। अधिकतम फ़ाइल साइज 6MB",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOAD_LABEL",
+        "message": "अपलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOAD_RESTRICTIONS",
+        "message": "केवल .jpg और .pdf फ़ाइल। अधिकतम फ़ाइल साइज 6MB",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_USAGES_TYPE",
+        "message": "उपयोग",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_USAGES_TYPE_PLACEHOLDER",
+        "message": "उपयोग का चयन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_VERIFIER",
+        "message": "बीपीए सत्यापनकर्ता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_VIEW_FILE_LABEL",
+        "message": "फाइल देखें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD",
+        "message": "बिल्डिंग प्लान नक्शा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.EP",
+        "message": "एलिवेशन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.EP.EP",
+        "message": "एलिवेशन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.FP",
+        "message": "मंजिल प्लान / मंजिल योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.FP.FP",
+        "message": "मंजिल प्लान / मंजिल योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.PP",
+        "message": "पार्किंग योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.PP.PP",
+        "message": "पार्किंग योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.RP",
+        "message": "छत की योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.RP.RP",
+        "message": "छत की योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.SCP",
+        "message": "सेवा योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.SCP.SCP",
+        "message": "सेवा योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.SECP",
+        "message": "सेक्शन प्लान / सेक्शन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.SECP.SECP",
+        "message": "सेक्शन प्लान / सेक्शन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.SP",
+        "message": "साइट योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.SP.SP",
+        "message": "साइट योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_EP",
+        "message": "एलिवेशन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_EP_EP",
+        "message": "एलिवेशन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_FP",
+        "message": "मंजिल प्लान / मंजिल योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_FP_FP",
+        "message": "मंजिल प्लान / मंजिल योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_PP",
+        "message": "पार्किंग योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_PP_PP",
+        "message": "पार्किंग योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_RP",
+        "message": "छत की योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_RP_RP",
+        "message": "छत की योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_SCP",
+        "message": "सेवा योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_SCP_SCP",
+        "message": "सेवा योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_SECP",
+        "message": "सेक्शन प्लान / सेक्शन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_SECP_SECP",
+        "message": "सेक्शन प्लान / सेक्शन योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_SP",
+        "message": "साइट योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD_SP_SP",
+        "message": "साइट योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_NEAR_GOVT_BLDG",
+        "message": "क्या बिल्डिंग किसी सरकारी बिल्डिंग के पास है?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_NEAR_MONUMENT",
+        "message": "क्या बिल्डिंग किसी स्मारक के पास है?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें एवं आवेदन शुल्क {AMOUNT_TO_BE_PAID} का भुगतान करें या आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके भुगतान कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के आपके आवेदन के लिए अधिभोग प्रमाण पत्र उत्पन्न कर दिया है। अधिभोग प्रमाण पत्र डाउनलोड करने के लिए आप अपने ऐप्लिकेशन पृष्ठ पर नेविगेट कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "प्रिय {1}, आपका अधिभोग प्रमाण पत्र आवेदन {3} आवेदक द्वारा स्वीकार कर लिया गया है। अब आप विभागीय कार्यवाही के लिए आवेदन जमा कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें एवं डेविएशन पेनल्टी के साथ आवेदन शुल्क {AMOUNT_TO_BE_PAID} का भुगतान करें या आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके भुगतान कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (Service type) आवेदन {3} अनापत्ति प्रमाण पत्र का सत्यापन हो गया है। आवेदन अनुमोदन के लिए लंबित है। आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) आवेदन {3} के दस्तावेज सत्यापित कर लिए गए हैं। आवेदन पर जल्द ही फ़ील्ड सत्यापन के लिए कार्रवाई की जाएगी. आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, नए निर्माण (Service type) आवेदन {3} के लिए क्षेत्र सत्यापन कर लिया गया है। अब आवेदन एनओसी के लिए कार्रवाई की जाएगी। आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आप अपने पोर्टल लॉगिन में 'माय एप्लीकेशन' लिंक पर आवेदन की स्थिति देख सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के आपके आवेदन के लिए अधिभोग प्रमाण पत्र उत्पन्न कर दिया है। ओसी डाउनलोड करने के लिए आप अपने ऐप्लिकेशन पृष्ठ पर नेविगेट कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) आवेदन {3} का आवेदन शुल्क प्राप्त हो गया है। आवेदन पर जल्द ही दस्तावेज सत्यापन के लिए कार्रवाई की जाएगी. आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के लिए आपके आवेदन को अस्वीकार कर दिया गया है। आप पोर्टल के लिए लॉग इन करकेअस्वीकृति के कारणों की जांच कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} की आवेदक द्वारा समीक्षा की गयी है। अब आप आवेदन पर कार्रवाई कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "प्रिय <1>, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर <3> के साथ बनाया गया है। आप आवेदन की समीक्षा और आवेदन को आगे की कार्रवाई के लिए आर्किटेक्ट को वापस भेजने के लिए आप माय एप्लीकेशन पृष्ठ पर नेविगेट कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY",
+        "message": "भवन प्लान संवीक्षा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+        "message": "प्रिय <1>, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर <3> के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें आवेदन शुल्क <AMOUNT_TO_BE_PAID> का भुगतान करें।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_FEE",
+        "message": "प्रिय <1>, (Service type) <2> के लिए आपका आवेदन, आवेदन नंबर <3> के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें आवेदन शुल्क <AMOUNT_TO_BE_PAID> का भुगतान करें।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+        "message": "प्रिय <1>, नए निर्माण (Service type) <3> के लिए आपके आवेदन के लिए बिल्डिंग परमिट आदेश बना दिया गया है। आप पोर्टल पर लॉग इन करके परमिट आदेश डाउनलोड कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} आवेदक द्वारा स्वीकृत की गयी है। अब आप आवेदन को विभागीय कार्रवाई के लिए जमा कर कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "प्रिय <1>, नए निर्माण (Service type) <3> के लिए आपका आवेदन स्वीकृत हुआ। बिल्डिंग परमिट आदेश पर कार्यवाही के लिए कृपया <AMOUNT_TO_BE_PAID> / - रुपए का बिल्डिंग परमिट शुल्क का भुगतान करें।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+        "message": "प्रिय <1>, आपके नए निर्माण (Service type) आवेदन <3> का एनओसी सत्यापनकर लिया गया है । आवेदन अनुमोदन के लिए लंबित है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "प्रिय <1>, नए निर्माण (Service type) आवेदन <3> के लिए आपके दस्तावेज सत्यापित कर लिए गए हैं। आवेदन शीघ्र ही क्षेत्र निरिक्षण के लिए सत्यापित किया जाएगा।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय <1>, नए निर्माण (Service type) आवेदन <3> के लिए क्षेत्र सत्यापन कर लिया गया है। अब आवेदन एनओसी के लिए कार्रवाई की जाएगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन बन गया है। भविष्य में सन्दर्भ के लिए आवेदन नंबर {3} का उपयोग करें।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+        "message": "प्रिय <1>, नए निर्माण (Service type) <3> के लिए आपके आवेदन के लिए बिल्डिंग परमिट आदेश बना दिया गया है। आप पोर्टल पर लॉग इन करके परमिट आदेश डाउनलोड कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय <1>, आपके नए निर्माण (Service type) <3> आवदेन का आवेदन शुल्क प्राप्त हुआ। आवेदन पर शीघ्र ही दस्तावेज सत्यापन के लिए कार्यवाही की जाएगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+        "message": "प्रिय <1>, नए निर्माण (Service type) <3> के लिए आपके आवेदन को अस्वीकार कर दिया गया है। आप पोर्टल के लिए लॉग इन करकेअस्वीकृति के कारणों की जांच कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT",
+        "message": "प्रिय <1>, आपका नए निर्माण (Service type) <3> का आवदेन निरस्त कर दिया गया है । आप पोर्टल पर जाकर कारणों का पता कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय <1>,नए निर्माण (Service type) <3> के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "प्रिय <1>,नए निर्माण (Service type) <3> के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "प्रिय <1>,नए निर्माण (Service type) <3> के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "प्रिय <1>,नए निर्माण (Service type) <3> के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} की आवेदक द्वारा समीक्षा की गयी है। अब आप आवेदन पर कार्रवाई कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "प्रिय <1>, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर <3> के साथ बनाया गया है। आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की समीक्षा कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_APPROVED_MSG",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} आवेदक द्वारा स्वीकृत की गयी है। अब आप आवेदन को विभागीय कार्रवाई के लिए जमा कर कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CREATED",
+        "message": "बनाया गया ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_INBOX_FIRE",
+        "message": "अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_INBOX_FIRE_NOC_SRV",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DOC_VERIFICATION_DONE_MSG",
+        "message": "प्रिय <1>, नए निर्माण (Service type) आवेदन <3> के लिए आपके दस्तावेज सत्यापित कर लिए गए हैं। आवेदन पर शीघ्र ही फील्ड सत्यापन के लिए काय्रवाही की जाएगी ।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_BUILDING_HEIGHT_LABEL",
+        "message": "बिल्डिंग ऊंचाई",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_BUILDING_PERMIT_DATE_LABEL",
+        "message": "बिल्डिंग परमिट की तारीख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_BUILDING_PERMIT_NUM_LABEL",
+        "message": "बिल्डिंग परमिट नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_BUILDING_PERMIT_NUM_PLACEHOLDER",
+        "message": "बिल्डिंग परमिट नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_COMMON_APPL_NEW_OC",
+        "message": "नए भवन हेतु अधिभोग प्रमाण पत्र eDCR संवीक्षा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_CREATE_APP_BUTTON",
+        "message": "बिल्डिंग परमिट आवेदन बनाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_OC_ABORTED_COMMENT",
+        "message": "अपलोड की गई योजना मानक के अनुसार नहीं बनायीं गयी है, कृपया परतों (लेयर) और रंग कोडिंग मानकों की जाँच करें और पुन: प्रयास करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_OC_ABORTED_MESSAGE",
+        "message": "अधिभोग प्रमाण पत्र eDCR रोक दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_OC_ACKNOWLEDGEMENT_SUCCESS_COMMENT",
+        "message": "इस प्लान को अब ओसी परमिट आवेदन बनाने के लिए इस्तेमाल किया जा सकता",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_OC_ACKNOWLEDGEMENT_SUCCESS_MESSAGE",
+        "message": "अधिभोग प्रमाण पत्र eDCR संवीक्षा स्वीकार किया जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_OC_CREATE_APP_BUTTON",
+        "message": "अधिभोग प्रमाण पत्र आवेदन बनाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_OC_NUMBER_LABEL",
+        "message": "ओसी योजना नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_OC_REJECTION_COMMENT",
+        "message": "नक़्शे में सुधार करें और पुन: प्रयास करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_OC_REJECTION_MESSAGE",
+        "message": "अधिभोग प्रमाण पत्र eDCR स्वीकार नहीं किया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_SH_NAME_LABEL",
+        "message": "हितधारक का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_TOTAL_BUILD_UP_AREA_LABEL",
+        "message": "कुल निर्माण क्षेत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ENTER_NOC_NUMBER",
+        "message": "अनापत्ति प्रमाणपत्र नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ENTER_SOURCE_MODULE_NUMBER",
+        "message": "स्रोत आवेदन नंबर दर्ज करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_FILL_BPA_FIELDS",
+        "message": "कृपया हितधारक पंजीकरण के लिए सभी अनिवार्य क्षेत्रों को भरें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_FILL_EDCR_PERMIT_INCORRECT_DATE",
+        "message": "दर्ज की गयी परमिट तारीख सही नहीं है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_FILL_MANDATORY_FIELDS_PERMIT_SEARCH",
+        "message": "कृपया अनिवार्य फ़ील्ड भरें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_OWNER_ALREADY_ADDED_1",
+        "message": "मालिक पहले ही जोड़ा जा चुका है !",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_OWNER_ALREADY_ADDED_TOGGLE_MSG",
+        "message": "मालिक पहले से ही जोड़ दिया गया है!",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_PRIMARY_ONE_OWNER_TOAST",
+        "message": "केवल एक प्राथमिक मालिक की जांच करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_PRIMARY_OWNER_TOAST",
+        "message": "प्राथमिक मालिक है' जांचें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_WF_UPDATE_ERROR",
+        "message": "कार्यप्रवाह अपडेट करने में रुकावट!",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FATHER",
+        "message": "पिता ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FEMALE",
+        "message": "महिला ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI",
+        "message": "क्षेत्र निरीक्षण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.AGRICULTURE.LANDUSE",
+        "message": "कृषि भूमि के उपयोग का",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.AGRICULTURE_WATERBODY.FTL",
+        "message": "कृषि जल इकाई एफटीएल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.FIR",
+        "message": "क्षेत्र निरीक्षण रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.FIR.FIR",
+        "message": "क्षेत्र निरीक्षण रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.SIES",
+        "message": "साइट छवि पूर्व की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.SIES.SIES",
+        "message": "साइट छवि पूर्व की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.SINS",
+        "message": "साइट छवि उत्तर की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.SINS.SINS",
+        "message": "साइट छवि उत्तर की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.SISS",
+        "message": "साइट छवि दक्षिण की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.SISS.SISS",
+        "message": "साइट छवि दक्षिण की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.SIWS",
+        "message": "साइट छवि वेस्ट साइड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI.SIWS.SIWS",
+        "message": "साइट छवि वेस्ट साइड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FIRE_NOC",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_AGRICULTURE",
+        "message": "कृषि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_AGRICULTURE_WATERBODY.FTL",
+        "message": "कृषि जल इकाई एफटीएल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_AGRICULTURE_WATERBODY_FTL",
+        "message": "कृषि जल इकाई एफटीएल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_FIR",
+        "message": "क्षेत्र निरीक्षण रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_FIR_FIR",
+        "message": "क्षेत्र निरीक्षण रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_SIES",
+        "message": "साइट छवि पूर्व की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_SIES_SIES",
+        "message": "साइट छवि पूर्व की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_SINS",
+        "message": "साइट छवि उत्तर की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_SINS_SINS",
+        "message": "साइट छवि उत्तर की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_SISS",
+        "message": "साइट छवि दक्षिण की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_SISS_SISS",
+        "message": "साइट छवि दक्षिण की ओर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_SIWS",
+        "message": "साइट छवि वेस्ट साइड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FI_SIWS_SIWS",
+        "message": "साइट छवि वेस्ट साइड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FLOOR_NAME_0",
+        "message": "भू तल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FLOOR_NAME_1",
+        "message": "ऊपरी मंजि़ल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FLOOR_NAME_2",
+        "message": "ऊपरी मंजि़ल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FLOOR_NAME_3",
+        "message": "ऊपरी मंजि़ल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FLOOR_NAME_4",
+        "message": "ऊपरी मंजि़ल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FLOOR_NAME_5",
+        "message": "ऊपरी मंजि़ल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "GO_TO_HOME",
+        "message": "होम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HUSBAND",
+        "message": "पति ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "INPROGRESS",
+        "message": "कार्यप्रवाह में है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MALE",
+        "message": "पुरुष ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MODULE_BPA_NC_OC_APP_FEE",
+        "message": "आवेदन शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MODULE_BPA_NC_OC_SAN_FEE",
+        "message": "डेविएशन पेनल्टी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_APPLICATION_CREATE_MSG",
+        "message": "प्रिय <1>, नए निर्माण (सेवा प्रकार) के लिए आपका आवेदन, आवेदन नंबर <3> के साथ बनाया गया है। आप अपने पोर्टल लॉगिन में 'माय एप्लीकेशन' लिंक पर आवेदन की स्थिति देख सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_APPLICATION_FEE_PENDING_MSG",
+        "message": "प्रिय <1>, नए निर्माण (सेवा प्रकार) के लिए आपका आवेदन, आवेदन नंबर <3> के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें एवं आवेदन शुल्क <4> रु का भुगतान करें या आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके भुगतान कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_APPLICATION_REJECTED_MSG",
+        "message": "प्रिय <1>, <2> (सेवा प्रकार) <3> के लिए आपके आवेदन को अस्वीकार कर दिया गया है। आप \"माय एप्लीकेशन\" पृष्ठ पर नेविगेट करके अस्वीकृति का कारण पता कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_APPROVED_AND_PERMIT_GENERATED_MSG",
+        "message": "प्रिय <1>, नए निर्माण (सेवा प्रकार) <3> के लिए आपके आवेदन के लिए बिल्डिंग परमिट आदेश बना दिया गया है। आप पोर्टल पर लॉग इन करके परमिट आदेश डाउनलोड कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_CITIZEN_APPROVED_MSG",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} आवेदक द्वारा स्वीकृत की गयी है। अब आप आवेदन को विभागीय कार्रवाई के लिए जमा कर कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_DOC_VERIFICATION_DONE_MSG",
+        "message": "प्रिय <1>, नए निर्माण (सेवा प्रकार) आवेदन <3> के लिए आपके दस्तावेज सत्यापित कर लिए गए हैं। आवेदन पर शीघ्र ही फील्ड सत्यापन के लिए काय्रवाही की जाएगी । आप माय एप्लीकेशन पृष्ठ पर नेविगेट आवेदन की स्थिति पता कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_NOC_APPROVED_MSG",
+        "message": "प्रिय <1>, आपके नए निर्माण (सेवा प्रकार) आवेदन <3> का एनओसी सत्यापनकर लिया गया है । आवेदन अनुमोदन के लिए लंबित है। आप माय एप्लीकेशन पृष्ठ पर नेविगेट आवेदन की स्थिति पता कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_NOC_FIELD_VERIFICATION_DONE_MSG",
+        "message": "प्रिय <1>, नए निर्माण (सेवा प्रकार) आवेदन <3> के लिए क्षेत्र सत्यापन कर लिया गया है। अब आवेदन एनओसी के लिए कार्रवाई की जाएगी। आप माय एप्लीकेशन पृष्ठ पर नेविगेट आवेदन की स्थिति पता कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_PAYMENT_RECEIVED_MSG",
+        "message": "प्रिय <1>, आपके नए निर्माण (सेवा प्रकार) <3> आवदेन का आवेदन शुल्क प्राप्त हुआ। आवेदन पर शीघ्र ही दस्तावेज सत्यापन के लिए कार्यवाही की जाएगी। आप माय एप्लीकेशन पृष्ठ पर नेविगेट आवेदन की स्थिति पता कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_PERMIT_FEE_GENERATED_MSG",
+        "message": "प्रिय <1>, नए निर्माण (सेवा प्रकार) <3> के लिए आपका आवेदन स्वीकृत हुआ। बिल्डिंग परमिट आदेश पर कार्यवाही के लिए कृपया <4 > / - रुपए का बिल्डिंग परमिट शुल्क का भुगतान करें। आप माय एप्लीकेशन पृष्ठ पर नेविगेट आवेदन की स्थिति पता कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_SEND_TO_ARCHITECT_MSG",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} की आवेदक द्वारा समीक्षा की गयी है। अब आप आवेदन पर कार्रवाई कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "M_SEND_TO_CITIZEN_MSG",
+        "message": "प्रिय <1>, नए निर्माण (सेवा प्रकार) <2> के लिए आपका आवेदन, आवेदन नंबर <3> के साथ बनाया गया है। आप आवेदन की समीक्षा और आवेदन को आगे की कार्रवाई के लिए आर्किटेक्ट को वापस भेजने के लिए आप माय एप्लीकेशन पृष्ठ पर नेविगेट कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NA",
+        "message": "ना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC.AGRICULTURE.LANDUSE",
+        "message": "कृषि भूमि के उपयोग का",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC.AIRPORT.CERTIFICATE",
+        "message": "हवाई अड्डा प्राधिकरण अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC.FIRE.CERTIFICATE",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOCRAILWAYS",
+        "message": "रेलवे से अनापत्ति प्रमाणपत्र उपलब्ध है?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_AGRICULTURE",
+        "message": "कृषि अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_AGRICULTURE_LANDUSE",
+        "message": "कृषि भूमि के उपयोग का",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_AGRICULTURE_WATERBODY_FTL",
+        "message": "कृषि जल इकाई एफटीएल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_AIRPORT",
+        "message": "भारतीय हवाई अड्डा प्राधिकरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_AIRPORT_CERTIFICATE",
+        "message": "हवाई अड्डा प्राधिकरण अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_APPLICATION_APPROVAL_NO_CODE",
+        "message": "अनापत्ति प्रमाणपत्र स्वीकृति नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_APPROVED_MSG",
+        "message": "प्रिय <1>, आपके <2> (सेवा प्रकार) आवेदन <3> के लिए अनापत्ति प्रमाण पत्र का सत्यापन किया गया है। आवेदन अनुमोदन के लिए लंबित है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_APP_NO_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_APP_OVER_VIEW_HEADER",
+        "message": "आवेदन अवलोकन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_BPA_APPROVAL_REJECTED_MESSAGE_HEAD",
+        "message": "अनापत्ति प्रमाणपत्र का आवेदन अस्वीकार कर दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_BPA_APPROVAL_REJE_MESSAGE_SUBHEAD",
+        "message": "अनापत्ति प्रमाणपत्र का आवेदन अस्वीकार कर दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_COLLECTOR_GVT_LAND",
+        "message": "यदि सम्बंधित भूमि उपलब्ध दस्तावेजों में सरकारी भूमि के अंतर्गत आती है तो तहसीलदार / कलेक्टर द्वाराअनापत्ति प्रमाणपत्र उपलब्ध है?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_COMMON_HEADER_LABEL",
+        "message": "अनापत्ति प्रमाणपत्र का आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_FEE_ESTIMATE_HEADER",
+        "message": "शुल्क अनुमान",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_FIELD_VERIFICATION_DONE_MSG",
+        "message": "प्रिय <1>, आपके <2> (सेवा प्रकार) आवेदन के लिए क्षेत्र सत्यापन कर लिया गया है। आवेदन पर अब अनापत्ति प्रमाणपत्र के लिए कार्रवाई की जाएगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_FIRE",
+        "message": "अग्नि विभाग",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_FIRE_CERTIFICATE",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_FOR_CONSTRUCTION_NEAR_AIRPORT",
+        "message": "यदि सम्बंधित भूमि एयर फनल ज़ोन या एयरपोर्ट के पास है तो सम्बंधित एयरपोर्ट प्राधिकरण द्वारा अनापत्ति प्रमाणपत्र उपलब्ध है?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_FOR_CONSTRUCTION_NEAR_DEFENCE_AERODOMES",
+        "message": "रक्षा संस्थानों से अनापत्ति प्रमाणपत्र (अगर साइट रक्षा क्षेत्र के हवाई अड्डे के आसपास के क्षेत्र में स्थित है) उपलब्ध है ?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_HOME_SEARCH_RESULTS_TABLE_HEADING",
+        "message": "आवेदन के खोज परिणाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_IRRIGATION_DEPT",
+        "message": "सिंचाई विभाग द्वारा जारी की गयी अनापत्ति प्रमाणपत्र उपलब्ध है?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_MODULE_SOURCE_LABEL",
+        "message": "स्रोत मॉड्यूल/ सोर्स मॉड्यूल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_NOC_TYPE_AIRPORT_AUTHORITY",
+        "message": "हवाई अड्डा प्राधिकरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_NOC_TYPE_FIRE_NOC",
+        "message": "आग अनापत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_NUMBER",
+        "message": "अनापत्ति प्रमाणपत्र नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_PAYMENT_HEAD",
+        "message": "भुगतान संग्रह विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_RESULTS_HEADER",
+        "message": "अनापत्ति प्रमाणपत्र का आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_STATE_ENV_IMPACT",
+        "message": "क्या राज्य पर्यावरण प्रभाव मूल्यांकन प्राधिकरण से अनापत्ति प्रमाणपत्र उपलब्ध है ?",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_TYPE",
+        "message": "अनापत्ति प्रमाणपत्र प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_VIEW_APP_BUTTON",
+        "message": "आवेदन देखें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OCCUPANCY_A1",
+        "message": "आवासीय",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAY PAYER DETAILS",
+        "message": "भुगतानकर्ता विवरण ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_RECEIVED_MSG",
+        "message": "प्रिय <1>, आपके <2> (सेवा प्रकार) आवेदन के लिए आवेदन शुल्क प्राप्त हो गया है। दस्तावेज सत्यापन के लिए आवेदन पर शीघ्र ही कार्रवाई की जाएगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PERMIT_FEE_GENERATED_MSG",
+        "message": "प्रिय <1>, <2> के लिए (सेवा प्रकार) <3> का आपका आवेदन स्वीकार कर लिया गया है। बिल्डिंग परमिट आदेश प्रक्रिया शुरू करने के लिए कृपया <4> रूपए के बिल्डिंग परमिट शुल्क का भुगतान करें।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PLAN_AS_PER_THE_SITE",
+        "message": "क्या आवेदन में प्रस्तुत मुख्या प्लान साइट के अनुसार है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REQUIRED_FIELD",
+        "message": "आवश्यक फ़ील्ड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RIVER_EXISTS_ON_SITE",
+        "message": "क्या साइट के पास कोई नदी / झील हैं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ROADWIDTH_AS_PER_THE_PLAN",
+        "message": "सड़क की चौड़ाई योजना के अनुसार है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SELECT_DOCUMENTS",
+        "message": "दस्तावेज़ प्रकार चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEND_TO_ARCHITECT_MSG",
+        "message": "प्रिय <1>, आपके बिल्डिंग परमिट आवेदन <3> की आवेदक द्वारा समीक्षा की गयी है। अब आप आवेदन पर कार्रवाई कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEND_TO_CITIZEN_MSG",
+        "message": "प्रिय <1>, <2> (सेवा प्रकार) के लिए बनाये गए आपके आवेदन का आवेदन नंबर <3> है। आप आवेदन की समीक्षा करने के पोर्टल पर लॉगिन करके मेरेआवेदन पृष्ठ पर नेविगेट कर सकते हैं।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SOURCE_MODULE_NUMBER",
+        "message": "स्रोत आवेदन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TAXHEADCODE_BPA_SANC_FEES",
+        "message": "स्वीकृति शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_APPROVAL_CHECKLIST_COMMENTS_LABEL",
+        "message": "टिप्पणियाँ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_COMMON_TABLE_COL_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_COMMON_TOTAL_AMT",
+        "message": "कुल राशि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_CURRENT_OWNER_LABEL",
+        "message": "वर्तमान मालिक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_DATE_LABEL",
+        "message": "दिनांक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_MAP_CLOSE_LABEL",
+        "message": "बंद करे",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_MAP_PICK_LABEL",
+        "message": "चुनें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_SEARCH_ADDRESS_MAP_PLACEHOLDER",
+        "message": "पता खोजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_TASK_STATUS",
+        "message": "टास्क की स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_UPDATED_BY_LABEL",
+        "message": "द्वारा अपडेट किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_VIEW_HISTORY",
+        "message": "इतिहास देखें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TRANSGENDER",
+        "message": "ट्रांसजेंडर ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TREE_EXISTS_ON_SITE",
+        "message": "क्या साईट पर कोई पेड़ हैं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_AIRPORT_NOC_OFFLINE_AUTO_APPROVED",
+        "message": "स्वत: स्वीकृत",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_AIRPORT_NOC_OFFLINE_INITIATED",
+        "message": "शुरू किल्या गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_AIRPORT_NOC_OFFLINE_INPROGRESS",
+        "message": "प्रगति में",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_AIRPORT_NOC_OFFLINE_VOIDED",
+        "message": "खाली / वॉइडेड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA",
+        "message": "बीपीए",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_BACK_FROM_DOC_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापन से वापस आया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_BACK_FROM_FI_VERIFICATION",
+        "message": "एफआई सत्यापन से वापस आया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_BACK_FROM_NOC_VERIFICATION",
+        "message": "अनापत्ति प्रमाणपत्र सत्यापन से वापस आया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_BPAREG_SERVICE",
+        "message": "बीपीएआरइजी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_BUILDING_OC_PLAN_SCRUTINY",
+        "message": "अधिभोग प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_CANCELLED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "दस्तावेज़ सत्यापन पर नागरिक कार्यवाही बकाया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "FI सत्यापन पर नागरिक कार्यवाही बकाया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "अनापत्ति प्रमाणपत्र सत्यापन पर नागरिक कार्यवाही बकाया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_APPROVAL_INPROGRESS",
+        "message": "स्वीकृति प्रगति में",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_APPROVE",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_APPROVED",
+        "message": "मंजूर किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_CITIZEN_APPROVAL_INPROCESS",
+        "message": "नागरिक स्वीकृति प्रगति में है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_CITIZEN_APPROVAL_PENDING",
+        "message": "नागरिक स्वीकृति रुकी हुई",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_DOC_VERIFICATION_INPROGRESS",
+        "message": "दस्तावेज़ सत्यापन में प्रगति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_DOC_VERIFICATION_PENDING",
+        "message": "दस्तावेज़ सत्यापन रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_FIELDINSPECTION_INPROGRESS",
+        "message": "फील्ड निरीक्षण प्रगति में",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_FIELDINSPECTION_PENDING",
+        "message": "क्षेत्र निरीक्षण रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_FIELDINSPECTION_PENDING1",
+        "message": "क्षेत्र निरीक्षण रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_FORWARD",
+        "message": "आगे बढ़ाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_INITIATED",
+        "message": "हितधारक अपडेट के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_INPROGRESS",
+        "message": "हितधारकों द्वारा जमा करने के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_NOC_VERIFICATION_INPROGRESS",
+        "message": "अनापत्ति प्रमाणपत्र सत्यापन प्रगति में",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_NOC_VERIFICATION_PENDING",
+        "message": "अनापत्ति प्रमाणपत्र सत्यापन रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_PENDINGAPPROVAL",
+        "message": "रुकी हुई स्वीकृति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_PENDING_FEE",
+        "message": "बकाया शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_PENDING_FEE_PAYMENT",
+        "message": "बकाया शुल्क भुगतान",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_REVOCATE",
+        "message": "रद्द करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_REVOCATED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_SEND_TO_CITIZEN",
+        "message": "हितधारक अपडेट के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_MARK",
+        "message": "चिन्हित करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_MEDIUM",
+        "message": "मध्यम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_NEW_CONSTRUCTION",
+        "message": "नया निर्माण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_NOC_VERIFICATION_INPROGRESS",
+        "message": "अनापत्ति प्रमाणपत्र सत्यापन प्रगति में है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC",
+        "message": "बीपीए ओसी / बीपीए आपत्ति प्रमाणपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_APPROVAL_INPROGRESS",
+        "message": "स्वीकृति प्रगति में है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_APPROVE",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_APPROVED",
+        "message": "मंजूर किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_BUILDING_OC_PLAN_SCRUTINY",
+        "message": "बिल्डिंग ओसी योजना परीक्षण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_CITIZEN_APPROVAL_INPROCES",
+        "message": "नागरिक स्वीकृति प्रगति में है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_CITIZEN_APPROVAL_INPROCESS",
+        "message": "नागरिक स्वीकृति प्रगति में है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_CITIZEN_APPROVAL_PENDING",
+        "message": "नागरिक स्वीकृति रुकी हुई",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_DOC_VERIFICATION_INPROGRESS",
+        "message": "दस्तावेज़ सत्यापन में प्रगति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_DOC_VERIFICATION_PENDING",
+        "message": "दस्तावेज़ सत्यापन रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_FIELDINSPECTION_INPROGRESS",
+        "message": "फील्ड निरीक्षण प्रगति में",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_FIELDINSPECTION_PENDING",
+        "message": "फील्ड निरीक्षण बकाया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_FORWARD",
+        "message": "सत्यापित करें और आगे बढ़ाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_INITIATED",
+        "message": "हितधारक अपडेट के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_INPROGRESS",
+        "message": "हितधारकों द्वारा जमा करने के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_MARK",
+        "message": "चिन्हित करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_NOC_VERIFICATION_INPROGRESS",
+        "message": "अनापत्ति प्रमाणपत्र सत्यापन प्रगति में है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_NOC_VERIFICATION_PENDING",
+        "message": "अनापत्ति प्रमाणपत्र सत्यापन रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_PENDINGAPPROVAL",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_PENDING_APPL_FEE",
+        "message": "बकाया आवेदन शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_PENDING_APPL_FEE_PAYMENT",
+        "message": "आवेदन शुल्क हेतु रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_PENDING_FEE",
+        "message": "बकाया शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_PENDING_SANC_FEE_PAYMENT",
+        "message": "बकाया स्वीकृति शुल्क भुगतान",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_REJECTED",
+        "message": "अस्वीकृत",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_REVOCATED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_SEND_BACK_TO_CITIZEN",
+        "message": "नागरिक को वापस भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_SEND_TO_ARCHITECT",
+        "message": "वास्तुकार को भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_OC_SEND_TO_CITIZEN",
+        "message": "हितधारक अपडेट के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_PAID",
+        "message": "भुगतान किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_PENDINGAPPROVAL",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_PENDINGPAYMENT",
+        "message": "भुगतान हेतु रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_PENDING_APPL_FEE",
+        "message": "बकाया आवेदन शुल्क",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_PENDING_FEE",
+        "message": "भुगतान हेतु रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_PENDING_FEE_PAYMENT",
+        "message": "बकाया शुल्क भुगतान",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_PERMIT REVOCATION",
+        "message": "परमिट रद्दीकरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_REJECTED",
+        "message": "अस्वीकृत",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_REVOCATED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_SEND_BACK_TO_CITIZEN",
+        "message": "नागरिक को वापस भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_SEND_TO_ARCHITECT",
+        "message": "वास्तुकार को भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_SEND_TO_CITIZEN",
+        "message": "हितधारक अपडेट के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPAbuttonLabel",
+        "message": "आगे बढ़ाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_APPROVE",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_FORWARD",
+        "message": "आगे बढ़ाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_LOW_APPROVE",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_LOW_FORWARD",
+        "message": "आगे बढ़ाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_LOW_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_LOW_REVOCATE",
+        "message": "रद्द करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_LOW_SKIP_PAYMENT",
+        "message": "भुगतान छोड़ें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_OC_APPROVE",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_OC_FORWARD",
+        "message": "आगे बढ़ाएं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_OC_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_OC_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_OC_SEND_BACK_TO_CITIZEN",
+        "message": "नागरिक को वापस भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_OC_SKIP_PAYMENT",
+        "message": "भुगतान छोड़ें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_SEND_BACK_TO_CITIZEN",
+        "message": "नागरिक को वापस भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_SKIP_PAYMENT",
+        "message": "भुगतान छोड़ें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_FIRENOC_SRV_APPROVE",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_FIRENOC_SRV_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_FIRE_NOC_SRV_APPROVE",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_FIRE_NOC_SRV_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRENOC_SRV_APPROVE",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRENOC_SRV_INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRENOC_SRV_INPROGRESS",
+        "message": "गतिशील है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRENOC_SRV_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRENOC_SRV_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRENOC_SRV_VOIDED",
+        "message": "खाली / वॉइडेड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_APPROVE",
+        "message": "मंजूर करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_APPROVED",
+        "message": "मंजूर किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_INITIATED",
+        "message": "शुरू किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_INPROGRESS",
+        "message": "प्रगति में",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_REJECT",
+        "message": "अस्वीकार करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_VOIDED",
+        "message": "खाली / वॉइडेड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWTL_APPROVED",
+        "message": "मंजूर किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWTL_PENDINGAPPROVAL",
+        "message": "स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWTL_PENDINGPAYMENT",
+        "message": "भुगतान हेतु रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWTL_REJECTED",
+        "message": "अस्वीकृत",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_REVOCATE_APPLICATION",
+        "message": "रद्द करने का आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_SEND_BACK_TO_CITIZEN_APPLICATION",
+        "message": "आवेदन नागरिक को वापस भेज दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WP_BPA_APPLIED",
+        "message": "लागू करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BACK_FROM_DOC_VERIFICATION",
+        "message": "दस्तावेज़ सत्यापन से वापस आया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BACK_FROM_FI_VERIFICATION",
+        "message": "एफआई सत्यापन से वापस आया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BACK_FROM_NOC_VERIFICATION",
+        "message": "अनापत्ति प्रमाणपत्र सत्यापन से वापस आया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DOC_VERIFICATION_PENDING",
+        "message": "दस्तावेज़ सत्यापन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_VERIFICATION_PENDING",
+        "message": "अनापत्ति प्रमाणपत्र सत्यापन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SEND_TO_CITIZEN",
+        "message": "हितधारक अपडेट के लिए रुका हुआ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "bpa.en.counter.approved",
+        "message": "आपका आवेदन <2> प्राधिकरण द्वारा स्वीकृत किया गया है। अब आप <4>  के एक लाइसेंसी  <3>  हैं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "bpa.en.counter.pendingapproval",
+        "message": "आपका आवेदन <2> प्राधिकरण द्वारा सत्यापित कर लिया गया है और स्वीकृति के लिए भेजा गया है ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "bpa.en.counter.pendingdocverification",
+        "message": "हितधारक पंजीकरण के लिए आपके द्वारा किया गया  <2> रुपये का भुगतान प्राप्त हुआ। आप <3> से पोर्टल पर लॉग इन करके रसीद डाउनलोड कर सकते हैं",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "bpa.en.counter.pendingpayment",
+        "message": "<4> के <3> के लिए पंजीकरण का आवेदन नंबर <2> जमा कर दिया गया है।  पंजीकरण का भुगतान (यदि लागू होता है) <5> से किया जा सकता है ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "bpa.en.counter.rejected",
+        "message": "आपका आवेदन <2> प्राधिकारी द्वारा अस्वीकृत कर दिया गया है। आप सिस्टम में प्रवेश करके अस्वीकृति के कारणों की जाँच कर सकते हैं। अगर आप चाहें तो पुनः आवेदन कर सकते है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    }
+]

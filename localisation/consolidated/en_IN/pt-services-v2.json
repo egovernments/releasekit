@@ -1,0 +1,20 @@
+[
+    {
+        "code": "pt.property.en.create",
+        "message": "Dear Citizen, Your property has been created in the system with Property Tax Unique ID {insert ID}. Property Address: {House No.}, {Colony Name}, {Street No.}, {Mohalla}, {City}. {Pincode}\n\nEGOVS",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt.property.en.update",
+        "message": "Dear Citizen, Your property with Property Tax Unique ID {insert ID} has been re-assessed with Assessment No {insert no}. If you have any queries regarding this, please contact your Municipality.\n\nEGOVS",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt.property.en.update.employee",
+        "message": "Dear Citizen,Property Tax Assessment for property with Property Tax Unique ID {insert Property Tax Assessment ID}. If you do not have an Existing Property ID, please visit your local Municipal office immediately.\n\nEGOVS",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    }
+]
