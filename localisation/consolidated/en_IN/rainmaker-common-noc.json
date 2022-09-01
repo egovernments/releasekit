@@ -1,0 +1,572 @@
+[
+    {
+        "code": "AUTO_APPROVED",
+        "message": "Auto Approved",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HOME_BUTTON",
+        "message": "GO TO HOME",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OC",
+        "message": "BPA OC",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_ATTACHMENTS",
+        "message": "Documents",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_INBOX_FIRE",
+        "message": "NOC",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_APPLICATION_SEARCH",
+        "message": "Search Application",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_CLEAR_ALL",
+        "message": "CLEAR ALL",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_CLEAR_SEARCH",
+        "message": "CLEAR SEARCH",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_FILTER_BY",
+        "message": "FILTER BY",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FIRE_NOC_SRV_APPROVE_UPDATE_SUCCESS",
+        "message": "Application Approved Successfully",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FIRE_NOC_SRV_REJECT_UPDATE_SUCCESS",
+        "message": "Application Rejected Successfully",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_FIRE_NOC_SRV_VOID_UPDATE_SUCCESS",
+        "message": "Application Voided Successfully",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MODULE_BPA",
+        "message": "OBPS",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MODULE_BPA_OC",
+        "message": "OBPS",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC.FIRE.CERTIFICATE",
+        "message": "Fire NOC",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_AIRPORT",
+        "message": "Airport Noc",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_AIRPORT_AUTHORITY_APPLICATION_LABEL",
+        "message": "Airport NOC Application Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_AIRPORT_NOC_APPLICATION_LABEL",
+        "message": "Airport Authority Application Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPLICANTS_NAME_LABEL",
+        "message": "Applicant’s Name",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPLICATION_APPROVAL_NO_CODE",
+        "message": "Noc Approval No. {0}",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPLICATION_HEADER_LABEL",
+        "message": "NOC Application",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPLICATION_NUMBER_LABEL",
+        "message": "NOC Application Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPLICATION_TYPE_LABEL",
+        "message": "Application Type",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPROVAL_CHECKLIST_MESSAGE_HEAD",
+        "message": "NOC Approved Successfully",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPROVAL_CHECKLIST_MESSAGE_SUB",
+        "message": "Approved Successfully",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPROVAL_NO_LABEL",
+        "message": "Approval Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPROVAL_VOIDED_MESSAGE_HEAD",
+        "message": "Application for NOC is voided",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPROVAL_VOIDED_MESSAGE_SUBHEAD",
+        "message": "Application for NOC is voided",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APPROVED_ON_LABEL",
+        "message": "Approved On",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APP_MOBILE_NO_SEARCH_PARAM",
+        "message": "Applicant’s Mobile Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APP_NO_LABEL",
+        "message": "Application Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APP_NO_PLACEHOLDER",
+        "message": "Enter Application number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_APP_OVER_VIEW_HEADER",
+        "message": "Application Overview",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_BPA_APPLICATION_NUMBER_LABEL",
+        "message": "BPA Application Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_BPA_APPROVAL_REJECTED_MESSAGE_HEAD",
+        "message": "Application for NOC is rejected",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_BPA_APPROVAL_REJE_MESSAGE_SUBHEAD",
+        "message": "Application for NOC is rejected",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_BULDING_DETAILS_LABEL",
+        "message": "Building Details",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_COMMON_HEADER_LABEL",
+        "message": "Application for NOC",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_COMMON_TABLE_COL_APP_DATE_LABEL",
+        "message": "Application Date",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_DETAILS_SUMMARY_LABEL",
+        "message": "NOC Details",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_ENTER_SOURCE_MODULE_NUMBER",
+        "message": "Enter Source Application number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE",
+        "message": "Fire Noc",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPLICATION_LABEL",
+        "message": "Fire NOC Application Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPROVAL_NUMBER",
+        "message": "Fire NOC Approval Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPROVED_HEADER",
+        "message": "Fire NOC is approved successfully",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPROVED_SUB_HEADER",
+        "message": "Applicant is notified about the issual of NOC.",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_REJECTED_HEADER",
+        "message": "Fire NOC Is Rejected",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_REJECTED_SUB_HEADER",
+        "message": "Applicant is notified about the rejection.",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_HOME_SEARCH_RESET_BUTTON",
+        "message": "Reset",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+        "message": "Search",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_HOME_SEARCH_RESULTS_DESC",
+        "message": "Provide at least one parameter to search for an application",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_HOME_SEARCH_RESULTS_TABLE_HEADING",
+        "message": "Search Result of Application",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_MAIN_NOC_AIRPORT_LABEL",
+        "message": "Airport NOC",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_MAIN_NOC_FIRE_LABEL",
+        "message": "Fire NOC",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_MODULE_SOURCE_LABEL",
+        "message": "Source/Module",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_NOC_TYPE_AIRPORT_AUTHORITY",
+        "message": "Airport Authority",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_NOC_TYPE_FIRE_NOC",
+        "message": "Fire Noc",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_NO_DOCUMENTS_UPLOADED_LABEL",
+        "message": "No Documents Uploaded",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_NUMBER_LABEL",
+        "message": "NOC Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_NUMBER_PLACEHOLDER",
+        "message": "Enter noc number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_PREVIEW_LABEL",
+        "message": "PREVIEW",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_RESULTS_HEADER",
+        "message": "Application for NOC",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_SERVICE_TYPE_LABEL",
+        "message": "Service Type",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_SOURCE_MODULE_LABEL",
+        "message": "Source Module",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_SOURCE_MODULE_NUMBER",
+        "message": "Source Module Application Number",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_STATUS_LABEL",
+        "message": "Status",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_SUBMITED_ON_LABEL",
+        "message": "Submitted on",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_TYPE_LABEL",
+        "message": "NOC Type",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_UPLOAD_FILE_LABEL",
+        "message": "Upload File",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_VIEW_APP_BUTTON",
+        "message": "VIEW SOURCE APPLICATION",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SELECT_DOCUMENTS",
+        "message": "Select Document Type",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_AIRPORT_NOC_OFFLINE_AUTO_APPROVE",
+        "message": "Auto Approved",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_AIRPORT_NOC_OFFLINE_AUTO_APPROVED",
+        "message": "Auto Approved",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_AIRPORT_NOC_OFFLINE_INITIATED",
+        "message": "Initiated",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_AIRPORT_NOC_OFFLINE_INPROGRESS",
+        "message": "Inprogress",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_AIRPORT_NOC_OFFLINE_VOIDED",
+        "message": "Voided",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_BUILDING_OC_PLAN_SCRUTINY",
+        "message": "Occupancy Certificate",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_BUILDING_PLAN_SCRUTINY",
+        "message": "Permit Application",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_AIRPORT_NOC_OFFLINE_AUTO_APPROVE",
+        "message": "Auto Approved",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_AIRPORT_NOC_OFFLINE_VOID",
+        "message": "VOID",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_FIRE_NOC_SRV_APPROVE",
+        "message": "APPROVE",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_FIRE_NOC_SRV_REJECT",
+        "message": "REJECT",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_FIRE_NOC_SRV_VOID",
+        "message": "Void",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_AIRPORT_NOC_OFFLINE",
+        "message": "Airport NOC Offline",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_AIRPORT_NOC_SRV",
+        "message": "Airport NOC ",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_FIRE_NOC_OFFLINE",
+        "message": "Fire NOC Offline",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_FIRE_NOC_SRV",
+        "message": "Fire NOC",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_APPROVE",
+        "message": "APPROVE",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_APPROVED",
+        "message": "Approved",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_INITIATED",
+        "message": "Initiated",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_INPROGRESS",
+        "message": "Inprogess",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_REJECT",
+        "message": "REJECT",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_REJECTED",
+        "message": "Rejected",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_VOID",
+        "message": "VOID",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRE_NOC_SRV_VOIDED",
+        "message": "Voided",
+        "module": "rainmaker-common-noc",
+        "locale": "en_IN"
+    }
+]

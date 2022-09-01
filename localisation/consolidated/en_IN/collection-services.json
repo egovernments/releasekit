@@ -1,0 +1,32 @@
+[
+    {
+        "code": "UC_NOTIF_WF_MT_CANCELLED",
+        "message": "Dear {owner_name}, Payment of Rs. {amount_paid} with payment transaction id {rcpt_no} for {mod_name} with {unique_id} has been cancelled. Thank you\n\nEGOVS",
+        "module": "collection-services",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_NOTIF_WF_MT_DEPOSITED",
+        "message": "Dear {owner_name}, Amount of Rs. {amount_paid} with payment transaction id {rcpt_no} for {mod_name} with {unique_id} has been deposited successfully. You can look at the receipt on the link given below - {rcpt_link} . Thank you\n\nEGOVS",
+        "module": "collection-services",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_NOTIF_WF_MT_DISHONOURED",
+        "message": "Dear {owner_name}, Payment of Rs. {amount_paid} with payment transaction id {rcpt_no} for {mod_name} with {unique_id} has been dishonoured. Thank you\n\nEGOVS",
+        "module": "collection-services",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_NOTIF_WF_MT_NEW",
+        "message": "Dear {owner_name}, A new payment of Rs. {amount_paid} with payment transaction id {rcpt_no} for {mod_name} with {unique_id} has been made successfully. You can look at the receipt on the link given below - {rcpt_link} . Thank you\n\nEGOVS",
+        "module": "collection-services",
+        "locale": "en_IN"
+    },
+    {
+        "code": "coll.notif.payment.receipt.link",
+        "message": "Dear Citizen, Your {tax_name} INR {amount_paid} for the tax period {fin_year} is paid. Your receipt no. for the transaction is {rcpt_no}. Click on the link below to download your receipt - {rcpt_link}\n\nEGOVS",
+        "module": "collection-services",
+        "locale": "en_IN"
+    }
+]

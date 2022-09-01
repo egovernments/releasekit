@@ -1,0 +1,4532 @@
+[
+    {
+        "code": "CITIZEN_FAILURE_COMMON_PAYMENT_MESSAGE",
+        "message": "भुगतान असफल हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_FSM_TRIP_CHARGES_PAYMENT_MESSAGE",
+        "message": "भुगताम पूरा हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_FSM_TRIP_CHARGES_PAYMENT_MESSAGE_DETAIL",
+        "message": "रसीद नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_MAHINDRA",
+        "message": "महिंद्रा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_MAHINDRA.BOLERO_PICKUP",
+        "message": "महिंद्रा - बोलेरो पिकअप",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_SONALIKA",
+        "message": "सोनालिका ट्रेक्टर -35 डी.आई.",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_SONALIKA.TRACTOR_35DI",
+        "message": "सोनालिका ट्रेक्टर -35 डी.आई.",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TAFE",
+        "message": "टी.ए.एफ.ई",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TAFE.TRACTOR_45DI",
+        "message": "टी.ए.एफ.ई - ट्रेक्टर 45 डी.आई.",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TATA",
+        "message": "टाटा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TATA.407",
+        "message": "टाटा - 407",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_MASTER_VEHICLE_TATA.LPT709/34",
+        "message": "टाटा - एल.पी.टी.709//34",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "COMMON_PAYMENT_HEAD",
+        "message": "भुगतान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_APPLICANT_INVALID",
+        "message": "कृपया इस क्षेत्र में भरें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_APPLICANT_MOBILE_NUMBER_INVALID",
+        "message": "कृपया वैध मोबाइल नंबर प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_APPLICANT_NAME_INVALID",
+        "message": "कृपया वैध नाम प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_DOOR_INVALID",
+        "message": "कृपया मान्य दरवाजा नंबर प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_GO_TO_HOME",
+        "message": "मुख पृष्ठ पर वापस जाएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_PINCODE",
+        "message": "पिन कोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_PINCODE_INVALID",
+        "message": "कृपया वैध पिन कोड प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_CITY ",
+        "message": "शहर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_EMAIL ",
+        "message": "ईमेल पता",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_MOBILE_NUMBER ",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_NAME ",
+        "message": "प्रोफ़ाइल नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_SKIP_CONTINUE",
+        "message": "छोड़ें और आगे बढ़ें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CORE_COMMON_STREET_INVALID",
+        "message": "कृपया एक मान्य सड़क नाम प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ACTION_FSM_PAY",
+        "message": "भुगतान प्राप्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ACTION_FSM_SUBMIT",
+        "message": "मांग में बद्लाव करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROPERTY_CITY_MOHALLA_TEXT",
+        "message": "नीचे दी गयी सूची से संपत्ति का इलाका/ मोहल्ला चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROPERTY_LANDMARK",
+        "message": "संपत्ति का इलाका",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROPERTY_LOCATION",
+        "message": "संपत्ति का इलाका",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROVIDE_PROPERTY_ADDRESS",
+        "message": "संपत्ति का पता दें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_PROVIDE_PROPERTY_LANDMARK_TEXT",
+        "message": "कृपया संपत्ति पर आसानी से पहुँचने के लिए कोई सीमा-चिन्ह बताएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_SELECT_GEOLOCATION_HEADER",
+        "message": "संपत्ति का स्थान पिन करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_SELECT_GEOLOCATION_TEXT",
+        "message": "संपत्ति का स्थित मैप पर पिन करने के लिए स्थान पर क्लिक करके होल्ड करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_AMOUNT_DUE",
+        "message": "कुल बकाया राशि (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_AMOUNT_PER_TRIP",
+        "message": "प्रति ट्रिप राशि (₹) / प्रति फेरा राशि (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICANT_DETAILS",
+        "message": "आवेदक का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICANT_MOBILE",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICANT_NAME",
+        "message": "आवेदक का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_CHANNEL",
+        "message": "चैनल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_DATE",
+        "message": "आवेदन तिथि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_TIMELINE",
+        "message": "आवेदन समय",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_TYPE",
+        "message": "आवेदन का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_BUILDING",
+        "message": "भवन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_CITY",
+        "message": "शहर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DESLUDGING_CHARGES",
+        "message": "सेप्टिक टैंक / गड्ढा खाली करवाने का शुल्क",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DIMENSION",
+        "message": "आयाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DISTANCE_FROM_ROAD",
+        "message": "सड़क से दूरी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DOOR_NO",
+        "message": "दरवाजा नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_DOOR_NO Landmark",
+        "message": "दरवाजा नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_LANDMARK",
+        "message": "सीमा चिन्ह",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_MAKE_PAYMENT",
+        "message": "भुगतान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_MOHALLA",
+        "message": "इलाका / मोहल्ला",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_NO_OF_TRIPS",
+        "message": "फेरों की संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PINCODE",
+        "message": "पिन कोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PIT_DETAILS",
+        "message": "गड्ढे / सेप्टिक टैंक विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PIT_SIZE",
+        "message": "गड्ढे का आकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PIT_TYPE",
+        "message": "गड्ढे का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PROPERTY_DETAILS",
+        "message": "संपत्ति का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PROPERTY_LOCATION_DETAILS",
+        "message": "संपत्ति के इलाके का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PROPERTY_SUB_TYPE",
+        "message": "संपत्ति का उप-प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_PROPERTY_TYPE",
+        "message": "सम्पत्ती का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_RATE",
+        "message": "नागरिक रेटिंग",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_RATE_US",
+        "message": "हमें रेटिंग दें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_SERVICE_CATEGORY",
+        "message": "सेवा श्रेणी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_SLUM_NAME",
+        "message": "झुग्गी का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_STREET",
+        "message": "सड़क",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_TRIPS",
+        "message": "फेरों की संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_FEEDBACK_FAILED",
+        "message": "कुछ रुकावट है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_FEEDBACK_SUCCESS",
+        "message": "धन्यवाद",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_TYPE_DESLUDGING",
+        "message": "सेप्टिक टैंक / गड्ढा खाली करवाने का आवेदन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_ADDRESS",
+        "message": "पता",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_CHECK_YOUR_ANSWERS",
+        "message": "अपने उत्तर जाँचें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_CHECK_YOUR_ANSWERS_TEXT",
+        "message": "दी गई जानकारी को बदलने के लिए संबंधित चरण में चेंज बटन पर क्लिक करें। इससे आप समबन्धित चरण में बदलाव कर पाएंगे।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_INFO_APPLICATION",
+        "message": "आवेदन प्रक्रिया को पूरा करने के लिए एक मिनट का समय लगेगा। सेप्टिक टंकी की सफाई में लगभग 500-1000 रुपय की लागत आ सकती है तथा स्लम क्षेत्रों में रहने वाले लोगों के लिए दरों में छूट है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_INFO_PAY_LATER",
+        "message": "आवेदन प्रक्रिया को पूरा होने में एक मिनट का समय लगेगा। शीघ्र ही आपको एक सर्विस प्रोवाइडर आवंटित किया जाएगा। सर्विस प्रोवाइडर के आपके स्थान पर पहुँचने के बाद आपको भुगतान की जाने वाली राशि के बारे में विवरण प्राप्त होगा।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_INFO_PAY_NOW",
+        "message": "आवेदन प्रक्रिया को पूरा होने में एक मिनट का समय लगेगा। भुगतान पूरा होने के बाद आपको एक सर्विस प्रोवाइडर आवंटित किया जाएगा।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_INFO_TEXT",
+        "message": "सेप्टिक टंकी की सफाई के लिए Rs.250-500 के आसपास खर्च होंगे। आवेदन जमा करने के बाद, जितनी राशि का भुगतान किया जाना है वह आपके पंजीकृत मोबाइल नंबर पर एस.एम.एस. द्वारा भेज दिया जाएगा।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_INFO_TITLE",
+        "message": "जानकारी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_LANDMARK",
+        "message": "सीमा चिन्ह",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_PIT_SEPTIC_TANK_DETAILS",
+        "message": "गड्ढे / सेप्टिक टैंक विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_PIT_TYPE",
+        "message": "गड्ढे प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_PROPERTY_DETAILS",
+        "message": "संपत्ति का ब्यौरा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_PROPERTY_SUB_TYPE",
+        "message": "संपत्ति का उप-प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_PROPERTY_TYPE",
+        "message": "सम्पत्ती का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_SIZE",
+        "message": "आकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_SLUM",
+        "message": "झुग्गी का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CHECK_YOUR_ANSWERS_TEXT",
+        "message": "दी गई जानकारी को बदलने के लिए संबंधित चरण में चेंज बटन पर क्लिक करें। इससे आप समबन्धित चरण में बदलाव कर पाएंगे।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMIN_DECLINE",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_APPLICATION_ACKNOWLEDGEMENT",
+        "message": "आवेदन पावती",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_APPLICATION_FILED",
+        "message": "आवेदन जमा किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_ASSIGN_DSO ",
+        "message": "DSO असाइन करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_ASSIGN_VEHICLE",
+        "message": "वाहन नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_ASSING_DSO",
+        "message": "डी.एस.ओ. नियुक्ति के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_BREADTH",
+        "message": "चौड़ाई",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_CANCELED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_CAPACITY_LTRS",
+        "message": "लीटर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_CHANGE",
+        "message": "बदलें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_CITIZEN_FEEDBACK_PENDING",
+        "message": "नागरिक प्रतिक्रिया के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_COMMENTS",
+        "message": "टिप्पणियाँ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_COMPLETE",
+        "message": "निवेदन पूरा करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_COMPLETED",
+        "message": "पूरा हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_CREATED",
+        "message": "आवेदन बनाया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_DECLINE",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_DEPTH",
+        "message": "गहराई",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_DIAMETER",
+        "message": "व्यास",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_DIAMETER x CS_COMMON_DEPTH",
+        "message": "व्यास x गहराई",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_DOWNLOAD",
+        "message": "डाउनलोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_DSO_ACCEPT",
+        "message": "वाहन नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_DSO_INPROGRESS",
+        "message": "डी.एस.ओ. चालू",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_DSO_REJECT",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_DSO_REJECTED",
+        "message": "डी.एस.ओ. अस्वीकृत / डी.एस.ओ. रद्द",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ACCEPT",
+        "message": "स्वीकार करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ADDITIONAL_PAY",
+        "message": "अतिरिक्त शुल्क का भुगतान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ADDITIONAL_PAY_REQUEST",
+        "message": "अतिरिक्त भुगतान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_APPLICATION_FILED",
+        "message": "आवेदन दर्ज किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ASSIGN",
+        "message": "डी.एस.ओ. नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ASSIGN_DSO ",
+        "message": "DSO असाइन करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_ASSING_DSO",
+        "message": "डी.एस.ओ. नियुक्ति के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_CANCEL",
+        "message": "रद्द करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_CANCELED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_CITIZEN_FEEDBACK_PENDING",
+        "message": "नागरिक प्रतिक्रिया के लिए रुका",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_COMPLETED",
+        "message": "निवेदन पूरा किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_CREATED",
+        "message": "आवेदन बनाया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DECLINE",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DISPOSAL_IN_PROGRESS ",
+        "message": "निपटान प्रगति पर है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DISPOSED",
+        "message": "निष्पादित",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DISPOSED ",
+        "message": "निबटाया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DSO_ACCEPT",
+        "message": "वाहन नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DSO_INPROGRESS",
+        "message": "डी.एस.ओ. प्रगति पर है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DSO_REJECT",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_DSO_REJECTED",
+        "message": "डी.एस.ओ. अस्वीकृत / डी.एस.ओ. रद्द",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_PAY",
+        "message": "भुगतान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_PENDING_ADDITIONAL_PAYMENT",
+        "message": "बकाया अतिरिक्त भुगतान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_PENDING_APPL_FEE_PAYMENT",
+        "message": "भुगतान के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_PENDING_DSO_APPROVAL",
+        "message": "डी.एस.ओ. स्वीकृति के लिए लंबित",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_REJECT",
+        "message": "रद्द करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_REJECTED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_SENDBACK",
+        "message": "वापस भेजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_SUBMIT",
+        "message": "आवेदन में बदलाव करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_WAITING_FOR_DISPOSAL",
+        "message": "निपटान की प्रतीक्षा में",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_FSM_WAITING_FOR_DISPOSAL ",
+        "message": "निपटान की प्रतीक्षा में",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_INFO",
+        "message": "जानकारी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_LENGTH",
+        "message": "लंबाई",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_LENGTH x CS_COMMON_BREADTH x CS_COMMON_DEPTH",
+        "message": "लम्बाई x चौड़ाई x गहराई",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_LITRES",
+        "message": "लीटर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_MYCITY_CODE_LABEL",
+        "message": "शहर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_NEXT",
+        "message": "अगला",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_NO",
+        "message": "नहीं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_PAYMENT_COMPLETE",
+        "message": "भुगतान पूरा हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_PAYMENT_RECEIPT",
+        "message": "भुगतान रसीद",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_PENDING_ADDITIONAL_PAYMENT",
+        "message": "बकाया अतिरिक्त भुगतान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_PENDING_APPL_FEE_PAYMENT",
+        "message": "भुगतान के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_PENDING_DSO_APPROVAL",
+        "message": "डी.एस.ओ. स्वीकृति के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_PINCODE_NOT_SERVICABLE",
+        "message": "क्षमा करें हम इस शहर में सेवा नहीं दे रहे हैं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_PIT_TYPE",
+        "message": "गड्ढे का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_PRINT_RECEIPT",
+        "message": "रसीद प्रिंट करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_REASSING",
+        "message": "पुनः नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_RECIEPT_NO",
+        "message": "रसीद नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_ROWS_PER_PAGE",
+        "message": "प्रति पेज पंक्तियाँ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_SCHEDULE ",
+        "message": "निश्चित समय तय करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_SENDBACK",
+        "message": "वापस भेजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_SUBMIT",
+        "message": "सबमिट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_TRACK_APPLICATION_TEXT",
+        "message": "आवेदन जमा किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_VIEW",
+        "message": "देखें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_YES",
+        "message": "हाँ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_CREATECOMPLAINT_MOHALLA",
+        "message": "इलाका / मोहल्ला",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_DEFAULT_INFO_TEXT",
+        "message": "आवेदन प्रक्रिया को पूरा करने के लिए एक मिनट का समय लगेगा।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FEEDBACK_OPERATORS_WERE_WITHOUT_SAFETY_GEARS",
+        "message": "प्रचालक/ऑपरेटर्स सुरक्षा गियर के बिना थे",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FEEDBACK_RATE_HELP_TEXT",
+        "message": "आपकी मदद करेने में हमारी सहायता करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FEEDBACK_RESOLUTION_TIME_WAS_LONG",
+        "message": "हल करने में सामान्य से ज़्यादा समय लगा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FEEDBACK_THERE_WAS_SPILLAGE",
+        "message": "मल छलकाव था",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_INFO_LABEL",
+        "message": "जानकारी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_INFO_TEXT",
+        "message": "{CONTENT} सेप्टिक टंकी की सफाई में लगभग {MINAMOUNT}-{MAXAMOUNT} रुपय की लागत आ सकती है तथा स्लम क्षेत्रों में रहने वाले लोगों के लिए दरों में छूट है ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PINCODE_LABEL",
+        "message": "क्या आपको पिनकोड पता है?",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PINCODE_TEXT",
+        "message": "स्थान का पिनकोड दर्ज करें - यह हमें आसानी से संपत्ति के स्थान की पहचान करने में मदद करेगा या छोड़ें और जारी रखें बटन पर क्लिक करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PIT_SEPTIC_TANK_SIZE_TEXT",
+        "message": "गड्ढे / सेप्टिक टैंक आकार दें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PIT_SEPTIC_TANK_SIZE_TITLE",
+        "message": "गड्ढे / सेप्टिक टैंक का आकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PIT_TYPE_LABEL",
+        "message": "गड्ढे का प्रकार चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LABEL",
+        "message": "संपत्ति का प्रकार चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_ADDRESS_TEXT",
+        "message": "संपत्ति का पता दें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_CITY_MOHALLA_TEXT",
+        "message": "नीचे दी गयी सूची से संपत्ति का इलाका/ मोहल्ला चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_DOOR_NO_LABEL",
+        "message": "दरवाजा नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LABEL",
+        "message": "संपत्ति का इलाका",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_LANDMARK_LABEL",
+        "message": "सीमा चिन्ह",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_PROVIDE_LANDMARK_TEXT",
+        "message": "कृपया संपत्ति पर आसानी से पहुँचने के लिए कोई सीमा-चिन्ह बताएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_PROVIDE_LANDMARK_TITLE",
+        "message": "सीमा-चिह्न प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_SLUM_LABEL",
+        "message": "झुग्गी का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_STREET_DOOR_NO_LABEL",
+        "message": "गली का नाम एवं दरवाजा/मकान नंबर बताएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_LOCATION_STREET_NAME_LABEL",
+        "message": "सड़क का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_SUBTYPE_LABEL",
+        "message": "संपत्ति का उप-प्रकार चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_SUBTYPE_TEXT",
+        "message": "आपके द्वारा चुने गए संपत्ति प्रकार के निम्न उप प्रकार हैं। नीचे दी गई सूची में से अपनी पसंद के विकल्प का चयन करें।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_APPLICATION_PROPERTY_TEXT",
+        "message": "नीचे दी गई सूची में से अपनी संपत्ति से संबंधित विकल्प का चयन करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_COMPLAINT_PIT_TYPE_LABEL",
+        "message": "गड्ढे का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_DESLUDGING_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_DESLUDGING_APPLICATION_SUCCESS",
+        "message": "आवेदन जमा किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_DIAMETER",
+        "message": "व्यास (मी)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_HEIGHT",
+        "message": "गहराई (मी)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_LENGTH",
+        "message": "लंबाई (मी)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_PINCODE_TEXT",
+        "message": "स्थान का पिनकोड दर्ज करें - यह हमें आसानी से संपत्ति के स्थान की पहचान करने में मदद करेगा या छोड़ें और जारी रखें बटन पर क्लिक करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_PIT_TYPE",
+        "message": "गड्ढे का प्रकार चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_PIT_TYPE_TEXT",
+        "message": "एक परंपरागत सेप्टिक टंकी आयामों के साथ लम्बाई, चौड़ाई और गहराई एक बॉक्स प्रकार सेप्टिक टंकी और भिगोएँ गड्ढे आयाम व्यास और गहराई के साथ प्रकृति में बेलनाकार है। आप सेप्टिक टंकी प्रकार या उसके आयाम के बारे में सुनिश्चित नहीं हैं, तो इस चरण को छोड़कर जारी रखें।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_PLACEHOLDER",
+        "message": "संपत्ति का प्रकार चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_RESPONSE",
+        "message": "आवेदन की जानकारी आपके पंजीकृत मोबाइल नंबर पर भेज दी गयी है। कुछ देर में आपको लागू की गयी सेवा के शुल्क की सूचना दी जाएगी। कृपया सूचना मिलने के बाद मुख्य पेज पर दी हुई आवेदन लिंक से भुगतान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_SUBTYPE_PLACEHOLDER",
+        "message": "संपत्ति का उप-प्रकार चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_SUBTYPE_TEXT",
+        "message": "आपके द्वारा चुने गए संपत्ति प्रकार के निम्न उप प्रकार हैं। नीचे दी गई सूची में से अपनी पसंद के विकल्प का चयन करें।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_TANKSIZE_PLACEHOLDER",
+        "message": "गड्ढे / सेप्टिक टैंक का आकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_TANKSIZE_TEXT",
+        "message": "गड्ढे / सेप्टिक टैंक के आयाम प्रदान करें।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_TEXT",
+        "message": "नीचे दी गई सूची में से अपनी संपत्ति से संबंधित विकल्प का चयन करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FILE_PROPERTY_WIDTH",
+        "message": "चौड़ाई (मी)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_CITY",
+        "message": "शहर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_DATE",
+        "message": "आवेदन तिथि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_DETAIL_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_DETAIL_TITLE_APPLICATION_DETAILS",
+        "message": "आवेदन विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_MOHALLA",
+        "message": "इलाका / मोहल्ला",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_PINCODE",
+        "message": "पिन कोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_PROPERTY_TYPE",
+        "message": "सम्पत्ती का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_RATE_HELP_TEXT",
+        "message": "क्या कोई छलकाव था?",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_RATE_TEXT",
+        "message": "आप हमारे साथ अपने अनुभव को कितना रेट करेंगे?",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_SERVICE_CATEGORY",
+        "message": "सेवा श्रेणी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_TITLE_MY_APPLICATION",
+        "message": "मेरे आवेदन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_TYPE",
+        "message": "आवेदन का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_APPLICATION_TYPE_DESLUDGING",
+        "message": "सेप्टिक टैंक / गड्ढा खाली करवाना है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_COMPLETED_ACTION",
+        "message": "धन्यवाद",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_COMPLETED_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_SUBMIT_FEEDBACK_ACTION_ERROR",
+        "message": "कुछ रुकावट है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_SUBMIT_FEEDBACK_DISPLAY",
+        "message": "हमारी सेवाओं की रेटिंग के लिए धन्यवाद - आपकी प्रतिक्रिया से हमें अपनी सेवाओं को बेहतर बनाने में मदद मिलती है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_FSM_RESPONSE_SUBMIT_FEEDBACK_DISPLAY_ERROR",
+        "message": "सेवा रेटिंग करने में कुछ रुकावट है। कृपया कुछ देर बाद प्रयास करें।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_HOME_APPLY_FOR_DESLUDGING",
+        "message": "सेप्टिक टैंक / गड्ढे के खाली करने के लिए आवेदन दें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_HOME_FSM_SERVICES",
+        "message": "मल प्रबंधन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_HOME_MY_APPLICATIONS",
+        "message": "मेरे आवेदन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_HOME_OTHER_SERVICES",
+        "message": "अन्य सेवाएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_HOME_PROPERTIES",
+        "message": "गुण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_INVALID OTP",
+        "message": "अमान्य ओ.टी.पी.",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LINK_DSO_DASHBOARD",
+        "message": "डी.एस.ओ. इनबॉक्स",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LINK_LOGIN_DSO",
+        "message": "डी.एस.ओ. लॉग इन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LOGIN_NAME_TEXT",
+        "message": "अपने अनुभव को अधिक व्यक्तिगत बनाने के लिए व्यक्ति का नाम प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LOGIN_NO_ACCOUNT",
+        "message": "लॉग इन करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LOGIN_OTP",
+        "message": "ओ.टी.पी. सत्यापन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LOGIN_OTP_TEXT",
+        "message": "भेजा गया ओ.टी.पी. भरें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LOGIN_PROVIDE_MOBILE_NUMBER",
+        "message": "अपना मोबाइल नंबर प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LOGIN_PROVIDE_NAME",
+        "message": "अपना नाम प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LOGIN_REGISTER_LINK",
+        "message": "रजिस्टर करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_LOGIN_TEXT",
+        "message": "आवेदन से संबंधित सारा संवाद इस मोबाइल नंबर पर भेजा जाएगा।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_MYAPPLICATIONS_NO_APPLICATION",
+        "message": "कोई एप्लिकेशन नहीं मिला",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_MYAPPLICATIONS_NO_APPLICATIONS",
+        "message": "कोई परिणाम नहीं मिला",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_APPLICATION_TYPE",
+        "message": "आवेदन का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_SERVICE_CATEGORY",
+        "message": "सेवा श्रेणी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_MY_APPLICATION_VIEW",
+        "message": "देखें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_NEW_APPLICATION_SLUM_NAME",
+        "message": "झुग्गी का नाम प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_NEW_APPLICATION_SLUM_TEXT",
+        "message": "नीचे दी गयी सूची से झुग्गी का नाम चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PAYMENT_AMOUNT_PAID",
+        "message": "चुकाई हुई राशि (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PAYMENT_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PAYMENT_REDIRECT_NOTICE",
+        "message": "आपको एक तृतीय-पक्ष भुगतान गेटवे के लिए निर्देशित किया जाएगा। \n एमसेवा क्रेडिट या डेबिट कार्ड को कोई भी जानकारी जमा करके नहीं रखता।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PAYMENT_SUCCESSFUL_DESCRIPTION",
+        "message": "आवेदन पर अब कार्रवाई की जाएगी और शिकायत को 2 कार्यकारी दिनों के अंदर बंद कर दिया जाएगा। जब एक desludging वाहन अनुरोध करने के लिए नियुक्त किया जाएगा तब आवेदक को सूचित किया जाएगा।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PAYMENT_TRANSANCTION_DATE",
+        "message": "भुगतान की तिथि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PAYMENT_TRANSANCTION_ID",
+        "message": "ट्रांज़ैक्शन आईडी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_RESEND_ANOTHER_OTP",
+        "message": "एक और ओटीपी पुन: भेजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_RESEND_OTP",
+        "message": "ओटीपी पुनः भेजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_RESEND_SECONDS",
+        "message": "सेकेंड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_TITLE_APPLICATION_DETAILS",
+        "message": "आवेदन का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_TITLE_FSM",
+        "message": "एफ एस एम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_TITLE_MY_APPLICATIONS",
+        "message": "मेरे आवेदन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDIT_PROFILE",
+        "message": "प्रोफ़ाइल संपादित करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_GENERATE_DEMAND",
+        "message": "मांग दाखिल करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_MODIFY_APPLICATION",
+        "message": "आवेदक का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_POST_PAY",
+        "message": "बाद में भुगतान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_PRE_PAY",
+        "message": "अभी भुगतान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_REASON_CANNOT_CONTACT_APPLICANT",
+        "message": "आवेदक से संपर्क करने में असमर्थ / आवेदक से संपर्क नहीं हो पा रहा है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_REASON_DUPLICATE",
+        "message": "डुप्लीकेट आवेदन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_REASON_OTHERS",
+        "message": "अन्य",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_REASON_OUTSIDE_OPERATIONAL_HOURS",
+        "message": "परिचालन की समय-सीमा से बाहर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_REASON_ROAD_INACCESS",
+        "message": "दुर्गम सड़क",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_REASON_SEPTAGE_SOURCE",
+        "message": "सेप्टेज का स्रोत",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_REASON_UNDER_MAINTENANCE",
+        "message": "रखरखाव के अधीन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_REASON_VEHICLE_REPAIR",
+        "message": "वाहन की मरम्मत की जा रही है / वाहन मरम्मत के लिए भेजा गया है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_REJECT_APPLICATION",
+        "message": "आवेदन रद्द करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_TRIP_1 ",
+        "message": "1",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_TRIP_2 ",
+        "message": "2",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_TRIP_3 ",
+        "message": "3",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_TRIP_4 ",
+        "message": "4",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_TRIP_5 ",
+        "message": "5",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_TRIP_6 ",
+        "message": "6",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_TRIP_7 ",
+        "message": "7",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_TRIP_8 ",
+        "message": "8",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ACTION_TRIP_9 ",
+        "message": "9",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICANT_MOBILE_NO",
+        "message": "आवेदक का मोबाइल नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_AUDIT",
+        "message": "एप्लिकेशन ऑडिट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_BILL_SLAB_ERROR",
+        "message": "इस संपत्ति प्रकार, वाहन और झुग्गी के लिए बिलिंग स्लैब उपलब्ध नहीं है, कृपया व्यवस्थापक से संपर्क करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_CHANNEL",
+        "message": "आवेदन खिड़की / आवेदन चैनल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DATE",
+        "message": "आवेदन तिथि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_AMOUNT_PER_TRIP",
+        "message": "प्रति ट्रिप राशि (₹) / प्रति फेरा राशि (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICANT_MOBILE_NO",
+        "message": "आवेदक का मोबाइल नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICANT_NAME",
+        "message": "आवेदक का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICATION_CHANNEL_COUNTER",
+        "message": "काउंटर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICATION_CHANNEL_ONLINE",
+        "message": "ऑनलाइन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICATION_CHANNEL_TELEPHONE",
+        "message": "टेलीफ़ोन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_APPLICATION_TIMELINE",
+        "message": "आवेदन का समय",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_ASSIGNED_DSO",
+        "message": "नितुक्त डी एस ओ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_DSO_DETAILS",
+        "message": "डी.एस.ओ. विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_INPROGRESS_APPLICATION_CHANNEL_ONLINE",
+        "message": "ऑनलाइन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_CITY",
+        "message": "शहर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_DETAILS",
+        "message": "स्थान इलाके का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_DOOR",
+        "message": "दरवाज़ा नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_GEOLOCATION",
+        "message": "जियोलोकेशन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_LANDMARK",
+        "message": "सीमा चिन्ह",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_LOCALITY",
+        "message": "इलाका",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_PINCODE",
+        "message": "पिन कोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_LOCATION_STREET",
+        "message": "सड़क का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PAYMENT_NO_OF_TRIPS",
+        "message": "फेरों की संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PIT_DIMENSION",
+        "message": "गड्ढे का आयाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PIT_TYPE",
+        "message": "गड्ढे का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_POSSIBLE_SERVICE_DATE",
+        "message": "संभावित सेवा तिथि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PROPERTY_DETAILS",
+        "message": "संपत्ति का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PROPERTY_SUB-TYPE",
+        "message": "संपत्ति का उप-प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_PROPERTY_TYPE",
+        "message": "सम्पत्ती का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_SLUM_NAME",
+        "message": "झुग्गी का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_VEHICLE_CAPACITY",
+        "message": "वाहन क्षमता (लीटर)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_VEHICLE_MAKE",
+        "message": "वाहन की कंपनी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_VEHICLE_NO",
+        "message": "वाहन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_VIEW_AUDIT_TRAIL",
+        "message": "सारे ऑडिट देखें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_APPLICATION_NOT_SLUM_AREA",
+        "message": "कोई भी नहीं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_AUDIT_WHAT",
+        "message": "क्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_AUDIT_WHEN",
+        "message": "कब",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_AUDIT_WHO",
+        "message": "कौन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_APPLICATION_SUBMIT",
+        "message": "आवेदन जमा करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_APPLICATION_SUBMITTED",
+        "message": "आवेदन जमा किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_ASSIGN",
+        "message": "निर्दिष्ट करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_CLEAR_ALL",
+        "message": "सब हटाएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_CLEAR_SEARCH",
+        "message": "खोज मिटाएँ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_FILTER",
+        "message": "फ़िल्टर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_FILTER_BY",
+        "message": "इससे फ़िल्टर करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_HOME",
+        "message": "होम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_INBOX",
+        "message": "इनबॉक्स",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_NO_DSO_AVAILABLE_WITH_SUCH_VEHICLE",
+        "message": "चयनित वाहन के लिए वर्तमान में कोई डी.एस.ओ. उपलब्ध नहीं है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_PAY",
+        "message": "भुगतान प्राप्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_SEARCH",
+        "message": "खोजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_SEARCH_BY",
+        "message": "इससे खोजें:",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_SUBMIT",
+        "message": "जमा करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_TAKE_ACTION",
+        "message": "कार्रवाई करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_TIME",
+        "message": "डम्पिंग का समय",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_UPDATE",
+        "message": "अपडेट करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_UPDATE_DEMAND",
+        "message": "आवेदन में बदलाव करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMPLETION_PENDING",
+        "message": "समापन के लिए रुके हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_EDIT_APPLICATION_ADDITIONAL_CHARGES",
+        "message": "अतिरिक्त शुल्क (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_EDIT_APPLICATION_ADDITIONAL_TRIP",
+        "message": "अतिरिक्त फेरे",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_EDIT_APPLICATION_AMOUNT_TO_BE_PAID",
+        "message": "बकाया अतिरिक्त राशि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_EDIT_APPLICATION_REASON_FOR_ADDITIONAL_CHARGES",
+        "message": "अतिरिक्त शुल्क का कारण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_ERROR_USER_NOT_PERMITTED",
+        "message": "उपयोगकर्ता को अनुमति नहीं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACCEPT_UPDATE_SUCCESS",
+        "message": "सफलतापूर्वक स्वीकार किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_CANCEL_REASON",
+        "message": "रद्द करने का कारण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_COMMENTS",
+        "message": "टिप्पणियाँ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_DECLINE_REASON",
+        "message": "रद्द करने का कारण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_DESLUDGING_ON",
+        "message": "डिस्लुजिंग ऑन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_DESLUGED_DATE_LABEL",
+        "message": "सेप्टिक टैंक / गड्ढे कब खाली किया गया?",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_DSO_NAME",
+        "message": "डी.एस.ओ. का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_DSO_REJECT_REASON",
+        "message": "रद्द करने का कारण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_GENDER_TYPE",
+        "message": "लिंग प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_INVALID_WASTE_VOLUME",
+        "message": "एकत्रित कूड़ा वाहन क्षमता से अधिक नहीं हो सकता",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_NUMBER_OF_TRIPS",
+        "message": "यात्राओं की संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_PAYMENT_PREFERENCE_TYPE",
+        "message": "भुगतान वरीयता प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_REASSIGN_REASON",
+        "message": "पुन: नियुक्त करने का कारण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_REJECT_REASON",
+        "message": "रद्द करने का कारण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_SENDBACK_REASON",
+        "message": "वापस भेजने का कारण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_SERVICE_DATE",
+        "message": "पूरा होने की अनुमानित तिथि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_ASSIGN",
+        "message": "डी.एस.ओ. नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_ASSIGN_DSO",
+        "message": "डी.एस.ओ. नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_ASSIGN_VEHICLE",
+        "message": "वाहन नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_CANCEL",
+        "message": "रद्द करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_COMPLETED",
+        "message": "आवेदन पूरा करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_COMPLETE_REQUEST",
+        "message": "आवेदन पूरा करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_DECLINE",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_DECLINEVEHICLE",
+        "message": "वाहन को अस्वीकार करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_DECLINE_REQUEST",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_DSO_ACCEPT",
+        "message": "वाहन नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_DSO_REJECT",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_REASSING",
+        "message": "डी.एस.ओ. पुनः नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_REJECT",
+        "message": "ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_SCHEDULE ",
+        "message": "DSO वाहन चयन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITLE_SENDBACK",
+        "message": "वापस भेजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_TITTLE_REASSIGN",
+        "message": "डी.एस.ओ. पुनः नितुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_VEHICLE_CAPACITY_IN_LTRS",
+        "message": "वाहन क्षमता (लीटर)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_VEHICLE_REGISTRATION_NO",
+        "message": "वाहन पंजीकरण नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_VEHICLE_TYPE",
+        "message": "वाहन का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ACTION_WASTE_VOLUME_LABEL",
+        "message": "कूड़े की मात्रा (लीटर)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_APPLICATION_UPDATE",
+        "message": "आवेदन में बदलाव करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ASSIGN",
+        "message": "डी.एस.ओ. नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_ASSIGN_UPDATE_SUCCESS",
+        "message": "सफलतापूर्वक नियुक्त किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_CANCEL",
+        "message": "निवेदन रद्द करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_CANCEL_UPDATE_SUCCESS",
+        "message": "सफलतापूर्वक रद्द किया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_COMPLETED",
+        "message": "निवेदन पूरा करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_COMPLETED_UPDATE_SUCCESS",
+        "message": "निवेदन सफलतापूर्वक पूर्ण किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_DECLINE",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_DECLINE_UPDATE_SUCCESS",
+        "message": "सफलतापूर्वक रद्द किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_DISPOSE_UPDATE_FAILURE ",
+        "message": "निपटान अद्यतन करने में विफलता",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_DISPOSE_UPDATE_SUCCESS",
+        "message": "सफलतापूर्वक बदलाव किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_DSO_ACCEPT",
+        "message": "वाहन नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_DSO_ACCEPT_UPDATE_SUCCESS",
+        "message": "वाहन सफलतापूर्वक नियुक्त किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_DSO_REJECT",
+        "message": "निवेदन ख़ारिज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_DSO_REJECT_UPDATE_SUCCESS",
+        "message": "आवेदन सफलतापूर्वक रद्द किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_NUMBER_OF_TRIPS_TEXT",
+        "message": "कृपया सफाई प्रक्रिया के लिए अपनी आवश्यकता के अनुसार यात्राएं दर्ज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_PAY",
+        "message": "भुगतान प्राप्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_PAYMENT_PREFERENCE_LABEL",
+        "message": "भुगतान का पसंदीदा विकल्प चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_PAYMENT_PREFERENCE_TEXT",
+        "message": "कृपया चुनें कि आप कब भुगतान करना चाहते हैं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_Pay",
+        "message": "भुगतान प्राप्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_REASSING",
+        "message": "डी.एस.ओ. पुनः नियुक्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_REASSING_UPDATE_SUCCESS",
+        "message": "सफलतापूर्वक डी.एस.ओ. नियुक्त किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_REJECT",
+        "message": "अस्वीकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_REJECTION_OPTION_A",
+        "message": "वाहन की मरम्मत जारी है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_REJECTION_OPTION_B",
+        "message": "उल्लेखित तिथि के भीतर सेवा उपलब्ध नहीं है, कई अनुरोध कतार में हैं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_REJECT_UPDATE_SUCCESS",
+        "message": "सफलतापूर्वक रद्द किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_ASSIGN_DSO_ACTION ",
+        "message": "DSO चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_ASSIGN_DSO_LABEL ",
+        "message": "DSO चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_CREATE_DISPLAY",
+        "message": "आवेदन की जानकारी और सेवा शुल्क आवेदक के पंजीकृत मोबाइल नंबर पर भेजा गया है। नागरिक या तो एसएमएस में दी गयी लिंक से या निकाय काउंटर पर भुगतान कर सकते हैं।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
+        "message": "आवेदन जमा किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_LABEL",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_SCHEDULE_DISPLAY ",
+        "message": "आपके अनुरोध के अनुसार डी-सल्जिंग सेवा सफलतापूर्वक निर्धारित की गई है। Desluding ऑपरेटर जल्द ही आने वाला है।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_SUBMIT_ACTION_ERROR",
+        "message": "कुछ रुकावट है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_SUBMIT_DISPLAY",
+        "message": "आवेदन की जानकारी और सेवा शुल्क आवेदक के पंजीकृत मोबाइल नंबर पर भेजा गया है। नागरिक या तो एसएमएस में दी गयी लिंक से या काउंटर पर भुगतान कर सकते हैं।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_RESPONSE_SUBMIT_DISPLAY_ERROR",
+        "message": "कुछ रुकावट है यह कार्रवाई इस समय पर संभव नहीं है। कृपया आवेदन की जानकारी/स्थिति की जांच करें और फिर प्रयास करें।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_SCHEDULE ",
+        "message": "वाहन के लिए एक निश्चित समय तय करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_SCHEDULE_UPDATE_SUCCESS ",
+        "message": "वाहन निर्धारण पूर्ण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_SENDBACK",
+        "message": "वापस भेजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSM_SUBMIT",
+        "message": "आवेदन में बदलाव करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSTP_DSO_NAME",
+        "message": "डी.एस.ओ. का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSTP_INVALID_START_TIME",
+        "message": "कृपया वाहन प्रवेश समय एवं वाहन निकास समय दर्ज करें ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSTP_INVALID_TRIP_TIME",
+        "message": "वाहन निकास समय वाहन प्रवेश समय से पहले का नहीं हो सकता",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSTP_INVALID_WASTE_AMOUNT",
+        "message": "एकत्रित कूड़ा वाहन क्षमता से अधिक नहीं हो सकता",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSTP_OPERATOR_DETAILS_WASTE_GENERATORS",
+        "message": "कूड़े का स्त्रोत",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_FSTP_OPERATOR_VEHICLE_NO",
+        "message": "वाहन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_2_SELECTED",
+        "message": "2 चयनित",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_APPLICATION_DATE",
+        "message": "आवेदन तिथि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_ASSIGNED_TO_ALL",
+        "message": "सभी को नियुक्त किया गया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_ASSIGNED_TO_ME",
+        "message": "मुझे नियुक्त किया है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_DATE_LATEST_FIRST",
+        "message": "तारीख (पिछली पहले)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_DATE_LATEST_LAST",
+        "message": "तारीख (पिछली अंतिम)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_DSO_NAME",
+        "message": "डी.एस.ओ. का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_FILTER_BY",
+        "message": "इससे फ़िल्टर करें:",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_LOCALITY",
+        "message": "इलाका",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_MOBILE_NO",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_PENDING_FOR_DEMAND_GENERATION",
+        "message": "मांगें दाखिल करने के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_PENDING_FOR_DSO_ASSIGNMENT",
+        "message": "डी.एस.ओ. नियुक्ति के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_PENDING_FOR_PAYMENT",
+        "message": "भुगतान के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_ROWS_PER_PAGE",
+        "message": "प्रति पृष्ठ पंक्तियाँ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_SLA_DAYS_REMAINING",
+        "message": "एस.एल.ए. दिन शेष",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_VEHICLE_LOG",
+        "message": "वाहन प्रवेश करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_VEHICLE_NO",
+        "message": "वाहन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_VEHICLE_STATUS",
+        "message": "वाहन की स्थिति",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_INBOX_WASTE_COLLECTED",
+        "message": "एकत्रित कूड़ा (लीटर)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_APPLICANT_NAME",
+        "message": "आवेदन में बदलाव करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_APPLICATION_TIMELINE",
+        "message": "आवेदन का समय",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_CITY",
+        "message": "शहर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_DETAILS",
+        "message": "स्थान/इलाके का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_GEOLOCATION",
+        "message": "जियोलोकेशन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_LANDMARK",
+        "message": "सीमा चिन्ह",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_LOCATION_LOCALITY",
+        "message": "इलाका",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_PINCODE",
+        "message": "पिन कोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_PROPERTY_DETAILS",
+        "message": "संपत्ति का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_PROPERTY_SUB-TYPE",
+        "message": "संपत्ति का उप-प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_PROPERTY_TYPE",
+        "message": "सम्पत्ती का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_MODIFY_APPLICATION_SLUM_NAME",
+        "message": "झुग्गी का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEARING_SLA",
+        "message": "सेवा-स्तर समझौते के करीब",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_AMOUNT_INVALID",
+        "message": "वैध राशि दर्ज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_AMOUNT_PER_TRIP",
+        "message": "प्रति ट्रिप राशि (₹) / प्रति फेरा राशि (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_APPLICANT_MOBILE_NO",
+        "message": "आवेदक का मोबाइल नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_APPLICANT_NAME",
+        "message": "आवेदक का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_APPLICATION_CHANNEL",
+        "message": "आवेदन खिड़की",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_APPLICATION_TIMELINE",
+        "message": "आवेदन का समय",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_DISTANCE_FROM_ROAD",
+        "message": "रोड से गड्ढे की दूरी (मी)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_DOOR_NO",
+        "message": "दरवाजा नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_CITY",
+        "message": "शहर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_DETAILS",
+        "message": "इलाके का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_GEOLOCATION",
+        "message": "जियोलोकेशन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_LANDMARK",
+        "message": "सीमा चिन्ह",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_LOCALITY",
+        "message": "इलाका",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_MOHALLA",
+        "message": "इलाका / मोहल्ला",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_PINCODE",
+        "message": "पिन कोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_SLUM",
+        "message": "झुग्गी का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_LOCATION_VEHICLE_REQUESTED",
+        "message": "वाहन का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_NO_OF_TRIPS_INVALID",
+        "message": "फेरों की वैध संख्या प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PAYMENT_AMOUNT",
+        "message": "प्रति ट्रिप राशि (₹) / प्रति फेरा राशि (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PAYMENT_NO_OF_TRIPS",
+        "message": "फेरों की संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PINCODE",
+        "message": "पिन कोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PIT_DIMENSION",
+        "message": "गड्ढे का आयाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PIT_DISTANCE_FROM_ROAD",
+        "message": "रोड से पिट की दूरी (मी)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PIT_TYPE",
+        "message": "गड्ढे का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PROPERTY_DETAILS",
+        "message": "संपत्ति का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PROPERTY_SUB-TYPE",
+        "message": "संपत्ति का उप-प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PROPERTY_TYPE",
+        "message": "सम्पत्ती का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_PROVIDE_PROPERTY_STREET_DOOR_NO",
+        "message": "सड़क का नाम और दरवाज़ा/मकान नंबर बताएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_SANITATION_TYPE",
+        "message": "सफाई का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_SLUM_CHECK",
+        "message": "क्या आपकी संपत्ति एक अधिसूचित झुग्गी क्षेत्र में स्थित है?",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_SLUM_ENABLED",
+        "message": "क्या आपकी संपत्ति झुग्गी क्षेत्र में स्थित है?",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_SLUM_NAME",
+        "message": "झुग्गी का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NEW_APPLICATION_STREET_NAME",
+        "message": "सड़क का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_COLLECTED",
+        "message": "भुगतान प्राप्त हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_COLLECTED_ERROR",
+        "message": "कुछ रुकावट है। कृपया पुन: प्रयास करें या व्यवस्थापक से संपर्क करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_COLLECT_PAYMENT",
+        "message": "भुगतान प्राप्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_PAYMENT_AMOUNT",
+        "message": "भुगतान की राशि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_PAYMENT_MODE",
+        "message": "भुगतान का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_PAYMENT_NO_OF_TRIPS",
+        "message": "फेरों की संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_PROPERTY_TYPE",
+        "message": "सम्पत्ती का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_DETAILS_TOTAL_AMOUNT",
+        "message": "कुल राशि (₹)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_FAILED",
+        "message": "भुगतान विफल हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PAYMENT_SUCCESSFUL_DESCRIPTION",
+        "message": "भुगतान पूरा करने के लिए धन्यवाद।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_PENDING",
+        "message": "रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_READY_FOR_DISPOSAL",
+        "message": "निबटारे के लिए तैयार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_RECEIPT_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_SEARCH_APPLICATION_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_SEARCH_APPLICATION_MOBILE_INVALID",
+        "message": "वैध मोबाइल नंबर प्रदान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_SEARCH_APPLICATION_MOBILE_NO",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_SEARCH_FROM_DATE",
+        "message": "दिनांक से की तिथि खोजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_SEARCH_TO_DATE",
+        "message": "दिनांक तक की तिथि खोजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TIMELINE_PENDING_FOR_DEMAND_GENERATION",
+        "message": "मांगें दाखिल करने के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITILE_SEARCH_APPLICATION",
+        "message": "आवेदन खोजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_APPLICANT_DETAILS",
+        "message": "आवेदक का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_APPLICATION_AUDIT",
+        "message": "आवेदन ऑडिट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_APPLICATION_DETAILS",
+        "message": "आवेदन का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_DASHBOARD",
+        "message": "डैशबोर्ड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_FAECAL_SLUDGE_MGMT",
+        "message": "मल प्रबंधन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_FSM",
+        "message": "एफ एस एम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_INBOX",
+        "message": "इनबॉक्स",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_MODIFY_DESULDGING_APPLICATION",
+        "message": "सेप्टिक टैंक / गड्ढा खली करने के आवेदन में बदलाव करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_NEW_DESULDGING_APPLICATION",
+        "message": "सेप्टिक टैंक / गड्ढे खाली करने का नया आवेदन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_PAYMENT_DETAILS",
+        "message": "भुगतान का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_REPORTS",
+        "message": "रिपोर्ट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_SEARCH_APPLICATION",
+        "message": "आवेदन खोजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_VEHICLE_LOG",
+        "message": "वाहन लॉग",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_USAGE",
+        "message": "प्रयोग",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_VEHICLE CAPACITY",
+        "message": "वाहन क्षमता (लीटर)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_VEHICLE_ASSIGNMENT_PENDING",
+        "message": "वाहन नियुक्ति रुकी हुई है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_VEHICLE_IN_TIME",
+        "message": "वाहन निकास समय ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_VEHICLE_OUT_TIME",
+        "message": "वाहन प्रवेश समय",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_VEHICLE_SEPTAGE_DUMPED",
+        "message": "सेप्टेज डंप (लीटर)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_VEHICLE_TRIP_NO ",
+        "message": "वाहन यात्रा संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_VEHICLE_WASTE_COLLECTED",
+        "message": "एकत्रित कूड़ा (लीटर)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_VEHICLE_WASTE_RECIEVED",
+        "message": "प्राप्त कूड़ा (लीटर)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_VIEW_APPLICATION",
+        "message": "आवेदन देखें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_WASTE_RECIEVED",
+        "message": "प्राप्त कूड़ा (लीटर)",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EYE_GEAR",
+        "message": "ऑय गियर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_ASSING_DSO_PAY",
+        "message": "प्रिय आवेदक, रिफरेन्स नंबर {RECEIPT_NO} के लिए सेप्टिक टैंक/गड्ढे की सफाई की राशि का {AMOUNT_TO_BE_PAID} रु का भुगतान प्राप्त हुआ। अनुरोध के लिए ऑपरेटर की नियुक्ति होने पर आपको सूचित किया जाएगा। कृपया रसीद डाउनलोड करने के लिए इस लिंक {RECEIPT_LINK} क्लिक करें। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_CANCELED_CANCEL",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई का निवेदन {FSM_CANCEL_REASON} के कारण रद्द कर दिया गया है। यदि आवश्यक हो तो नई शिकायत बनाने के लिए इस लिंक {NEW_FSM_LINK} का उपयोग करें। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_CITIZEN_FEEDBACK_PENDING_COMPLETED",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई का आपका अनुरोध पूरा हो गया है। कृपया कुछ समय निकाल कर इस लिंक {FSM_APPL_LINK} के जरिये हमें रेटिंग दें। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_CREATED_CREATE",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई के लिए आपका आवेदन, आवेदन नंबर {2} के साथ बनाया गया है। आपको शीघ्र ही एक आवेदन शुल्क भरने के लिए सूचित किया जाएगा। आपके अनुरोध का भुगतान करने के {SLA_HOURS} घंटे के भीतर पूरा होने कीअपेक्षा है। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_CREATED_CREATE_2",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई के लिए आपका आवेदन, आवेदन नंबर {2} के साथ बनाया गया है। आपको शीघ्र ही एक आवेदन शुल्क भरने के लिए सूचित किया जाएगा। आपके अनुरोध का भुगतान करने के {SLA_HOURS} घंटे के भीतर पूरा होने की अपेक्षा है। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_DSO_INPROGRESS_DSO_ACCEPT",
+        "message": "प्रिय आवेदक, आपके आवेदन नंबर {2} के संदर्भ में सेप्टिक टंकी / गड्ढे की सफाई के लिए वाहन {VEHICLE_REG_NO} दिनांक {POSSIBLE_SERVICE_DATE} पर आपके स्थान तक पहुँचेगा। आप +91{DSO_MOBILE_NUMBER} पर ऑपरेटर से संपर्क कर सकते हैं। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_DSO_REJECTED_DSO_REJECT",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई के लिए आपका अनुरोध {FSM_DSO_REJECT_REASON} कारण से खारिज कर दिया गया है। यदि आवश्यक हो तो एक नया अनुरोध बनाने के लिए इस लिंक {NEW_FSM_LINK} का उपयोग करें। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_FSTPO_TRIP_DECLINED",
+        "message": "प्रिय कर्मचारी, वाहन को FSTP में स्वीकार करने का अनुरोध {FSM_FSTP_REJECT_REASON} कारण से अस्वीकार कर दिया गया है। यदि आवश्यक हो तो एक नया अनुरोध बनाने के लिए कृपया इस लिंक {NEW_FSM_LINK} का उपयोग करें। शुक्रिया। सरकार ओडिशा के।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_PENDING_APPL_FEE_PAYMENT_APPLY",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई के लिए आपका आवेदन, आवेदन नंबर {2} के साथ बनाया गया है। आवेदन पर कार्यवाही के लिए कृपया इस लिंक{PAY_LINK} पर क्लिक करके आवेदन शुल्क का भुगतान करें। आपके अनुरोध का भुगतान करने के {SLA_HOURS} घंटे के भीतर पूरा होने की उम्मीद है। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_PENDING_APPL_FEE_PAYMENT_SUBMIT",
+        "message": "प्रिय आवेदक, कृपया अनुरोध संख्या {2} के साथ सेप्टिक टैंक/गड्ढे की सफाई के लिए आवेदन शुल्क रु.{AMOUNT_TO_BE_PAID}/- का भुगतान करें। भुगतान करने के लिए इस लिंक {PAY_LINK} पर क्लिक करें। भुगतान करने के {SLA_HOURS} घंटे के भीतर अनुरोध पूरा होने की उम्मीद है।\n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_SMS_REJECTED_REJECT",
+        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई के लिए आपका अनुरोध {FSM_DSO_REJECT_REASON} कारण से खारिज कर दिया गया है। यदि आवश्यक हो तो एक नया अनुरोध बनाने के लिए इस लिंक {NEW_FSM_LINK} का उपयोग करें। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_TIMELINE_LOCATION_DETAILS ",
+        "message": "स्थान/इलाके का  विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_TIMELINE_PROPERTY_DETAILS ",
+        "message": "संपत्ति का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_TIMELINE_SEPTIC_TANK_DETAILS ",
+        "message": "सेप्टिक टैंक विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_TIMELINE_SUMMARY ",
+        "message": "सारांश",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FSM_TRIP_CHARGES",
+        "message": "सेप्टिक टैंक/ गड्ढा खाली करवाने का शुल्क",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "G8 Receipt Date",
+        "message": "रसीद बनाने की तिथि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "G8 Receipt No.",
+        "message": "रसीद नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "HAND_GLOVES",
+        "message": "हाथ के दस्ताने",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC476_143001",
+        "message": "मेन रोड आबादपुरा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC476_SL0001",
+        "message": "काठगढ़ा जुआंग साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC476_SL0013",
+        "message": "के .के. साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC476_SL0014",
+        "message": "जी.जी. स्लम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC476_SL0015",
+        "message": "नॉर्थ बॉर्डर साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC477_SL0002",
+        "message": "काठगड़ा पर्बतिया साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC477_SL0016",
+        "message": "नई साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC477_SL0017",
+        "message": "पुरानी साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC477_SL0018",
+        "message": "ए.जे.एस. साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC478_143003",
+        "message": "प्रीत नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC478_SL0003",
+        "message": "गंगाधर साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC478_SL0019",
+        "message": "न्यू जिओज्योति साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC478_SL0020",
+        "message": "सेकंड क्रॉस साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC478_SL0021",
+        "message": "द्रोस नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC478_SL0022",
+        "message": "न्यू लाइफ साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC479_SL0004",
+        "message": "पांडव नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC479_SL0023",
+        "message": "पांडव चौराहा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC479_SL0024",
+        "message": "गांधी मंडप साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC479_SL0025",
+        "message": "के .के. नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC479_SL0026",
+        "message": "पोस्ट ऑफिस रोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC479_SL0027",
+        "message": "अमृतसर बाईपास सड़क",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC480_143005",
+        "message": "श्री गुरु रविदास नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC480_SL0005",
+        "message": "हरिदाखण्डी हरिजाना साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC480_SL0028",
+        "message": "गरीबी रेखा से नीचे कॉलोनी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC480_SL0029",
+        "message": "सीएमसी बाहर गेट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC480_SL0030",
+        "message": "शहरी झुग्गी विकास कॉलोनी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC481_SL0006",
+        "message": "हरिदाखण्डी कदलीबाड़ा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC482_SL0007",
+        "message": "हरिदाखण्डी बड़ा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC483_SL0008",
+        "message": "हरिदाखण्डी रेड़िका साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC484_SL0009",
+        "message": "गोलपाली साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC485_SL0010",
+        "message": "सूर्य नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC486_SL0011",
+        "message": "दंबा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "JLC487_SL0012",
+        "message": "राजू धोबा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MODULE_FSM_TRIP_CHARGES",
+        "message": "सेप्टिक टैंक / गड्ढा खाली करवाना है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_PAYMENT_CARD_HEAD",
+        "message": "कार्ड का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_PAYMENT_COLLECT",
+        "message": "भुगतान प्राप्त करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_PAYMENT_COLLECT_LABEL",
+        "message": "रसीद बनाएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_PAYMENT_MODE_HEAD",
+        "message": "भुगतान का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_PAYMENT_PAID_BY_HEAD",
+        "message": "भुगतान करने वाले का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOSE_MASK",
+        "message": "नाक का मास्क",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NUMBER_OF_TRIPS",
+        "message": "यात्राओं की संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NUMBER_OF_TRIPS ",
+        "message": "यात्राओं की संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ONLINE",
+        "message": "ऑनलाइन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_BANK_BRANCH_LABEL",
+        "message": "बैंक शाखा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_BANK_NAME_LABEL",
+        "message": "बैंक का नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CARD_HEAD",
+        "message": "कार्ड का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CARD_LAST_DIGITS_LABEL",
+        "message": "आखिरी 4 अक्षर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CHEQUE_DATE_LABEL",
+        "message": "चेक तिथि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CHEQUE_HEAD",
+        "message": "विवरण की जाँच करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CHQ_NO_LABEL",
+        "message": "चेक नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_COLLECT",
+        "message": "रसीद बनाएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_COLLECT_LABEL",
+        "message": "रसीद बनाएं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CS_BILLING_PERIOD",
+        "message": "बिलिंग अवधि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CS_BILL_NO",
+        "message": "बिल नहीं",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CS_BUTTON_LABEL",
+        "message": "भुगतान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CS_CONSUMER_NO",
+        "message": "उपभोक्ता संख्या",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CS_HEADER",
+        "message": "भुगतान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CS_SELECT_METHOD",
+        "message": "भुगतान का तरीका चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CS_TOTAL_AMOUNT_DUE",
+        "message": "कुल बकाया राशि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_CS_TOTAL_DUE_DATE",
+        "message": "नियत तारीख",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_IFSC_CODE_LABEL",
+        "message": "आई.एफ.एस.सी. कोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_MODE_HEAD",
+        "message": "भुगतान का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_PAID_BY_HEAD",
+        "message": "भुगतानकर्ता का विवरण",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_PAID_BY_LABEL",
+        "message": "भुगतान का जरिया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_PAYER_MOB_LABEL",
+        "message": "भुगतान करने वाले का मोबाइल नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_PAYER_NAME_LABEL",
+        "message": "भुगतान करने वाले नाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_RENTR_TRANS_LABEL",
+        "message": "ट्रांज़ैक्शन नंबर फिर से दर्ज करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAYMENT_TRANS_NO_LABEL",
+        "message": "ट्रांज़ैक्शन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAY_BUTTON_LABEL",
+        "message": "भुगतान करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAY_SELECT_METHOD",
+        "message": "भुगतान का तरीका चुनें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PAY_TOTAL_AMOUNT",
+        "message": "कुल राशि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_HEADER_DESLUDGING_REQUEST_ACKNOWLEDGEMENT",
+        "message": "सेप्टिक टैंक / गड्ढा खाली करवाने की पावती",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_COMMISSIONER_EO",
+        "message": "आयुक्त / ईओ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_CONSUMER_ID",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+        "message": "चेक / डिमांड ड्राफ्ट द्वारा प्राप्त भुगतान प्राप्ति के अधीन होगा।",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_SECOND_LINE",
+        "message": "यह दस्तावेज़ संपत्ति के स्वामित्व का सबूत नहीं है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_PAID_AMOUNT",
+        "message": "चुकाई गई राशि",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_PAYER_NAME",
+        "message": "भुगतान का ज़रिया",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_PAYMENT_DATE",
+        "message": "भुगतान की तारीख",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_FSM_RECEIPT_PAYMENT_MODE",
+        "message": "भुगतान का प्रकार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PDF_SYSTEM_GENERATED_ACKNOWLEDGEMENT",
+        "message": "नोट: यह एक कम्प्यूटर जनरेटेड स्वीकृति है इसमें हस्ताक्षर की आवश्यकता नहीं है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PENDING_APPL_FEE_PAYMENT",
+        "message": "भुगतान के लिए रुका हुआ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC476_SL0001",
+        "message": "काठगढ़ा जुआंग साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC476_SL0013",
+        "message": "के .के. साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC476_SL0014",
+        "message": "जी.जी. स्लम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC476_SL0015",
+        "message": "नॉर्थ बॉर्डर साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC477_SL0002",
+        "message": "काठगड़ा पर्बतिया साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC477_SL0016",
+        "message": "नई साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC477_SL0017",
+        "message": "पुरानी साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC477_SL0018",
+        "message": "ए.जे.एस. साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC478_SL0003",
+        "message": "गंगाधर साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC478_SL0019",
+        "message": "न्यू जिओज्योति साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC478_SL0020",
+        "message": "सेकंड क्रॉस साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC478_SL0021",
+        "message": "द्रोस नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC478_SL0022",
+        "message": "न्यू लाइफ साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC479_SL0004",
+        "message": "पांडव नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC479_SL0023",
+        "message": "पांडव चौराहा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC479_SL0024",
+        "message": "गांधी मंडप साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC479_SL0025",
+        "message": "के .के. नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC479_SL0026",
+        "message": "पोस्ट ऑफिस रोड",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC479_SL0027",
+        "message": "अमृतसर बाईपास सड़क",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC480_SL0005",
+        "message": "हरिदाखण्डी हरिजाना साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC480_SL0028",
+        "message": "गरीबी रेखा से नीचे कॉलोनी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC480_SL0029",
+        "message": "सीएमसी बाहर गेट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC480_SL0030",
+        "message": "शहरी झुग्गी विकास कॉलोनी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC481_SL0006",
+        "message": "हरिदाखण्डी कदलीबाड़ा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC482_SL0007",
+        "message": "हरिदाखण्डी बड़ा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC483_SL0008",
+        "message": "हरिदाखण्डी रेड़िका साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC484_SL0009",
+        "message": "गोलपाली साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC485_SL0010",
+        "message": "सूर्य नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC486_SL0011",
+        "message": "दाम्बा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PG_CITYA_JLC487_SL0012",
+        "message": "राजू धोबा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PITTYPE_MASTERS_CONVENTIONAL_SINGLE_PIT",
+        "message": "नहीं है",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PITTYPE_MASTERS_CONVENTIONAL_SPECTIC_TANK",
+        "message": "परम्परागत सेप्टिक टंकी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PITTYPE_MASTERS_SEPTIC_TANK_WITH_SOAK_PIT",
+        "message": "सोकपिट के साथ सेप्टिक टैंक",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTAX_BILLING_SLAB_BUILTUP",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTAX_BILLING_SLAB_BUILTUP.INDEPENDENTPROPERTY",
+        "message": "स्वतंत्र मकान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTAX_BILLING_SLAB_BUILTUP.SHAREDPROPERTY",
+        "message": "फ्लैट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTAX_BILLING_SLAB_VACANT",
+        "message": "रेजिडेंशियल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.ASSEMBLY",
+        "message": "सभा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.BANK",
+        "message": "बैंक",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.BUSINESS",
+        "message": "व्यापार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.COMMUNITY_HALL",
+        "message": "सामुदायिक भवन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.COMMUNITY_TOILETS",
+        "message": "सामुदायिक शौचालय",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.HOSTEL",
+        "message": "छात्रावास",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.HOTEL",
+        "message": "होटल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.MARKET",
+        "message": "मंडी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.PETROL_PUMPS",
+        "message": "पेट्रोल पंप",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.PRIVATE_OFFICE",
+        "message": "निजी कार्यालय",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.RECREATIONAL",
+        "message": "मनोरंजनात्मक",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.RESORT",
+        "message": "रिसोर्ट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.RESTAURANT",
+        "message": "रेस्टोरेंट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.SHOPPING_MALL",
+        "message": "शॉपिंग मॉल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.SPORTS_CENTER",
+        "message": "खेल-कूद केंद्र",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.THEME_PARK",
+        "message": "थीम पार्क",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_COMMERCIAL.WAREHOUSE",
+        "message": "गोदाम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL",
+        "message": "संस्थागत",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.ANGANWADI",
+        "message": "आंगनवाड़ी",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.CHURCH",
+        "message": "चर्च",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.COLLEGE",
+        "message": "कॉलेज",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.COMMUNITY_HEALTH_CENTER",
+        "message": "सामुदायिक स्वास्थ्य केंद्र",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.GURUDWARA",
+        "message": "गुरुद्वारा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.HOSPITAL",
+        "message": "अस्पताल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.JAIL",
+        "message": "जेल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.MONASTERY",
+        "message": "मठ",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.MOSQUE",
+        "message": "मस्जिद",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.NURSING_HOME",
+        "message": "नर्सिंग होम",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.POLICE_STATION",
+        "message": "पुलिस स्टेशन",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.SCHOOL",
+        "message": "स्कूल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.TEMPLE",
+        "message": "मंदिर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.TRAINING_INSTITUTES",
+        "message": "प्रशिक्षण संस्थान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_INSTITUTIONAL.UNIVERSITY",
+        "message": "विश्वविद्यालय",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL",
+        "message": "रेजिडेंशियल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.APARTMENT",
+        "message": "फ्लैट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.INDEPENDENTHOUSE",
+        "message": "स्वतंत्र मकान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.INDEPENDENT_HOUSE",
+        "message": "स्वतंत्र मकान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.ROWHOUSES",
+        "message": "पंक्तिबद्ध घर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTERS_RESIDENTIAL.ROW_HOUSES",
+        "message": "पंक्तिबद्ध घर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_COMMERCIAL",
+        "message": "व्यावसायिक",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_COMMERCIAL.ASSEMBLY",
+        "message": "सभा",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_COMMERCIAL.BUSINESS",
+        "message": "व्यापार",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_COMMERCIAL.RECREATIONAL",
+        "message": "मनोरंजनात्मक",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_RESIDENTIAL",
+        "message": "रेजिडेंशियल",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_RESIDENTIAL.APARTMENT",
+        "message": "फ्लैट",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_RESIDENTIAL.INDEPENDENTHOUSE",
+        "message": "स्वतंत्र मकान",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PROPERTYTYPE_MASTER_RESIDENTIAL.ROWHOUSES",
+        "message": "पंक्तिबद्ध घर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SAFETY_GEARS_USED",
+        "message": "सुरक्षा ऑपरेटर द्वारा इस्तेमाल किये गए गियर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SORT_BY",
+        "message": "इसके अनुसार क्रमबद्ध करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUB_DSS_FSM_BOTTOM_ULB_BY_PERFORMANCE",
+        "message": "कृपया 3 निम्न प्रदर्शन करने वाले यूएलबी के नीचे खोजें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN08_SL0012",
+        "message": "राजू धोबा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN18_SL0009",
+        "message": "गोलापाली साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN18_SL0010",
+        "message": "सूर्य नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN18_SL0011",
+        "message": "दाम्बा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN20_SL0001",
+        "message": "काठगढ़ा जुआंग साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN20_SL0002",
+        "message": "काठगड़ा पर्बतिया साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN35_SL0003",
+        "message": "गंगाधर साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN35_SL0004",
+        "message": "पांडव नगर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN35_SL0005",
+        "message": "हरिदाखण्डी हरिजाना साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN55_SL0006",
+        "message": "हरिदाखण्डी कदलीबाड़ा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN55_SL0007",
+        "message": "हरिदाखण्डी बड़ा साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SUN55_SL0008",
+        "message": "हरिदाखण्डी रेड़िका साही",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UPLOAD_PIT_PHOTO",
+        "message": "पिट फोटो अपलोड करें",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "localizationcode",
+        "message": "इनबॉक्स",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "pending",
+        "message": "आवेदक का मोबाइल नंबर",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "pg.cityc",
+        "message": "शहर स",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "sms.login.otp.msg",
+        "message": "प्रिय नागरिक, आपका लॉगिन ओटीपी %s है। \n\nEGOVS",
+        "module": "rainmaker-fsm",
+        "locale": "hi_IN"
+    }
+]

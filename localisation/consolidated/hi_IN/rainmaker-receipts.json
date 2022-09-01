@@ -1,0 +1,368 @@
+[
+    {
+        "code": "ACTION_TEST_RECEIPTCANCELLATION",
+        "message": "रसीद रद्द करें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CANCEL",
+        "message": "रद्द करें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CANCELLED",
+        "message": "रद्द किया गया",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CASH",
+        "message": "नकद",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_ADDITIONAL_PENALTY",
+        "message": "अतिरिक्त जुर्माना (INR में)",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_ADDITIONAL_PENALTY_PLACEHOLDER",
+        "message": "यदि जुर्माना लागू होता है तो जोड़ें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_APPLY_APPLICATION_NO",
+        "message": "आवेदन नंबर",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_APPLY_FORWARD_SUCCESS",
+        "message": "रसीद को रद्द करने से संबंधित सूचना पंजीकृत मालिक को भेज दी गयी है",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_APPLY_SUCCESS_MESSAGE_MAIN",
+        "message": "रसीद सफलतापूर्वक रद्द कर दी गयी है",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_CANCEL_RECEIPT_BUTTON",
+        "message": "रसीद रद्द करें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_CANCEL_STEP_BUTTON",
+        "message": "रद्द रसीद करें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_COMMON_HEADER_SEARCH",
+        "message": "रसीद रद्द की गयी",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_COMMON_TABLE_ACTION",
+        "message": "कार्यवाही",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_COMMON_TABLE_COL_DATE",
+        "message": "पर्ची की तारीख",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_COMMON_TABLE_COL_PAYEE_NAME",
+        "message": "उपभोक्ता का नाम",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_COMMON_TABLE_COL_RECEIPT_NO",
+        "message": "रसीद नंबर",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_COMMON_TABLE_COL_STATUS",
+        "message": "स्थिति",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_COMMON_TABLE_CONSUMERCODE",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_CONSUMER_NO_LABEL",
+        "message": "उपभोक्ता नंबर",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_ENTER_CONSUMER_NO_PLACEHOLDER",
+        "message": "उपभोक्ता नंबर दर्ज करें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_ENTER_RECEPIT_NO_PLACEHOLDER",
+        "message": "रसीद नंबर दर्ज करें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_HOME",
+        "message": "होम",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_MOBILE_NO_LABEL",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_MOBILE_NO_PLACEHOLDER",
+        "message": "मोबाइल नंबर दर्ज करें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_MORE_DETAILS_LABEL",
+        "message": "अधिक जानकारी",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_NEXT_STEP_BUTTON",
+        "message": "अगला स्टेप",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_PREV_STEP_BUTTON",
+        "message": "पिछला स्टेप",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_REASON_CHEQUEBOUNCE",
+        "message": "चेक बाउंस",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_REASON_ERRORRECEIPT",
+        "message": "रसीद में त्रुटि",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_REASON_OTHER",
+        "message": "अन्य",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_AMOUNT",
+        "message": "चुकाई हुई राशि",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_BILL_PERIOD",
+        "message": "बिलिंग अवधि",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_CANCELLATION_REASON_LABEL",
+        "message": "रसीद रद्द करने का कारण",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_CONSUMER_NUMBER",
+        "message": "उपभोक्ता कोड",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_DETAILS_NUMBER",
+        "message": "रसीद नंबर",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_G8_RECEIPT_DATE",
+        "message": "जी -8 रसीद की तारीख",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_G8_RECEIPT_NO",
+        "message": "जी-8 रसीद नंबर",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_NUMBER",
+        "message": "रसीद नंबर",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_PAYER_NAME",
+        "message": "भुगतानकर्ता का नाम",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_PAYER_NUMBER",
+        "message": "भुगतानकर्ता का संपर्क",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_PAYMENT_DATE",
+        "message": "भुगतान तिथि",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_PAYMENT_MODE",
+        "message": "भुगतान का प्रकार",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_PENDING_AMOUNT",
+        "message": "बकाया राशि",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_SERVICE_TYPE",
+        "message": "सेवा का प्रकार",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_SUMMARY",
+        "message": "रसीद का विवरण",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEIPT_TXN_ID",
+        "message": "ट्रांज़ैक्शन आईडी",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RECEPIT_NO_LABEL",
+        "message": "रसीद नंबर",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_RESET_BUTTON",
+        "message": "रीसेट",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_SEARCH_BUTTON",
+        "message": "खोज",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_SEARCH_COMMON_HEADER",
+        "message": "रसीद खोजें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_SEARCH_COMMON_SUB_HEADER",
+        "message": "रसीद खोजने के लिए कोई एक गैर अनिवार्य पैरामीटर दर्ज करें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_SEARCH_SELECT_AT_LEAST_ONE_TOAST_MESSAGE",
+        "message": "कृपया रसीद खोजने के लिए कोई भी एक गैर अनिवार्य पैरामीटर भरें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_SELECT_MORE_DETAILS_LABEL",
+        "message": "रसीद रद्द करने की जानकारी दें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_SELECT_RECEIPT_CANCELLATION_REASON_LABEL",
+        "message": "रसीद रद्द करने का कारण चुनें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_SERVICE_CATEGORY_LABEL",
+        "message": "सेवा श्रेणी",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_SERVICE_CATEGORY_PLACEHOLDER",
+        "message": "सेवा प्रकार चुनें",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CR_SERVICE_TYPE_LABEL",
+        "message": "सेवा का प्रकार",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DEPOSITED",
+        "message": "जमा किया गया",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NA",
+        "message": "NA",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NEW",
+        "message": "नया",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "RECEIPT_WORKFLOW_INVALID_RECEIPT",
+        "message": "भुगतान सिस्टम में नहीं मिला",
+        "module": "rainmaker-receipts",
+        "locale": "hi_IN"
+    }
+]

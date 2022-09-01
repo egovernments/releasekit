@@ -1,0 +1,8 @@
+[
+    {
+        "code": "PG_NOTIFICATION_FAILURE",
+        "message": "Dear Citizen,\nYour payment of INR {amount} for {consumerCode} was not completed due to {Payment failure reason}. Transaction id for this payment is {txnId}\nClick on the link below to try again {payment link}\nThank You",
+        "module": "egov-pg",
+        "locale": "en_IN"
+    }
+]
