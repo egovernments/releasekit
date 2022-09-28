@@ -2899,7 +2899,7 @@
     },
     {
         "code": "FSM_SMS_CANCELED_CANCEL",
-        "message": "Dear Applicant, Your request for cleaning the septic tank/pit is cancelled with the reason <FSM_CANCEL_REASON> . Please use this link <NEW_FSM_LINK> to create a new request if needed.",
+        "message": "Dear Applicant, Your request for cleaning the septic tank/pit is cancelled with the reason {FSM_CANCEL_REASON} . Please use this link {NEW_FSM_LINK} to create a new request if needed.\n\nEGOVS",
         "module": "rainmaker-fsm",
         "locale": "en_IN"
     },

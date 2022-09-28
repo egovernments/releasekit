@@ -61,61 +61,61 @@
     },
     {
         "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
-        "message": "Dear <Owner Name>, Your New <Service> connection against the application <Application number> has been activated. To check your connection details, please log in to <mseva URL> or download <mseva app link>\n\nEGOVS",
+        "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been activated. To check your connection details, please log in to {mseva URL} or download {mseva app link} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
-        "message": "Dear <Owner Name>, Your New <Service> connection against the application <Application number> has been activated. To check your connection details, please log in to <mseva URL> or download <mseva app link>\n\nEGOVS",
+        "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been activated. To check your connection details, please log in to {mseva URL} or download {mseva app link} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
-        "message": "Dear <Owner Name>, Your New <Service> connection against the application <Application number> has been approved. To make payment against your application, please click on <payment link> . Log in to <mseva URL> or download <mseva app link> for more details.\n\nEGOVS",
+        "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been approved. To make payment against your application, please click on {payment link} . Log in to {mseva URL} or download {mseva app link} for more details. \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
-        "message": "Dear <Owner Name>, Your New <Service> connection against the application <Application number> has been approved. To make payment against your application, please click on <payment link> . Log in to <mseva URL> or download <mseva app link> for more details.\n\nEGOVS",
+        "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been approved. To make payment against your application, please click on {payment link} . Log in to {mseva URL} or download {mseva app link} for more details. \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
-        "message": "Dear <Owner Name> , Your payment for New <Service> connection against the application <Application number> has been been succesfully recorded. Download your receipt using this link <receipt download link>. Your connection will be activated within <SLA> days.<Plumber Info> Concerned plumber alloted to you is <Plumber name>, Licence No. <Plumber Licence No.>, Contact No. <Plumber Mobile No.>.</Plumber Info>For more details, please log in to <mseva URL> or download <mseva app link>.\n\nEGOVS",
+        "message": "Dear {Owner Name} , Your payment for New {Service} connection against the application {Application number} has been been succesfully recorded. Download your receipt using this link {receipt download link}. Your connection will be activated within {SLA} days. For more details, please log in to {mseva URL} or download {mseva app link} .\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
-        "message": "Dear <Owner Name> , Your payment for New <Service> connection against the application <Application number> has been been succesfully recorded. Download your receipt using this link <receipt download link>. Your connection will be activated within <SLA> days.<Plumber Info> Concerned plumber alloted to you is <Plumber name>, Licence No. <Plumber Licence No.>, Contact No. <Plumber Mobile No.>.</Plumber Info>For more details, please log in to <mseva URL> or download <mseva app link>.\n\nEGOVS",
+        "message": "Dear {Owner Name} , Your payment for New {Service} connection against the application {Application number} has been been succesfully recorded. Download your receipt using this link {receipt download link}. Your connection will be activated within {SLA} days. For more details, please log in to {mseva URL} or download {mseva app link} .\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been rejected. For more details, please log in to <mseva URL> or download <mseva app link>.\n\nEGOVS",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. For more details, please log in to {mseva URL} or download {mseva app link} . \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "Dear <Owner Name>, Your Application <Application number>  for a New <Service> Connection has been rejected. For more details, please log in to <mseva URL> or download <mseva app link>.\n\nEGOVS",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. For more details, please log in to {mseva URL} or download {mseva app link} . \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_PAYMENT_NOTIFICATION_SMS",
-        "message": "Dear <Owner Name>, Your payment of <Amount paid> toward <Service>  Bill for <Billing Period> has been received. Following is the link to your receipt: <receipt download link>\n\nEGOVS",
+        "message": "Dear Consumer,Your payment of {Amount paid} towards {Service} Bill for {Billing Period} has been received. Following is the link to your receipt: {receipt download link} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_PAYMENT_NOTIFICATION_SMS",
-        "message": "Dear <Owner Name>, Your payment of <Amount paid> toward <Service>  Bill for <Billing Period> has been received. Following is the link to your receipt: <receipt download link>\n\nEGOVS",
+        "message": "Dear Consumer,Your payment of {Amount paid} towards {Service} Bill for {Billing Period} has been received. Following is the link to your receipt: {receipt download link} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     }

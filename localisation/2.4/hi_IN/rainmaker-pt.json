@@ -6409,31 +6409,31 @@
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_FAIL",
-        "message": "प्रिय नागरिक, संपत्ति कर आईडी <insert ID> के लिए आपका <insert amount to pay> रुपये का भुगतान विफल हुआ।आपका मूल्यांकन लंबित है। कृपया पुन: प्रयास करें। यदि आपने भुगतान कर दिया है, तो इस संदेश को अनदेखा करें। आप अपने संपत्ति कर का भुगतान यहाँ ऑनलाइन कर सकते हैं - <payLink>",
+        "message": "प्रिय नागरिक, आपका भुगतान रु. संपत्ति कर विशिष्ट आईडी {insert ID} के लिए {insert amount to pay} विफल हो गया है। आपका मूल्यांकन लंबित है। कृपया फिर से कोशिश करें। यदि आपने अपना भुगतान पूरा कर लिया है तो इस संदेश पर ध्यान न दें। आप अपने संपत्ति कर का भुगतान यहां ऑनलाइन कर सकते हैं - {payLink} \n\nEGovS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_OFFILE",
-        "message": "प्रिय नागरिक, आपका संपत्ति कर का <amount> रुपये का भुगतान प्राप्त हुआ। भुगतान का मोड: <insert mode of mayment>बकाया राशि : <Enter pending amount>। भुगतान रसीद डाउनलोड करने के लिए लिंक पर क्लिक करें <receipt download link>",
+        "message": "प्रिय नागरिक, आपका संपत्ति कर भुगतान रु. {amount} स्वीकार कर ली गई है। भुगतान का प्रकार: {insert mode of payment} पेंडिंग अमाउंट: {Enter pending amount}। भुगतान रसीद डाउनलोड करने के लिए लिंक पर क्लिक करें {receipt download link} \n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_ONLINE",
-        "message": "प्रिय नागरिक, ट्रांज़ैक्शन आईडी <insert payment transaction id from PG> से आपका <insert amount paid> रुपये का भुगतान प्राप्त हुआ। संपत्ति कर विशिष्ट आईडी  <  insert payment transaction id from PG> का मूल्यांकन सफलतापूर्वक पूर्ण हुआ। बकाया संपत्ति कर: <pt due> है।  भुगतान रसीद डाउनलोड करने के लिए लिंक पर क्लिक करें <receipt download link>",
+        "message": "प्रिय नागरिक, भुगतान लेनदेन आईडी {insert amount paid} के साथ आपका रु.{insert payment transaction id from PG} का भुगतान सफलतापूर्वक कर दिया गया है। संपत्ति कर का आकलन यूनिक आईडी {insert Property Tax Assessment ID} सफल रहा। संपत्ति कर देय रु.{pt due} है। भुगतान रसीद डाउनलोड करने के लिए लिंक पर क्लिक करें {receipt download link} \n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_OFFLINE",
-        "message": "प्रिय नागरिक, आपका संपत्ति कर का <amount> रुपये का भुगतान प्राप्त हुआ। भुगतान का मोड: <insert mode of payment>बकाया राशि : <Enter pending amount>। आप अपने संपत्ति कर का भुगतान यहाँ ऑनलाइन कर सकते हैं - <payLink>। भुगतान रसीद डाउनलोड करने के लिए लिंक पर क्लिक करें <receipt download link>",
+        "message": "प्रिय नागरिक, आपका संपत्ति कर भुगतान रु. {amount} स्वीकार कर ली गई है। भुगतान का प्रकार: {insert mode of payment} पेंडिंग अमाउंट: {Enter pending amount}। आप अपने संपत्ति कर का भुगतान यहां ऑनलाइन कर सकते हैं - {payLink} भुगतान रसीद डाउनलोड करने के लिए लिंक पर क्लिक करें {receipt download link} \n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_ONLINE",
-        "message": "प्रिय नागरिक, ट्रांज़ैक्शन आईडी <Insert payment transaction id from PG> से आपका <insert amount paid> रुपये का भुगतान प्राप्त हुआ। संपत्ति कर विशिष्ट आईडी  <insert Property Tax Assessment ID> का मूल्यांकन सफलतापूर्वक पूर्ण हुआ। बकाया संपत्ति कर: <pt due > है। आप अपने संपत्ति कर का भुगतान यहाँ ऑनलाइन कर सकते हैं - <payLink>। भुगतान रसीद डाउनलोड करने के लिए लिंक पर क्लिक करें <receipt download link>",
+        "message": "प्रिय नागरिक, भुगतान लेनदेन आईडी {insert amount paid} के साथ आपका रु.{insert payment transaction id from PG} का भुगतान सफलतापूर्वक कर दिया गया है। संपत्ति कर का आकलन यूनिक आईडी {insert Property Tax Assessment ID} सफल रहा। संपत्ति कर देय रु.{pt due} है। आप अपने संपत्ति कर का भुगतान यहां ऑनलाइन कर सकते हैं - {payLink} भुगतान रसीद डाउनलोड करने के लिए लिंक पर क्लिक करें {receipt download link} \n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
@@ -6457,31 +6457,31 @@
     },
     {
         "code": "PT_NOTIF_WF_MT_OPEN",
-        "message": "प्रिय {OWNER_NAME}, संपत्ति आईडी {PROPERTYID } के लिए स्वामित्व हस्तांतरण का आवेदन सफलतापूर्वक जमा कर दिया गया है। भविष्य में सन्दर्भ के लिए आपका आवेदन नंबर <APPID> है। आप अपना आवेदन निम्न लिंक पर ट्रैक कर सकते हैं <MTURL>। धन्यवाद!",
+        "message": "प्रिय {OWNER_NAME}, संपत्ति आईडी {PROPERTYID} के स्वामित्व विवरण को संपादित करने के लिए आपका आवेदन सफलतापूर्वक सबमिट कर दिया गया है। आपका आवेदन सं. भविष्य के संदर्भ के लिए {APPID} है। आप नीचे दिए गए लिंक पर अपने आवेदन को ट्रैक कर सकते हैं - {MTURL} धन्यवाद \n\nEGovS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
     {
         "code": "PT_NOTIF_WF_MT_PAID",
-        "message": "प्रिय {OWNER_NAME}, संपत्ति आईडी {PROPERTYID} के आवेदन नंबर {APPID} के लिए आपका नामांतरण भुगतान सफलतापूर्वक प्राप्त हुआ। आप अपनी रसीद निम्न लिंक पर डाउनलोड कर सकते हैं <MTURL> धन्यवाद!!",
+        "message": "प्रिय {OWNER_NAME}, आपने आवेदन संख्या के लिए नामांतरण शुल्क - INR {AMOUNT} का सफलतापूर्वक भुगतान कर दिया है। {APPID} प्रॉपर्टी आईडी {PROPERTYID} के लिए। आप नीचे दिए गए लिंक पर अपनी रसीद डाउनलोड कर सकते हैं - {MTURL} धन्यवाद \n\nEGovS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
     {
         "code": "PT_NOTIF_WF_MT_PAYMENT_PENDING",
-        "message": "प्रिय {OWNER_NAME}, संपत्ति आईडी {PROPERTYID} के आवेदन नंबर {APPID} के लिए आपका स्वामित्व हस्तांतरण का भुगतान बकाया है। आप अपने नामांतरण शुल्क का भुगतान निम्न लिंक पर कर सकते हैं <PAYLINK> या फिर अपने निकाय पर जाकर देय राशि का भुगतान कर सकते हैं।  धन्यवाद!!",
+        "message": "प्रिय {OWNER_NAME}, आपके आवेदन क्रमांक के लिए भुगतान लंबित है। स्वामित्व संपादित करने के लिए संपत्ति आईडी {PROPERTYID} के लिए {APPID}। आप नीचे दिए गए लिंक - {PAYLINK} पर अपने म्यूटेशन शुल्क का भुगतान कर सकते हैं या अपने बकाया का भुगतान करने के लिए अपने यूएलबी पर जा सकते हैं। धन्यवाद\n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
     {
         "code": "PT_NOTIF_WF_MT_STATE_CHANGE",
-        "message": "प्रिय {OWNER_NAME}, संपत्ति आईडी {PROPERTYID} के आवेदन नंबर {APPID} के लिए आपके स्वामित्व हस्तांतरण की स्तिथि बदल कर {STATUS} हो गयी है । आप अपना आवेदन निम्न लिंक पर ट्रैक कर सकते हैं <MTURL>। धन्यवाद!",
+        "message": "प्रिय {OWNER_NAME}, आपके आवेदन की स्थिति सं. स्वामित्व संपादित करने के लिए {PROPERTYID} संपत्ति के लिए {APPID} को {STATUS} में बदल दिया गया है। आप नीचे दिए गए लिंक पर अपने आवेदन को ट्रैक कर सकते हैं - {MTURL} धन्यवाद\n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
     {
         "code": "PT_NOTIF_WF_OPEN",
-        "message": "प्रिय {OWNER_NAME}, संपत्ति आईडी {PROPERTYID} के लिए संपत्ति {updated/created} का आपका आवेदन सफलतापूर्वक जमा कर दिया गया है।  भविष्य में सन्दर्भ के लिए आपका आवेदन नंबर <APPID> है।  आप अपना आवेदन निम्न लिंक पर ट्रैक कर सकते हैं <PTURL>। धन्यवाद!",
+        "message": "प्रिय {OWNER_NAME}, {PROPERTYID} आईडी वाली {updated/created} प्रॉपर्टी के लिए आपका आवेदन सफलतापूर्वक सबमिट कर दिया गया है। आपका आवेदन सं. भविष्य के संदर्भ के लिए {APPID} है। आप नीचे दिए गए लिंक पर अपने आवेदन को ट्रैक कर सकते हैं - {PTURL} धन्यवाद \n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
@@ -6511,13 +6511,13 @@
     },
     {
         "code": "PT_NOTIF_WF_STATUS_CHANGE",
-        "message": "प्रिय {मालिक का नाम}, संपत्ति आईडी {संपत्ति आईडी} के आवेदन नंबर {आवेदन नंबर} के लिए आपके संपत्ति {निर्माण / अपडेट} की स्तिथि बदल कर {स्तिथि} हो गयी है । आप अपना आवेदन निम्न लिंक पर ट्रैक कर सकते हैं <लिंक>। धन्यवाद!",
+        "message": "प्रिय {OWNER_NAME}, आपके आवेदन की स्थिति सं. {APPID} प्रॉपर्टी के लिए {PROPERTYID} से {updated/created} प्रॉपर्टी को {STATUS} में बदल दिया गया है। आप नीचे दिए गए लिंक पर अपने आवेदन को ट्रैक कर सकते हैं - {PTURL} धन्यवाद \n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },
     {
         "code": "PT_NOTIF_WF_UPDATE_NONE",
-        "message": "प्रिय {मालिक का नाम}, संपत्ति आईडी {संपत्ति आईडी} के लिए आपकी संपत्ति {निर्मित / अपडेट} कर दी गयी है। आप अपनी संपत्ति निम्न लिंक पर देख सकते हैं <लिंक>। धन्यवाद!",
+        "message": "प्रिय {OWNER_NAME}, प्रॉपर्टी-आईडी {PROPERTYID} वाली आपकी प्रॉपर्टी को {अपडेट/बनाया} कर दिया गया है। आप नीचे दिए गए लिंक पर अपनी संपत्ति देख सकते हैं - {PTURL} धन्यवाद \n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "hi_IN"
     },

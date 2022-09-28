@@ -289,37 +289,37 @@
     },
     {
         "code": "tl.en.pending.approval",
-        "message": "Dear <1>, Your Trade License Application for <2> is forwarded for approval. Thank You\n\nEGOVS",
+        "message": "Dear {1}, Your Trade License Application for {2} is forwarded for approval. Thank You\n\nEGOVS",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
     {
         "code": "tl.en.field.inspection",
-        "message": "Dear <1>, Your Trade License Application for <2> is sent for field verification. You may be contacted by the Field Inspector for further verification. Thank You\n\nEGOVS",
+        "message": "Dear {1}, Your Trade License Application for {2} is sent for field verification. You may be contacted by the Field Inspector for further verification. Thank You.\n\nEGOVS",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
     {
         "code": "tl.en.counter.initiate",
-        "message": "Dear <1>, Your Trade License application number for <2> has been generated. Your application no. is <3> You can use this application number to know your application status. Thank You\n\nEGOVS",
+        "message": "Dear {1},  Your Trade License application number for {2} has been generated. Your application no. is {3} You can use this application number to know your application status.  Thank You\n\nEGOVS",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
     {
         "code": "tl.en.counter.payment.successful.owner",
-        "message": "Dear <1>, Thank You for making payment of <2> against your Trade license application for <3>. Your receipt no. is <4>. Thank You\n\nEGOVS",
+        "message": "Dear {1}, A Payment of {2} has been collected successfully. Your receipt no. is {4}. Thank You\n\nEGOVS",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
     {
         "code": "tl.en.counter.payment.successful.payer",
-        "message": "Dear <1>, Thank You for making payment of <2> against your Trade license application for <3>. Your receipt no. is <4>. Thank You\n\nEGOVS",
+        "message": "Dear {1}, A Payment of {2} has been collected successfully. Your receipt no. is {4}. Thank You\n\nEGOVS",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
     {
         "code": "tl.en.counter.submit",
-        "message": "Dear <1>, Thank you for submitting your trade license application for <2> with application number <3>. Your application is sent for Document verification.\n\nEGOVS",
+        "message": "Dear {1},  Thank you for submitting your trade license application for {2} with application number  {3}. Your application is sent for Document verification.\n\nEGOVS",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     }

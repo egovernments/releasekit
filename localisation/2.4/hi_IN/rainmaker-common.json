@@ -7788,60 +7788,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "FSM_SMS_ASSING_DSO_PAY",
-        "message": "प्रिय आवेदक, रिफरेन्स नंबर <रसीद_नंबर> के लिए सेप्टिक टैंक/गड्ढे की सफाई की राशि का रु <Amount to be paid> का भुगतान प्राप्त हुआ। अनुरोध के लिए ऑपरेटर की नियुक्ति होने पर आपको सूचित किया जाएगा। कृपया रसीद डाउनलोड करने के लिए इस लिंक <link> क्लिक करें।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "FSM_SMS_CANCELED_CANCEL",
-        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई का निवेदन <FSM_CANCEL_REASON> के कारण रद्द कर दिया गया है। यदि आवश्यक हो तो नई शिकायत बनाने के लिए इस लिंक <NEW_FSM_LINK> का उपयोग करें।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "FSM_SMS_CITIZEN_FEEDBACK_PENDING_COMPLETED",
-        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई का आपका अनुरोध पूरा हो गया है। कृपया कुछ समय निकाल कर इस लिंक <FSM_APPL_LINK> के जरिये हमें रेटिंग दें।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "FSM_SMS_CREATED_CREATE",
-        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई के लिए आपका आवेदन, आवेदन नंबर <2> के साथ बनाया गया है। आपको शीघ्र ही एक आवेदन शुल्क भरने के लिए सूचित किया जाएगा। आपके अनुरोध का भुगतान करने के <SLA_HOURS> घंटे के भीतर पूरा होने की उम्मीद है।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "FSM_SMS_DSO_INPROGRESS_DSO_ACCEPT",
-        "message": "प्रिय आवेदक, आपके आवेदन नंबर <2> के संदर्भ में सेप्टिक टंकी / गड्ढे की सफाई के लिए वाहन <VEHICLE_REG_NO> दिनांक <POSSIBLE_SERVICE_DATE> पर आपके स्थान तक पहुँचेगा। आप +91<DSO_MOBILE_NUMBER> पर ऑपरेटर से संपर्क कर सकते हैं।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "FSM_SMS_DSO_REJECTED_DSO_REJECT",
-        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई के लिए आपका अनुरोध <FSM_DSO_REJECT_REASON> कारण से खारिज कर दिया है। यदि आवश्यक हो तो एक नया अनुरोध बनाने के लिए इस लिंक <NEW_FSM_LINK> का उपयोग करें।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "FSM_SMS_PENDING_APPL_FEE_PAYMENT_APPLY",
-        "message": "प्रिय आवेदक, सेप्टिक टैंक / गड्ढे की सफाई के लिए आपका आवेदन, आवेदन नंबर <2> के साथ बनाया गया है। आवेदन पर कार्यवाही के लिए कृपया इस लिंक<PAY_LINK> पर क्लिक करके आवेदन शुल्क का भुगतान करें। आपके अनुरोध का भुगतान करने के <SLA_HOURS> घंटे के भीतर पूरा होने की उम्मीद है।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "FSM_SMS_PENDING_APPL_FEE_PAYMENT_SUBMIT",
-        "message": "प्रिय आवेदक, आवेदन नंबर <2> के लिए सेप्टिक टैंक / गड्ढे की सफाई के लिए कृपया आवेदन शुल्क रु <AMOUNT_TO_BE_PAID> भुगतान करें। भुगतान करने के लिए इस लिंक<PAY_LINK> पर क्लिक करें। आपके अनुरोध का भुगतान करने के <SLA_HOURS> घंटे के भीतर पूरा होने की उम्मीद है।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "FSM_SMS_REJECTED_REJECT",
-        "message": "प्रिय आवेदक, सेप्टिक टैंक/ गड्ढे की सफाई के लिए आपका अनुरोध <FSM_DSO_REJECT_REASON> कारण से खारिज कर दिया गया है। यदि आवश्यक हो तो एक नया अनुरोध बनाने के लिए इस लिंक <NEW_FSM_LINK> का उपयोग करें।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "GO_TO_HOME",
         "message": "होम",
         "module": "rainmaker-common",
