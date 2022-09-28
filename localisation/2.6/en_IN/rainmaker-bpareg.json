@@ -25,7 +25,7 @@
     },
     {
         "code": "bpa.en.counter.approved.email",
-        "message": "<h2>Mail subject - OBPS {TRADE_TYPE} registration _Approved</h2><p>Dear {STAKEHOLDER_NAME}, <br>Your {TRADE_TYPE} registration with application reference number {APPLICATION_NUMBER} is approved. You are now a licensed {TRADE_TYPE}. You can login to the portal URL using your registered mobile number {MOBILE_NUMBER} to do eDCR scrutiny and apply for building permit. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {ULB}</p>",
+        "message": "{h2}Mail subject - OBPS {TRADE_TYPE} registration _Approved{/h2}{p}Dear {STAKEHOLDER_NAME}, {br}Your {TRADE_TYPE} registration with application reference number {APPLICATION_NUMBER} is approved. You are now a licensed {TRADE_TYPE}. You can login to the portal URL using your registered mobile number {MOBILE_NUMBER} to do eDCR scrutiny and apply for building permit. {br} Portal URL - {PORTAL_LINK} {br} Thanks & Regards {br} CCC {br} {ULB}{/p}",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -37,7 +37,7 @@
     },
     {
         "code": "bpa.en.counter.initiated.email",
-        "message": "<h2>Mail subject - OBPS {TRADE_TYPE} registration _Initiated</h2><p>Dear {STAKEHOLDER_NAME}, <br>Your application for {TRADE_TYPE} registration is created with application number {APPLICATION_NUMBER}.You can login to the portal using your registered mobile number {MOBILE_NUMBER} to check the status of the application.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {ULB}</p>",
+        "message": "{h2}Mail subject - OBPS {TRADE_TYPE} registration _Initiated{/h2}{p}Dear {STAKEHOLDER_NAME}, {br}Your application for {TRADE_TYPE} registration is created with application number {APPLICATION_NUMBER}.You can login to the portal using your registered mobile number {MOBILE_NUMBER} to check the status of the application.{br} Portal URL - {PORTAL_LINK} {br} Thanks & Regards {br} CCC {br} {ULB}{/p}",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -49,7 +49,7 @@
     },
     {
         "code": "bpa.en.counter.pendingapproval.email",
-        "message": "<h2>Mail subject - OBPS {TRADE_TYPE} registration _Under scrutiny</h2><p>Dear {STAKEHOLDER_NAME}, <br>Document verification is completed for your {TRADE_TYPE} registration application {APPLICATION_NUMBER}.The application is under scrutiny and you will be notified for further updates. You can also check the current status of the application by logging in to the portal and navigating to my applications page.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {ULB}</p>",
+        "message": "{h2}Mail subject -  OBPS {TRADE_TYPE} registration _Under scrutiny{/h2}{p}Dear {STAKEHOLDER_NAME}, {br}Document verification is completed for your {TRADE_TYPE} registration application {APPLICATION_NUMBER}.The application is under scrutiny and you will be notified for further updates. You can also check the current status of the application by logging in to the portal and navigating to my applications page.{br} Portal URL - {PORTAL_LINK} {br} Thanks & Regards {br} CCC {br} {ULB}{/p}",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -61,7 +61,7 @@
     },
     {
         "code": "bpa.en.counter.pendingdocverification.email",
-        "message": "<h2>Mail subject - OBPS {TRADE_TYPE} registration _Pending Document verification</h2><p>Dear {STAKEHOLDER_NAME}, <br>Application fee is received for your {TRADE_TYPE} registration application {APPLICATION_NUMBER} and will be processed for Document verification shortly.You can also check the current status of the application by logging in to the portal and navigating to my applications page.<br> Portal URL - {PORTAL_LINK} <br> {RECEIPT_DOWNLOAD_LINK} <br> Thanks & Regards <br> CCC <br> {ULB}</p>",
+        "message": "{h2}Mail subject - OBPS {TRADE_TYPE} registration _Pending Document verification{/h2}{p}Dear {STAKEHOLDER_NAME}, {br}Application fee is received for your {TRADE_TYPE} registration application {APPLICATION_NUMBER} and will be processed for Document verification shortly.You can also check the current status of the application by logging in to the portal and navigating to my applications page.{br} Portal URL - {PORTAL_LINK} {br} {RECEIPT_DOWNLOAD_LINK} {br} Thanks & Regards {br} CCC {br} {ULB}{/p}",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -73,7 +73,7 @@
     },
     {
         "code": "bpa.en.counter.pendingpayment.email",
-        "message": "<h2>Mail subject - OBPS {TRADE_TYPE} registration _Pending fee payment</h2><p>Dear {STAKEHOLDER_NAME}, <br>Your application for {TRADE_TYPE} registration is created with application number {APPLICATION_NUMBER}.Application fee has to be paid to process this application further. Click here URL to pay Rs.{AMOUNT_TO_BE_PAID}/- or You can login to the portal to pay the application fee.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {ULB}</p>",
+        "message": "{h2}Mail subject - OBPS {TRADE_TYPE} registration _Pending fee payment{/h2}{p}Dear {STAKEHOLDER_NAME}, {br}Your application for {TRADE_TYPE} registration is created with application number {APPLICATION_NUMBER}.Application fee has to be paid to process this application further. Click here URL to pay Rs.{AMOUNT_TO_BE_PAID}/- or You can login to the portal to pay the application fee.{br} Portal URL - {PORTAL_LINK} {br} Thanks & Regards {br} CCC {br} {ULB}{/p}",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     },
@@ -85,7 +85,7 @@
     },
     {
         "code": "bpa.en.counter.rejected.email",
-        "message": "<h2>Mail subject - OBPS {TRADE_TYPE} registration _Rejected</h2><p>Dear {STAKEHOLDER_NAME}, <br>Your Application for {TRADE_TYPE} registration {APPLICATION_NUMBER} is rejected. You can login to the portal and check the reason for rejection.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {ULB}</p>",
+        "message": "{h2}Mail subject -  OBPS {TRADE_TYPE} registration _Rejected{/h2}{p}Dear {STAKEHOLDER_NAME}, {br}Your Application for {TRADE_TYPE} registration {APPLICATION_NUMBER} is rejected. You can login to the portal and check the reason for rejection.{br} Portal URL - {PORTAL_LINK} {br} Thanks & Regards {br} CCC {br} {ULB}{/p}",
         "module": "rainmaker-bpareg",
         "locale": "en_IN"
     }

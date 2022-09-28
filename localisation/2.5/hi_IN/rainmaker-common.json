@@ -18,12 +18,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "ES_INBOX_SLA_DAYS_REMAINING",
-        "message": "inbox",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "ES_INBOX_ASSIGNED_TO_ME",
         "message": "मुझे सौंपा",
         "module": "rainmaker-common",
@@ -170,12 +164,6 @@
     {
         "code": "PT_PROPERTY_MUTATION",
         "message": "संपत्ति स्वामित्व / उत्परिवर्तन स्थानांतरित करें",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "UC_SEARCH_AND_PAY",
-        "message": "",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -498,68 +486,8 @@
         "locale": "hi_IN"
     },
     {
-        "code": "reports.mcollect.challannumber",
-        "message": "चालान सं।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "reports.mcollect.receiptnumber",
-        "message": "रसीद संख्या।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "reports.mcollect.receiptdate",
-        "message": "रसीद तारीख",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "reports.mcollect.consumername",
-        "message": "उपभोक्ता नाम",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "reports.mcollect.servicedetails",
-        "message": "सेवा विवरण",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "reports.mcollect.payername",
-        "message": "भुगतानकर्ता नाम",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "reports.mcollect.transactionnumber",
-        "message": "लेनदेन सं।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "reports.mcollect.chequeNo",
-        "message": "चेक / डीडी नं।",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "reports.mcollect.receiptstatus",
-        "message": "रसीद की स्थिति",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "UC_BUILDING_NAME_LABEL:",
         "message": "चालान रजिस्टर रिपोर्ट",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "UC_STREET_NAME_LABEL:",
-        "message": "संग्रह रिपोर्ट",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -626,12 +554,6 @@
     {
         "code": "ABG_GENERATE_NEW_BILL",
         "message": "नया बिल उत्पन्न करें",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "UC_HOME_SEARCH_RESULTS_DESC",
-        "message": "कृपया कम से कम एक पैरामीटर प्रदान करें",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -792,12 +714,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "CANCELLED",
-        "message": "रद्द किया गया",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "NEW",
         "message": "नया",
         "module": "rainmaker-common",
@@ -870,26 +786,8 @@
         "locale": "hi_IN"
     },
     {
-        "code": "CS_ACTION_ASSIGNEDBYAUTOESCALATION",
-        "message": "",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_PGR_PENDINGATSUPERVISOR",
-        "message": "",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "WF_PGR_PENDINGFORASSIGNMENT",
-        "message": "",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_PGR_PENDINGATLME",
-        "message": "",
+        "message": "नियुक्ति के लिए रुका हुआ",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -902,12 +800,6 @@
     {
         "code": "CS_PAYMENT_AMOUNT_PENDING",
         "message": "बकाया राशि",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "TOTAL_CHALLANS",
-        "message": "कुल चालान",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -948,12 +840,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "UC_HOME_SEARCH_RESULTS_DESC",
-        "message": "",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "UC_SEARCH_MOBILE_NO_LABEL",
         "message": "मोबाइल नंबर",
         "module": "rainmaker-common",
@@ -962,12 +848,6 @@
     {
         "code": "UC_LESS_LABEL",
         "message": "कम",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "UC_STREET_NAME_LABEL:",
-        "message": "सड़क का नाम",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -1093,13 +973,13 @@
     },
     {
         "code": "ES_INBOX_DATE_LATEST_FIRST",
-        "message": "",
+        "message": "तारीख (पिछली पहले)",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
     {
         "code": "ES_INBOX_DATE_LATEST_LAST",
-        "message": "",
+        "message": "तारीख (पिछली अंतिम)",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     }

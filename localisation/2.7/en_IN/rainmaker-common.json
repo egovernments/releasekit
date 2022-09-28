@@ -282,12 +282,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "CORE_COMMON_PROFILE_MAXIMUM_UPLOAD_SIZE_EXCEEDED",
-        "message": "Please upload a file less than 2mb",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "CORE_COMMON_PROFILE_EDIT",
         "message": "Edit Profile",
         "module": "rainmaker-common",
@@ -444,12 +438,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "CORE_COMMON_PROFILE_PASSWORD_INVALID",
-        "message": "Invalid Password",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "NSS_ACTUAL_NOC_ISSUED_USAGETYPE",
         "message": "Actual Fire NOCs by Usage Type",
         "module": "rainmaker-common",
@@ -504,20 +492,8 @@
         "locale": "en_IN"
     },
     {
-        "code": "CORE_COMMON_PROFILE_PASSWORD_MISMATCH",
-        "message": "Passwords don't match",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "CORE_COMMON_PROFILE_PASSWORD_INVALID",
         "message": "Invalid Password",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SEARCH_PROPERTY",
-        "message": "Search Properties",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -560,12 +536,6 @@
     {
         "code": "PROPERTYTAX_OWNERTYPE_BPL",
         "message": "Below Poverty Line",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTYTAX_OWNERTYPE_BPL",
-        "message": "Defense Personnel",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -720,8 +690,8 @@
         "locale": "en_IN"
     },
     {
-        "code": "BPA_BLOCK_SUBHEADER 1",
-        "message": "",
+        "code": "BPA_BLOCK_SUBHEADER",
+        "message": "Block",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -738,12 +708,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "BPA_DOCUMENT_DETAILS_LABEL",
-        "message": "Document Details",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "BPA_FIRE_NOC_HEADER",
         "message": "Fire NOC",
         "module": "rainmaker-common",
@@ -752,18 +716,6 @@
     {
         "code": "BPA_FIRE_NOC_LABEL",
         "message": "Fire NOC Application Number",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BPA_NOC_STATUS",
-        "message": "Status",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BPA_DOCUMENT_DETAILS_LABEL",
-        "message": "Document Details",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -823,13 +775,7 @@
     },
     {
         "code": "FIRE_NOC",
-        "message": "",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WF_FIRE_NOC_SRV_CREATED",
-        "message": "",
+        "message": "Fire Noc",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },

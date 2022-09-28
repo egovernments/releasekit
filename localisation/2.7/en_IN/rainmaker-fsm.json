@@ -83,18 +83,8 @@
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
-  {
-    "code": "CS_COMMON_FSM_WAITING_FOR_DISPOSAL",
-    "message": "Waiting for Disposal",
-    "module": "rainmaker-fsm",
-    "locale": "en_IN"
-  },
-  {
-    "code": "CS_COMMON_FSM_DISPOSED",
-    "message": "Disposed",
-    "module": "rainmaker-fsm",
-    "locale": "en_IN"
-  },
+ 
+  
   {
     "code": "CS_COMMON_DECLINEVEHICLE",
     "message": "Decline Vehicle",
@@ -395,12 +385,7 @@
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
-  {
-    "code": "DSS_FSM_REQUEST_BY_GENDER",
-    "message": "Request by Gender",
-    "module": "rainmaker-fsm",
-    "locale": "en_IN"
-  },
+ 
   {
     "code": "COMMON_MASTERS_MALE",
     "message": "Male",
@@ -455,12 +440,7 @@
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
-  {
-    "code": "ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
-    "message": "Trip Scheduled",
-    "module": "rainmaker-fsm",
-    "locale": "en_IN"
-  },
+ 
   {
     "code": "ES_INBOX_VEHICLE_STATUS",
     "message": "Vehicle Status",
@@ -660,12 +640,7 @@
   "module":"rainmaker-fsm",
   "locale":"en_IN"
 },
-{
-  "code":"ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
-  "message":"Payment Method",
-  "module":"rainmaker-fsm",
-  "locale":"en_IN"
-},
+
 {
   "code":"ES_FSM_SCHEDULE",
   "message":"Trips Updated Successfully",
@@ -776,7 +751,7 @@
 },
 {
   "code":"ES_FSM_RESPONSE_PENDING_APPL_FEE_PAYMENT_ACTION",
-  "message":"Application Number",
+  "message":"Number of Trips Updated Successfully",
   "module":"rainmaker-fsm",
   "locale":"en_IN"
 },
@@ -792,13 +767,7 @@
   "module":"rainmaker-fsm",
   "locale":"en_IN"
 },
-{
-  "code":"PAYED_IN_CASH",
-  "message":"The notification along with the application number is sent to your applicant's mobile number. Applicant can track the application status using mobile or web app.",
-  "module":"rainmaker-common",
-  "module":"rainmaker-fsm",
-  "locale":"en_IN"
-},
+
 {
   "code":"DSS_FSM_RESQUEST_BY_PAYMENT_PREFERENCE",
   "message":"Paid In Cash",

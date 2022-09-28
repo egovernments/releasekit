@@ -2376,36 +2376,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "PGR_APPLY_PENDINGFORASSIGNMENT_SMS_MESSAGE",
-        "message": "प्रिय नागरिक, <शिकायत_प्रकार> की आपकी शिकायत आपकी आई.डी.<आई डी > के साथ <तिथि> को जमा कर दी गयी है। आप अपनी शिकायत की स्तिथि एम-सेवा पंजाब मोबाइल एप्लिकेशन (<डाउनलोड लिंक> डाउनलोड करें) पर, या अपने स्थानीय नगर निगम के वेब पोर्टल पर देख सकते हैं।",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "PGR_REASSIGN_PENDINGATLME_SMS_MESSAGE",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, <reassign_emp_name>, <emp_designation>, <emp_department> को पुनः नियुक्त की गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "PGR_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, अस्वीकार कर दी गयी है । अस्वीकृति का कारण: <additional_comments> । अगर आप शिकायत को फिर से खोलना चाहते हैं तो एम-सेवा पंजाब ऍप  <download link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "PGR_REOPEN_PENDINGFORASSIGNMENT_SMS_MESSAGE",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, जो दिनांक <date> को जमा की गयी थी, आपके निवेदन पर वापस खोल दी गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "PGR_RESOLVE_RESOLVED_SMS_MESSAGE",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, जो दिनांक <date> को जमा की गयी थी, <emp_name> द्वारा हल कर दी गयी है।  अगर आप सेवा से संतुष्ट नहीं हैं तो आप शिकायत को फिर से चालू करने के लिए एम-सेवा पंजाब मोबाइल ऍप <download link> डाउनलोड करें या स्थानीय नगर निगम के वेब पोर्टल के जरिये कर सकते हैं",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
         "code": "PT_COMMON_NEXT",
         "message": "आगे जाएँ",
         "module": "rainmaker-pgr",
@@ -4350,80 +4320,8 @@
         "locale": "hi_IN"
     },
     {
-        "code": "pgr.sms.notification.assign.citizen",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, <emp_name> , <emp_designation>, <emp_department> को नियुक्त की गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download_link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.assign.employee",
-        "message": "श्री <emp_name>  <complaint_type> की शिकायत, जिसकी शिकायत आईडी <id> है, आपको नियुक्त की गयी है। कृपया उचित कार्यवाही करें  <ao_designation> - <ulb>",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.close.employee",
-        "message": "श्री <emp_name>  <complaint_type> की शिकायत, जिसकी शिकायत आईडी <id> है, को नागरिक द्वारा <rating>/5 रेटिंग मिली है। आपकी सेवा के लिए धन्यवाद",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.comment",
-        "message": "श्री <emp_name> ने <<complaint_type> की शिकायत, जिसकी शिकायत आईडी <id> है, पर टिपण्णी की है।  टिपण्णी: <comment>",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
         "code": "pgr.sms.notification.comment.default",
         "message": "आपकी शिकायत पर एक टिप्पणी की गयी है। आप अपनी शिकायत की स्तिथि एम-सेवा पंजाब ऍप  पर ट्रैक कर सकते हैं  या स्थानीय नगर निगम वेब पोर्टल पर देख सकते हैं",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.default",
-        "message": "आपकी शिकायत की स्तिथि: <status> आप अपनी शिकायत की स्तिथि एम-सेवा पंजाब ऍप  पर ट्रैक कर सकते हैं  या स्थानीय नगर निगम वेब पोर्टल पर देख सकते हैं",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.reassign.citizen",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, <emp_name>, <emp_designation>, <emp_department> को पुनः नियुक्त की गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download_link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.reassign.employee",
-        "message": "श्री <emp_name>  <complaint_type> की शिकायत, जिसकी शिकायत आईडी <id> है, आपके निवेदन अनुसार फिर से नियुक्त की गयी है। <ao_designation> - <ulb>",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.reject.citizen",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, जिसकी शिकायत आई.डी. <id> है , जो दिनांक <date> को जमा की गयी थी, अस्वीकार कर दी गयी है । अस्वीकृति का कारण: <reason> अतिरिक्त टिपण्णियाँ : <additional_comments>। अगर आप शिकायत को फिर से खोलना चाहते हैं तो एम-सेवा पंजाब ऍप  <download_link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.reopen.citizen",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, जो दिनांक <date> को जमा की गयी थी, आपके निवेदन पर वापस खोल दी गयी है। अपनी शिकायत की स्तिथि जानने और हमारे अधिकारियों से संपर्क करने के लिए एम-सेवा पंजाब ऍप  <download_link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.reopen.employee",
-        "message": "श्री <emp_name>  <complaint_type> की शिकायत आईडी <id> के साथ नागरिक द्वारा फिर से खोल दी गयी है। इसकी नियुक्त अधिकारी द्वारा समीक्षा की जा रही है - <ulb>",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.resolve.citizen",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, जो दिनांक <date> को जमा की गयी थी, <emp_name> द्वारा हल कर दी गयी है।  अगर आप सेवा से संतुष्ट नहीं हैं तो आप शिकायत को फिर से चालू करने के लिए एम-सेवा पंजाब मोबाइल ऍप <download_link> डाउनलोड करें या स्थानीय नगर निगम के वेब पोर्टक के जरिये कर सकते हैं",
-        "module": "rainmaker-pgr",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "pgr.sms.notification.submit.citizen",
-        "message": "प्रिय नागरिक, आपकी <complaint_type> की शिकायत, आई.डी. <id>, दिनांक <date> को जमा कर दी गयी है। अपनी शिकायत की स्तिथि जानने के लिए एम-सेवा पंजाब ऍप  <download link> डाउनलोड करें या स्थानीय नगर निगम वेब पोर्टल पर जाएँ",
         "module": "rainmaker-pgr",
         "locale": "hi_IN"
     },

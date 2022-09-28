@@ -138,12 +138,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "PT_ASSESMENT_INFO_USAGE_TYPE",
-        "message": "Property Usage Type",
-        "module": "rainmaker-pt",
-        "locale": "en_IN"
-    },
-    {
         "code": "PT_PROPERTY_DETAILS_USAGE_TYPE_HEADER",
         "message": "Provide Usage Type",
         "module": "rainmaker-pt",
@@ -990,12 +984,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "PT_TEXT_NOT_ABLE_TO_FIND_THE_PROPERTY",
-        "message": "Not able to find the property? ",
-        "module": "rainmaker-pt",
-        "locale": "en_IN"
-    },
-    {
         "code": "PT_TOTUNITAREA_LESS_THAN_BUILTUP_ERR_MSG",
         "message": "total area shouldn't be greater than builtup area",
         "module": "rainmaker-pt",
@@ -1004,12 +992,6 @@
     {
         "code": "NONRESIDENTIAL.COMMERCIAL",
         "message": "Commercial",
-        "module": "rainmaker-pt",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PT_FLOOR_DETAILS_HEADER",
-        "message": "Floor Details",
         "module": "rainmaker-pt",
         "locale": "en_IN"
     },
@@ -1224,12 +1206,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "CS_OWNER_NAME",
-        "message": "My Bills",
-        "module": "rainmaker-pt",
-        "locale": "en_IN"
-    },
-    {
         "code": "CS_COMMON_AMOUNT_DUE",
         "message": "Amount Due",
         "module": "rainmaker-pt",
@@ -1333,7 +1309,7 @@
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_OFFILE",
-        "message": "Dear Citizen, Your Property Tax payment of Rs. <amount> has been accepted. Mode of Payment: <insert mode of payment> Pending Amount: <Enter pending amount>. Click on the link to download payment receipt <receipt download link>\n\nEGOVS",
+        "message": "Dear Citizen, Your Property Tax payment of Rs. {amount} has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount}. Click on the link to download payment receipt {receipt download link}\n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "en_IN"
     },
@@ -1405,25 +1381,25 @@
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_FAIL",
-        "message": "Dear Citizen, Your payment of Rs. <insert amount to pay> for Property Tax Unique ID <insert ID> has failed. Your assessment is pending. Please try again. Ignore this message if you have completed your payment. You can pay your Property Tax online here - <payLink>\n\nEGOVS",
+        "message": "Dear Citizen, Your payment of Rs. {insert amount to pay} for Property Tax Unique ID {insert ID} has failed. Your assessment is pending. Please try again. Ignore this message if you have completed your payment.\n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "en_IN"
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_OFFLINE",
-        "message": "Dear Citizen, Your Property Tax payment of Rs. <amount> has been accepted. Mode of Payment: <insert mode of payment> Pending Amount: <Enter pending amount>. You can pay your Property Tax online here - <payLink>. Click on the link to download payment receipt <receipt download link>\n\nEGOVS",
+        "message": "Dear Citizen, Your Property Tax payment of Rs. {amount} has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount}. You can pay your Property Tax online here - {payLink}.\n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "en_IN"
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_ONLINE",
-        "message": "Dear Citizen, Your payment of Rs.< insert amount paid> with payment transaction id < insert payment transaction id from PG> has been made successfully. Assessment for Property Tax Unique ID <insert Property Tax Assessment ID> was succesful. Property Tax due is Rs.<pt due>. You can pay your Property Tax here - <payLink> Click on the link to download payment receipt <receipt download link>\n\nEGOVS",
+        "message": "Dear Citizen, Your payment of Rs.{insert amount paid} with payment transaction id {insert payment transaction id from PG} has been made successfully. Assessment for Property Tax Unique ID {insert Property Tax Assessment ID}  was succesful. Property Tax due is Rs.{pt due}. You can pay your Property Tax here - {payLink}.\n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "en_IN"
     },
     {
         "code": "PT_NOTIFICATION_PAYMENT_ONLINE",
-        "message": "Dear Citizen, Your payment of Rs.< insert amount paid> with payment transaction id < insert payment transaction id from PG> has been made successfully. Assessment for Property Tax Unique ID <insert Property Tax Assessment ID> was succesful. Property Tax due is Rs.<pt due>. Click on the link to download payment receipt <receipt download link>\n\nEGOVS",
+        "message": "Dear Citizen, Your payment of Rs.{insert amount paid} with payment transaction id {insert payment transaction id from PG} has been made successfully. Assessment for Property Tax Unique ID {insert Property Tax Assessment ID}  was succesful. Property Tax due is Rs.{pt due}.\n\nEGOVS",
         "module": "rainmaker-pt",
         "locale": "en_IN"
     }
