@@ -1,13 +1,13 @@
 [
     {
         "code": "hrms.employee.reactivation.notification",
-        "message": "Dear <Employee Name>,\nYour profile with employee Username <Username>has been activated on <date>. Your one-time password is <password>. Please change your password using the link below\n<link>",
+        "message": "Dear {Employee Name},\nYour profile with employee Username {Username} has been activated on {date}. Your one-time password is {password}. Please change your password using the link below\n{link}\n\nEGOVS",
         "module": "egov-hrms",
         "locale": "en_IN"
     },
     {
         "code": "hrms.employee.create.notification",
-        "message": "Hi $employeename, Welcome to mSeva. Your profile has been successfully set-up : Username - $username Password - $password Visit your profile at $applink, Thank you.",
+        "message": "Hi $employeename, Welcome to mSeva. Your profile has been successfully set-up : Username - $username Password - $password Visit your profile at $applink, Thank you.\n\nEGOVS",
         "module": "egov-hrms",
         "locale": "en_IN"
     }

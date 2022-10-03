@@ -4963,33 +4963,33 @@
   },
   {
     "code": "PT_NOTIFICATION_PAYMENT_FAIL",
-    "message": "Dear Citizen, Your payment of Rs. <insert amount to pay> for Property Tax Unique ID <insert ID> has failed. Your assessment is pending. Please try again. Ignore this message if you have completed your payment. You can pay your Property Tax online here - <payLink>",
-    "locale": "en_IN",
-    "module": "rainmaker-pt"
+    "message": "Dear Citizen, Your payment of Rs. {insert amount to pay} for Property Tax Unique ID {insert ID} has failed. Your assessment is pending. Please try again. Ignore this message if you have completed your payment.\n\nEGOVS",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
   },
   {
     "code": "PT_NOTIFICATION_PAYMENT_OFFILE",
-    "message": "Dear Citizen, Your Property Tax payment of Rs. <amount> has been accepted. Mode of Payment: <insert mode of payment> Pending Amount: <Enter pending amount>. Click on the link to download payment receipt <receipt download link>",
-    "locale": "en_IN",
-    "module": "rainmaker-pt"
+    "message": "Dear Citizen, Your Property Tax payment of Rs. {amount} has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount}. Click on the link to download payment receipt {receipt download link}\n\nEGOVS",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
   },
   {
     "code": "PT_NOTIFICATION_PAYMENT_ONLINE",
-    "message": "Dear Citizen, Your payment of Rs.< insert amount paid> with payment transaction id < insert payment transaction id from PG> has been made successfully. Assessment for Property Tax Unique ID <insert Property Tax Assessment ID> was succesful. Property Tax due is Rs.<pt due>. Click on the link to download payment receipt <receipt download link>",
-    "locale": "en_IN",
-    "module": "rainmaker-pt"
+    "message": "Dear Citizen, Your payment of Rs.{insert amount paid} with payment transaction id {insert payment transaction id from PG} has been made successfully. Assessment for Property Tax Unique ID {insert Property Tax Assessment ID}  was succesful. Property Tax due is Rs.{pt due}.\n\nEGOVS",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
   },
   {
     "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_OFFLINE",
-    "message": "Dear Citizen, Your Property Tax payment of Rs. <amount> has been accepted. Mode of Payment: <insert mode of payment> Pending Amount: <Enter pending amount>. You can pay your Property Tax online here - <payLink>. Click on the link to download payment receipt <receipt download link>",
-    "locale": "en_IN",
-    "module": "rainmaker-pt"
+    "message": "Dear Citizen, Your Property Tax payment of Rs. {amount} has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount}. You can pay your Property Tax online here - {payLink}.\n\nEGOVS",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
   },
   {
     "code": "PT_NOTIFICATION_PAYMENT_PARTIAL_ONLINE",
-    "message": "Dear Citizen, Your payment of Rs.< insert amount paid> with payment transaction id < insert payment transaction id from PG> has been made successfully. Assessment for Property Tax Unique ID <insert Property Tax Assessment ID> was succesful. Property Tax due is Rs.<pt due>. You can pay your Property Tax here - <payLink> Click on the link to download payment receipt <receipt download link>",
-    "locale": "en_IN",
-    "module": "rainmaker-pt"
+    "message": "Dear Citizen, Your payment of Rs.{insert amount paid} with payment transaction id {insert payment transaction id from PG} has been made successfully. Assessment for Property Tax Unique ID {insert Property Tax Assessment ID}  was succesful. Property Tax due is Rs.{pt due}. You can pay your Property Tax here - {payLink}.\n\nEGOVS",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
   },
   {
     "code": "PT_NOTIFICATIONS_COMPLAINT_ASSIGNED",
@@ -7104,12 +7104,6 @@
     "module": "rainmaker-pt"
   },
   {
-    "code": "TRADELICENSE_TRADETYPE_ACCESSORIES",
-    "message": null,
-    "locale": "en_IN",
-    "module": "rainmaker-pt"
-  },
-  {
     "code": "TRANSFERREASONDOCUMENT",
     "message": "Transfer Reason Document",
     "locale": "en_IN",
@@ -7535,7 +7529,7 @@
     "module": "rainmaker-pt",
     "locale": "en_IN"
   },
-   {
+  {
     "code": "WF_PT.LEGACY_REJECT",
     "message": "REJECT",
     "module": "rainmaker-pt",
