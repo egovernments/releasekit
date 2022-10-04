@@ -4351,9 +4351,9 @@
   },
   {
     "code": "COMMON_MASTERS_PAYMENTMODE_CARD",
-    "message": null,
-    "locale": "en_IN",
-    "module": "rainmaker-common"
+    "message": "Credit /Debit Card",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
   },
   {
     "code": "COMMON_MASTERS_PAYMENTMODE_CASH",
@@ -9384,32 +9384,14 @@
     "module": "rainmaker-common"
   },
   {
-    "code": "pdf.static.label.consolidated.receipt.payer_contact",
-    "message": null,
-    "locale": "en_IN",
-    "module": "rainmaker-common"
-  },
-  {
     "code": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_PAYER_CONTACT",
     "message": "Payer Contact",
     "locale": "en_IN",
     "module": "rainmaker-common"
   },
   {
-    "code": "pdf.static.label.consolidated.receipt.payer_name",
-    "message": null,
-    "locale": "en_IN",
-    "module": "rainmaker-common"
-  },
-  {
     "code": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_PAYER_NAME",
     "message": "Payer Name",
-    "locale": "en_IN",
-    "module": "rainmaker-common"
-  },
-  {
-    "code": "pdf.static.label.consolidated.receipt.payment_date",
-    "message": null,
     "locale": "en_IN",
     "module": "rainmaker-common"
   },
