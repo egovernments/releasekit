@@ -1,0 +1,1358 @@
+[
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें एवं आवेदन शुल्क {AMOUNT_TO_BE_PAID} का भुगतान करें या आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके भुगतान कर सकते हैं।{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के आपके आवेदन के लिए अधिभोग प्रमाण पत्र उत्पन्न कर दिया है। आवास प्रमाण पत्र डाउनलोड करने के लिए नीचे दिए गए लिंक पर क्लिक करें | {DOWNLOAD_OC_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "प्रिय {1}, आपका अधिभोग प्रमाण पत्र आवेदन {3} आवेदक द्वारा स्वीकार कर लिया गया है। अब आप विभागीय कार्यवाही के लिए आवेदन जमा कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें एवं डेविएशन पेनल्टी के साथ आवेदन शुल्क {AMOUNT_TO_BE_PAID} का भुगतान करें या आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके भुगतान कर सकते हैं।{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (Service type) आवेदन {3} अनापत्ति प्रमाण पत्र का सत्यापन हो गया है। आवेदन अनुमोदन के लिए लंबित है। आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) {3} आवदेन के लिए शीघ्र ही दस्तावेज सत्यापन के लिए कार्यवाही की जाएगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) आवेदन {3} के दस्तावेज सत्यापित कर लिए गए हैं। आवेदन पर जल्द ही फ़ील्ड सत्यापन के लिए कार्रवाई की जाएगी. आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, नए निर्माण (Service type) आवेदन {3} के लिए क्षेत्र सत्यापन कर लिया गया है। अब आवेदन एनओसी के लिए कार्रवाई की जाएगी। आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की स्थिति पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आप अपने पोर्टल लॉगिन में 'माय एप्लीकेशन' लिंक पर आवेदन की स्थिति देख सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के आपके आवेदन के लिए अधिभोग प्रमाण पत्र उत्पन्न कर दिया है। आवास प्रमाण पत्र डाउनलोड करने के लिए नीचे दिए गए लिंक पर क्लिक करें | {DOWNLOAD_OC_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) आवेदन {3} का आवेदन शुल्क प्राप्त हो गया है। आवेदन पर जल्द ही दस्तावेज सत्यापन के लिए कार्रवाई की जाएगी. रसीद के लिए नीचे दिए गए लिंक पर क्लिक करें | {RECEIPT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के लिए आपके आवेदन को अस्वीकार कर दिया गया है। आप पोर्टल के लिए लॉग इन करकेअस्वीकृति के कारणों की जांच कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "प्रिय {1},नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} की आवेदक द्वारा समीक्षा की गयी है। अब आप आवेदन पर कार्रवाई कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "प्रिय {1}, नए निर्माण (सेवा प्रकार) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आप आवेदन की समीक्षा और आवेदन को आगे की कार्रवाई के लिए आर्किटेक्ट को वापस भेजने के लिए आप माय एप्लीकेशन पृष्ठ पर नेविगेट कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SKIP_PAYMENT_APPROVED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के आपके आवेदन के लिए अधिभोग प्रमाण पत्र उत्पन्न कर दिया है। अधिभोग प्रमाण पत्र डाउनलोड करने के लिए आप अपने ऐप्लिकेशन पृष्ठ पर नेविगेट कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+        "message": "प्रिय {1}, नए निर्माण (सेवा प्रकार) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें आवेदन शुल्क {AMOUNT_TO_BE_PAID} का भुगतान करें।{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_FEE",
+        "message": "प्रिय {1}, नए निर्माण (सेवा प्रकार) {2} के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आवेदन पर आगे कार्रवाई करने के लिए Pay बटन पर क्लिक करें आवेदन शुल्क {AMOUNT_TO_BE_PAID} का भुगतान करें।{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+        "message": "प्रिय {1}, नए निर्माण (सेवा प्रकार) {3} के लिए आपके आवेदन के लिए बिल्डिंग परमिट आदेश बना दिया गया है। परमिट आदेश डाउनलोड करने के लिए नीचे दिए गए लिंक पर क्लिक करें | {DOWNLOAD_PERMIT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} आवेदक द्वारा स्वीकृत की गयी है। अब आप आवेदन को विभागीय कार्रवाई के लिए जमा कर कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "प्रिय {1}, नए निर्माण (सेवा प्रकार) {3} के लिए आपका आवेदन स्वीकृत हुआ। बिल्डिंग परमिट आदेश पर कार्यवाही के लिए कृपया {AMOUNT_TO_BE_PAID} / - रुपए का बिल्डिंग परमिट शुल्क का भुगतान करें।{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) आवेदन {3} का एनओसी सत्यापनकर लिया गया है । आवेदन अनुमोदन के लिए लंबित है।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) {3} आवदेन के लिए शीघ्र ही दस्तावेज सत्यापन के लिए कार्यवाही की जाएगी।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "प्रिय {1}, नए निर्माण (सेवा प्रकार) आवेदन {3} के लिए आपके दस्तावेज सत्यापित कर लिए गए हैं। आवेदन शीघ्र ही क्षेत्र निरिक्षण के लिए सत्यापित किया जाएगा।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, नए निर्माण (Service type) आवेदन {3} के लिए क्षेत्र सत्यापन कर लिया गया है। अब आवेदन एनओसी के लिए कार्रवाई की जाएगी।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "प्रिय {1}, नए निर्माण (Service type) के लिए आपका आवेदन बन गया है। भविष्य में सन्दर्भ के लिए आवेदन नंबर {3} का उपयोग करें।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+        "message": "प्रिय {1}, नए निर्माण (सेवा प्रकार) {3} के लिए आपके आवेदन के लिए बिल्डिंग परमिट आदेश बना दिया गया है। परमिट आदेश डाउनलोड करने के लिए नीचे दिए गए लिंक पर क्लिक करें | {DOWNLOAD_PERMIT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, आपके नए निर्माण (सेवा प्रकार) {3} आवदेन का आवेदन शुल्क प्राप्त हुआ। आवेदन पर शीघ्र ही दस्तावेज सत्यापन के लिए कार्यवाही की जाएगी।रसीद के लिए नीचे दिए गए लिंक पर क्लिक करें | {RECEIPT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+        "message": "प्रिय {1}, नए निर्माण (सेवा प्रकार) {3} के लिए आपके आवेदन को अस्वीकार कर दिया गया है। आप पोर्टल के लिए लॉग इन करकेअस्वीकृति के कारणों की जांच कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT",
+        "message": "प्रिय {1}, आपका नए निर्माण (सेवा प्रकार) {3} का आवदेन निरस्त कर दिया गया है । आप पोर्टल पर जाकर कारणों का पता कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "प्रिय {1}, नए निर्माण (Service type) {3} के लिए आपका आवेदन स्पष्टीकरण के लिए वापस भेजा गया है। आप 'माय एप्लीकेशन' पृष्ठ पर नेविगेट करके स्पष्टीकरण प्रदान कर सकते हैं और प्रसंस्करण के लिए अधिकारी को वापस भेज सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "प्रिय {1}, आपके बिल्डिंग परमिट आवेदन {3} की आवेदक द्वारा समीक्षा की गयी है। अब आप आवेदन पर कार्रवाई कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "प्रिय {1}, नए निर्माण (सेवा प्रकार) के लिए आपका आवेदन, आवेदन नंबर {3} के साथ बनाया गया है। आप माय एप्लीकेशन पृष्ठ पर नेविगेट करके आवेदन की समीक्षा कर सकते हैं।\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.receiptdate",
+        "message": "रसीद की तारीख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.receiptnumber",
+        "message": "रसीद संख्या",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.applicationnumber",
+        "message": "आवेदन संख्या",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.applicationtype",
+        "message": "आवेदन का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.name",
+        "message": "आवेदक का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.instrumenttype",
+        "message": "उपकरण का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.chequedate",
+        "message": "चेक / डीडी की तिथि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.chequeno",
+        "message": "चेक / डीडी का नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.bankname",
+        "message": "बैंक का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.transactionid",
+        "message": "लेनदेन की आईडी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.lastfourdigits",
+        "message": "कार्ड के अंतिम 4 अंक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.totalamountpaid",
+        "message": "राशि (रुपये)",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.obps.instrumentstatus",
+        "message": "स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OBPSDAILYCOLLECTIONREPORT",
+        "message": "ओबीपीएस दैनिक कलेक्शन रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY",
+        "message": "अनुमति आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY",
+        "message": "कब्जा प्रमाण पत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_ULB",
+        "message": "यूएलबी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_FROMDATE",
+        "message": "तारीख से",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_TODATE",
+        "message": "तारीख तक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_INSTRUMENTTYPE",
+        "message": "उपकरण का प्रकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_INSTRUMENTSTATUS",
+        "message": "साधन की स्थिति",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_COLLECTIONOPERATOR",
+        "message": "संग्रह संचालक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_OBPS_REPORTS",
+        "message": "ओबीपीएस रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_OBPS_DAILY_COLLECTION_REPORT",
+        "message": "दैनिक कलेक्शन रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_OBPS_APPLICATION_STATUS_REPORT",
+        "message": "आईबीपीएस आवेदन स्थिति रिपोर्ट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_OBPS_INBOX_LABEL",
+        "message": "ओबीपीएस इनबॉक्स",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_EDCR_INBOX_LABEL",
+        "message": "ईडीसीआर इनबॉक्स",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_NO_FILE_SELECTED_LABEL",
+        "message": "कोई फ़ाइल चयनित नहीं है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PLAN_DIAGRAM_LABEL",
+        "message": "बिल्डिंग प्लान रेखाचित्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_CLEAR_FORM",
+        "message": "स्पष्ट प्रपत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PROVIDE_REQ_FOR_NEW_BPA",
+        "message": "नई बिल्डिंग प्लान स्क्रूटनी के लिए आवश्यक विवरण प्रदान करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_ACKNOWLEDGEMENT_SUCCESS_MESSAGE_LABEL",
+        "message": "नई बिल्डिंग प्लान ईडीसीआर द्वारा सफलतापूर्वक स्वीकार किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_SCRUTINY_NUMBER_LABEL",
+        "message": "ईडीसीआर स्क्रूटनी नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_DOWNLOAD_SCRUTINY_REPORT_LABEL",
+        "message": "स्क्रूटनी रिपोर्ट डाउनलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FOR_NEW_CONSTRUCTION_LABEL",
+        "message": "नए निर्माण के लिए",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLY_FOR_BPA_LABEL",
+        "message": "बिल्डिंग प्लान परमिट के लिए आवेदन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OBPS_NEW_BUILDING_PERMIT",
+        "message": "नए निर्माण के लिए बिल्डिंग प्लान परमिट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SCRUTINY_DETAILS",
+        "message": "जांच का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_AND_DOCUMENT_DETAILS_LABEL",
+        "message": " मालिक और दस्तावेज़ ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SCRUTINY_DETAILS",
+        "message": "जांच का विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TOTAL_BUILT_UP_AREA_HEADER",
+        "message": "कुल निर्माणित क्षेत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEIGHT_FROM_GROUND_LEVEL_FROM_MUMTY",
+        "message": "मुमटी की धरातल से ऊंचाई",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_BLOCK_SUBHEADER",
+        "message": "खंड",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TABLE_COL_OCCUPANCY",
+        "message": "कब्ज़ा / आक्रमण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TABLE_COL_BUILDUPAREA",
+        "message": "निर्माणित क्षेत्र",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TABLE_COL_FLOORAREA",
+        "message": "फर्श क्षेत्रफल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SQ_MTRS_LABEL",
+        "message": "स्क्वायर मीटर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_GIS_LABEL",
+        "message": "जी आई एस ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PB_AMRITSAR_REVENUE_SUN04",
+        "message": "अजीत नगर - क्षेत्र 1",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OWNER_AND_DOCUMENT_DETAILS_LABEL",
+        "message": "मालिक और दस्तावेज़ ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TYPE_OF_OWNER_LABEL ",
+        "message": "मालिक के प्रकार ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.SITP",
+        "message": "साईट प्लान / योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPD.SITP.SITP",
+        "message": "साईट प्लान / योजना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_PLAN_DXF",
+        "message": "अपलोडएड प्लान. डी एक्स एफ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_MTRS_LABEL",
+        "message": "मीटर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SEND_TO_CITIZEN_LABEL",
+        "message": "नागरिको को आवेदन भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_SEND_TO_CITIZEN_ARCHITECT_CITIZEN_APPROVAL_INPROCESS",
+        "message": "आवेदन संख्या आवेदक और वास्तुकार/आर्किटेक्ट  के साथ साझा करना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PERMIT_APPLICATION_NUMBER_LABEL",
+        "message": "नयी  बिल्डिंग प्लान परमिट का आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "नयी  बिल्डिंग प्लान परमिट का आवेदन सफलतापूर्वक सबमिट किया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SQ_FT_LABEL",
+        "message": "स्क्वायर फीट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_I_AGREE_THE_LABEL",
+        "message": "मै स्वीकार करता /करती हूँ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TERMS_AND_CONDITIONS_LABEL",
+        "message": "नियम और शर्तें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_CANCEL",
+        "message": "मना करना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_OBPS_ACTION_COMMENTS",
+        "message": "टिपण्णी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_APPROVE_INPROGRESS",
+        "message": "नयी  बिल्डिंग प्लान परमिट का आवेदन सफलतापूर्वक जाँच लिया  गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_APPROVE_ARCHITECT_INPROGRESS",
+        "message": "आर्किटेक्ट के मोबाइल नंबर पर नोटिफिकेशन भेजा गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_APPLY",
+        "message": "भरना ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_APPLY_PENDING_FEE",
+        "message": "नयी  बिल्डिंग प्लान परमिट का आवेदन सफलतापूर्वक सबमिट किया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_APPLY_ARCHITECT_PENDING_FEE",
+        "message": "आवेदन संख्या आवेदक और वास्तुकार/आर्किटेक्ट  के साथ साझा करना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PERMIT_NUMBER_LABEL",
+        "message": "परमिट संख्या",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PERMIT_VALIDITY",
+        "message": "परमिट वैधता ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_SEND_TO_CITIZEN_DONE",
+        "message": "हितधारक द्वारा बनाया गया आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_CITIZEN_APPROVAL_PENDING_DONE",
+        "message": "आवेदन पत्र नागरिक द्वारा स्वीकृत",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_INPROGRESS_DONE",
+        "message": "आवेदन विभाग को जमा कर दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_PENDING_FEE_PAYMENT_DONE",
+        "message": "भुगतान हो गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_TIMELINE",
+        "message": "आवेदन समयरेखा",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_TOT_AMT_PAID",
+        "message": "भुगतान की गई कुल राशि",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LOW_APPL_FEES_DETAILS",
+        "message": "आवेदन शुल्क जानकारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_LOW_SANC_FEES_DETAILS",
+        "message": "स्वीकृति शुल्क जानकारी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_FEE_DETAILS_LABEL",
+        "message": "शुल्क विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APP_MOBILE_NO_SEARCH_PARAM",
+        "message": "आवेदक का मोबाइल नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APP_TO_DATE_SEARCH_PARAM",
+        "message": "आवेदन तिथि तक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APP_FROM_DATE_SEARCH_PARAM",
+        "message": "आवेदन दिनांक से",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_CURRENT_OWNER_HEAD",
+        "message": "वर्तमान मालिक",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_LOW_SEND_BACK_TO_CITIZEN",
+        "message": "नागरिक को वापस भेजें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "आवेदक को न्यू बिल्डिंग प्लान परमिट का आवेदन भेजा जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_SEND_BACK_TO_CITIZEN_ARCHITECT_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "आवेदक और वास्तुकार को सूचित किया जाता है कि स्पष्टीकरण के लिए आवेदन वापस भेज दिया गया है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_SUB_HEADER_BPA_VERIFY_FORWARD_ARCHITECT_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "आवेदन संदर्भ आवेदक और आर्किटेक्ट के साथ साझा किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "नई बिल्डिंग प्लान परमिट आवेदन के लिए दस्तावेज़ सत्यापन सफलतापूर्वक किया गया। शीघ्र ही फील्ड निरीक्षण के लिए आवेदन पर कार्रवाई की जाएगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_FORWARD_ARCHITECT_FIELDINSPECTION_INPROGRESS",
+        "message": "दस्तावेज़ सत्यापन पूरा करने के लिए आवेदक और आर्किटेक्ट को सूचित किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SCORE_NA",
+        "message": "एनए",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "आवेदक को नवीन भवन योजना अनुमति आवेदन पत्र भेजा जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_SEND_BACK_TO_CITIZEN_ARCHITECT_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "आवेदक और वास्तुकार को सूचित किया जाता है कि आवेदन को स्पष्टीकरण के लिए वापस भेज दिया गया है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "न्यू बिल्डिंग प्लान परमिट आवेदन के लिए फील्ड निरीक्षण सफलतापूर्वक किया गया। शीघ्र ही अनापत्ति प्रमाण पत्र के लिए आवेदन पर कार्रवाई की जाएगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_FORWARD_ARCHITECT_NOC_VERIFICATION_INPROGRESS",
+        "message": "आवेदक और वास्तुकार को फील्ड निरीक्षण पूरा करने के लिए सूचित किया जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPROVED_HEADER",
+        "message": "फायर एनओसी को सफलतापूर्वक मंजूरी दे दी गई है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPROVED_SUB_HEADER",
+        "message": "आवेदक को एनओसी जारी करने के बारे में सूचित किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "आवेदक को न्यू बिल्डिंग प्लान परमिट का आवेदन भेजा जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_SEND_BACK_TO_CITIZEN_ARCHITECT_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "आवेदक और वास्तुकार को सूचित किया जाता है कि स्पष्टीकरण के लिए आवेदन वापस भेज दिया गया है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_APPROVE_APPROVAL_INPROGRESS",
+        "message": "अनुमति आवेदन सफलतापूर्वक स्वीकृत किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_APPROVE_ARCHITECT_APPROVAL_INPROGRESS",
+        "message": "आवेदक और वास्तुकार को मंजूरी के बारे में सूचित किया जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_NEW_BUILDING_CONSTRUCTION_LABEL",
+        "message": "नवीन भवन निर्माण के लिए ओसी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OBPS_OCEDCR_BUILDING_PERMIT_DESCRIPTION",
+        "message": "स्क्रूटनी प्रक्रिया को पूरा करने में 3 मिनट का समय लगेगा। OC eDCR स्क्रूटनी को प्रोसेस करने के लिए आपको निम्नलिखित विवरणों की आवश्यकता होगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PERMIT_NUMBER_OC_SCRUTINY_LABEL",
+        "message": "परमिट नंबर जिसके लिए ओसी स्क्रूटनी की जाती है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PERMIT_DATE_LABEL",
+        "message": "परमिट की तारीख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_PLAN_DXF_FILE",
+        "message": "OC योजना DXF फ़ाइल",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OBPS_OC_DOCS_FILE_SIZE",
+        "message": "अनुमत अधिकतम फ़ाइल आकार 5 एमबी है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_ARCHITECT_NAME_LABEL",
+        "message": "आर्किटेक्ट का नाम",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PERMIT_EDCR_DETAILS_LABEL",
+        "message": "बिल्डिंग परमिट ईडीसीआर विवरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_PLAN_DIAGRAM_LABEL",
+        "message": "अपलोड योजना आरेख",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_PLAN_DXF",
+        "message": "अपलोड की गई योजना। डीएक्सएफ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SCRUTINY_REPORT_OUTPUT_LABEL",
+        "message": "जांच रिपोर्ट आउटपुट",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PROCEED_OC_SCRUTINY_LABEL",
+        "message": "ओसी जांच के लिए आगे बढ़ें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_UPLOAD_OC_PLAN_DIAGRAM_LABEL",
+        "message": "ओसी प्लान डायग्राम अपलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_PLAN_DIAGRAM_DXF ",
+        "message": "अपलोड की गई ओसी योजना। डीएक्सएफ",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_EDCR_ACKNOWLEDGEMENT_SUCCESS_MESSAGE_LABEL",
+        "message": "ओसी बिल्डिंग प्लान ईडीसीआर जांच सफलतापूर्वक स्वीकार की गई",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_SCRUTINY_NUMBER_LABEL",
+        "message": "ईडीसीआर स्क्रूटनी नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EDCR_DOWNLOAD_SCRUTINY_REPORT_LABEL",
+        "message": "स्क्रूटनी रिपोर्ट डाउनलोड करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLY_OC_FOR_BPA_LABEL",
+        "message": "नए निर्माण के लिए ओसी के लिए आवेदन करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OOCUPANCY_CERTIFICATE_APP_LABEL",
+        "message": "व्यवसाय प्रमाण पत्र आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "OBPS_NEW_BUILDING_PERMIT_DESCRIPTION",
+        "message": "इस आवेदन को पूरा करने में 15 मिनट का समय लगेगा और आवेदन को पूरा करने के लिए .पीडीएफ या .जेपीईजी प्रारूप में निम्नलिखित दस्तावेजों की आवश्यकता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "व्यवसाय प्रमाणपत्र आवेदन सफलतापूर्वक सबमिट किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_TO_CITIZEN_ARCHITECT_CITIZEN_APPROVAL_INPROCESS",
+        "message": "आवेदन संदर्भ आवेदक और वास्तुकार के साथ साझा किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_TO_ARCHITECT_INITIATE",
+        "message": "अधिभोग प्रमाणपत्र आवेदन की सफलतापूर्वक समीक्षा की गई",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_TO_ARCHITECT_ARCHITECT_INITIATED",
+        "message": "आर्किटेक्ट को आपकी समीक्षा टिप्पणियों के बारे में सूचित किया जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_HEADER_BPA_OC_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "व्यवसाय प्रमाणपत्र आवेदन सफलतापूर्वक सबमिट किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_TO_CITIZEN_ARCHITECT_CITIZEN_APPROVAL_INPROCESS",
+        "message": "आवेदन संदर्भ आवेदक और वास्तुकार के साथ साझा किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_APPROVE_INPROGRESS",
+        "message": "अधिभोग प्रमाणपत्र आवेदन की सफलतापूर्वक समीक्षा की गई",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_APPROVE_ARCHITECT_INPROGRESS",
+        "message": "आर्किटेक्ट के मोबाइल नंबर पर नोटिफिकेशन भेजा जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_APPLY_PENDING_APPL_FEE",
+        "message": "व्यवसाय प्रमाणपत्र आवेदन सफलतापूर्वक सबमिट किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCY_CERTIFICATE_APPLICATION_NUMBER_LABEL",
+        "message": "व्यवसाय प्रमाण पत्र आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_APPLY_ARCHITECT_PENDING_APPL_FEE",
+        "message": "आवेदन संदर्भ आवेदक और वास्तुकार के साथ साझा किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_DOC_VERIFICATION_INPROGRESS",
+        "message": "आवेदक को ऑक्युपेंसी सर्टिफिकेट आवेदन भेजा जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_ARCHITECT_DOC_VERIFICATION_INPROGRESS",
+        "message": "आवेदक और वास्तुकार को सूचित किया जाता है कि स्पष्टीकरण के लिए आवेदन वापस भेज दिया गया है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_HEADER_BPA_OC_VERIFY_FORWARD_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "व्यवसाय प्रमाणपत्र आवेदन सफलतापूर्वक सबमिट किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_SUB_HEADER_BPA_OC_VERIFY_FORWARD_ARCHITECT_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "आवेदन संदर्भ आवेदक और वास्तुकार के साथ साझा किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "अधिभोग प्रमाणपत्र आवेदन के लिए दस्तावेज़ सत्यापन सफलतापूर्वक किया गया। शीघ्र ही फील्ड निरीक्षण के लिए आवेदन पर कार्रवाई की जाएगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_FORWARD_ARCHITECT_FIELDINSPECTION_INPROGRESS",
+        "message": "दस्तावेज़ सत्यापन पूरा करने के लिए आवेदक और वास्तुकार को सूचित किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_FIELDINSPECTION_INPROGRESS",
+        "message": "आवेदक को ऑक्युपेंसी सर्टिफिकेट आवेदन भेजा जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_ARCHITECT_FIELDINSPECTION_INPROGRESS",
+        "message": "आवेदक और वास्तुकार को सूचित किया जाता है कि आवेदन को स्पष्टीकरण के लिए वापस भेज दिया गया है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_HEADER_BPA_OC_VERIFY_FORWARD_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "व्यवसाय प्रमाणपत्र आवेदन सफलतापूर्वक सबमिट किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_SUB_HEADER_BPA_OC_VERIFY_FORWARD_ARCHITECT_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "आवेदन संदर्भ आवेदक और आर्किटेक्ट के साथ साझा किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "ऑक्युपेंसी सर्टिफिकेट आवेदन के लिए फील्ड निरीक्षण सफलतापूर्वक किया गया। शीघ्र ही अनापत्ति प्रमाण पत्र के लिए आवेदन पर कार्रवाई की जाएगी।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_FORWARD_ARCHITECT_NOC_VERIFICATION_INPROGRESS",
+        "message": "आवेदक और वास्तुकार को फील्ड निरीक्षण पूरा करने के लिए सूचित किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_NOC_VERIFICATION_INPROGRESS",
+        "message": "आवेदक को ऑक्युपेंसी सर्टिफिकेट आवेदन भेजा जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_ARCHITECT_NOC_VERIFICATION_INPROGRESS",
+        "message": "आवेदक और वास्तुकार को सूचित किया जाता है कि स्पष्टीकरण के लिए आवेदन वापस भेज दिया गया है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_HEADER_BPA_OC_VERIFY_FORWARD_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "व्यवसाय प्रमाणपत्र आवेदन सफलतापूर्वक सबमिट किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_SUB_HEADER_BPA_OC_VERIFY_FORWARD_ARCHITECT_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "आवेदन संदर्भ आवेदक और वास्तुकार के साथ साझा किया जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_FORWARD_APPROVAL_INPROGRESS",
+        "message": "ऑक्युपेंसी सर्टिफिकेट आवेदन के लिए एनओसी सफलतापूर्वक हो गया। आवेदन अब स्वीकृति के लिए देय है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_FORWARD_ARCHITECT_APPROVAL_INPROGRESS",
+        "message": "आवेदक को एनओसी प्राप्त करने के लिए सूचित किया जाता है।\n\n",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_CITIZEN_APPROVAL_PENDING_NOT_DONE",
+        "message": "वास्तुकार से लंबित स्पष्टीकरण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_SEND_TO_CITIZEN_BY_ARCHITECT_DONE",
+        "message": "आर्किटेक्ट स्पष्टीकरण किया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_DOC_VERIFICATION_PENDING_NOT_DONE",
+        "message": "नागरिक से स्पष्टीकरण लंबित है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_FIELDINSPECTION_PENDING_NOT_DONE",
+        "message": "नागरिक से स्पष्टीकरण लंबित है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_NOC_VERIFICATION_PENDING_NOT_DONE",
+        "message": "नागरिक से स्पष्टीकरण लंबित है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_BACK_FROM_DOC_VERIFICATION_DONE",
+        "message": "नागरिक स्पष्टीकरण सबमिट किया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_DOC_VERIFICATION_PENDING_DONE",
+        "message": "दस्तावेज़ सत्यापन किया जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_FIELDINSPECTION_PENDING_DONE",
+        "message": "फील्ड निरीक्षण किया जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_NOC_VERIFICATION_PENDING_DONE",
+        "message": "एनओसी सत्यापन किया जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_PENDINGAPPROVAL_DONE",
+        "message": "स्वीकृति प्रगति पर है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "आवेदक को ऑक्युपेंसी सर्टिफिकेट आवेदन भेजा जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_ARCHITECT_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "आवेदक और वास्तुकार को सूचित किया जाता है कि आवेदन को स्पष्टीकरण के लिए वापस भेज दिया गया है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWTL_PENDINGDOCVERIFICATION_DONE",
+        "message": "डॉक्यूमेंट वेरिफिकेशन हो गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_NEWTL_PENDINGPAYMENT_DONE",
+        "message": "भुगतान हो गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_PAN_NO",
+        "message": "पैन नंबर",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_CHECKLIST_BUTTON_UP_FILE",
+        "message": "सहायक दस्तावेज संलग्न करें",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPAREG_CANCEL",
+        "message": "रद्द करना",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_STAKEHOLDER_INBOX_LABEL",
+        "message": "हितधारक इनबॉक्स",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_SEARCH_APPLICATION",
+        "message": "खोज आवेदन",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_OC_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL",
+        "message": "नए निर्माण के लिए ओसी प्लान स्क्रूटनी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL",
+        "message": "नए निर्माण के लिए योजना जांच",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_LABEL",
+        "message": "बिल्डिंग प्लान परमिट नए निर्माण",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HOME_BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_LABEL",
+        "message": "नव निर्माण के लिए ओ.सी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_FAILURE_COMMON_PAYMENT_MESSAGE",
+        "message": "भुगतान विफल रही",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_PAYMENT_FAILURE_MESSAGE",
+        "message": "किसी भी राशि की कटौती 24 घंटे में वापस संसाधित की जाएगी",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_REVOCATE_PERMIT_REVOCATION",
+        "message": "नई बिल्डिंग प्लान परमिट आवेदन सफलतापूर्वक रद्द कर दिया गया",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_REVOCATE_ARCHITECT_PERMIT_REVOCATION",
+        "message": "आवेदक और वास्तुकार को निरसन के बारे में सूचित किया जाता है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_REJECT_REJECTED",
+        "message": "नई बिल्डिंग प्लान परमिट आवेदन खारिज कर दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_REJECT_ARCHITECT_REJECTED",
+        "message": "आवेदक और वास्तुकार को अस्वीकृति के बारे में सूचित किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPROVAL_NUMBER",
+        "message": "फायर एनओसी अनुमोदन संख्या",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_BPA_NC_SAN_FEE_ARCHITECT_PAYMENT_MESSAGE_DETAIL",
+        "message": "भुगतान के संबंध में एक सूचना उपयोगकर्ता/स्वामी के पंजीकृत मोबाइल नंबर पर भेज दी गई है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_LOW_REJECT",
+        "message": "अस्वीकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_REJECT",
+        "message": "अस्वीकार",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_REJECT_APPROVAL_INPROGRESS",
+        "message": "परमिट आवेदन खारिज कर दिया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_REJECT_ARCHITECT_APPROVAL_INPROGRESS",
+        "message": "आवेदक और वास्तुकार को अस्वीकृति के बारे में सूचित किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_REJECT_REJECTED",
+        "message": "अधिभोग प्रमाणपत्र आवेदन अस्वीकृत कर दिया गया है",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_REJECT_ARCHITECT_REJECTED",
+        "message": "आवेदक और वास्तुकार को अस्वीकृति के बारे में सूचित किया जाता है।",
+        "module": "rainmaker-bpa",
+        "locale": "hi_IN"
+    }
+]

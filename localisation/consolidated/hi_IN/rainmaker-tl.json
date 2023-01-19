@@ -11842,5 +11842,6569 @@
         "message": "{h2}मेल का विषय - व्यापार लाइसेंस के नवीनीकरण के लिए लंबित आवेदन का अनुमोदन _ ZZZZ{/h2},{p}प्रिय XXXX, {br}क्षेत्र निरीक्षण पूरा हो गया है और आपका YYYY आवेदन ZZZZ अनुमोदन के लिए भेजा गया है। आवेदन की वर्तमान स्थिति की जांच करने के लिए मोबाइल नंबर।{br} पोर्टल यूआरएल - {PORTAL_LINK},{br} धन्यवाद और सादर {br} CCC {br} XYZ{/p} \n\nEGOVS",
         "module": "rainmaker-tl",
         "locale": "hi_IN"
+    },
+    {
+        "code": "TLREGISTRYREPORT",
+        "message": "व्यापार लाइसेंस रजिस्ट्री रिपोर्ट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL Daily Collection report",
+        "message": "व्यापार लाइसेंस दैनिक संग्रह रिपोर्ट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_TRADE_LICENSE_DAILY_COLLECTION_REPORT",
+        "message": "व्यापार लाइसेंस दैनिक संग्रह रिपोर्ट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.receiptdate",
+        "message": "रसीद की तारीख",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.applicationnumber",
+        "message": "टीएल आवेदन संख्या",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.chequedate",
+        "message": "चेक/डीडी तारीख",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.chequeno",
+        "message": "चेक/डीडी सं",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.bankname",
+        "message": "बैंक का नाम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.transactionid",
+        "message": "लेन-देन आईडी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.lastfourdigits",
+        "message": "कार्ड के आखिरी 4 अंक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.totalamountpaid",
+        "message": "राशि (रुपये)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.instrumentstatus",
+        "message": "स्थिति",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.tl.instrumenttype",
+        "message": "साधन प्रकार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.applicationdate",
+        "message": "आवेदन करने की तिथि",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL application number",
+        "message": "आवेदन संख्या",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.applicationchannel",
+        "message": "आवेदन चैनल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.applicationtype",
+        "message": "आवेदन का प्रकार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.applicationstatus",
+        "message": "स्थिति",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.currentowner",
+        "message": "वर्तमान मालिक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.applicationnumber",
+        "message": "आवेदन संख्या",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.tradetype",
+        "message": "व्यापार प्रकार / उप प्रकार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.user.name",
+        "message": "आवेदक का नाम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.licensenumber",
+        "message": "अनुज्ञापत्र क्रमांक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.name",
+        "message": "आवेदक का नाम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.tradename",
+        "message": "व्यापार का नाम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.instrumenttype",
+        "message": "साधन प्रकार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.structuretype",
+        "message": "संरचना प्रकार / उप प्रकार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.issueddate",
+        "message": "लाइसेंस जारी करने की तारीख",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.financialyear",
+        "message": "लाइसेंस वर्ष",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.commencementdate",
+        "message": "व्यापार प्रारंभ तिथि",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.name",
+        "message": "ट्रेड ओनर का नाम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TLAPPLICATIONSTATUSREPORT",
+        "message": "व्यापार लाइसेंस आवेदन स्थिति रिपोर्ट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "reports.tl.locality",
+        "message": "इलाका",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN11",
+        "message": "बैक साइड 33 केवीए ग्रिड पटियाला रोड - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN12",
+        "message": "बैक साइड 66 केवीए ग्रिड पटियाला रोड - एरिया2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN02",
+        "message": "अग्रसैन चौक से माल गोदाम - दोनों तरफ",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN13",
+        "message": "बैक साइड सिविल कोर्ट कॉलोनी - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN20",
+        "message": "बृजबाला अस्पताल के पीछे - क्षेत्र 3",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "FinancialYear_PLACE",
+        "message": "वित्तीय वर्ष",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.licenseexpirydate",
+        "message": "लाइसेंस समाप्ति की तारीख",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.mobilenumber",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "report.tl.elapsedtime",
+        "message": "बीता हुआ समय",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN35",
+        "message": "बीघरवाल चौक से रेलवे स्टेशन - क्षेत्र 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN40",
+        "message": "चंदर कॉलोनी बिगगरवाल रोड - क्षेत्र 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN55",
+        "message": "दीप राइस मिल रोड - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN08",
+        "message": "अतर सिंह कॉलोनी - एरिया 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN18",
+        "message": "बैक साइड नैना देवी मंदिर - क्षेत्र 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN23",
+        "message": "बैकसाइड ओल्ड ग्रेन मार्केट - एरिया 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN25",
+        "message": "बख्तौर नगर - क्षेत्र1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN31",
+        "message": "भाई मूलचंद साहिब कॉलोनी - क्षेत्र1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN49",
+        "message": "कॉलेज रोड (दक्षिणी ओर) - क्षेत्र 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN62",
+        "message": "एकता कॉलोनी (दक्षिणी ओर) - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN41",
+        "message": "चरजन वाला मोहल्ला - एरिया 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN45",
+        "message": "सिनेमा रोड - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN46",
+        "message": "सिनेमा रोड से अली बाजार (उत्तरी साइड) - क्षेत्र 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN54",
+        "message": "माता मोदी पार्क के लिए दीदार दर्जी - पश्चिम की ओर - क्षेत्र1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN56",
+        "message": "डेंटल कॉलेज - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN75",
+        "message": "गौशाला, अरोड़ा कॉलोनी - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN80",
+        "message": "गुग्गा माडी रोड (पूर्व की ओर) - क्षेत्र 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN84",
+        "message": "गुरुद्वारा निया साहिब स्ट्रीट 1 - एरिया 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN105",
+        "message": "जौरा खू से सराफा बाजार (दक्षिणी ओर) - क्षेत्र",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN132",
+        "message": "मोहल्ला अकालगढ़ गुरुद्वारा-क्षेत्र1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN138",
+        "message": "मोहल्ला भोजेका (दोनों तरफ) - क्षेत्र 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN150",
+        "message": "मोहल्ला राजन वाला (दोनों तरफ) - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SU166",
+        "message": "मोहल्ला मेजोरन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN167",
+        "message": "मोहल्ला अंगरिया वाला-क्षेत्र1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN169",
+        "message": "मोहल्ला बांदा पट्टी - क्षेत्र 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN170",
+        "message": "मोहल्ला भाई का - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN109",
+        "message": "कैलाश पर्वत - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN134",
+        "message": "मोहल्ला भद्र काली मंदिर - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN136",
+        "message": "मोहल्ला भट्टा वाला - क्षेत्र2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN137",
+        "message": "मोहल्ला भवन वाला - एरिया1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN144",
+        "message": "मोहल्ला कोहलीयां - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN153",
+        "message": "मोहल्ला सिंहकियान (उत्तरी साइड) - क्षेत्र 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN158",
+        "message": "मोहल्ला-कशाइयां वाला-क्षेत्र 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN161",
+        "message": "मोहल्ला-सिंघकिया वाला - एरिया1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN173",
+        "message": "मोहल्ला गंज शीड़ा - क्षेत्र1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN176",
+        "message": "मोहल्ला कांगो - एरिया 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN178",
+        "message": "मोहल्ला सिंह किया - एरिया2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN194",
+        "message": "गुरुद्वारा पेहली पातशाही उदम सिंह रोड के पास - क्षेत्र",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC478",
+        "message": "प्रीत नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC493",
+        "message": "लिंक कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC494",
+        "message": "आबादपुरा गली नंबर 1 से 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC495",
+        "message": "न्यू सूरजगंज-पश्चिम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC496",
+        "message": "गली नंबर-10-बी-11-बी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC497",
+        "message": "भर्गो नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC498",
+        "message": "भार्गो कैंप",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC499",
+        "message": "रविदास चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC500",
+        "message": "चन्नन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC501",
+        "message": "बूटा मंडी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC502",
+        "message": "सिल्वर ओक अपार्टमेंट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC503",
+        "message": "नकोदर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC504",
+        "message": "चपली चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC505",
+        "message": "संत पुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC506",
+        "message": "आर्य समाज मंदिर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC507",
+        "message": "वाल्मीकि मंदिर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC508",
+        "message": "चपल चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC509",
+        "message": "कबीर मंदिर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC510",
+        "message": "गिरी मंदिर प्राप्त करें",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC511",
+        "message": "निरंकारी भवन गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC512",
+        "message": "रविदास धाम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC513",
+        "message": "कांठ कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC514",
+        "message": "स्टेट बैंक कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC515",
+        "message": "रविदास मंदिर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC516",
+        "message": "शरीफ पुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC517",
+        "message": "टोकरी चौक भरगो कैंप",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC518",
+        "message": "गली मिरासिया वाली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC519",
+        "message": "गली सोमनाथ आरा वाला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC520",
+        "message": "प्रेम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC521",
+        "message": "गली रवि करियाना स्टोर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC522",
+        "message": "गली शर्मा मॉडल स्कूल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC523",
+        "message": "चूने वाली गली बूटा मंडी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC524",
+        "message": "गली पवन कौशल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC525",
+        "message": "भर्गो नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC526",
+        "message": "निवे पासे भरगो नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC527",
+        "message": "आजाद नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC528",
+        "message": "नया सूरज गंज",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC529",
+        "message": "नया सूरज गंज (पश्चिम)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC530",
+        "message": "मॉडल हाउस रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC531",
+        "message": "मेन बाजार भरगो",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC532",
+        "message": "मोहल्ला अमर सॉ मिल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC533",
+        "message": "भर्गो नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC534",
+        "message": "शमशान घाट रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC535",
+        "message": "मोहल्ला वारी वट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC536",
+        "message": "भर्गो नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC537",
+        "message": "तेज मोहन नगर गली नंबर-5 से गली नंबर-11",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC538",
+        "message": "नया अशोक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC539",
+        "message": "नारायण नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC540",
+        "message": "अशोक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC541",
+        "message": "नया संत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC542",
+        "message": "संत नगर, मंगू बस्ती",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC543",
+        "message": "निजातम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC544",
+        "message": "चौहान कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC545",
+        "message": "गणेश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC546",
+        "message": "बस्ती नौ",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC547",
+        "message": "बैंक कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC548",
+        "message": "चार मरला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC549",
+        "message": "ब्लॉक-ए,बी,सी.डी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC550",
+        "message": "भगत सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC551",
+        "message": "राजपूत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC552",
+        "message": "तरनवाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC553",
+        "message": "मोहल्ला कोट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC554",
+        "message": "उत्तम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC555",
+        "message": "मोहल्ला चायम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC556",
+        "message": "तेज मोहन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC557",
+        "message": "संत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC558",
+        "message": "सिद्धार्थ नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC559",
+        "message": "नई आबादी जलोवाल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC560",
+        "message": "के पी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC561",
+        "message": "नया मॉडल हाउस",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC562",
+        "message": "मॉडल ग्राम कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC563",
+        "message": "गही नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC564",
+        "message": "जैन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC565",
+        "message": "न्यू घई नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC566",
+        "message": "चिरागपुरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC567",
+        "message": "न्यू देओल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC568",
+        "message": "न्यू दशमेश नगर ब्लॉक-ए,बी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC569",
+        "message": "न्यू दशमेश नगर ब्लॉक-सी,डी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC570",
+        "message": "तिलक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC571",
+        "message": "करतार नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC572",
+        "message": "नया करतार नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC573",
+        "message": "उदय नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC574",
+        "message": "देओल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC575",
+        "message": "न्यू देओल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC576",
+        "message": "अमन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC577",
+        "message": "मेजर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC578",
+        "message": "पिंक सिटी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC579",
+        "message": "कोट सादिक कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC580",
+        "message": "खारा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC581",
+        "message": "कोट सादिक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC582",
+        "message": "मस्त कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC583",
+        "message": "थिंड एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC584",
+        "message": "साई कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC585",
+        "message": "बीटी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC586",
+        "message": "कांशी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC587",
+        "message": "ग्रीन एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC588",
+        "message": "गीता कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC589",
+        "message": "न्यू गीता कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC590",
+        "message": "ईश्वर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC591",
+        "message": "न्यू दशमेश नगर बी ब्लॉक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC592",
+        "message": "दूरदर्शन एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC593",
+        "message": "टॉवर एन्क्लेव फेज 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC594",
+        "message": "हैमिल्टन टॉवर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC595",
+        "message": "गुरु रविदास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC596",
+        "message": "नया रविदास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC597",
+        "message": "शिव जी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC598",
+        "message": "न्यू शिव जी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC599",
+        "message": "लसुरी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC600",
+        "message": "न्यू लसुरी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC601",
+        "message": "बेगमपुरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC602",
+        "message": "मैं अड्डा बस्ती दानिशमंदन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC603",
+        "message": "मुख्य बाजार बस्ती दानिशमंदन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC604",
+        "message": "वाल्मीकि मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC605",
+        "message": "चंडीगढ़ मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC606",
+        "message": "न्यू चंडीगढ़ मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC607",
+        "message": "चुंगी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC608",
+        "message": "चुंगी नं-9",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC609",
+        "message": "टगरी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC610",
+        "message": "गुरु एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC611",
+        "message": "सुरजीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC612",
+        "message": "बस्ती शेख + दानिशमंदन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC613",
+        "message": "कटरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC614",
+        "message": "गुरु संत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC615",
+        "message": "गुरु नानक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC616",
+        "message": "लसुरी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC617",
+        "message": "बलदेव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC618",
+        "message": "सतकरतार एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC619",
+        "message": "उजाला नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC620",
+        "message": "मोहिंद्रा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC621",
+        "message": "वाल्मीकि मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC622",
+        "message": "वड़ा बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC623",
+        "message": "बनियान मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC624",
+        "message": "सतरां मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC625",
+        "message": "मोचियां मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC626",
+        "message": "तरखाना मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC627",
+        "message": "तेलियान मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC628",
+        "message": "रोड मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC629",
+        "message": "मंजीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC630",
+        "message": "चेत विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC631",
+        "message": "जनक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC632",
+        "message": "छैंया मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC633",
+        "message": "कोट बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC634",
+        "message": "गुलाबिया मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC635",
+        "message": "बड़ा बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC636",
+        "message": "हरगोबिंद कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC637",
+        "message": "गुरदित्ता नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC638",
+        "message": "बोराह मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC639",
+        "message": "सेठिया वाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC640",
+        "message": "धनकियान मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC641",
+        "message": "जैरथ मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC642",
+        "message": "बाग अहलूवालिया",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC643",
+        "message": "कमालिया मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC644",
+        "message": "गोबिंद नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC645",
+        "message": "न्यू गोबिंद नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC646",
+        "message": "दिलबाग नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC647",
+        "message": "120' सड़क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC648",
+        "message": "शास्त्री नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC649",
+        "message": "पुराना शास्त्रीनगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC650",
+        "message": "पुराना दशहरा मैदान",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC651",
+        "message": "सूर्य नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC652",
+        "message": "बस्ती गुजन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC653",
+        "message": "अम्बेडकर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC654",
+        "message": "शाह कुली मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC655",
+        "message": "विरदी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC656",
+        "message": "वाल्मीकि मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC657",
+        "message": "वड़ा वेहरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC658",
+        "message": "सुनयरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC659",
+        "message": "जांगड़ा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC660",
+        "message": "माची मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC661",
+        "message": "हरकृष्ण नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC662",
+        "message": "मंजीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC663",
+        "message": "न्यू दिलबाग नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC664",
+        "message": "दिलबाग नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC665",
+        "message": "लाहौरिया मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC666",
+        "message": "कोट मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC667",
+        "message": "बिंदा चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC668",
+        "message": "डोरिया मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC669",
+        "message": "बोर्ड वाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC670",
+        "message": "मेन बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC671",
+        "message": "शिबू मंदिर चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC672",
+        "message": "नया आदर्श नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC673",
+        "message": "जेपी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC674",
+        "message": "आदर्श नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC675",
+        "message": "जेपी नगर एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC676",
+        "message": "बस्ती नौ",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC677",
+        "message": "कृष्ण नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC678",
+        "message": "बस्ती मिठू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC679",
+        "message": "पटवार खाना",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC680",
+        "message": "कोनल कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC681",
+        "message": "हरबंस नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC682",
+        "message": "न्यू हरबंस नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC683",
+        "message": "न्यू हरबंस नगर एक्स.",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1019",
+        "message": "शहीद बाबू लाभ सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1020",
+        "message": "न्यू शहीद बाबू लाभ सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1021",
+        "message": "मधुबन कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1022",
+        "message": "गुजराती मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1023",
+        "message": "जगवाली काठी नहर के पास",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1024",
+        "message": "रघु नाथ मंदिर मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1025",
+        "message": "कच्चा कोट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1026",
+        "message": "ओल्ड ग्रीन एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1027",
+        "message": "ग्रीन एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1028",
+        "message": "राजा गार्डन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1029",
+        "message": "राजा गार्डन एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1030",
+        "message": "वीआइपी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1031",
+        "message": "बुट्टी एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1032",
+        "message": "गगन विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1033",
+        "message": "भाई गुरदास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1034",
+        "message": "बाबा बचित्तर जी नगर मिठू बस्ती",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1035",
+        "message": "तारा सिंह एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1036",
+        "message": "नई रसीला नगर बस्ती दानिशमंदन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1037",
+        "message": "दिलबाग नगर एक्स.",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1038",
+        "message": "रसीला नगर फेज 2 दानिशमंदन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1039",
+        "message": "रसीला नगर बस्ती दानिशमंदन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1040",
+        "message": "बेगमपुरा कॉलोनी दानिशमंदन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1041",
+        "message": "बाबा बुड्ढा जी नगर मिठू नगर बस्ती",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1042",
+        "message": "एकता नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1043",
+        "message": "नया शास्त्री नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1044",
+        "message": "सतनाम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1045",
+        "message": "अनूप नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1046",
+        "message": "बाल भाई नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1047",
+        "message": "बदरी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1048",
+        "message": "बदरी कालोनी चरण (2)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1049",
+        "message": "राम शेरनाम कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1050",
+        "message": "पीर दास बस्ती",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1051",
+        "message": "कमर विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1052",
+        "message": "पनु विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1053",
+        "message": "पारस एस्टेट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1054",
+        "message": "पारस एस्टेट 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1055",
+        "message": "महाराजा उद्यान",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1056",
+        "message": "हरबंसे नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1057",
+        "message": "5 पीर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1058",
+        "message": "अनूप नगर (2)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1059",
+        "message": "शेर सिंह कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1060",
+        "message": "रोशन कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1061",
+        "message": "किला मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1062",
+        "message": "कठेरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1063",
+        "message": "गौतम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1064",
+        "message": "न्यू गौतम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1065",
+        "message": "कबीर विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1066",
+        "message": "गुरु राम दास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1067",
+        "message": "माता संत कौर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1068",
+        "message": "जालंधर प्रधान",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1069",
+        "message": "जालंधर विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1070",
+        "message": "जालंधर कुंज",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1071",
+        "message": "राजन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1072",
+        "message": "कैलाश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1073",
+        "message": "बाल्मीक मोहल्ला बावा खेल,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1074",
+        "message": "अकाल एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1075",
+        "message": "बस्ती बावा खेल (मुख्य)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1076",
+        "message": "राज नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1077",
+        "message": "नया राज नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1078",
+        "message": "कबीर विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1079",
+        "message": "बैंक कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1080",
+        "message": "बस्ती बावा खेल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1081",
+        "message": "कटेहरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1082",
+        "message": "नया रतन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1083",
+        "message": "गुरु नानक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1084",
+        "message": "न्यू गुरु नानक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1085",
+        "message": "शिव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1086",
+        "message": "बाबा कहनदास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1",
+        "message": "अशोक विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC2",
+        "message": "बैंक कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC3",
+        "message": "सराभा नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC4",
+        "message": "पश्चिम विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC5",
+        "message": "अमृत विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC6",
+        "message": "चक जिंदा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC7",
+        "message": "तूर एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC8",
+        "message": "नवजोत कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC9",
+        "message": "नव गुरु अमर दास विस्तार पश्चिम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC10",
+        "message": "गुरबचन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC11",
+        "message": "इंद्रा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC12",
+        "message": "संत विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC13",
+        "message": "कालिया कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC14",
+        "message": "कालिया कॉलोनी Ph-1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC15",
+        "message": "कालिया कॉलोनी पीएच-2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC16",
+        "message": "कालिया कॉलोनी पीएच-3",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC17",
+        "message": "कालिया फार्म",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC18",
+        "message": "गुरु अमर दास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC19",
+        "message": "गुरु अमर दास नगर 2- मरला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC20",
+        "message": "न्यू गुरु अमर दास नगर एक्सटेंशन।",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC21",
+        "message": "गुरु अमर दास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC22",
+        "message": "वीनस वैली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC23",
+        "message": "बाबा मोहन दास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC24",
+        "message": "सलेमपुर मुसलमाना",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC25",
+        "message": "स्वर्ण पार्क -1 स्वर्ण प्राक - 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC26",
+        "message": "संजय गांधी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC27",
+        "message": "गदाईपुर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC28",
+        "message": "राजा गार्डन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC29",
+        "message": "राम बाग कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC30",
+        "message": "दादा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC31",
+        "message": "औद्योगिक क्षेत्र",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC32",
+        "message": "केन्द्र बिंदु",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC33",
+        "message": "ट्रांसपोर्ट नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC34",
+        "message": "उद्योग नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC35",
+        "message": "परशुराम पुर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC36",
+        "message": "वड्डा सईपुर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC37",
+        "message": "रेरू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC38",
+        "message": "हरगोबिंद नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC39",
+        "message": "पंजाबी बाग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC40",
+        "message": "बचिंत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC41",
+        "message": "परशुराम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC42",
+        "message": "कहनपुर आबादी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC43",
+        "message": "रमणीक एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC44",
+        "message": "बाबा दीप सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC45",
+        "message": "नूरपुर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC46",
+        "message": "सुंदर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC47",
+        "message": "हरगोबिंद नगर, ढोगरी रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC50",
+        "message": "सराभा नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC51",
+        "message": "चाक हुसियाना",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC52",
+        "message": "लांबा पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC53",
+        "message": "चंडीगढ़ मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC54",
+        "message": "सुच्ची पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC55",
+        "message": "हरदयाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC56",
+        "message": "न्यू हरदयाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC57",
+        "message": "हरदीप नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC58",
+        "message": "जज कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC59",
+        "message": "प्रेम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC60",
+        "message": "गुलमोहर शहर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC61",
+        "message": "थ्री स्टार कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC62",
+        "message": "सोमा नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC63",
+        "message": "माता सलानी मंदिर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC64",
+        "message": "बाबा गाडिला शाम कॉलोनी (सुच्ची पिंड)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC65",
+        "message": "दीप कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC66",
+        "message": "न्यू उपकार नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC754",
+        "message": "दीन दयाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC755",
+        "message": "प्रेम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC756",
+        "message": "नया प्रेम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC757",
+        "message": "सत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC758",
+        "message": "चंदन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC759",
+        "message": "फतेह पुरी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC760",
+        "message": "विक्रमपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC761",
+        "message": "सुभाष नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC762",
+        "message": "प्रताप नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC763",
+        "message": "पुरानी कचहरी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC764",
+        "message": "पिपलान गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC765",
+        "message": "चाढ़ियां मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC766",
+        "message": "लवन मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC767",
+        "message": "चारजियान मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC768",
+        "message": "मीठा बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC769",
+        "message": "भैरों बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC770",
+        "message": "किला मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC771",
+        "message": "काजी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC772",
+        "message": "खिंगरान गेट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC773",
+        "message": "मुगलन ढिकी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC774",
+        "message": "प्रेम गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC775",
+        "message": "पुरियां मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC776",
+        "message": "सहगलन मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC777",
+        "message": "मोडियन टॉड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC778",
+        "message": "थापरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC779",
+        "message": "माई हिरन गेट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC780",
+        "message": "फगवाड़ा गेट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC781",
+        "message": "रास्ता मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC782",
+        "message": "बिलिया मंदिर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC783",
+        "message": "तल्ही मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC784",
+        "message": "बाघिया व्रा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC785",
+        "message": "कुदा शाह चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC786",
+        "message": "फिर बोधला बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC787",
+        "message": "कालो वाणी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC788",
+        "message": "अटारी बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC789",
+        "message": "नचा बढ़ गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC790",
+        "message": "कांचिया बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC791",
+        "message": "काजी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC792",
+        "message": "किला मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC793",
+        "message": "शिवराज गढ़",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC794",
+        "message": "पंज पीर चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC795",
+        "message": "भगत सिंह चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC796",
+        "message": "रेलवे रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC797",
+        "message": "ऋषि नगर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC798",
+        "message": "प्रताप बाग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC799",
+        "message": "आवा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC800",
+        "message": "कोट किशन चंद",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC801",
+        "message": "जगत पुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC802",
+        "message": "धन मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC803",
+        "message": "ऋषि नगर (5 गली)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC804",
+        "message": "किशनपुरा (5 गली)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC805",
+        "message": "इंदरपस्थ मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC806",
+        "message": "आर्य समाज मंदिर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC807",
+        "message": "भीम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC808",
+        "message": "सांसी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC809",
+        "message": "दौलतपुरी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC810",
+        "message": "कपूर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC811",
+        "message": "अजीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC812",
+        "message": "अमरीक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC813",
+        "message": "न्यू अजीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC814",
+        "message": "न्यू अमरीक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC815",
+        "message": "बाबा मठ शाह",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC816",
+        "message": "संतोषी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC817",
+        "message": "मद्रासी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC818",
+        "message": "काजी मंडी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC819",
+        "message": "किशन पुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC820",
+        "message": "होशियारपुर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC821",
+        "message": "पुराना होशियारपुर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC822",
+        "message": "बलदेव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC823",
+        "message": "न्यू बलदेव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC824",
+        "message": "बाबा बालक नाथ मार्केट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC825",
+        "message": "मद्रासी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC826",
+        "message": "रविदास स्कूल रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC827",
+        "message": "ढोंका मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC828",
+        "message": "पृथ्वी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC829",
+        "message": "नया पृथ्वी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC830",
+        "message": "लांबापिंड रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC831",
+        "message": "दत्ता गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC832",
+        "message": "रमन शिव मंदिर मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC833",
+        "message": "अजीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC834",
+        "message": "बाल्मीकि मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC835",
+        "message": "विवेक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC836",
+        "message": "नया विवेक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC837",
+        "message": "अर्जुन सिंह नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC838",
+        "message": "जयमल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC839",
+        "message": "दुर्गा मंदिर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC840",
+        "message": "विनय नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC841",
+        "message": "आकाश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC842",
+        "message": "अर्जुन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC843",
+        "message": "जयमल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC844",
+        "message": "उपकार नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC845",
+        "message": "न्यू उपकार नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC846",
+        "message": "गांधी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC847",
+        "message": "न्यू गांधी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC848",
+        "message": "चक्क हुसैना",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC849",
+        "message": "होशियारपुर रोड लांबा पिंड (बाईं ओर)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC850",
+        "message": "मुस्लिम कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC851",
+        "message": "नया विनय नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC852",
+        "message": "हंस एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC853",
+        "message": "नया संतोखपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC854",
+        "message": "दुर्गा विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC855",
+        "message": "सराभा नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC856",
+        "message": "गुरु राम दास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC857",
+        "message": "निवी आबादी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC858",
+        "message": "लक्ष्मीपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC859",
+        "message": "न्यू लक्ष्मीपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC860",
+        "message": "विज नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC861",
+        "message": "संत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC862",
+        "message": "भगतपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC863",
+        "message": "जीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC864",
+        "message": "विकासपुरी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC865",
+        "message": "न्यू विकासपुरी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC866",
+        "message": "अंबिका कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC867",
+        "message": "बी.डी.स्टील",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC868",
+        "message": "संतोखपुरा निवि आबादी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC869",
+        "message": "बस्ती भूरे खा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC870",
+        "message": "शाह सिकंदर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC871",
+        "message": "राम घरिया स्कूल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC872",
+        "message": "प्रीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC873",
+        "message": "बसंत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC874",
+        "message": "नया बसंत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC875",
+        "message": "अमन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC876",
+        "message": "नया अमन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC877",
+        "message": "नई कॉलोनी, टांडा रोड।",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC878",
+        "message": "कमल पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC879",
+        "message": "प्रीत नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC880",
+        "message": "न्यू प्रीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC881",
+        "message": "सोडाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC882",
+        "message": "सिद्ध मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC883",
+        "message": "अशोक विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC884",
+        "message": "रामको कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC885",
+        "message": "न्यू सोदल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC886",
+        "message": "मथुरा नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC887",
+        "message": "कोट बाबा दीप सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC888",
+        "message": "तोबारी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC889",
+        "message": "टांडा रोड हनुमान मंदिर चौक से टांडा रोड रेलवे क्रॉसिंग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC890",
+        "message": "शाह सिकंदर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC891",
+        "message": "कैलाश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC892",
+        "message": "न्यू कैलाश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC893",
+        "message": "न्यू कैलाश नगर एक्स.",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC894",
+        "message": "गोबिंद नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC895",
+        "message": "न्यू गोबिंद नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC896",
+        "message": "जेएमसी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC897",
+        "message": "गुज्जा पीर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC898",
+        "message": "अमर बाग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC899",
+        "message": "सईपुर कलां",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC900",
+        "message": "संजय गांधी, गली नंबर-1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC901",
+        "message": "दादा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC902",
+        "message": "सैनी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC903",
+        "message": "छोटा सईपुर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC904",
+        "message": "हरि सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC905",
+        "message": "शशि नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC906",
+        "message": "लाठी मार मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC907",
+        "message": "सोडाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC908",
+        "message": "गुज्जा पीर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC909",
+        "message": "सोडाल रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC910",
+        "message": "लक्ष्मी विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC911",
+        "message": "काली माता मंदिर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC912",
+        "message": "भगत सिंह कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC913",
+        "message": "बाबा बालक नाथ नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC914",
+        "message": "शिव विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC915",
+        "message": "नहर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC916",
+        "message": "औद्योगिक क्षेत्र",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC917",
+        "message": "दादा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC918",
+        "message": "छोटा सईपुर रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC919",
+        "message": "शिव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC920",
+        "message": "बृज नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC921",
+        "message": "गज्जी गुल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC922",
+        "message": "प्रभात नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC923",
+        "message": "रामनगर रेलवे",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC924",
+        "message": "गज्जी गुज्जा चौक लेफ्ट साइड को पार करना",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC925",
+        "message": "औद्योगिक क्षेत्र एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC926",
+        "message": "नहर औद्योगिक परिसर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC927",
+        "message": "गांधी छावनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC928",
+        "message": "गुरदेव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC929",
+        "message": "गोपाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC930",
+        "message": "सतनाम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC931",
+        "message": "सावन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC932",
+        "message": "वाल्मीकि कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC933",
+        "message": "नई अनाज मंडी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC934",
+        "message": "जैन कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC935",
+        "message": "नया गोपाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC936",
+        "message": "नीला महल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC937",
+        "message": "मोहल्ला करर खां",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC938",
+        "message": "संगरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC939",
+        "message": "टीचर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC940",
+        "message": "कृष्णा नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC941",
+        "message": "टोबरी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC942",
+        "message": "गुरु नानक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC943",
+        "message": "हरनामदासपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC944",
+        "message": "कोट लखपत राय",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC945",
+        "message": "बंदा बहादुर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC946",
+        "message": "कपूरथला रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC947",
+        "message": "बाग बहरिया",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC948",
+        "message": "गुलाब देवी रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC949",
+        "message": "बुल्टन पार्क क्रिकेट स्टेडियम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC950",
+        "message": "दुर्गा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC951",
+        "message": "बीएसएफ कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC952",
+        "message": "गोपाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC953",
+        "message": "न्यू कॉलोनी गोपाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC954",
+        "message": "मेन रोड पुरानी सब्जी मंडी से बर्टन पार्क तक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC955",
+        "message": "संगत सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC956",
+        "message": "बलवंत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC957",
+        "message": "बंधा बहादुर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC958",
+        "message": "सरस्वती विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC959",
+        "message": "पीएनटी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC960",
+        "message": "बाघ भारिया",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC961",
+        "message": "भगवान दास पुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC962",
+        "message": "धीमान नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC963",
+        "message": "अधिश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC964",
+        "message": "नाथा बागेची",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC965",
+        "message": "मिसन कंपाउंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC966",
+        "message": "तालाब भारिया",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC967",
+        "message": "जेल रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC968",
+        "message": "कबीर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC969",
+        "message": "कचहरी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC970",
+        "message": "गांधी कैंप 3 लेन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC971",
+        "message": "विंडसर पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC972",
+        "message": "रोज पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC973",
+        "message": "जैन कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC974",
+        "message": "गुप्ता कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC975",
+        "message": "हरदेव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC976",
+        "message": "गुरु नानक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC977",
+        "message": "गुरु अर्जुन देव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC978",
+        "message": "सरस्वती विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC979",
+        "message": "सुरजीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC980",
+        "message": "मलक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC981",
+        "message": "कल्याणी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC982",
+        "message": "सूर्या विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC983",
+        "message": "विवेकानंद पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC984",
+        "message": "एरिया नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC985",
+        "message": "पिंगलवारा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC986",
+        "message": "गुजराती कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC987",
+        "message": "शारदा नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC988",
+        "message": "सवर्ण पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC989",
+        "message": "राम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC990",
+        "message": "छोटा गांधी नगर कैंप",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC991",
+        "message": "फ्रेंड्स कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC992",
+        "message": "सेठ हुकम चंद कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC993",
+        "message": "ग्रेटर कैलाश",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC994",
+        "message": "मोती नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC995",
+        "message": "नया मोती नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC996",
+        "message": "टैगोर पार्क/नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC997",
+        "message": "प्रोफेसर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC998",
+        "message": "मकसूदां रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC999",
+        "message": "बोहर वाला मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1000",
+        "message": "मकसूदां मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1001",
+        "message": "नागरा रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1002",
+        "message": "ज्वाला नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1003",
+        "message": "नया ज्वाला नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1004",
+        "message": "पटेल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1005",
+        "message": "न्यू पटेल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1006",
+        "message": "गुरु रविदास नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1007",
+        "message": "भूपिंदर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1008",
+        "message": "अशोक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1009",
+        "message": "नागरा पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1010",
+        "message": "नया नागरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1011",
+        "message": "शीतल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1012",
+        "message": "न्यू शीतल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1013",
+        "message": "जुगियां, नई सब्जी मंडी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1014",
+        "message": "शाम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1015",
+        "message": "अमर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1016",
+        "message": "बाबू लाभ सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1017",
+        "message": "रतन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1018",
+        "message": "नया रतन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1087",
+        "message": "ग्राम नागरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1088",
+        "message": "अभिनंदन पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1089",
+        "message": "राष्ट्रीय उद्यान",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1090",
+        "message": "अशोक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1091",
+        "message": "विवेक विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1092",
+        "message": "ग्रीन एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1093",
+        "message": "शांति विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1094",
+        "message": "विवेका नंद पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1095",
+        "message": "सुभाष नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1096",
+        "message": "गोल्डन एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1097",
+        "message": "नवयुग कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1098",
+        "message": "न्यू शिव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1099",
+        "message": "मकसूदां बायपास,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1100",
+        "message": "महाशा कॉलोनी,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1101",
+        "message": "आनंद नगर,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1102",
+        "message": "न्यू आनंद नगर,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1103",
+        "message": "जनता कॉलोनी,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1104",
+        "message": "नवनिर्माण जनता कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1105",
+        "message": "इस्सा नगर,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1106",
+        "message": "गुरु नानक नगर,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1107",
+        "message": "आरा मोहल्ला,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1108",
+        "message": "सूरत नगर,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1109",
+        "message": "मास्टर कॉलोनी,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1110",
+        "message": "अंगद नगर,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1111",
+        "message": "अमनदीप एवेन्यू।",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC67",
+        "message": "मोह कोट राम दास (आबादी)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC68",
+        "message": "करोल बाग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC69",
+        "message": "रेल विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC70",
+        "message": "पटेल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC71",
+        "message": "संगम विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC72",
+        "message": "प्रीत एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC73",
+        "message": "मान सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC74",
+        "message": "सुचि पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC75",
+        "message": "इंडियन ऑयल कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC76",
+        "message": "ग्रीन काउंटी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC77",
+        "message": "लधेवाली पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC78",
+        "message": "चोकन कलां पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC79",
+        "message": "नागल शमा पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC80",
+        "message": "दातार नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC81",
+        "message": "खेहरा एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC82",
+        "message": "कबीर एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC83",
+        "message": "कबीर एवेन्यू एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC84",
+        "message": "पंजाब एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC85",
+        "message": "पंजाब एवेन्यू एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC86",
+        "message": "धालीवाल एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC87",
+        "message": "हिमाचल कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC88",
+        "message": "ग्रीन एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC89",
+        "message": "सनशाइन एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC90",
+        "message": "सिल्वर एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC91",
+        "message": "रंधावा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC92",
+        "message": "लाहौरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC93",
+        "message": "नानक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC94",
+        "message": "बसंत हिल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC95",
+        "message": "यूनिवर्सिटी एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC96",
+        "message": "मोती बाग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC97",
+        "message": "पार्क एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC98",
+        "message": "चोपड़ा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC99",
+        "message": "डॉ. अम्बेडकर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC100",
+        "message": "डेरा प्रीत नगर झुग्गिया",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC101",
+        "message": "मिया कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC102",
+        "message": "शालीमार एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC103",
+        "message": "न्यू दशमेश नगर पार्ट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC104",
+        "message": "काकी पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC105",
+        "message": "न्यू जोगिंदर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC106",
+        "message": "जोगिंदर नगर का हिस्सा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC107",
+        "message": "न्यू बेअंत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC108",
+        "message": "बेअंत नगर का हिस्सा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC109",
+        "message": "गुलमर्ग एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC110",
+        "message": "मेहताब नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC111",
+        "message": "प्रोफेसर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC112",
+        "message": "मोहन विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC113",
+        "message": "लधेवाली का हिस्सा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC114",
+        "message": "न्यू दशमेश नगर का हिस्सा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC115",
+        "message": "ढिलवन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC116",
+        "message": "धनोवाली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC117",
+        "message": "सैनिक विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC118",
+        "message": "पुराना दशमेश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC119",
+        "message": "अजीत विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC120",
+        "message": "गुरु अंगद देव कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC121",
+        "message": "सुंदर नगर मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC122",
+        "message": "कोहिनूर एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC123",
+        "message": "सनी प्राइम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC124",
+        "message": "अरमान नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC125",
+        "message": "जोहान कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC126",
+        "message": "गणेश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC127",
+        "message": "नया गणेश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC128",
+        "message": "मासी मोहल्ला दकोहा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC129",
+        "message": "तरुण एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC130",
+        "message": "काकी पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC131",
+        "message": "अरमान नगर 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC132",
+        "message": "बिरिंग पिंड -1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC133",
+        "message": "बिरिंग पिंड-2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC134",
+        "message": "मोहिंदर सिंह कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC135",
+        "message": "मेंहगा सिंह कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC136",
+        "message": "दादा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC137",
+        "message": "शांति एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC138",
+        "message": "बंगा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC139",
+        "message": "गोल्डन कॉलोनी (चरण 1)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC140",
+        "message": "गोल्डन कॉलोनी (चरण 2)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC141",
+        "message": "गोल्डन कॉलोनी (चरण 3)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC142",
+        "message": "मॉडल एस्टेट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC143",
+        "message": "डिफेंस कॉलोनी (फेज 1)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC144",
+        "message": "न्यू डिफेंस कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC145",
+        "message": "परागपुरा (ओल्ड फगवाड़ा रोड)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC146",
+        "message": "परागपुरा (पिंड)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC147",
+        "message": "परागपुरा (आबादी रेलवे फाटक के पास)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC148",
+        "message": "रत्ती एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC149",
+        "message": "ठाकुर एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC150",
+        "message": "राम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC151",
+        "message": "छोटे राम बाग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC152",
+        "message": "पंच शील कॉलोनी (आधा)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC153",
+        "message": "भुल्लर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC154",
+        "message": "आधुनिक राज्य",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC155",
+        "message": "यादव मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC156",
+        "message": "बाबा बुड्ढा जी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC157",
+        "message": "भूडा जी एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC158",
+        "message": "शहीद गुरविंदर सिंह कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC159",
+        "message": "नेशनल एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC160",
+        "message": "रविदास कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC161",
+        "message": "गुरु नानक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC162",
+        "message": "जगजीत कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC163",
+        "message": "बूढ़ा काकी पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC164",
+        "message": "ग्राम डकोहा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC165",
+        "message": "बाबा बुढा सिंह नगर गली नंबर 1 से 9",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC166",
+        "message": "एकता नगर पीएच-1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC167",
+        "message": "एकता नगर पीएच-2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC168",
+        "message": "जोगिंदर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC169",
+        "message": "पंच रतन कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC170",
+        "message": "न्यू डिफेंस कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC171",
+        "message": "बेअंत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC172",
+        "message": "पुराना बेअंत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC173",
+        "message": "पीएसईबी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC174",
+        "message": "बीबी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC175",
+        "message": "आधा रामा मंडी मेन बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC176",
+        "message": "खटीक मार्केट रामामंडी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC177",
+        "message": "वाल्मीक मोहल्ला रमामंडी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC178",
+        "message": "कृष्णा स्वीट वाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC179",
+        "message": "पलवों वाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC180",
+        "message": "फौजी वाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC181",
+        "message": "भटरा मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC182",
+        "message": "आयतर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC183",
+        "message": "गुरु नानक पुरा पूर्व",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC184",
+        "message": "गुरु नानक पुरा पश्चिम",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC185",
+        "message": "चुगिट्टी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC186",
+        "message": "एकता नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC187",
+        "message": "पी.ए.पी.",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC188",
+        "message": "रेलवे कॉलोनी-3",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC189",
+        "message": "राजिंदर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC191",
+        "message": "सहगल कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC192",
+        "message": "कीर्ति नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC193",
+        "message": "मोहल्ला लडोवली रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC194",
+        "message": "मोहयाल नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC195",
+        "message": "लिंक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC196",
+        "message": "हरगोबिंद पुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC197",
+        "message": "रंजीत नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC198",
+        "message": "न्यू राजिंदर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC199",
+        "message": "पुलिस लाइन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC200",
+        "message": "गुरु नानक पुरा (पश्चिम) गली नंबर 1 से 8",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC201",
+        "message": "नया गुरु नानक पुरा (पश्चिम)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC202",
+        "message": "भोजोवाल पट्टी (चुगिट्टी)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC203",
+        "message": "भारत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC204",
+        "message": "सतनाम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC205",
+        "message": "चुगिट्टी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC206",
+        "message": "वेद राम प्रकाश स्ट्रीट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC207",
+        "message": "गुरु गोबिंद सिंह एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC208",
+        "message": "सुरेया एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC209",
+        "message": "कोमल विहार पुराना और नया",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC210",
+        "message": "बशीरपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC211",
+        "message": "ठाकुर सिंह कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC212",
+        "message": "रॉयल एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC213",
+        "message": "झांसी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC214",
+        "message": "गोबिंद गढ़",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC215",
+        "message": "अर्जुन नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC216",
+        "message": "40 क्वार्टर/चौथाई",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC217",
+        "message": "दशमेश नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC218",
+        "message": "न्यू दशमेश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC219",
+        "message": "संत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC220",
+        "message": "शांति पुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC221",
+        "message": "नई बरादरी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC222",
+        "message": "पोल्ट्री फार्म क्षेत्र",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC223",
+        "message": "प्रेम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC224",
+        "message": "मंडी फेंटन गर्ग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC225",
+        "message": "प्रताप रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC226",
+        "message": "ऋषि नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC227",
+        "message": "ब्रह्म नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC228",
+        "message": "मंडी रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC229",
+        "message": "रेलवे कॉलोनी नंबर 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC230",
+        "message": "गार्ड कॉलोनी नंबर-2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC231",
+        "message": "पुराना जवाहर नगर सिंगल लेन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC232",
+        "message": "सेंट्रल टाउन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC233",
+        "message": "कृष्ण नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC234",
+        "message": "पुराना जवाहर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC235",
+        "message": "मास्टर तारा सिंह नागर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC236",
+        "message": "पी एंड टी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC237",
+        "message": "रियाज पुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC238",
+        "message": "रमेश कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC239",
+        "message": "शिव जी पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC240",
+        "message": "नेताजी पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC241",
+        "message": "सिविल लाइंस",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC242",
+        "message": "मोहल्ला मखदुमपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC243",
+        "message": "मोहल्ला शास्त्री नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC244",
+        "message": "फौजी गली, मोहल्ला मखदुमपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC245",
+        "message": "शिवालिक अपार्टमेंट,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC246",
+        "message": "वीनस अपार्टमेंट,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC247",
+        "message": "बी-ब्लॉक अपार्टमेंट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC248",
+        "message": "स्वर्ग अपार्टमेंट,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC249",
+        "message": "गुरकिरपा अपार्टमेंट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC250",
+        "message": "गंगा अपार्टमेंट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC251",
+        "message": "नकोदर रोड मार्केट, नकोदर चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC252",
+        "message": "लाजपत नगर,",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC253",
+        "message": "लाजपत नगर मार्केट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC254",
+        "message": "आबादपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC255",
+        "message": "बाल्मीकि कॉलोनी लिंक रोड आबादपुरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC256",
+        "message": "मेजर बहादुर सिंह नगर और मार्ग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC257",
+        "message": "न्यू मॉडल टाउन मॉल रोड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC258",
+        "message": "न्यू जवाहर नगर, न्यू जवाहर नगर मार्केट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC259",
+        "message": "गुरु नानक मिशन चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC260",
+        "message": "बद्रीदास कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC261",
+        "message": "पुरानी बारादरी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC262",
+        "message": "स्काईलार्क चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC263",
+        "message": "सिविल लाइंस",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC264",
+        "message": "सहदेव बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC265",
+        "message": "नामदेव चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC266",
+        "message": "जीटी रोड मार्केट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC267",
+        "message": "शास्त्री चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC268",
+        "message": "संजय गांधी बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC269",
+        "message": "न्यू कोर्ट चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC270",
+        "message": "पुलिस लाइन बाजार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC271",
+        "message": "बीएमसी चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC272",
+        "message": "बाजार के सामने बस स्टैंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC273",
+        "message": "लिंक रोड मॉडल टाउन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC274",
+        "message": "वाल्मीकि कॉलोनी मेजर बहादुर सिंह मार्ग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC284",
+        "message": "डिफेंस कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC285",
+        "message": "डिफेंस कॉलोनी एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC286",
+        "message": "छोटी बारादरी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC287",
+        "message": "जसवंत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC288",
+        "message": "रूप नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC289",
+        "message": "अटवाल कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC290",
+        "message": "अटवाल हाउस",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC291",
+        "message": "न्यू हरदयाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC292",
+        "message": "हरदयाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC293",
+        "message": "रूबी अस्पताल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC294",
+        "message": "बीएसएफ कैंप",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC295",
+        "message": "न्यू ग्रीन पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC296",
+        "message": "रेलवे क्वार्टर (कूल रोड)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC297",
+        "message": "गढ़ा/शिव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC298",
+        "message": "दयानंद चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC299",
+        "message": "रतन नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC300",
+        "message": "सरक मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC301",
+        "message": "वाल्मीकि मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC302",
+        "message": "रविदास मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC303",
+        "message": "माखन रामवाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC304",
+        "message": "स्कूल वाली गली, मलिक राम वाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC305",
+        "message": "जीवन सिंह चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC306",
+        "message": "टंकी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC307",
+        "message": "फागू मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC308",
+        "message": "सरपंच वाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC309",
+        "message": "मुख्य बाजार राम मंदिर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC310",
+        "message": "मुख्य बाजार गुरुद्वारा सिंह सभा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC311",
+        "message": "गढ़ा वेहंडा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC312",
+        "message": "फागू मोहल्ला राम मंदिर वाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC313",
+        "message": "जंज घर के पास फगवारी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC314",
+        "message": "फगवारी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC315",
+        "message": "डॉ. माना वाली गली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC316",
+        "message": "पुराना विभाग। 7 मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC317",
+        "message": "कैंट। रोड, फागू मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC318",
+        "message": "कैंट। रोड, फगवारी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC319",
+        "message": "नई कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC320",
+        "message": "जसवंत नगर, दीपक कट पीस के पास",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC321",
+        "message": "गुरुद्वारे के पास जावंत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC322",
+        "message": "जसवंत नगर गली नंबर 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC323",
+        "message": "जसवंत नगर गली ठेकावली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC324",
+        "message": "जसवंत नगर गली नं. 100 3 से 5",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC325",
+        "message": "जसवंत नगर गली 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC326",
+        "message": "गोल्डन एवेन्यू -1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC327",
+        "message": "गोल्डन एवेन्यू-2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC328",
+        "message": "गुरजीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC329",
+        "message": "दशमेश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC330",
+        "message": "चंचल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC331",
+        "message": "छोटी बारादरी पार्ट-2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC332",
+        "message": "ईदगाह मोहल्ला गढ़ा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC333",
+        "message": "सरक मोहल्ला गढ़ा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC334",
+        "message": "गुरु दीवान नगर गढ़ा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC335",
+        "message": "तारा चंद कॉलोनी गढ़ा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC336",
+        "message": "चिंतपूर्णी मोहल्ला",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC337",
+        "message": "गीता कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC338",
+        "message": "गढ़ा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC339",
+        "message": "लेबर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC340",
+        "message": "कुनोवाली",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC341",
+        "message": "अर्बन एस्टेट Ph-1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC342",
+        "message": "M.I.G, H.I.G, L.I.G फ्लैट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC343",
+        "message": "अर्बन एस्टेट फेज हाफ",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC344",
+        "message": "सबोवाल ओल्ड.",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC345",
+        "message": "ईशरपुरी कालोनी (कुछ भाग)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC346",
+        "message": "अर्बन एस्टेट 2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC347",
+        "message": "सबोवाल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC348",
+        "message": "लाहौर नंगल",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC349",
+        "message": "ईशरपुरी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC350",
+        "message": "रंजीत एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC351",
+        "message": "कलगीधर एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC352",
+        "message": "न्यू कलगीधर एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC353",
+        "message": "रविंदर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC354",
+        "message": "दशमेश एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC355",
+        "message": "करोल बाग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC356",
+        "message": "विजय कालोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC357",
+        "message": "गुरु राम दास कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC358",
+        "message": "बाबा माखन शाह लुबाना",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC359",
+        "message": "फ्रेंड्स कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC360",
+        "message": "ऑफिसर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC361",
+        "message": "डीसी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC362",
+        "message": "व्हाइट एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC363",
+        "message": "पंजाबी बाग",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC364",
+        "message": "लाहौर नगर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC365",
+        "message": "हैप्पी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC366",
+        "message": "न्यू ईशरपुरी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC367",
+        "message": "यूनिवर्सल कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC368",
+        "message": "सिंह कालोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC369",
+        "message": "इंजीनियर एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC370",
+        "message": "ग्रीन गार्डन एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC371",
+        "message": "रविंदर नगर एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC372",
+        "message": "पंजाबी बाग एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC373",
+        "message": "मॉडल टाउन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC374",
+        "message": "प्रकाश नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC375",
+        "message": "गुरु नानक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC376",
+        "message": "गुरु नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC377",
+        "message": "ऋषि नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC378",
+        "message": "ज्योति नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC379",
+        "message": "शंकर उद्यान",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC380",
+        "message": "लाल नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC381",
+        "message": "सत्करतार नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC382",
+        "message": "रविंदर नगर एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC383",
+        "message": "चीमा नगर एक्स.",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC384",
+        "message": "वसंत विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC385",
+        "message": "वसंत एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC386",
+        "message": "वसंत विहार एक्स.",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC387",
+        "message": "अर्बन एस्टेट Ph-2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC388",
+        "message": "मॉडल टाउन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC389",
+        "message": "नया जवाहर नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC390",
+        "message": "लाजपत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC391",
+        "message": "दादा नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC392",
+        "message": "ग्रीन एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC393",
+        "message": "ग्रीन मॉडल टाउन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC394",
+        "message": "केवल विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC395",
+        "message": "इंद्र पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC396",
+        "message": "चीमा नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC397",
+        "message": "शिव विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC398",
+        "message": "गुरमीत नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC399",
+        "message": "रमणीक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC400",
+        "message": "बैंक कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC401",
+        "message": "बैंक एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC402",
+        "message": "राजा गार्डन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC403",
+        "message": "केशेव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC404",
+        "message": "एकता विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC405",
+        "message": "न्यू राजा गार्डन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC406",
+        "message": "न्यू राजा गार्डन एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC407",
+        "message": "भाई समुंद सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC408",
+        "message": "न्यू अरोड़ा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC409",
+        "message": "मीठापुर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC410",
+        "message": "किंग कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC411",
+        "message": "ग्रीन वुड एवेन्यू",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC412",
+        "message": "राम विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC413",
+        "message": "सीवरेज बोर्ड क्वार्टर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC414",
+        "message": "75 गार्डन कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC415",
+        "message": "पंचशील कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC416",
+        "message": "मेयर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC417",
+        "message": "न्यू लाइट कॉलोनी फेज-1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC418",
+        "message": "बैंक एन्क्लेव फेज-2",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC419",
+        "message": "निवास विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC420",
+        "message": "सुदामा विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC421",
+        "message": "न्यू सुदामा विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC422",
+        "message": "रॉकी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC423",
+        "message": "न्यू लाइट कॉलोनी फेज-2 (सुधामा विहार)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC424",
+        "message": "वीआईपी कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC425",
+        "message": "साधु सिंह कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC426",
+        "message": "रेड फेस कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC427",
+        "message": "न्यू गार्डन कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC428",
+        "message": "भाई बन्नो जी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC429",
+        "message": "गिल कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC430",
+        "message": "प्रकाश एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC431",
+        "message": "खुरला किंगरा",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC432",
+        "message": "टॉवर टाउन कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC433",
+        "message": "रजत निवास",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC434",
+        "message": "टॉवर एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC435",
+        "message": "गुरु नानक नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC436",
+        "message": "बूटा मंडी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC437",
+        "message": "बूटा पिंड (बैक साइड डॉ. बी.आर. अम्बेडकर पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC438",
+        "message": "स्वामी लाल जी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC439",
+        "message": "न्यू ग्रीन पार्क",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC440",
+        "message": "खुरला कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC441",
+        "message": "प्रोफेसर कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC442",
+        "message": "आर्मी एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC443",
+        "message": "मान नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC444",
+        "message": "चोपड़ा कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC445",
+        "message": "खुरला किंगरा (बैक साइड साईं मंदिर)",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC446",
+        "message": "दूरदर्शन एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC447",
+        "message": "बंबई नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC448",
+        "message": "फ्रेंड्स कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC449",
+        "message": "एसएएस नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC450",
+        "message": "एसएएस नगर एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC451",
+        "message": "न्यू ग्रीन मॉडल टाउन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC452",
+        "message": "पालम रजीत अपार्टमेंट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC453",
+        "message": "बैंक एन्क्लेव भाग 1",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC454",
+        "message": "कुकी ढाब",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC455",
+        "message": "ग्रीन वुड्स अपार्टमेंट",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC456",
+        "message": "पार्क व्यू कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC457",
+        "message": "हाउसिंग बोर्ड कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC458",
+        "message": "सतनाम नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC459",
+        "message": "मान नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC460",
+        "message": "पंजाबी बाग वडाला चौक",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC461",
+        "message": "चाँदी की ऊँचाई",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC462",
+        "message": "प्रताप नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC463",
+        "message": "गुरु गोबिंद सिंह नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC464",
+        "message": "गुरु अर्जन देव नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC465",
+        "message": "जीटीबी एन्क्लेव",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC466",
+        "message": "गार्डन कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC467",
+        "message": "जीटीबी नगर एक्सटेंशन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC468",
+        "message": "जीटीबी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC469",
+        "message": "एफसीआई कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC470",
+        "message": "चाणक्य विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC471",
+        "message": "न्यू जीटीबी नगर",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC472",
+        "message": "विवेक विहार",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC473",
+        "message": "ग्रीन मॉडल टाउन",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC474",
+        "message": "बूटा पिंड",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC475",
+        "message": "वडाला कॉलोनी",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TL_ERROR_TOAST_RENEWAL_1",
+        "message": "एक सक्रिय नवीनीकरण आवेदन है",
+        "module": "rainmaker-tl",
+        "locale": "hi_IN"
     }
 ]

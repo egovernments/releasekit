@@ -1,0 +1,188 @@
+[
+    {
+        "code": "UC_SEARCH_MCOLLECT_HEADER",
+        "message": "Search Challan",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_CHALLAN_NUMBER",
+        "message": "Challan Number",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_MOBILE_NUMBER_LABEL",
+        "message": "Mobile Number",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_RECIEPT_NUMBER_LABEL",
+        "message": "Receipt Number",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_CLEAR_SEARCH_LABEL",
+        "message": "Clear search",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_SEARCH_LABEL",
+        "message": "Search",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_DUE_DATE",
+        "message": "Due Date",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_TOTAL_AMOUNT",
+        "message": "Total amount",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_TABLE_COL_ACTION",
+        "message": "Action",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_COLLECT",
+        "message": "Collect",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "UC_DOWNLOAD_RECEIPT",
+        "message": "Download Receipt",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_PAY_SCREEN_HEADER",
+        "message": "Payment Information",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_COMMON_CONSUMER_CODE",
+        "message": "Consumer Code",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_TAX",
+        "message": "Gas Balloon",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_FIELD_FEE",
+        "message": "Field Fee",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_ARREARS_DETAILS",
+        "message": "Arrear Details",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAY_PAYER_DETAILS",
+        "message": "Payer Details",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_SHOW_CARD",
+        "message": "View Details",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "B_AMRITSAR_REVENUE_SUN12",
+        "message": "Back Side 66 KVA Grid Patiala Road - Area2",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.create.email",
+        "message": "<h2>Mail Sub : Challan {challanno} created for Service {service}</h2><p>Dear {User}, <br>The Challan {challanno} for {service} is created successfully for amount Rs.{challanAmount}. Please do the payment at the counter or pay online using link {Link}<br>Thanks & Regards, <br>{ULB}</p>",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.create.sms",
+        "message": "Dear {User} The Challan {challanno} for {service} is created successfuly for amount Rs.{challanAmount}. Please do the payment at the counter or pay online using link {Link}.\n\nEGOVS ",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.create.inapp",
+        "message": "Dear {User} The Challan {challanno} for {service} is created successfuly for amount Rs.{challanAmount}. Please do the payment at the counter or pay online using link. ",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.update.email",
+        "message": "<h2>Mail Sub : Challan {challanno} is updated with new due amount.</h2><p>Dear {User}, <br>The Challan {challanno} for {service} is updated successfuly. The modified payment due is Rs {challanAmount}. Please do the payment at the counter or pay online using link {Link}<br>Thanks & Regards, <br>{ULB}</p>",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.update.sms",
+        "message": "Dear {User} The Challan {challanno} for {service} is updated successfuly. The modified payment due is Rs {challanAmount}. Please do the payment at the counter or pay online using link {Link}.\n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.update.inapp",
+        "message": "Dear {User} The Challan {challanno} for {service} is updated successfuly.The modified payment due is Rs {challanAmount}.Please do the payment at the counter or pay online using link. ",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.cancel.email",
+        "message": "<h2>Mail Sub : Challan {challanno} is updated as Cancelled.</h2><p>Dear {User}, <br>The Challan {challanno} for  {service} is updated as Cancelled.<br>Thanks & Regards, <br>{ULB}</p>",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.cancel.sms",
+        "message": "Dear {User} The Challan {challanno} for {service} is updated as Cancelled.\n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.cancel.inapp",
+        "message": "Dear {User} The Challan {challanno} for {service} is updated as Cancelled.",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.payment.email",
+        "message": "<h2>Mail Sub : Payment {Payment_No} of Rs.{Payment_Amount} made for challan {challanno}</h2><p>Dear {User},<br>The {Payment_Mode} payment with ref # {Payment_No} for Rs {Payment_Amount} is made against the challan {challanno} successfully. Download the receipt using the link {Online_Receipt_Link}<br>Thanks & Regards, <br>{ULB}</p>",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.payment.sms",
+        "message": "Dear {User} The {Payment_Mode} payment with ref # {Payment_No} for Rs {Payment_Amount} is made against the challan {challanno} successfully. Download the receipt using the link {Online_Receipt_Link}.\n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "echallan.payment.inapp",
+        "message": "Dear {User} The {Payment_Mode} payment with ref # {Payment_No} for Rs {Payment_Amount} is made against the challan {challanno} successfully. Download the receipt using the link.",
+        "module": "rainmaker-uc",
+        "locale": "en_IN"
+    }
+]

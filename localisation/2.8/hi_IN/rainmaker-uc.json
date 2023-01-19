@@ -1,0 +1,104 @@
+[
+    {
+        "code": "echallan.create.sms",
+        "message": "प्रिय {User} {service} के लिए चालान {challanno} को सफलतापूर्वक रु.{challanAmount} के लिए बनाया गया है। कृपया काउंटर पर भुगतान करें या लिंक {Link} का उपयोग करके ऑनलाइन भुगतान करें \n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "echallan.create.inapp",
+        "message": "प्रिय {User} {service} के लिए चालान {challanno} सफलतापूर्वक रु.{challanAmount} के लिए बनाया गया है। कृपया यह करें काउंटर पर भुगतान या लिंक का उपयोग करके ऑनलाइन भुगतान करें।",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "echallan.update.sms",
+        "message": "प्रिय {User} चालान {challanno} {service} के लिए सफलतापूर्वक अपडेट किया गया है। संशोधित भुगतान देय {challanAmount} है।कृपया भुगतान काउंटर पर करें या लिंक {Link} का उपयोग करके ऑनलाइन भुगतान करें। \n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "echallan.update.inapp",
+        "message": "प्रिय {User} चालान {challanno} {service} के लिए सफलतापूर्वक अपडेट किया गया है। संशोधित भुगतान देय {challanAmount} है। कृपया भुगतान काउंटर पर करें या लिंक  का उपयोग करके ऑनलाइन भुगतान करें।\n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "echallan.cancel.sms",
+        "message": "प्रिय {User} चालान {challanno} {service} के लिए रद्द के रूप में अद्यतन किया गया है। \n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "echallan.payment.inapp",
+        "message": "प्रिय {User}, {Payment_Mode} संदर्भ संख्या {Payment_No} के साथ {Payment_Amount} का भुगतान चालान के लिए किया जाता है {चालान}सफलतापूर्वक। भुगतान रसीद डाउनलोड करने के लिए लिंक का उपयोग करें \n\nEGOVS",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_SEARCH_MCOLLECT_HEADER",
+        "message": "चालान खोजें",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_CHALLAN_NUMBER",
+        "message": "चालान संख्या",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_MOBILE_NUMBER_LABEL",
+        "message": "मोबाइल नंबर",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_RECIEPT_NUMBER_LABEL",
+        "message": "रसीद नंबर",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_CLEAR_SEARCH_LABEL",
+        "message": "खोज मिटाएँ",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_SEARCH_LABEL",
+        "message": "खोज",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_DUE_DATE",
+        "message": "नियत तारीख",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_TOTAL_AMOUNT",
+        "message": "कुल राशि",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_TABLE_COL_ACTION",
+        "message": "कार्य",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_COLLECT",
+        "message": "कलेक्ट",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "UC_DOWNLOAD_RECEIPT",
+        "message": "रसीद डाउनलोड करें",
+        "module": "rainmaker-uc",
+        "locale": "hi_IN"
+    }
+]

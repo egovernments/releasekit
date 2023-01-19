@@ -13756,5 +13756,6941 @@
         "message": "<h2>Mail subject - Trade License renewal application pending approval _ ZZZZ</h2><p>Dear XXXX , <br>Field inspection is completed and your YYYY application ZZZZ is sent for approval .You can login to the portal using your mobile number to check the current status of the application.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> XYZ</p> \n\nEGOVS",
         "module": "rainmaker-tl",
         "locale": "en_IN"
+    },
+    {
+        "code": "TLREGISTRYREPORT",
+        "message": "Trade License registry report",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL Daily Collection report",
+        "message": "Trade License Daily Collection report",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_TRADE_LICENSE_DAILY_COLLECTION_REPORT",
+        "message": "Trade License Daily Collection report",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.receiptdate",
+        "message": "Receipt date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.chequedate",
+        "message": "Cheque/DD date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.chequeno",
+        "message": "Cheque/DD No",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.bankname",
+        "message": "Bank Name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.transactionid",
+        "message": "Transaction ID",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.lastfourdigits",
+        "message": "Last 4 digits of card",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.totalamountpaid",
+        "message": "Amount (Rs)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.instrumentstatus",
+        "message": "Status",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "reports.tl.instrumenttype",
+        "message": "Instrument type",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.applicationdate",
+        "message": "Application date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL application number",
+        "message": "Application number",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.applicationchannel",
+        "message": "Application Channel",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.applicationtype",
+        "message": "Application Type",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.applicationstatus",
+        "message": "Status",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.currentowner",
+        "message": "Current Owner",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.applicationnumber",
+        "message": "Application number",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.tradetype",
+        "message": "Trade Type / Sub type",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.user.name",
+        "message": "Applicant Name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.licensenumber",
+        "message": "License No",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.name",
+        "message": "Applicant Name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.tradename",
+        "message": "Name of Trade",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.instrumenttype",
+        "message": "Instrument type",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.structuretype",
+        "message": "Structure type/subtype",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.issueddate",
+        "message": "License issued date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.financialyear",
+        "message": "License year",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.commencementdate",
+        "message": "Trade Commencement date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.name",
+        "message": "Trade Owner Name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TLAPPLICATIONSTATUSREPORT",
+        "message": "Trade License Application Status Report",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "reports.tl.locality",
+        "message": "Locality",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN11",
+        "message": "Back Side 33 KVA Grid Patiala Road - Area 1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN12",
+        "message": "Back Side 66 KVA Grid Patiala Road - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN02",
+        "message": "Aggarsain Chowk to Mal Godown - Both Sides",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN13",
+        "message": "Back Side Civil Courts Colony - Area 1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN20",
+        "message": "Backside Brijbala Hospital - Area3",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FinancialYear_PLACE",
+        "message": "Financial Year",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.licenseexpirydate",
+        "message": "License Expirydate",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.mobilenumber",
+        "message": "Mobile No",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.elapsedtime",
+        "message": "Elapsed Time",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN35",
+        "message": "Bigharwal Chowk to Railway Station - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN40",
+        "message": "Chandar Colony Biggarwal Road - Area 2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN55",
+        "message": "Deep Rice Mill Road - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN08",
+        "message": "ATAR SINGH COLONY - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN18",
+        "message": "Back Side Naina Devi Mandir - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN23",
+        "message": "BACKSIDE OLD GRAIN MARKET - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN25",
+        "message": "Bakhtaur Nagar - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN31",
+        "message": "Bhai Mool Chand Sahib Colony - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN49",
+        "message": "College Road (Southern side) - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN62",
+        "message": "Ekta Colony (Southern Side) - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN41",
+        "message": "Charjan Wala Mohalla - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN45",
+        "message": "Cinema Road - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN46",
+        "message": "Cinema Road to Ali Bazaar (Nothern Side) - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN54",
+        "message": "Deedar Tailor to Mata Modi Park- West Side - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN56",
+        "message": "Dental College - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN75",
+        "message": "Gaushala, Arora Colony - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN80",
+        "message": "Gugga Maadi Road (east side) - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN84",
+        "message": "Gurudwara Niai Sahib Street 1 - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN105",
+        "message": "Jaura Khoo to Saraffa Bazaar (Southern Side) - Area",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN132",
+        "message": "Mohalla Akalgarh Gurudwara - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN138",
+        "message": "Mohalla Bhojeka (both sides) - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN150",
+        "message": "Mohalla Rajan Wala (both sides) - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SU166",
+        "message": "Mohalla Majoran ",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN167",
+        "message": "Mohalla Angaria wala - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN169",
+        "message": "Mohalla Banda Patti - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN170",
+        "message": "Mohalla Bhai Ka - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN109",
+        "message": "Kailash Parbat - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN134",
+        "message": "Mohalla Bhadra Kali Mandir - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN136",
+        "message": "Mohalla Bhatta Wala - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN137",
+        "message": "Mohalla Bhawdeyan Wala - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN144",
+        "message": "Mohalla Kohliyan - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN153",
+        "message": "Mohalla Singhkiyan (Nothern Side) - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN158",
+        "message": "Mohalla-Kashayian wala - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN161",
+        "message": "Mohalla-Singhkiya wala - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN173",
+        "message": "Mohalla Ganj Sheeda - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN176",
+        "message": "Mohalla Kango - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN178",
+        "message": "Mohalla Singh kia - Area2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_SUN194",
+        "message": "Near Gurudwara Pehali Patshahi Udam Singh Road - Area",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC478",
+        "message": "Preet Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC493",
+        "message": "Link Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC494",
+        "message": "Abadpura Gali No.1 to 2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC495",
+        "message": "New Suraj Ganj –west",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC496",
+        "message": "Gali No-10-B-11-B",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC497",
+        "message": "Bhargo Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC498",
+        "message": "Bhargo Camp",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC499",
+        "message": "Ravidass Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC500",
+        "message": "Channan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC501",
+        "message": "Boota Mandi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC502",
+        "message": "Silver Oak Apartments",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC503",
+        "message": "Nakodar Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC504",
+        "message": "Chappli Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC505",
+        "message": "Sant Pura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC506",
+        "message": "Arya Samaj Mandir",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC507",
+        "message": "Valmiki Mandir",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC508",
+        "message": "Chapal Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC509",
+        "message": "Kabir Mandir",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC510",
+        "message": "Gain Giri Mandir",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC511",
+        "message": "Nirankari Bhawan Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC512",
+        "message": "Ravidass Dham",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC513",
+        "message": "Kanth Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC514",
+        "message": "State Bank Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC515",
+        "message": "Ravidass Mandir",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC516",
+        "message": "Sharif Pura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC517",
+        "message": "Tokri Chowk Bhargo Camp",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC518",
+        "message": "Gali Mirasiya Wali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC519",
+        "message": "Gali Somnath Aara Wala",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC520",
+        "message": "Prem Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC521",
+        "message": "Gali Ravi Karyana Store",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC522",
+        "message": "Gali Sharma Model School",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC523",
+        "message": "Chune Wali Gali Boota Mandi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC524",
+        "message": "Gali Pawan Koushal",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC525",
+        "message": "Bhargo Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC526",
+        "message": "Nive Passe Bhargo Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC527",
+        "message": "Azad Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC528",
+        "message": "New Suraj Ganj",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC529",
+        "message": "New Suraj Ganj (West)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC530",
+        "message": "Model House Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC531",
+        "message": "Main Bazar Bhargo",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC532",
+        "message": "Mohalla Amar Saw Mill",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC533",
+        "message": "Bhargo Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC534",
+        "message": "Shamshan Ghat Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC535",
+        "message": "Mohalla Vari Vatt",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC536",
+        "message": "Bhargo Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC537",
+        "message": "Tej Mohan Nagar Gali No-5 to Gali No-11",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC538",
+        "message": "New Ashok Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC539",
+        "message": "Narayan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC540",
+        "message": "Ashok Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC541",
+        "message": "New Sant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC542",
+        "message": "Sant Nagar, Mangu Basti",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC543",
+        "message": "Nijatam Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC544",
+        "message": "Chouhan Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC545",
+        "message": "Ganesh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC546",
+        "message": "Basti Nau",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC547",
+        "message": "Bank Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC548",
+        "message": "Chaar Marla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC549",
+        "message": "Block-A,B,C.D",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC550",
+        "message": "Bhagat Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC551",
+        "message": "Rajput Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC552",
+        "message": "Taranwali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC553",
+        "message": "Mohalla Kot",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC554",
+        "message": "Uttam Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC555",
+        "message": "Mohalla Chaiaam",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC556",
+        "message": "Tej Mohan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC557",
+        "message": "Sant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC558",
+        "message": "Siddhartha Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC559",
+        "message": "New Abadi Jallowal",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC560",
+        "message": "Kay Pee Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC561",
+        "message": "New Model House",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC562",
+        "message": "Model Gram Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC563",
+        "message": "Gahi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC564",
+        "message": "Jaina Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC565",
+        "message": "New Ghai Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC566",
+        "message": "Chiragpura Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC567",
+        "message": "New Deol Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC568",
+        "message": "New Dashmesh Nagar Block-A,B",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC569",
+        "message": "New Dashmesh Nagar  Block-C,D",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC570",
+        "message": "Tilak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC571",
+        "message": "Kartar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC572",
+        "message": "New Kartar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC573",
+        "message": "Udye Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC574",
+        "message": "Deol Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC575",
+        "message": "New Deol Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC576",
+        "message": "Aman Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC577",
+        "message": "Major Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC578",
+        "message": "Pink City Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC579",
+        "message": "Kot Sadiq Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC580",
+        "message": "Khara Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC581",
+        "message": "Kot Sadiq",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC582",
+        "message": "Mast Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC583",
+        "message": "Thind Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC584",
+        "message": "Sai Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC585",
+        "message": "BT Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC586",
+        "message": "Kanshi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC587",
+        "message": "Green Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC588",
+        "message": "Geeta Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC589",
+        "message": "New Geeta Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC590",
+        "message": "Ishwar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC591",
+        "message": "New Dashmesh Nagar B Block",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC592",
+        "message": "Dordarshan Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC593",
+        "message": "Tower Enclave Phase 2nd",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC594",
+        "message": "Hamilton Tower",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC595",
+        "message": "Guru Ravidass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC596",
+        "message": "New Ravidass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC597",
+        "message": "Shiva Ji Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC598",
+        "message": "New Shiva Ji Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC599",
+        "message": "Lasuri Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC600",
+        "message": "New Lasuri Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC601",
+        "message": "Begampura Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC602",
+        "message": "Main Adda Basti Danishmandan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC603",
+        "message": "Main Bazar Basti Danishmandan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC604",
+        "message": "Valmiki Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC605",
+        "message": "Chandigarh Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC606",
+        "message": "New Chandigarh Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC607",
+        "message": "Chungi Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC608",
+        "message": "Chungi No-9",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC609",
+        "message": "Tagri Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC610",
+        "message": "Guru Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC611",
+        "message": "Surjit Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC612",
+        "message": "Basti Sheikh + Danishmandan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC613",
+        "message": "Kattra Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC614",
+        "message": "Guru Sant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC615",
+        "message": "Guru Nanak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC616",
+        "message": "Lasuri Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC617",
+        "message": "Baldev Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC618",
+        "message": "Satkartar Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC619",
+        "message": "Ujala Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC620",
+        "message": "Mohindra Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC621",
+        "message": "Valmiki Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC622",
+        "message": "Vada Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC623",
+        "message": "Banian Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC624",
+        "message": "Satran Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC625",
+        "message": "Mochian Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC626",
+        "message": "Tarkhana Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC627",
+        "message": "Telian Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC628",
+        "message": "Road Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC629",
+        "message": "Manjit Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC630",
+        "message": "Chet Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC631",
+        "message": "Janak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC632",
+        "message": "Chaian Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC633",
+        "message": "Kot Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC634",
+        "message": "Gulabia Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC635",
+        "message": "Bara Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC636",
+        "message": "Hargobind Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC637",
+        "message": "Gurditta Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC638",
+        "message": "Borah Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC639",
+        "message": "Sethia Wali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC640",
+        "message": "Dhankian Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC641",
+        "message": "Jairath Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC642",
+        "message": "Bagh Ahluwalia",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC643",
+        "message": "Kamaliya Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC644",
+        "message": "Gobind Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC645",
+        "message": "New Gobind Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC646",
+        "message": "Dilbagh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC647",
+        "message": "120' Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC648",
+        "message": "Shastri Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC649",
+        "message": "Old Shastri Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC650",
+        "message": "Old Dusshara Ground",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC651",
+        "message": "Surya Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC652",
+        "message": "Basti Gujan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC653",
+        "message": "Ambedkar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC654",
+        "message": "Shah Kuli Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC655",
+        "message": "Virdi Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC656",
+        "message": "Valmiki Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC657",
+        "message": "Vada Vehra",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC658",
+        "message": "Sunyara Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC659",
+        "message": "Jangra Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC660",
+        "message": "Machi Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC661",
+        "message": "Harkrishan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC662",
+        "message": "Manjit Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC663",
+        "message": "New Dilbagh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC664",
+        "message": "Dilbagh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC665",
+        "message": "Lahoria Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC666",
+        "message": "Kot Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC667",
+        "message": "Binda Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC668",
+        "message": "Doriya Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC669",
+        "message": "Board Wali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC670",
+        "message": "Main Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC671",
+        "message": "Shibu Mandir Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC672",
+        "message": "New Adarsh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC673",
+        "message": "J.P.Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC674",
+        "message": "Adarsh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC675",
+        "message": "J.P. Nagar Extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC676",
+        "message": "Basti Nau",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC677",
+        "message": "Krishan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC678",
+        "message": "Basti Mithu",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC679",
+        "message": "Patwar Khana",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC680",
+        "message": "Conal Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC681",
+        "message": "Harbans Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC682",
+        "message": "New Harbans Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC683",
+        "message": "New Harbans Nagar Ext.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1019",
+        "message": "Shaheed Babu Labh Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1020",
+        "message": "New Shaheed Babu Labh Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1021",
+        "message": "Madhuban Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1022",
+        "message": "Gujrati Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1023",
+        "message": "Jagwali Kathi Near Canal",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1024",
+        "message": "Ragu Nath Mandir Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1025",
+        "message": "Kacha Kot",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1026",
+        "message": "Old Green Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1027",
+        "message": "Green Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1028",
+        "message": "Raja Garden",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1029",
+        "message": "Raja Garden Extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1030",
+        "message": "V.I.P Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1031",
+        "message": "Butti Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1032",
+        "message": "Gagan Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1033",
+        "message": "Bhai Gurdass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1034",
+        "message": "Baba Bachittar Ji Nagar Mithu Basti",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1035",
+        "message": "Tara Singh Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1036",
+        "message": "New Rasila Nagar Basti Danishmandan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1037",
+        "message": "Dilbagh Nagar Ext.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1038",
+        "message": "Rasila Nagar Phase 2 Danishmandan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1039",
+        "message": "Rasila Nagar Basti Danishmandan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1040",
+        "message": "Begampura Colony Danishmandan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1041",
+        "message": "Baba Budha Ji Nagar Mithu Nagar Basti",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1042",
+        "message": "Ekta Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1043",
+        "message": "New Shastri Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1044",
+        "message": "Satnam Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1045",
+        "message": "Anoop Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1046",
+        "message": "Bal bro Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1047",
+        "message": "Badhri  Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1048",
+        "message": "Badhri Colony Phase (2)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1049",
+        "message": "Ram Shernam Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1050",
+        "message": "Peer Das Basti",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1051",
+        "message": "Kamar Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1052",
+        "message": "Panu Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1053",
+        "message": "Paras Estate",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1054",
+        "message": "Paras Estate 2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1055",
+        "message": "Maharaja Garden",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1056",
+        "message": "Harbanse Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1057",
+        "message": "5 Peer Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1058",
+        "message": "Anoop Nagar (2)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1059",
+        "message": "Sher Singh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1060",
+        "message": "Roshan Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1061",
+        "message": "Qilla Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1062",
+        "message": "Kathera Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1063",
+        "message": "Gautam Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1064",
+        "message": "New Gautam Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1065",
+        "message": "Kabir Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1066",
+        "message": "Guru Ram Dass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1067",
+        "message": "Mata Sant Kaur Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1068",
+        "message": "Jalandhar Prime",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1069",
+        "message": "Jalandhar Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1070",
+        "message": "Jalandhar Kunj",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1071",
+        "message": "Rajan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1072",
+        "message": "Kailash Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1073",
+        "message": "Balmik Mohalla Bawa Khel,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1074",
+        "message": "Akal Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1075",
+        "message": "Basti Bawa Khel (main)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1076",
+        "message": "Raj Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1077",
+        "message": "New Raj Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1078",
+        "message": "Kabir Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1079",
+        "message": "Bank Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1080",
+        "message": "Basti Bawa Khel",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1081",
+        "message": "Katehara Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1082",
+        "message": "New Rattan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1083",
+        "message": "Guru Nanak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1084",
+        "message": "New Guru Nanak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1085",
+        "message": "Shiv Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1086",
+        "message": "Baba Kahandass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1",
+        "message": "Ashok Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC2",
+        "message": "Bank Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC3",
+        "message": "Sarabha Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC4",
+        "message": "Paschim Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC5",
+        "message": "Amrit Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC6",
+        "message": "Chak Jinda",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC7",
+        "message": "Toor Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC8",
+        "message": "Navjot Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC9",
+        "message": "New Guru Amar Das Extension Paschim",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC10",
+        "message": "Gurbachan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC11",
+        "message": "Indra Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC12",
+        "message": "Sant Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC13",
+        "message": "Kalia Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC14",
+        "message": "Kalia Colony Ph-1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC15",
+        "message": "Kalia Colony PH-2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC16",
+        "message": "Kalia Colony PH-3",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC17",
+        "message": "Kalia Farm",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC18",
+        "message": "Guru Amar Dass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC19",
+        "message": "Guru Amar Dass Nagar 2- Marla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC20",
+        "message": "New Guru Amar Dass Nagar Ext.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC21",
+        "message": "Guru Amar Dass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC22",
+        "message": "Venus Valley",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC23",
+        "message": "Baba Mohan Dass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC24",
+        "message": "Salempur Muslmana",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC25",
+        "message": "Swarn Park-1Swarn Prak- 2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC26",
+        "message": "Sanjay Gandhi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC27",
+        "message": "Gadaipur",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC28",
+        "message": "Raja Garden",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC29",
+        "message": "Ram Bagh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC30",
+        "message": "Dada Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC31",
+        "message": "Industrial Area",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC32",
+        "message": "Focal Point",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC33",
+        "message": "Transport Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC34",
+        "message": "Udyog Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC35",
+        "message": "Parshuram Pur",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC36",
+        "message": "Vadda Saipur",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC37",
+        "message": "Reru",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC38",
+        "message": "Hargobind Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC39",
+        "message": "Punjabi Bagh",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC40",
+        "message": "Bachint Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC41",
+        "message": "Parsuram Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC42",
+        "message": "Kahanpur Abadi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC43",
+        "message": "Ramneek Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC44",
+        "message": "Baba Deep Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC45",
+        "message": "Nurpur Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC46",
+        "message": "Sunder Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC47",
+        "message": "Hargobind Nagar, Dhogri Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC50",
+        "message": "Sarabha Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC51",
+        "message": "Chack Hussiana",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC52",
+        "message": "Lamba Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC53",
+        "message": "Chandigarh Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC54",
+        "message": "Succhi Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC55",
+        "message": "Hardial Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC56",
+        "message": "New Hardial Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC57",
+        "message": "Hardip Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC58",
+        "message": "Judge Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC59",
+        "message": "Prem Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC60",
+        "message": "Gulmohar City",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC61",
+        "message": "Three Star Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC62",
+        "message": "Soma Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC63",
+        "message": "Mata Salani Mandir",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC64",
+        "message": "Baba Gadila Sham colony (Succhi Pind)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC65",
+        "message": "Deep Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC66",
+        "message": "New Upkar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC754",
+        "message": "Deen Dayal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC755",
+        "message": "Prem Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC756",
+        "message": "New Prem Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC757",
+        "message": "Sat Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC758",
+        "message": "Chandan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC759",
+        "message": "Fateh Puri",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC760",
+        "message": "Vikrampura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC761",
+        "message": "Subash Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC762",
+        "message": "Partap Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC763",
+        "message": "Purani Kachehri",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC764",
+        "message": "Piplan Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC765",
+        "message": "Chadhian Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC766",
+        "message": "Lawan Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC767",
+        "message": "Charjian Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC768",
+        "message": "Mitha Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC769",
+        "message": "Bhairon Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC770",
+        "message": "Quilla Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC771",
+        "message": "Qazi Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC772",
+        "message": "Khingran Gate",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC773",
+        "message": "Mughlan Dhiki",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC774",
+        "message": "Prem Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC775",
+        "message": "Purian Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC776",
+        "message": "Sehglan Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC777",
+        "message": "Modian Tod",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC778",
+        "message": "Thapra Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC779",
+        "message": "Mai Hiran Gate",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC780",
+        "message": "Phagwara Gate",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC781",
+        "message": "Rasta Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC782",
+        "message": "Biliya Mandir",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC783",
+        "message": "Talhi Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC784",
+        "message": "Baghia Whra",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC785",
+        "message": "Quda Shah Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC786",
+        "message": "Phir Bodhla Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC787",
+        "message": "Kalo Vani Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC788",
+        "message": "Atari Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC789",
+        "message": "Nacha Badh Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC790",
+        "message": "Kanchia Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC791",
+        "message": "Qazi Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC792",
+        "message": "Qilla Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC793",
+        "message": "Shivraz Garh",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC794",
+        "message": "Panj Peer Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC795",
+        "message": "Bhagat Singh Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC796",
+        "message": "Railway Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC797",
+        "message": "Rishi Nagar Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC798",
+        "message": "Partap Bagh",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC799",
+        "message": "Awa Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC800",
+        "message": "Kot Kishan Chand",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC801",
+        "message": "Jagat Pura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC802",
+        "message": "Dhan Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC803",
+        "message": "Rishi Nagar (5 Gali)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC804",
+        "message": "Kishanpura (5 Gali)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC805",
+        "message": "Inderparsth Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC806",
+        "message": "Arya Samaj Mandir",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC807",
+        "message": "Bheem Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC808",
+        "message": "Sansi Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC809",
+        "message": "Dolatpuri",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC810",
+        "message": "Kapoor Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC811",
+        "message": "Ajit Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC812",
+        "message": "Amrik Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC813",
+        "message": "New Ajit Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC814",
+        "message": "New Amrik Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC815",
+        "message": "Baba Math Shah",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC816",
+        "message": "Santoshi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC817",
+        "message": "Madrasi Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC818",
+        "message": "Qazi Mandi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC819",
+        "message": "Kishan Pura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC820",
+        "message": "Hoshiarpur Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC821",
+        "message": "Old Hoshiarpur Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC822",
+        "message": "Baldev Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC823",
+        "message": "New Baldev Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC824",
+        "message": "Baba Balak Nath Market",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC825",
+        "message": "Madrasi Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC826",
+        "message": "Ravidass School Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC827",
+        "message": "Dhonka Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC828",
+        "message": "Prithvi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC829",
+        "message": "New Prithvi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC830",
+        "message": "Lambapind Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC831",
+        "message": "Dutta Street",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC832",
+        "message": "Raman Shiv Mandir Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC833",
+        "message": "Ajit Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC834",
+        "message": "Balmiki Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC835",
+        "message": "Vivek Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC836",
+        "message": "New Vivek Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC837",
+        "message": "Arjun Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC838",
+        "message": "Jaimal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC839",
+        "message": "Durga Mandir Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC840",
+        "message": "Vinay Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC841",
+        "message": "Akash Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC842",
+        "message": "Arjun Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC843",
+        "message": "Jaimal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC844",
+        "message": "Upkar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC845",
+        "message": "New Upkar Nargar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC846",
+        "message": "Ghandi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC847",
+        "message": "New Ghandi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC848",
+        "message": "Chakk Hussaina",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC849",
+        "message": "Hoshiarpur Road Lamba Pind(Left Side)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC850",
+        "message": "Muslim Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC851",
+        "message": "New Vinay Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC852",
+        "message": "Hans Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC853",
+        "message": "New Santokhpura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC854",
+        "message": "Durga Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC855",
+        "message": "Sarabha Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC856",
+        "message": "Guru Ram Dass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC857",
+        "message": "Niwi Abadi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC858",
+        "message": "Lakshmipura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC859",
+        "message": "New Lakshmipura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC860",
+        "message": "Vij Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC861",
+        "message": "Sant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC862",
+        "message": "Bhagatpura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC863",
+        "message": "Jeet Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC864",
+        "message": "Vikaspuri",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC865",
+        "message": "New Vikaspuri",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC866",
+        "message": "Ambika Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC867",
+        "message": "B.D.Steel",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC868",
+        "message": "Santokhpura Nivi Abadi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC869",
+        "message": "Basti Bhure Kha",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC870",
+        "message": "Shah Sikandar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC871",
+        "message": "Ram Gharia School",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC872",
+        "message": "Preet Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC873",
+        "message": "Basant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC874",
+        "message": "New Basant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC875",
+        "message": "Aman Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC876",
+        "message": "New  Aman Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC877",
+        "message": "New colony, Tanda Rd.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC878",
+        "message": "Kamal Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC879",
+        "message": "Preet Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC880",
+        "message": "New Preet Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC881",
+        "message": "Sodal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC882",
+        "message": "Sidh Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC883",
+        "message": "Ashok Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC884",
+        "message": "Ramco Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC885",
+        "message": "New Sodal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC886",
+        "message": "Mathura Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC887",
+        "message": "Kot Baba Deep Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC888",
+        "message": "Tobari Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC889",
+        "message": "Tanda Road Hanuman Mandir Chowk to Tanda Road Railway Crossing",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC890",
+        "message": "Shah Sikandar Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC891",
+        "message": "Kailash Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC892",
+        "message": "New Kailash Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC893",
+        "message": "New Kailash Nagar Ext.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC894",
+        "message": "Gobind Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC895",
+        "message": "New Gobind Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC896",
+        "message": "J.M.C Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC897",
+        "message": "Gujja Peer Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC898",
+        "message": "Amar Garden",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC899",
+        "message": "Saipur Kalan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC900",
+        "message": "Sanjay Gandhi, Gali No-1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC901",
+        "message": "Dada Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC902",
+        "message": "Saini Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC903",
+        "message": "Chotta Saipur",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC904",
+        "message": "Hari Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC905",
+        "message": "Shashi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC906",
+        "message": "Lathi Mar Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC907",
+        "message": "Sodal  Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC908",
+        "message": "Gujja Peer Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC909",
+        "message": "Sodal Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC910",
+        "message": "Laxmi Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC911",
+        "message": "Kali Mata Mandir Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC912",
+        "message": "Bhagat Singh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC913",
+        "message": "Baba Balak Nath Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC914",
+        "message": "Shiv Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC915",
+        "message": "Canal Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC916",
+        "message": "Industrial Area",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC917",
+        "message": "Dada Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC918",
+        "message": "Chota Saipur Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC919",
+        "message": "Shiv Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC920",
+        "message": "Brij Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC921",
+        "message": "Gajji Gulla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC922",
+        "message": "Parbhat Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC923",
+        "message": "Ram Nagar Railway",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC924",
+        "message": "Crossing to Gajji Gujja Chowk Left Side",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC925",
+        "message": "Industrial Area Ext.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC926",
+        "message": "Canal  Industrial Complex",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC927",
+        "message": "Gandhi Camp",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC928",
+        "message": "Gurdev Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC929",
+        "message": "Gopal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC930",
+        "message": "Satnam Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC931",
+        "message": "Sawan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC932",
+        "message": "Valmiki Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC933",
+        "message": "New Grain Market",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC934",
+        "message": "Jain Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC935",
+        "message": "New Gopal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC936",
+        "message": "Neela Mahal",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC937",
+        "message": "Mohalla Krar Khan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC938",
+        "message": "Sangra Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC939",
+        "message": "Teacher Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC940",
+        "message": "Krishna Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC941",
+        "message": "Tobri Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC942",
+        "message": "Guru Nanak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC943",
+        "message": "Harnamdasspura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC944",
+        "message": "Kot Lakhpat Rai",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC945",
+        "message": "Banda Bahadur Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC946",
+        "message": "Kapurthala Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC947",
+        "message": "Bagh Baharia",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC948",
+        "message": "Gulab Devi Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC949",
+        "message": "Bulton Park Cricket Stadium",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC950",
+        "message": "Durga Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC951",
+        "message": "B.S.F Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC952",
+        "message": "Gopal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC953",
+        "message": "New Colony Gopal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC954",
+        "message": "Main Road Old Sabzi Mandi to Burton Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC955",
+        "message": "Sangat Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC956",
+        "message": "Balwant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC957",
+        "message": "Bandha Bhadur Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC958",
+        "message": "Sarswati Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC959",
+        "message": "PNT Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC960",
+        "message": "Bagh Bharia",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC961",
+        "message": "Bhagwan Dass Pura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC962",
+        "message": "Dhiman Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC963",
+        "message": "Adresh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC964",
+        "message": "Natha Bagechi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC965",
+        "message": "Misson Compound",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC966",
+        "message": "Talab Bharia",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC967",
+        "message": "Jail Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC968",
+        "message": "Kabir Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC969",
+        "message": "Kachari Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC970",
+        "message": "Gandhi Camp 3 Lain",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC971",
+        "message": "Windsor Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC972",
+        "message": "Rose Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC973",
+        "message": "Jain Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC974",
+        "message": "Gupta Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC975",
+        "message": "Hardev Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC976",
+        "message": "Guru Nanak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC977",
+        "message": "Guru Arjun Dev Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC978",
+        "message": "Sarswati Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC979",
+        "message": "Surjit Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC980",
+        "message": "Malak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC981",
+        "message": "Kalyani Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC982",
+        "message": "Suriya Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC983",
+        "message": "Vivekananda Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC984",
+        "message": "Ariya Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC985",
+        "message": "Pingalwara",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC986",
+        "message": "Gujrati Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC987",
+        "message": "Shardha Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC988",
+        "message": "Sawarn Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC989",
+        "message": "Ram Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC990",
+        "message": "Chhota Gandhi Nagar Camp",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC991",
+        "message": "Friends Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC992",
+        "message": "Seth Hukam Chand Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC993",
+        "message": "Greater Kailash",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC994",
+        "message": "Moti Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC995",
+        "message": "New Moti Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC996",
+        "message": "Tagore Park/ Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC997",
+        "message": "Professor Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC998",
+        "message": "Maqsudan Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC999",
+        "message": "Bohar Wala Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1000",
+        "message": "Maqsudan Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1001",
+        "message": "Nagra Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1002",
+        "message": "Jawala Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1003",
+        "message": "New Jawala Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1004",
+        "message": "Patel Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1005",
+        "message": "New Patel Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1006",
+        "message": "Guru Ravidass Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1007",
+        "message": "Bhupinder Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1008",
+        "message": "Ashok Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1009",
+        "message": "Nagra Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1010",
+        "message": "New Nagra",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1011",
+        "message": "Shital Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1012",
+        "message": "New Shital Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1013",
+        "message": "Jugian, New Sabzi Mandi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1014",
+        "message": "Sham Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1015",
+        "message": "Amar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1016",
+        "message": "Babu Labh Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1017",
+        "message": "Rattan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1018",
+        "message": "New Rattan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1087",
+        "message": "Village Nagara",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1088",
+        "message": "Abinandan Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1089",
+        "message": "National Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1090",
+        "message": "Ashok Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1091",
+        "message": "Vivek Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1092",
+        "message": "Green Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1093",
+        "message": "Shanti Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1094",
+        "message": "Viveka Nand Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1095",
+        "message": "Subash Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1096",
+        "message": "Golden Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1097",
+        "message": "Navyug Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1098",
+        "message": "New Shiv Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1099",
+        "message": "Maqsudan Byepass,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1100",
+        "message": "Mahasha Colony,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1101",
+        "message": "Anand Ngr,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1102",
+        "message": "New Anand Ngr,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1103",
+        "message": "Janta Colony,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1104",
+        "message": "Navnirman Janta Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1105",
+        "message": "Issa Nagar,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1106",
+        "message": "Guru Nanak Nagar,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1107",
+        "message": "Aara Mohalla,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1108",
+        "message": "Surat Nagar,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1109",
+        "message": "Master Colony,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1110",
+        "message": "Angad Nagar,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC1111",
+        "message": "Amandip Avenue.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC67",
+        "message": "Moh Kot Ram Dass ( Abadi )",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC68",
+        "message": "Karol Bagh",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC69",
+        "message": "Rail Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC70",
+        "message": "Patel Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC71",
+        "message": "Sangam Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC72",
+        "message": "Preet Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC73",
+        "message": "Mann Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC74",
+        "message": "Suchi Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC75",
+        "message": "Indian Oil Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC76",
+        "message": "Green County",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC77",
+        "message": "Ladhewali Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC78",
+        "message": "Chokan Kalan Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC79",
+        "message": "Nagal Shama Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC80",
+        "message": "Datar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC81",
+        "message": "Khehra Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC82",
+        "message": "Kabir Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC83",
+        "message": "Kabir Avenue Extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC84",
+        "message": "Punjab Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC85",
+        "message": "Punjab Avenue Extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC86",
+        "message": "Dhaliwal Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC87",
+        "message": "Himachal Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC88",
+        "message": "Green Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC89",
+        "message": "Sunshine Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC90",
+        "message": "Silver Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC91",
+        "message": "Randhawa Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC92",
+        "message": "Lahora Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC93",
+        "message": "Nanak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC94",
+        "message": "Basant Hill",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC95",
+        "message": "University Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC96",
+        "message": "Moti Bagh",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC97",
+        "message": "Park Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC98",
+        "message": "Chopra Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC99",
+        "message": "Dr. Ambedkar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC100",
+        "message": "Dera Preet Nagar Jhuggia",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC101",
+        "message": "Miya Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC102",
+        "message": "Shalimar Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC103",
+        "message": "New Dashmesh Nagar Part",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC104",
+        "message": "Kaki Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC105",
+        "message": "New Joginder Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC106",
+        "message": "Part of Joginder Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC107",
+        "message": "New Beant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC108",
+        "message": "Part of Beant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC109",
+        "message": "Gulmarg Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC110",
+        "message": "Mehtab Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC111",
+        "message": "Professor Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC112",
+        "message": "Mohan Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC113",
+        "message": "Part of Ladhewali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC114",
+        "message": "Part of New Dashmesh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC115",
+        "message": "Dhilwan",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC116",
+        "message": "Dhanowali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC117",
+        "message": "Sanik Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC118",
+        "message": "Old Dashmesh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC119",
+        "message": "Ajeet Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC120",
+        "message": "Guru Anged Dev Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC121",
+        "message": "Sunder Nagar Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC122",
+        "message": "Kohinoor Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC123",
+        "message": "Sunny Prime",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC124",
+        "message": "Arman Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC125",
+        "message": "Johan Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC126",
+        "message": "Ganesh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC127",
+        "message": "New Ganesh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC128",
+        "message": "Masi Mohalla Dakoha",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC129",
+        "message": "Tarun Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC130",
+        "message": "Kaki Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC131",
+        "message": "Arman Nagar 2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC132",
+        "message": "Birring Pind-1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC133",
+        "message": "Birring Pind-2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC134",
+        "message": "Mohinder Singh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC135",
+        "message": "Mehnga Singh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC136",
+        "message": "Dada Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC137",
+        "message": "Peace Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC138",
+        "message": "Bunga Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC139",
+        "message": "Golden Colony (Phase 1)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC140",
+        "message": "Golden Colony (Phase 2)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC141",
+        "message": "Golden Colony (Phase 3)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC142",
+        "message": "Model Estate",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC143",
+        "message": "Defence Colony (Phase 1)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC144",
+        "message": "New Defence Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC145",
+        "message": "Paragpura ( Old Phagwara Road)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC146",
+        "message": "Paragpura ( Pind )",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC147",
+        "message": "Paragpura ( Abadi Near Railway fatak )",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC148",
+        "message": "Ratti Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC149",
+        "message": "Thakur Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC150",
+        "message": "Ram Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC151",
+        "message": "Chotte Ram Bagh",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC152",
+        "message": "Panch Sheel Colony ( Half )",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC153",
+        "message": "Bhullar Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC154",
+        "message": "Modern State",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC155",
+        "message": "Yadav Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC156",
+        "message": "Baba Budha Ji Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC157",
+        "message": "Bhuda Ji Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC158",
+        "message": "Shaheed Gurvinder Singh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC159",
+        "message": "National Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC160",
+        "message": "Ravidass Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC161",
+        "message": "Guru Nanak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC162",
+        "message": "Jagjit Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC163",
+        "message": "Old Kaki Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC164",
+        "message": "Village Dakoha",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC165",
+        "message": "Baba Budha Singh Nagar Street No 1 to 9",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC166",
+        "message": "Ekta Nagar  PH-1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC167",
+        "message": "Ekta Nagar PH-2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC168",
+        "message": "Joginder Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC169",
+        "message": "Panch Rattan Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC170",
+        "message": "New Defence Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC171",
+        "message": "Beant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC172",
+        "message": "Old Beant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC173",
+        "message": "PSEB Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC174",
+        "message": "BB Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC175",
+        "message": "Half Rama Mandi Main Bazar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC176",
+        "message": "Khateek Market Ramamandi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC177",
+        "message": "Valmik Mohalla Ramamandi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC178",
+        "message": "Krishna Sweet Wali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC179",
+        "message": "Palwon Wali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC180",
+        "message": "Fouji Wali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC181",
+        "message": "Bhatra Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC182",
+        "message": "Aytar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC183",
+        "message": "Guru Nanak Pura East",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC184",
+        "message": "Guru Nanak Pura West",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC185",
+        "message": "Chugitti",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC186",
+        "message": "Ekta Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC187",
+        "message": "P.A.P",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC188",
+        "message": "Railway Colony-3",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC189",
+        "message": "Rajinder Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC191",
+        "message": "Sehgal Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC192",
+        "message": "Kirti Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC193",
+        "message": "Mohalla Ladowali Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC194",
+        "message": "Mohyal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC195",
+        "message": "Link Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC196",
+        "message": "Hargobind Pura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC197",
+        "message": "Ranjit Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC198",
+        "message": "New Rajinder Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC199",
+        "message": "Police Line",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC200",
+        "message": "Guru Nanak Pura (West) Street No. 1 to 8",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC201",
+        "message": "New Guru Nanak Pura (West)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC202",
+        "message": "Bhojowal Patti (Chugittee)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC203",
+        "message": "Bharat Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC204",
+        "message": "Satnam Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC205",
+        "message": "Chugittee,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC206",
+        "message": "Ved Ram Parkash Street",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC207",
+        "message": "Guru Gobind Singh Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC208",
+        "message": "Sureya Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC209",
+        "message": "Komal Vihar Old & New",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC210",
+        "message": "Bashirpura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC211",
+        "message": "Thakur Singh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC212",
+        "message": "Royal Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC213",
+        "message": "Jhansi Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC214",
+        "message": "Gobind Garh",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC215",
+        "message": "Arjun Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC216",
+        "message": "40 Quarter",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC217",
+        "message": "Dashmesh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC218",
+        "message": "New Dashmesh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC219",
+        "message": "Sant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC220",
+        "message": "Shanti Pura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC221",
+        "message": "New Baradari",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC222",
+        "message": "Poultry Form Area",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC223",
+        "message": "Prem Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC224",
+        "message": "Mandi Fenton Garg",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC225",
+        "message": "Partap Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC226",
+        "message": "Rishi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC227",
+        "message": "Brahm Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC228",
+        "message": "Mandi Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC229",
+        "message": "Railway Colony No. 1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC230",
+        "message": "Guard  Colony No-2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC231",
+        "message": "Old Jawahar Nagar Single Lane",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC232",
+        "message": "Central Town",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC233",
+        "message": "Krishan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC234",
+        "message": "Old Jawahar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC235",
+        "message": "Master Tara Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC236",
+        "message": "P & T Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC237",
+        "message": "Riaz Pura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC238",
+        "message": "Ramesh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC239",
+        "message": "Shiva Ji Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC240",
+        "message": "Netaji Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC241",
+        "message": "Civil Lines",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC242",
+        "message": "Mohalla Makhdumpura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC243",
+        "message": "Mohalla Shastri Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC244",
+        "message": "Fauji Gali, Mohalla Makhdumpura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC245",
+        "message": "Shivalik Apartments,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC246",
+        "message": "Venus Apartments,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC247",
+        "message": "B-Block Apartments",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC248",
+        "message": "Paradise Apartments,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC249",
+        "message": "Gurkirpa  Apartments",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC250",
+        "message": "Ganga Apartments",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC251",
+        "message": "Nakodar Road Market, Nakodar Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC252",
+        "message": "Lajpat Nagar,",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC253",
+        "message": "Lajpat Nagar Market",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC254",
+        "message": "Abadpura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC255",
+        "message": "Balmiki Colony Link Road Abadpura",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC256",
+        "message": "Major Bahadur Singh Nagar & Marg",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC257",
+        "message": "New Model Town Mall Road",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC258",
+        "message": "New Jawahar Nagar, New Jawahar Nagar Market",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC259",
+        "message": "Guru Nanak Mission Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC260",
+        "message": "Badridass Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC261",
+        "message": "Purani Baradari",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC262",
+        "message": "Skylark Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC263",
+        "message": "Civil Lines",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC264",
+        "message": "Sehdev Market",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC265",
+        "message": "Namdev Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC266",
+        "message": "G.T Road Market",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC267",
+        "message": "Shastri Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC268",
+        "message": "Sanjay Gandhi Market",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC269",
+        "message": "New Courts Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC270",
+        "message": "Police Line Market",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC271",
+        "message": "BMC Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC272",
+        "message": "Market Opposite Bus Stand",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC273",
+        "message": "Link Road Model Town",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC274",
+        "message": "Valmiki Colony Major Bahadur Singh Marg",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC284",
+        "message": "Defence Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC285",
+        "message": "Defence Colony Ext.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC286",
+        "message": "Chotti Baradari",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC287",
+        "message": "Jaswant Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC288",
+        "message": "Roop Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC289",
+        "message": "Atwal Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC290",
+        "message": "Atwal House",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC291",
+        "message": "New Hardyal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC292",
+        "message": "Hardyal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC293",
+        "message": "Rubi Hospital",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC294",
+        "message": "BSF Camp",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC295",
+        "message": "New Green Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC296",
+        "message": "Railway Quarter ( Cool Road)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC297",
+        "message": "Garha/Shiv Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC298",
+        "message": "Dayanand chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC299",
+        "message": "Rattan Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC300",
+        "message": "Sark Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC301",
+        "message": "Valmiki Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC302",
+        "message": "Ravi dass Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC303",
+        "message": "Makhan Ramwali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC304",
+        "message": "School wali Gali, Malik Ram Wali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC305",
+        "message": "Jiwan Singh Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC306",
+        "message": "Tanki Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC307",
+        "message": "Phagu Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC308",
+        "message": "Sarpanch wali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC309",
+        "message": "Main Bazar Rama Mandir",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC310",
+        "message": "Main Bazar Gurudwara Singh Sabha",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC311",
+        "message": "Garha Vehanda",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC312",
+        "message": "Phagu Mohalla Ram Mandir wali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC313",
+        "message": "Phagwari Mohalla Near Janj Ghar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC314",
+        "message": "Phagwari Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC315",
+        "message": "Dr. Mana Wali Gali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC316",
+        "message": "Old Div. 7 Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC317",
+        "message": "Cantt. Road, Phagu Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC318",
+        "message": "Cantt. Road, Phagwari Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC319",
+        "message": "New Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC320",
+        "message": "Jaswant Nagar, near Deepak cut piece",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC321",
+        "message": "Jawant Nagar near Gurudwara",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC322",
+        "message": "Jaswant Nagar Gali No. 1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC323",
+        "message": "Jaswant Nagar Gali Thekewali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC324",
+        "message": "Jaswant Nagar Gali no. 100 3 to 5",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC325",
+        "message": "Jaswant Nagar Gali 2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC326",
+        "message": "Golden Aveune-1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC327",
+        "message": "Golden Avenue-2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC328",
+        "message": "Gurjeet Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC329",
+        "message": "Dashmesh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC330",
+        "message": "Chanchal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC331",
+        "message": "Chotti Baradari Part-2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC332",
+        "message": "Idgah Mohalla Garha",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC333",
+        "message": "Sarak Mohalla Garha",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC334",
+        "message": "Guru Diwan Nagar Garha",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC335",
+        "message": "Tara Chand Colony Garha",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC336",
+        "message": "Chintpurni Mohalla",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC337",
+        "message": "Geeta Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC338",
+        "message": "Garha",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC339",
+        "message": "Labour Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC340",
+        "message": "Kunowali",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC341",
+        "message": "Urban Estate Ph-1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC342",
+        "message": "M.I.G, H.I.G, L.I.G Flats",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC343",
+        "message": "Urban Estate Phase Half",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC344",
+        "message": "Sabowal Old.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC345",
+        "message": "Isherpuri Colony (Some Part)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC346",
+        "message": "Urban Estate 2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC347",
+        "message": "Sabowal",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC348",
+        "message": "Lahor Nangal",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC349",
+        "message": "Isherpuri Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC350",
+        "message": "Ranjit  Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC351",
+        "message": "Kalgidhar  Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC352",
+        "message": "New Kalgidhar Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC353",
+        "message": "Ravinder Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC354",
+        "message": "Dashmesh Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC355",
+        "message": "Karol Bagh",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC356",
+        "message": "Vijay  Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC357",
+        "message": "Guru Ram Dass Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC358",
+        "message": "Baba Makhan Shah Lubana",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC359",
+        "message": "Friends Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC360",
+        "message": "Officer Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC361",
+        "message": "D.C Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC362",
+        "message": "White Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC363",
+        "message": "Punjabi Bagh",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC364",
+        "message": "Lahor Nagar Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC365",
+        "message": "Happy Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC366",
+        "message": "New Isherpuri",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC367",
+        "message": "Universal Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC368",
+        "message": "Singh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC369",
+        "message": "Engineer Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC370",
+        "message": "Green Garden Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC371",
+        "message": "Ravinder Nagar Extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC372",
+        "message": "Punjabi Bagh Extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC373",
+        "message": "Model Town",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC374",
+        "message": "Parkash Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC375",
+        "message": "Guru Nanak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC376",
+        "message": "Guru Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC377",
+        "message": "Rishi Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC378",
+        "message": "Jyoti Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC379",
+        "message": "Shankar Garden",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC380",
+        "message": "Lal Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC381",
+        "message": "Satkartar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC382",
+        "message": "Ravinder Nagar Extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC383",
+        "message": "Cheema Nagar Ext.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC384",
+        "message": "Vasant Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC385",
+        "message": "Vasant Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC386",
+        "message": "Vasant Vihar Ext.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC387",
+        "message": "Urban Estate Ph-2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC388",
+        "message": "Model Town",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC389",
+        "message": "New Jawahar Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC390",
+        "message": "Lajpat Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC391",
+        "message": "Dada Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC392",
+        "message": "Green Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC393",
+        "message": "Green Model Town",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC394",
+        "message": "Kewal Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC395",
+        "message": "Indra Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC396",
+        "message": "Cheema Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC397",
+        "message": "Shiv Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC398",
+        "message": "Gurmeet Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC399",
+        "message": "Ramneek Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC400",
+        "message": "Bank Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC401",
+        "message": "Bank Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC402",
+        "message": "Raja Garden",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC403",
+        "message": "Keshev Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC404",
+        "message": "Ekta Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC405",
+        "message": "New Raja Garden",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC406",
+        "message": "New Raja Garden Extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC407",
+        "message": "Bhai Samund Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC408",
+        "message": "New Arora Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC409",
+        "message": "Mithapur",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC410",
+        "message": "King Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC411",
+        "message": "Green Wood Avenue",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC412",
+        "message": "Ram Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC413",
+        "message": "Sewerage Board Quarter",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC414",
+        "message": "75 Garden Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC415",
+        "message": "Panch Sheel Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC416",
+        "message": "Mayor Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC417",
+        "message": "New Light Colony Phase -1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC418",
+        "message": "Bank Enclave Phase-2",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC419",
+        "message": "Residence Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC420",
+        "message": "Sudhama Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC421",
+        "message": "New Sudhama Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC422",
+        "message": "Rocky Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC423",
+        "message": "New Light Colony Phase-2 (Sudhama Vihar)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC424",
+        "message": "VIP Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC425",
+        "message": "Sadhu Singh Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC426",
+        "message": "Red Face Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC427",
+        "message": "New Garden Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC428",
+        "message": "Bhai Banno Ji Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC429",
+        "message": "Gill Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC430",
+        "message": "Parkash Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC431",
+        "message": "Khurla Kingra",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC432",
+        "message": "Tower Town Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC433",
+        "message": "Silver Residency",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC434",
+        "message": "Tower Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC435",
+        "message": "Guru Nanak Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC436",
+        "message": "Boota Mandi",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC437",
+        "message": "Boota Pind (Back Side Dr.B.R. Ambedkar Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC438",
+        "message": "Swami Lal JI Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC439",
+        "message": "New Green Park",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC440",
+        "message": "Khurla Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC441",
+        "message": "Professor Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC442",
+        "message": "Army Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC443",
+        "message": "Mann Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC444",
+        "message": "Chopra Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC445",
+        "message": "Khurla Kingra (Back Side Sai Mandir)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC446",
+        "message": "Door Darshan Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC447",
+        "message": "Bombay Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC448",
+        "message": "Friends Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC449",
+        "message": "SAS Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC450",
+        "message": "SAS Nagar Extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC451",
+        "message": "New Green Model Town",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC452",
+        "message": "Palam Rajeet Apartments",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC453",
+        "message": "Bank Enclave Part 1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC454",
+        "message": "Kuki Dhab",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC455",
+        "message": "Green Woods Apartments",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC456",
+        "message": "Park View Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC457",
+        "message": "Housing Board Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC458",
+        "message": "Satnam Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC459",
+        "message": "Mann Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC460",
+        "message": "Punjabi Bagh Wadala Chowk",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC461",
+        "message": "Silver heights",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC462",
+        "message": "Partap Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC463",
+        "message": "Guru Gobind Singh Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC464",
+        "message": "Guru Arjan dev Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC465",
+        "message": "G.T.B Enclave",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC466",
+        "message": "Garden Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC467",
+        "message": "G.T.B Nagar extension",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC468",
+        "message": "GTB Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC469",
+        "message": "F.C.I   Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC470",
+        "message": "Chanakya Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC471",
+        "message": "New GTB Nagar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC472",
+        "message": "Vivek Vihar",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC473",
+        "message": "Green Model Town",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC474",
+        "message": "Boota Pind",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANTS_MOHALLA_JLC475",
+        "message": "Wadala Colony",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_ERROR_TOAST_RENEWAL_1",
+        "message": "There is an active renewal application",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_ERROR_TOAST_RENEWAL_2",
+        "message": "created already for the given license number. You cannot proceed",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_ERROR_TOAST_RENEWAL_CANCEL",
+        "message": "The given license number is in cancelled status. Renewal application cannot be processed.",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_ERROR_TOAST_MUTUALLY_EXPIRED",
+        "message": "This License cannot be renewed. Please contact ULB official for details",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_TIMELINE_DOCS",
+        "message": "Timeline",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_VIEW_PROPERTY",
+        "message": "View property",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_CORRESPONDENCE_ADDRESS",
+        "message": "Correspondence address",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_COMMON_SAME_AS_PROPERTY_OWNERS",
+        "message": "Same as property owner",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CPT_COMPLETE_PROPERTY_DETAILS",
+        "message": "View Complete Property Details",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_ID",
+        "message": "Property ID",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_ADDRESS_OLDPID",
+        "message": "Old property ID",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DUES_ARE_PENDING",
+        "message": "Dues are pending",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNERS_NAME",
+        "message": "Name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_CREATE_PROPERTY_HEADER",
+        "message": "Create property",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_TL_INITIATED",
+        "message": "Initiated",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_CREATE_PROPERTY_HEADER_TL",
+        "message": "Create New Property (For Trade License)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_TOT_CONSTRUCTION_AREA_ERROR_MESSAGE",
+        "message": "Please provide a valid value",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OWNER_NAME",
+        "message": "Owner name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_RESPONSE",
+        "message": "Response",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NAME_REQUIRED",
+        "message": "Name required",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_MAXIMUM_UPLOAD_SIZE_EXCEEDED",
+        "message": "Please upload file less than 5 mb",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_APPLICATION_FROM_DATE",
+        "message": "TL application from date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_APPLICATION_TO_DATE",
+        "message": "TL application to date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EDITRENEWAL_INITIATE",
+        "message": "Initiate",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_VIEW_MORE_DETAILS",
+        "message": "View more details",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MUTATION_STATUS",
+        "message": "Status",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_PAYEE_NAME",
+        "message": "Name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DOOR_NUM_LABEL",
+        "message": "Door Number",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CPT_COMPLETE_PROPERTY_DETAILS",
+        "message": "Property details",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_UPLOAD_FORMAT_NOT_SUPPORTED",
+        "message": "Invalid format",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "APPROVE DOC",
+        "message": "Approve doc",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FORWARD DOC",
+        "message": "Forward doc",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CREATE_PROPERTY_SUCCESS_CITIZEN_RESPONSE",
+        "message": "Application reference is sent to your registered mobile number and you will be notified if there is an update for your PT application. You can continue with your trade license application by clicking on proceed below",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_NEW_PROPERTY_APPLICATION_SUBMITTED_SUCCESS",
+        "message": "New Property application is submitted successfully",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_TRADE_GST_NO",
+        "message": "Trade GST Number",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_OPERATIONAL_AREA",
+        "message": "Operational Sq.ft Area",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_NO_OF_EMPLOYEES",
+        "message": "Number of Employees",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PB_AMRITSAR_REVENUE_SUN11",
+        "message": "Back Side 33 KVA Grid Patiala Road - Area1",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_STREET_TEXT",
+        "message": "Enter your street name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_OTHER_TRADE_DETAILS_HEADER",
+        "message": "Other trade Details",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TLREGISTRYREPORT",
+        "message": "Trade License registry report",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL Daily Collection report",
+        "message": "Trade License Daily Collection report",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_TRADE_LICENSE_DAILY_COLLECTION_REPORT",
+        "message": "Trade License Daily Collection report",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.receiptdate",
+        "message": "Receipt date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.chequedate",
+        "message": "Cheque/DD date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.chequeno",
+        "message": "Cheque/DD No",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.bankname",
+        "message": "Bank Name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.transactionid",
+        "message": "Transaction ID",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.lastfourdigits",
+        "message": "Last 4 digits of card",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.totalamountpaid",
+        "message": "Amount (Rs)",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.instrumentstatus",
+        "message": "Status",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "reports.tl.instrumenttype",
+        "message": "Instrument type",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.applicationdate",
+        "message": "Application date",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL application number",
+        "message": "Application number",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.applicationchannel",
+        "message": "Application Channel",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.applicationtype",
+        "message": "Application Type",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.applicationstatus",
+        "message": "Status",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.currentowner",
+        "message": "Current Owner",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.tradetype",
+        "message": "Trade Type / Sub type",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.user.name",
+        "message": "Applicant Name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.licensenumber",
+        "message": "License No",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.name",
+        "message": "Applicant Name",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.tradename",
+        "message": "Name of Trade",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.tl.instrumenttype",
+        "message": "Instrument type",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
     }
 ]
