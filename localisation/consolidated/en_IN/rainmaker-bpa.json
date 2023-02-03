@@ -12496,5 +12496,23 @@
         "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} (Service type) {3} is generated. Click the link below to download the certificate.<br>{DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OWNER_VALIDATION_BPA_ARCHITECT",
+        "message": "The mobile number entered is registered with an Architect , please enter a different mobile number who is a citizen and not an Architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OWNER_VALIDATION_BPA_SUPERVISOR",
+        "message": "The mobile number entered is registered with an Supervisor, please enter a different mobile number who is a citizen and not an Supervisor.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OWNER_VALIDATION_1",
+        "message": "The mobile number entered",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
     }
 ]
