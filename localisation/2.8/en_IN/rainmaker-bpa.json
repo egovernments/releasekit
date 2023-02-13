@@ -1122,224 +1122,44 @@
         "locale": "en_IN"
     },
     {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
-        "message": "Dear {1} , Your Application for New Construction (Service type) is created with application number {3}. Click on Pay button to pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE_EMAIL",
-        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2> <p>Dear {1} , Application fee has to be paid for your {2} (Service type) application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
-        "message": "Dear {1} , Occupancy certificate for your Application for New Construction (Service type) {3} is generated. Click the link below to download the Occupancy certificate. {DOWNLOAD_OC_LINK}\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED_EMAIL",
-        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} (Service type) {3} is generated. Click the link below to download the certificate. <br> {DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
-        "message": "Dear {1} , Your Occupancy certificate application {3} is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
-        "message": "Dear {1} , Your OC Application for New Construction (Service type) is created with application number {3}. Click on Pay button to pay the application fee with deviation penalty of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
+        "message": "Dear {1} , Your OC Application for New Construction is created with application number {3}. Click on Pay button to pay the application fee with deviation penalty of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT_EMAIL",
-        "message": "<h2>Mail subject - OC application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} (Service type) application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
-        "message": "Dear {1} , NOC verification is done for your New Construction (Service type) application {3}. Application is pending for approval. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application NOC verification done _ {3}</h2><p>Dear {1}, <br>NOC verification is done for your {2} (Service type) application {3}.Application is pending for approval.You can check the status of the application by logging to the portal. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1}, Application for your New Construction (Service type) application {3} will be processed for Document verification shortly.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application sent for DOC verification _ {3}/h2}<p>Dear {1} ,Your Application for {2} (Service type) {3} will be processed for Document verification shortly. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
-        "message": "Dear {1} , Documents are verified for your New Construction (Service type) application {3}. Application will be processed for field inspection shortly. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application DOC verification done _ {3}</h2><p>Dear {1} ,Document verification is done for your {2} (Service type) application {3}.Application will be processed for field inspection now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1} , Field verification is done for your New Construction (Service type) application {3}.Application will be processed for NOC now. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application Field inspection done _ {3}</h2><p>Dear {1}, <br>Field verification is done for your {2} (Service type) application {3}.Application will be processed for NOC now.You can check the status of the application by logging to the portal. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
-        "message": "Dear {1} , Your Application for New Construction(Service type) is created with application number {3}. You can view the status of the application from your portal login under 'My applications' link.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED_EMAIL",
-        "message": "<h2>Mail subject - OC application created _ {3}</h2><p>Dear {1}, <br>Your Application for {2}  is created.You can login to the portal using your mobile number {MOBILE_NUMBER}  and navigate to the my applications page to view the application. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
-        "message": "Dear {1} , Occupancy certificate for your Application for New Construction (Service type) {3} is generated. Click the link below to download the Occupancy certificate {DOWNLOAD_OC_LINK}.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED_EMAIL",
-        "message": "<h2>Mail subject - OC application permit order generated _ {3}</h2><p>Occupancy certificate for your Application for {2} (Service type) {3} is generated. Click the link below to download the occupancy certificate. <br> {DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1} , Application fee is received for your OC New Construction (Service type) application {3}. Application will be processed for Document verification shortly. Click the link below for receipt {RECEIPT_LINK}\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application fee payment confirmation_ {3}</h2><p>Application fee is received for your {2} (Service type) application {3}.Application will be processed for Document verification shortly.You can login to the portal to download the payment receipt.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED_EMAIL",
-        "message": "<h2>Mail subject - OC application rejected _ {3}</h2><p>Your Application for {2} (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED_EMAIL",
-        "message": "<h2>Mail subject - OC application rejected _ {3}</h2><p>Your Application for {2} (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
-        "module": "rainmaker-bpa",
-        "locale": "en_IN"
-    },
-    {
-        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1357,7 +1177,7 @@
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
-        "message": "Dear {1} , Your Application for New Construction (Service type) is created with application number {3}. You can navigate to my applications page to review the application and send back to Architect for processing.\n\nEGOVS",
+        "message": "Dear {1} , Your Application for New Construction is created with application number {3}. You can navigate to my applications page to review the application and send back to Architect for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1369,13 +1189,13 @@
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SKIP_PAYMENT_APPROVED",
-        "message": "Dear {1} , Occupancy certificate for your Application for New Construction (Service type) {3} is generated. You can navigate to my applications page to download the OC. {DOWNLOAD_OC_LINK}\n\nEGOVS",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction {3} is generated. You can navigate to my applications page to download the OC. {DOWNLOAD_OC_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SKIP_PAYMENT_APPROVED_EMAIL",
-        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} (Service type) {3} is generated. Click the link below to download the certificate.<br>{DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} {3} is generated. Click the link below to download the certificate.<br>{DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1387,25 +1207,25 @@
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
-        "message": "Dear {1}, Your Application for New Construction (Service type) is created with application number {3}. Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further.{PAYMENT_LINK}\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction is created with application number {3}. Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further.{PAYMENT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE_EMAIL",
-        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} (Service type) application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further  or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} . <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further  or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} . <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_FEE",
-        "message": "Dear {1}, Your Application for {2} (Service type) is created with application number {3}. Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further.{PAYMENT_LINK}\n\nEGOVS",
+        "message": "Dear {1}, Your Application for {2} is created with application number {3}. Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further.{PAYMENT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_FEE_EMAIL",
-        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} (Service type) application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1417,7 +1237,7 @@
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED_EMAIL",
-        "message": "<h2>Mail subject - Building permit application permit order generated _ {3}</h2><p>Dear {1} , Building permit order for your Application for {2} (Service type) {3} is generated. Click the link below to download the permit order.<br> {DOWNLOAD_PERMIT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application permit order generated _ {3}</h2><p>Dear {1} , Building permit order for your Application for {2} {3} is generated. Click the link below to download the permit order.<br> {DOWNLOAD_PERMIT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1435,67 +1255,67 @@
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is approved. Please pay the building permit fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the building permit order.{PAYMENT_LINK}\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is approved. Please pay the building permit fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the building permit order.{PAYMENT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT_EMAIL",
-        "message": "<h2>Mail subject - Building permit application pay permit fee_ {3}</h2><p>Dear {1}, <br> Your Application for {2} (Service type) {3} is approved. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the building permit order or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application pay permit fee_ {3}</h2><p>Dear {1}, <br> Your Application for {2} {3} is approved. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the building permit order or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
-        "message": "Dear {1}, NOC verification is done for your New Construction (Service type) application {3}. Application is pending for approval.\n\nEGOVS",
+        "message": "Dear {1}, NOC verification is done for your New Construction application {3}. Application is pending for approval.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - Building permit application NOC verification done _ {3}</h2><p>NOC verification is done for your {2} (Service type) application {3}.Application is pending for approval.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application NOC verification done _ {3}</h2><p>NOC verification is done for your {2} application {3}.Application is pending for approval.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1}, Application for your New Construction (Service type) application {3} will be processed for Document verification shortly.\n\nEGOVS",
+        "message": "Dear {1}, Application for your New Construction application {3} will be processed for Document verification shortly.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - Building permit application sent for DOC verification _ {3}</h2><p>Dear {1} ,Your Application for {2} (Service type) {3} will be processed for Document verification shortly.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application sent for DOC verification _ {3}</h2><p>Dear {1} ,Your Application for {2} {3} will be processed for Document verification shortly.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
-        "message": "Dear {1}, Documents are verified for your New Construction (Service type) application {3}. Application will be processed for field verification shortly.\n\nEGOVS",
+        "message": "Dear {1}, Documents are verified for your New Construction application {3}. Application will be processed for field verification shortly.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - Building permit application DOC verification done _ {3}</h2><p>Dear {1} ,Document verification is done for your {2} (Service type) application {3}.Application will be processed for field inspection now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application DOC verification done _ {3}</h2><p>Dear {1} ,Document verification is done for your {2} application {3}.Application will be processed for field inspection now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1}, Field verification is done for your New Construction (Service type) application {3}. Application will be processed for NOC now.\n\nEGOVS",
+        "message": "Dear {1}, Field verification is done for your New Construction application {3}. Application will be processed for NOC now.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Field inspection done _ {3}</h2><p>Field verification is done for your {2} (Service type) application {3}.Application will be processed for NOC now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application Field inspection done _ {3}</h2><p>Field verification is done for your {2} application {3}.Application will be processed for NOC now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
-        "message": "Dear {1}, Your Application for New Construction (Service type) is created. Please use the Application number {3} for future reference.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction is created. Please use the Application number {3} for future reference.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1507,127 +1327,127 @@
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
-        "message": "Dear {1}, Building permit order for your Application for New Construction (Service type) {3} is generated. Click the link below to download the permit order {DOWNLOAD_PERMIT_LINK}\n\nEGOVS",
+        "message": "Dear {1}, Building permit order for your Application for New Construction {3} is generated. Click the link below to download the permit order {DOWNLOAD_PERMIT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED_EMAIL",
-        "message": "<h2>Mail subject - Building permit application permit order generated _ {3}</h2><p>Building permit order for your Application for {2} (Service type) {3} is generated. Click the link below to download the permit order.<br> {DOWNLOAD_PERMIT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application permit order generated _ {3}</h2><p>Building permit order for your Application for {2} {3} is generated. Click the link below to download the permit order.<br> {DOWNLOAD_PERMIT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1}, Application fee is received for your New Construction (Service type) application {3}. Application will be processed for Document verification shortly.Click the link below for receipt {RECEIPT_LINK}\n\nEGOVS",
+        "message": "Dear {1}, Application fee is received for your New Construction application {3}. Application will be processed for Document verification shortly.Click the link below for receipt {RECEIPT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - Building permit application fee payment confirmation_ {3}</h2><p>Application fee is received for your {2} (Service type) application {3}.Application will be processed for Document verification shortly.You can login to the portal to download the payment receipt.<br>{RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application fee payment confirmation_ {3}</h2><p>Application fee is received for your {2} application {3}.Application will be processed for Document verification shortly.You can login to the portal to download the payment receipt.<br>{RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED_EMAIL",
-        "message": "<h2>Mail subject - Building permit application rejected _ {3}</h2><p>Your Application for {2} (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application rejected _ {3}</h2><p>Your Application for {2} {3} is rejected. You can login to the portal and check the reason for rejection.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED_EMAIL",
-        "message": "<h2>Mail subject - Building permit application rejected _ {3}</h2><p>Your Application for {2} (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application rejected _ {3}</h2><p>Your Application for {2} {3} is rejected. You can login to the portal and check the reason for rejection.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is revocated. You can login to the portal and check the reason for revocation.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is revocated. You can login to the portal and check the reason for revocation.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT REVOCATION",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is revocated. You can login to the portal and check the reason for revocation.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is revocated. You can login to the portal and check the reason for revocation.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT_EMAIL",
-        "message": "<h2>Mail subject - Building permit permit revocated _ {3}</h2><p>Your Application for {2} (Service type) {3} is revocated. You can login to the portal and check the reason for revocation.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit permit revocated _ {3}</h2><p>Your Application for {2} {3} is revocated. You can login to the portal and check the reason for revocation.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
-        "message": "Dear {1}, Your Application for {2} (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
-        "message": "Dear {1}, Your Application for {2} (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
-        "message": "Dear {1}, Your Application for {2} (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
-        "message": "Dear {1}, Your Application for {2} (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
-        "message": "Dear {1}, Your Application for {2} (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1645,7 +1465,7 @@
     },
     {
         "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
-        "message": "Dear {1}, Your Application for New Construction (Service type) is created with application number {3}. You can login to the portal and navigate to the my applications page to review the application.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction is created with application number {3}. You can login to the portal and navigate to the my applications page to review the application.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1657,25 +1477,25 @@
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
-        "message": "Dear {1} , Your Application for New Construction (Service type) is created with application number {3}. Click on Pay button to pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
+        "message": "Dear {1} , Your Application for New Construction is created with application number {3}. Click on Pay button to pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE_EMAIL",
-        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2> <p>Dear {1} , Application fee has to be paid for your {2} (Service type) application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2> <p>Dear {1} , Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
-        "message": "Dear {1} , Occupancy certificate for your Application for New Construction (Service type) {3} is generated. Click the link below to download the Occupancy certificate. {DOWNLOAD_OC_LINK}\n\nEGOVS",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction {3} is generated. Click the link below to download the Occupancy certificate. {DOWNLOAD_OC_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED_EMAIL",
-        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} (Service type) {3} is generated. Click the link below to download the certificate. <br> {DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} {3} is generated. Click the link below to download the certificate. <br> {DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1687,61 +1507,61 @@
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
-        "message": "Dear {1} , Your OC Application for New Construction (Service type) is created with application number {3}. Click on Pay button to pay the application fee with deviation penalty of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
+        "message": "Dear {1} , Your OC Application for New Construction is created with application number {3}. Click on Pay button to pay the application fee with deviation penalty of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT_EMAIL",
-        "message": "<h2>Mail subject - OC application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} (Service type) application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
-        "message": "Dear {1} , NOC verification is done for your New Construction (Service type) application {3}. Application is pending for approval. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
+        "message": "Dear {1} , NOC verification is done for your New Construction application {3}. Application is pending for approval. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application NOC verification done _ {3}</h2><p>Dear {1}, <br>NOC verification is done for your {2} (Service type) application {3}.Application is pending for approval.You can check the status of the application by logging to the portal. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application NOC verification done _ {3}</h2><p>Dear {1}, <br>NOC verification is done for your {2} application {3}.Application is pending for approval.You can check the status of the application by logging to the portal. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1}, Application for your New Construction (Service type) application {3} will be processed for Document verification shortly.\n\nEGOVS",
+        "message": "Dear {1}, Application for your New Construction application {3} will be processed for Document verification shortly.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application sent for DOC verification _ {3}/h2}<p>Dear {1} ,Your Application for {2} (Service type) {3} will be processed for Document verification shortly. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application sent for DOC verification _ {3}/h2}<p>Dear {1} ,Your Application for {2} {3} will be processed for Document verification shortly. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
-        "message": "Dear {1} , Documents are verified for your New Construction (Service type) application {3}. Application will be processed for field inspection shortly. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
+        "message": "Dear {1} , Documents are verified for your New Construction application {3}. Application will be processed for field inspection shortly. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application DOC verification done _ {3}</h2><p>Dear {1} ,Document verification is done for your {2} (Service type) application {3}.Application will be processed for field inspection now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application DOC verification done _ {3}</h2><p>Dear {1} ,Document verification is done for your {2} application {3}.Application will be processed for field inspection now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1} , Field verification is done for your New Construction (Service type) application {3}.Application will be processed for NOC now. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
+        "message": "Dear {1} , Field verification is done for your New Construction application {3}.Application will be processed for NOC now. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application Field inspection done _ {3}</h2><p>Dear {1}, <br>Field verification is done for your {2} (Service type) application {3}.Application will be processed for NOC now.You can check the status of the application by logging to the portal. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application Field inspection done _ {3}</h2><p>Dear {1}, <br>Field verification is done for your {2} application {3}.Application will be processed for NOC now.You can check the status of the application by logging to the portal. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1759,121 +1579,121 @@
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
-        "message": "Dear {1} , Occupancy certificate for your Application for New Construction (Service type) {3} is generated. Click the link below to download the Occupancy certificate {DOWNLOAD_OC_LINK}.\n\nEGOVS",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction {3} is generated. Click the link below to download the Occupancy certificate {DOWNLOAD_OC_LINK}.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED_EMAIL",
-        "message": "<h2>Mail subject - OC application permit order generated _ {3}</h2><p>Occupancy certificate for your Application for {2} (Service type) {3} is generated. Click the link below to download the occupancy certificate. <br> {DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application permit order generated _ {3}</h2><p>Occupancy certificate for your Application for {2} {3} is generated. Click the link below to download the occupancy certificate. <br> {DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1} , Application fee is received for your OC New Construction (Service type) application {3}. Application will be processed for Document verification shortly. Click the link below for receipt {RECEIPT_LINK}\n\nEGOVS",
+        "message": "Dear {1} , Application fee is received for your OC New Construction application {3}. Application will be processed for Document verification shortly. Click the link below for receipt {RECEIPT_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS_EMAIL",
-        "message": "<h2>Mail subject - OC application fee payment confirmation_ {3}</h2><p>Application fee is received for your {2} (Service type) application {3}.Application will be processed for Document verification shortly.You can login to the portal to download the payment receipt.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application fee payment confirmation_ {3}</h2><p>Application fee is received for your {2} application {3}.Application will be processed for Document verification shortly.You can login to the portal to download the payment receipt.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED_EMAIL",
-        "message": "<h2>Mail subject - OC application rejected _ {3}</h2><p>Your Application for {2} (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application rejected _ {3}</h2><p>Your Application for {2} {3} is rejected. You can login to the portal and check the reason for rejection.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED_EMAIL",
-        "message": "<h2>Mail subject - OC application rejected _ {3}</h2><p>Your Application for {2} (Service type) {3} is rejected. You can login to the portal and check the reason for rejection.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - OC application rejected _ {3}</h2><p>Your Application for {2} {3} is rejected. You can login to the portal and check the reason for rejection.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
-        "message": "Dear {1}, Your Application for New Construction (Service type) {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
-        "message": "Dear {1}, Your {2} (Service type) application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS_EMAIL",
-        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} (Service type) application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1891,7 +1711,7 @@
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
-        "message": "Dear {1} , Your Application for New Construction (Service type) is created with application number {3}. You can navigate to my applications page to review the application and send back to Architect for processing.\n\nEGOVS",
+        "message": "Dear {1} , Your Application for New Construction is created with application number {3}. You can navigate to my applications page to review the application and send back to Architect for processing.\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1903,13 +1723,13 @@
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SKIP_PAYMENT_APPROVED",
-        "message": "Dear {1} , Occupancy certificate for your Application for New Construction (Service type) {3} is generated. You can navigate to my applications page to download the OC. {DOWNLOAD_OC_LINK}\n\nEGOVS",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction {3} is generated. You can navigate to my applications page to download the OC. {DOWNLOAD_OC_LINK}\n\nEGOVS",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
     {
         "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SKIP_PAYMENT_APPROVED_EMAIL",
-        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} (Service type) {3} is generated. Click the link below to download the certificate.<br>{DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} {3} is generated. Click the link below to download the certificate.<br>{DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     },
@@ -1928,6 +1748,48 @@
     {
         "code": "BPA_OWNER_VALIDATION_1",
         "message": "The mobile number entered",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "M_APPLICATION_REJECTED_MSG",
+        "message": "Dear {1} , Your Application for {2} application {3} is rejected. You can navigate to my applications page to know the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Citizen Action Pending At NOC Verification",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Citizen Action Pending At FI Verification",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCY_TYPE_A",
+        "message": "Residential",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_SYSTEM",
+        "message": "System",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_REJECTED",
+        "message": "Rejected",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_PERMIT_REVOCATION",
+        "message": "Permit Revocation",
         "module": "rainmaker-bpa",
         "locale": "en_IN"
     }
