@@ -6036,6 +6036,12 @@
         "locale": "en_IN"
     },
     {
+        "code": "SEWERAGE_CONNECTION_BILL_GENERATION_APP_MESSAGE",
+        "message": "Dear {Owner Name}, Your {Service}  Bill has been generated. Please pay the amount due: {bill amount} by due date {Due Date}.",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
         "code": "SEWERAGE_CONNECTION_BILL_GENERATION_MESSAGE",
         "message": "Dear {Owner Name},Your{Service}  Bill for {Billing Period} has been generated. Please pay the amount due: {bill amount} by due date {Due Date}. Following is the link to your bill: {Link to Bill}",
         "module": "rainmaker-ws",
@@ -6049,7 +6055,7 @@
     },
     {
         "code": "SW_EDIT_IN_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number}  for a New {Service} Connection has been edited. Click here for more details {View History Link}.",
+        "message": "Dear {Owner Name}, Your Application {Application number}  for a New {Service} Connection has been edited. {Action Button}View History Link{/Action Button}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6085,7 +6091,7 @@
     },
     {
         "code": "WS_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been edited. For more details, please log in to {mseva URL} or download {mseva app link}. \n\nEGOVS",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. Click here for more details View History Link .{Action Button}View History Link{/Action Button}",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6115,85 +6121,37 @@
     },
     {
         "code": "SW_DISCONNECT_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been activated. To check your connection details, click here {connection details page} \n\nEGOVS",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_DISCONNECT_APPROVE_FOR_DISCONNECTION_PENDING_FOR_DISCONNECTION_EXECUTION_SMS_MESSAGE",
-        "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is sent back for correction. For more details, please log in to {Action Button}View History Link{/Action Button}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
         "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is approved. For more information, please log in to {mseva URL}\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "SW_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been approved. Changes will be effective from {Date effective from}. Click here for more details. {Action Button}View History Link{/Action Button} \n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SW_MODIFY_IN_APP_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been approved. Changes will be effective from {Date effective from}. For more details, please log in to {mseva URL} or download {mseva app link}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SW_MODIFY_REJECT_REJECTED_APP_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been edited. Click here for more details. {View History Link} \n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SW_MODIFY_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been rejected. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SW_MODIFY_SMS_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been rejected. For more details, please log in to {mseva URL} or download {mseva app link}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been edited. For more details, please log in to {mseva URL} or download {mseva app link}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SW_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
-        "message": "Dear Consumer, You have successfully submitted your application for Modification of the Connection. Your Application No. is {Application number} . {Action Button}Download Application{/Action Button} \n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
         "code": "SW_PAYMENT_NOTIFICATION_APP",
-        "message": "Dear Consumer, You have successfully submitted your application for Modification of the Connection. Your Application No. is {Application number}. Click here to download your application {Application download link}. For more information, please log in to {mseva URL} or download {mseva app link}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SW_PAYMENT_NOTIFICATION_SMS",
         "message": "Your payment of {Amount paid} towards {Service} Bill for {Billing Period} has been received. {Action Button}DOWNLOAD RECEIPT{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
+        "code": "SW_PAYMENT_NOTIFICATION_SMS",
+        "message": "Your payment of {Amount paid} towards {Service} Bill for {Billing Period} has been received. {DOWNLOAD RECEIPT} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
         "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_APP_MESSAGE",
-        "message": "Dear Consumer,Your payment of {Amount paid} towards {Service} Bill for {Billing Period} has been received. Following is the link to your receipt: {receipt download link} \n\nEGOVS",
+        "message": "Dear {Owner Name} , Your payment for New {Service} connection against the application {Application number} has been been succesfully recorded. Download your receipt using this link {receipt download link}. Your connection will be activated within {SLA} days. For more details, please log in to {mseva URL} or download {mseva app link} .\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
-        "message": "Dear {Owner Name} , Your payment for New {Service} connection against the application {Application number} has been been successfully recorded. You can download the receipt by clicking DOWNLOAD RECEIPT.{Action Button}DOWNLOAD RECEIPT{/Action Button} Your connection will be activated within {SLA} days.",
+        "message": "Dear {Owner Name} , Your payment for New {Service} connection against the application {Application number} has been been succesfully recorded. Download your receipt using this link {receipt download link}. Your connection will be activated within {SLA} days. For more details, please log in to {mseva URL} or download {mseva app link} .\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6205,19 +6163,19 @@
     },
     {
         "code": "SW_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. Click here for more details. For more details, please log in to {mseva URL} or download {mseva app link}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. For more details, please log in to {mseva URL} or download {mseva app link} . \n\nEGOVS",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. For more details, please log in to {mseva URL} or download {mseva app link}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. For more details, please log in to {mseva URL} or download {mseva app link}.",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6229,13 +6187,13 @@
     },
     {
         "code": "SW_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. For more details, please log in to {mseva URL} or download {mseva app link}. \n\nEGOVS",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. Click here for more details View History Link .{Action Button}View History Link{/Action Button}",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. Click here for more details View History Link .{Action Button}View History Link{/Action Button}",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. For more details, please log in to {mseva URL} or download {mseva app link}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6253,55 +6211,55 @@
     },
     {
         "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. For more details, please log in to {mseva URL} or download {mseva app link}.\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
         "message": "Dear {Owner Name}, You have successfully submitted your application for a New {Service} Connection. Your Application No. is {Application number} . {Action Button}Download Application{/Action Button}. \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, You have successfully submitted your application for a New {Service} Connection. Your Application No. is {Application number}.For more information, please log in to {mseva URL} or download {mseva app link} .\n\nEGOVS",
+        "code": "SW_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "Dear {Owner Name}, You have successfully submitted your application for a New {Service} Connection. Your Application No. is {Application number} .For more details, please log in to {mseva URL} or download {mseva app link}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_APP_MESSAGE",
         "message": "Dear {Owner Name}, Status of your application {Application number} for a New {Service} Connection has changed to ‘Pending : Approval for connection' from 'Pending for field inspection’. To track your application, click on {Action Button}View History Link{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Status of your application {Application number} for a New {Service} Connection has changed to 'Pending : Approval for connection' from 'Pending for field inspection'. For more details, please log in to {mseva URL} or download {mseva app link}.\n\nEGOVS",
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_APPROVAL_FOR_CONNECTION_SMS_MESSAGE",
+        "message": "Dear {Owner Name}, Status of your application {Application number} for a New {Service} Connection has changed to ‘Pending : Approval for connection' from 'Pending for field inspection’.For more details, please log in to {mseva URL} or download {mseva app link}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
         "message": "Dear {Owner Name}, Status of your application {Application number} for a New {Service} Connection has changed to PENDING FOR FIELD INSPECTION from PENDING FOR DOCUMENT VERIFICATION. To track your application, click on View History Link .{Action Button}View History Link{/Action Button}",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "code": "SW_VERIFY_AND_FORWARD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Status of your application {Application number} for a New {Service} Connection has changed to PENDING FOR FIELD INSPECTION from PENDING FOR DOCUMENT VERIFICATION. For more details, please log in to {mseva URL} or download {mseva app link}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
         "message": "Dear {Owner Name}, Status of your application {Application number} for a New {Service} Connection has changed to ‘Pending for field inspection' from 'Pending for document verification’. To track your application, click on {View History Link} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WATER_CONNECTION_BILL_GENERATION_APP_MESSAGE",
+        "code": "SW_VERIFY_AND_FORWORD_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Status of your application {Application number} for a New {Service} Connection has changed to 'Pending for field inspection' from 'Pending for document verification'. For more details, please log in to {mseva URL} or download {mseva app link}.\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WATER_CONNECTION_BILL_GENERATION_APP_MESSAGE",
+        "message": "Dear {Owner Name}, Your {Service} Bill has been generated. Please pay the amount due: {bill amount} by due date {Due Date}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6319,139 +6277,97 @@
     },
     {
         "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your {Service} Bill has been generated. Please pay the amount due: {bill amount} by due date {Due Date}. Following is the link to your bill: {Link to Bill}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_EMAIL_MESSAGE",
         "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been activated. To check your connection details, click here {Action Button}connection detail page{/Action Button}",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
+        "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_EMAIL_MESSAGE",
         "message": "<h2>Your New {Service} connection is activated </h2><p>Dear {Owner Name}, <br>Your New {Service} connection against the application {Application number} is activated. <br>To check your connection details, click here {connection details page} <br>This is a system generated email. Do not reply to this email.</p> \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
+        "code": "WS_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been activated. To check your connection details, please log in to {mseva URL} or download {mseva app link} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_APP_MESSAGE",
         "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been approved. To make payment against your application, please click on PAY NOW .{Action Button}PAY NOW{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
+        "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_REJECT_REJECTED_APP_MESSAGE",
+        "code": "WS_APPROVE_FOR_CONNECTION_PENDING_FOR_PAYMENT_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been approved. To make payment against your application, please click on {payment link} . Log in to {mseva URL} or download {mseva app link} for more details. \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_DISCONNECT_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "code": "WS_REJECT_REJECTED_APP_MESSAGE",
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_DEFAULT_EDIT_MODIFY_CONNECTION_SMS_MESSAGE",
+        "code": "WS_DISCONNECT_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
         "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is sent back for correction. For more details, please log in to {mseva URL}\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_DEFAULT_EDIT_NEW_CONNECTION_APP_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been edited. For more details, please log in to {mseva URL} or download {mseva app link} \n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_DEFAULT_EDIT_NEW_CONNECTION_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been edited. Click here for more details {View History Link} . \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "code": "WS_DEFAULT_EDIT_NEW_CONNECTION_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been edited. For more details, please log in to {mseva URL} or download {mseva app link}. \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been edited. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_EDIT_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been edited. For more details, please log in to {mseva URL} or download {mseva app link} .\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been edited. For more details, please log in to {mseva URL} or download {mseva app link} .\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been edited. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_APP_MESSAGE",
+        "code": "WS_EDIT_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been edited. For more details, please log in to {mseva URL} or download {mseva app link} .\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been approved. Changes will be effective from {Date effective from}. Click here for more details. {Action Button}View History Link{/Action Button} \n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_MODIFY_IN_APP_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been approved. Changes will be effective from {Date effective from}. For more details, please log in to {mseva URL} or download {mseva app link}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_MODIFY_REJECT_REJECTED_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is sent back for correction. For more details, please log in to {Action Button}View History Link{/Action Button}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_APP_MESSAGE",
-        "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been rejected. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_MODIFY_SUBMIT_APPLICATION_PENDING_FOR_APPROVAL_SMS_MESSAGE",
-        "message": "Dear Consumer, You have successfully submitted your application for Modification of the Connection. Your Application No. is {Application number} . {Action Button}Download Application{/Action Button} \n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
         "code": "WS_PAYMENT_NOTIFICATION_APP",
-        "message": "Dear Consumer, You have successfully submitted your application for Modification of the Connection. Your Application No. is {Application number}. Click here to download your application {Application download link}. For more information, please log in to {mseva URL} or download {mseva app link}\n\nEGOVS",
+        "message": "Your payment of {Amount paid} towards {Service} Bill for {Billing Period} has been received. {Action Button}DOWNLOAD RECEIPT{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_PAYMENT_NOTIFICATION_SMS",
-        "message": "Your payment of {Amount paid} towards {Service} Bill for {Billing Period} has been received. {Action Button}DOWNLOAD RECEIPT{/Action Button} \n\nEGOVS",
+        "message": "Your payment of {Amount paid} towards {Service} Bill for {Billing Period} has been received.For more details, please log in to {mseva URL} or download {mseva app link}.\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6463,19 +6379,19 @@
     },
     {
         "code": "WS_PAY_PENDING_FOR_CONNECTION_ACTIVATION_SMS_MESSAGE",
-        "message": "Dear {Owner Name} , Your payment for New {Service} connection against the application {Application number} has been been succesfully recorded. You can download the receipt by clicking DOWNLOAD RECEIPT. Your connection will be activated within {SLA} days.{Action Button}DOWNLOAD RECEIPT{/Action Button}",
+        "message": "Dear {Owner Name} , Your payment for New {Service} connection against the application {Application number} has been been succesfully recorded. Download your receipt using this link {receipt download link}. Your connection will be activated within {SLA} days. For more details, please log in to {mseva URL} or download {mseva app link} .\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_REJECT_REJECTED_APP_MEESSAGE",
-        "message": "Dear {Owner Name} , Your payment for New {Service} connection against the application {Application number} has been been succesfully recorded. Download your receipt using this link {receipt download link}. Your connection will be activated within {SLA} days. For more details, please log in to {mseva URL} or download {mseva app link} .\n\nEGOV",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. Click here for more details View History Link .{Action Button}View History Link{/Action Button}",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. Click here for more details View History Link .{Action Button}View History Link{/Action Button}",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. Click here for more details View History Link .For more details, please log in to {mseva URL} or download {mseva app link}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6487,15 +6403,15 @@
     },
     {
         "code": "WS_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
-        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. Click here for more details View History Link .{Action Button}View History Link{/Action Button}",
+        "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. Click here for more details View History Link .For more details, please log in to {mseva URL} or download {mseva app link}.",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MEESSAGE",
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been sent back. Click here for more details View History Link .{Action Button}View History Link{/Action Button}",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
+        "module": "",
+        "locale": ""
     },
     {
         "code": "WS_SEND_BACK_FOR_DO_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
@@ -6577,13 +6493,19 @@
     },
     {
         "code": "WS_PAYMENT_NOTIFICATION_EMAIL",
-        "message": "<h2>Subject: Your payment for {Service} Bill is successful </h2><p>Dear {Owner Name}, <br>Your payment of {Amount paid} toward  {Service} Bill for {Billing Period}  is successful. <br>Click on the link below to download the payment receipt: {receipt download link}<br>For more details, please log in to {mseva URL} <br>This is a system generated email. Do not reply to this email.</p>",
+        "message": "<h2>Your payment for New {Service} Connection is received</h2><p>Dear {Owner Name}, <br>Your payment for New {Service} connection is received. <br>Click on the given link to download your receipt {receipt download link}. Your connection will be activated within {SLA} days.<br>For more details, please log in to {mseva URL}<br>This is a system generated email. Do not reply to this email.</p>",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_EMAIL_MESSAGE",
+        "message": "<h2>Your application for New {Service} is sent back</h2><p>Dear {Owner Name}, <br>Your Application {Application number} for a New {Service} Connection is sent back. <br>For more details, please log in to {mseva URL}<br>This is a system generated email. Do not reply to this email.</p>",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_EMAIL_MESSAGE",
-        "message": "<h2>Your payment for New {Service} Connection is received</h2><p>Dear {Owner Name}, <br>Your payment for New {Service} connection is received. <br>Click on the given link to download your receipt {receipt download link}. Your connection will be activated within {SLA} days.<br>For more details, please log in to {mseva URL}<br>This is a system generated email. Do not reply to this email.</p>",
+        "message": "<h2>Your application for New {Service} is sent back</h2><p>Dear {Owner Name}, <br>Your Application {Application number} for a New {Service} Connection is sent back. <br>For more details, please log in to {mseva URL} <br>This is a system generated email. Do not reply to this email.</p> \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6595,7 +6517,7 @@
     },
     {
         "code": "SW_REJECT_REJECTED_EMAIL_MESSAGE",
-        "message": "<h2>Your application for New {Service} is sent back</h2><p>Dear {Owner Name}, <br>Your Application {Application number} for a New {Service} Connection is sent back. <br>For more details, please log in to {mseva URL} <br>This is a system generated email. Do not reply to this email.</p> \n\nEGOVS",
+        "message": "<h2>Your application for New {Service} is rejection</h2><p>Dear {Owner Name}, <br>Your Application {Application number},for a New {Service} Connection is rejected. <br>Reason for Rejection: {Reason for Rejection}. <br>For more information, please log in to {mseva URL}<br>This is a system generated email. Do not reply to this email.</p>",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -6612,20 +6534,50 @@
         "locale": "en_IN"
     },
     {
+        "code": "SW_PAYMENT_NOTIFICATION_EMAIL",
+        "message": "<h2>Your payment for New {Service} Connection is received</h2><p>Dear {Owner Name}, <br>Your payment for New {Service} connection is received. <br>Click on the given link to download your receipt {receipt download link}. Your connection will be activated within {SLA} days.<br>For more details, please log in to {mseva URL}<br>This is a system generated email. Do not reply to this email.</p>",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
         "code": "WS_DISCONNECT_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
-        "message": "<h2>Your application for New {Service} is successfully submitted</h2><p>Dear {Owner Name}, <br>You have successfully submitted your application for a New {Service} Connection. Your Application No. is {Application number}. <br>Click here to download your application {Without auth application download link}<br>For more information, please log in to {mseva URL}<br>This is a system generated email. Do not reply to this email.</p>",
+        "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is sent back for correction. For more details, please log in to {Action Button}View History Link{/Action Button}\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "WS_DISCONNECT_SEND_BACK_PENDING_FOR_COUNTER_EMPLOYEE_ACTION_APP_MESSAGE",
-        "message": "<h2>Your payment for New {Service} Connection is received</h2><p>Dear {Owner Name}, <br>Your payment for New {Service} connection is received. <br>Click on the given link to download your receipt {receipt download link}. Your connection will be activated within {SLA} days.<br>For more details, please log in to {mseva URL}<br>This is a system generated email. Do not reply to this email.</p>",
+        "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is sent back for correction. For more details, please log in to {Action Button}View History Link{/Action Button}\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
         "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_APP_MESSAGE",
         "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been activated. To check your connection details, click here {Action Button}connection detail page{/Action Button}",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SUBMIT_APPLICATION_PENDING_FOR_DOCUMENT_VERIFICATION_APP_MESSAGE",
+        "message": "Dear {Owner Name}, You have successfully submitted your application for a New {Service} Connection. Your Application No. is {Application number} . {Action Button}Download Application{/Action Button}. \n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_VERIFY_AND_FARWARD_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
+        "message": "Dear {Owner Name}, Status of your application {Application number} for a New {Service} Connection has changed to 'Pending for field inspection' from 'Pending for document verification'. To track your application, click on View History Link .{Action Button}View History Link{/Action Button}",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SEWERAGE_CONNECTION_BILL_GENERATION_SMS_MESSAGE",
+        "message": "Dear {Owner Name}, Your {Service} Bill has been generated. Please pay the amount due: {bill amount} by due date {Due Date}. Following is the link to your bill: {Link to Bill}\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_ACTIVATE_CONNECTION_CONNECTION_ACTIVATED_SMS_MESSAGE",
+        "message": "Dear {Owner Name}, Your New {Service} connection against the application {Application number} has been activated. To check your connection details, please log in to {mseva URL} or download {mseva app link} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     }
