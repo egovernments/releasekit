@@ -10180,5 +10180,89 @@
         "message": "समाधान की गई शिकायत को बंद करें",
         "module": "rainmaker-ws",
         "locale": "hi_IN"
+    },
+    {
+        "code": "SW_DISCONNECT_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। अधिक जानकारी के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_DISCONNECT_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। अधिक जानकारी के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_DISCONNECT_SEND_BACK_PENDING_FOR_COUNTER_EMPLOYEE_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। अधिक जानकारी के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_DISCONNECT_SEND_BACK_TO_CITIZEN_AP_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। सुधार करने के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_DISCONNECT_SEND_BACK_TO_CITIZEN_FI_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। सुधार करने के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_DISCONNECT_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। सुधार करने के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SW_DISCONNECT_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपके आवेदन {Application number}, {Service} कनेक्शन, उपभोक्ता संख्या {Connection number} के डिस्कनेक्शन के लिए, को खारिज कर दिया गया है। अस्वीकृति का कारण: {Reason for Rejection}।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DISCONNECT_REJECT_REJECTED_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपके आवेदन {Application number}, {Service} कनेक्शन, उपभोक्ता संख्या {Connection number} के डिस्कनेक्शन के लिए, को खारिज कर दिया गया है। अस्वीकृति का कारण: {Reason for Rejection}।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DISCONNECT_SEND_BACK_FOR_DOCUMENT_VERIFICATION_PENDING_FOR_DOCUMENT_VERIFICATION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। अधिक जानकारी के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DISCONNECT_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। अधिक जानकारी के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DISCONNECT_SEND_BACK_PENDING_FOR_COUNTER_EMPLOYEE_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। अधिक जानकारी के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DISCONNECT_SEND_BACK_TO_CITIZEN_AP_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। सुधार करने के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DISCONNECT_SEND_BACK_TO_CITIZEN_FI_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। सुधार करने के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WS_DISCONNECT_SEND_BACK_TO_CITIZEN_PENDING_FOR_CITIZEN_ACTION_SMS_MESSAGE",
+        "message": "प्रिय {Owner Name}, आपका आवेदन {Application number}, {Service} कनेक्शन के डिस्कनेक्शन के लिए, उपभोक्ता संख्या {Connection number} सुधार के लिए वापस भेजा जाता है। सुधार करने के लिए, कृपया {mseva URL} में लॉग इन करें।\n\nEGOVS",
+        "module": "rainmaker-ws",
+        "locale": "hi_IN"
     }
 ]
