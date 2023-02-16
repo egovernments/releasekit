@@ -2802,26 +2802,8 @@
         "locale": "en_IN"
     },
     {
-        "code": "WS_DISCONNECTION_NOTICE_LABEL",
-        "message": "Disconnection notice",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
         "code": "WF_DISCONNECTWSCONNECTION_EXECUTE_DISCONNECTION",
         "message": "Execute Disconnection",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WF_NEWWS1_DISCONNECTION_EXECUTED",
-        "message": "Disconnection Executed",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WF_DISCONNECTWSCONNECTION_DISCONNECTION_EXECUTED",
-        "message": "Disconnection Executed",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -2838,19 +2820,7 @@
         "locale": "en_IN"
     },
     {
-        "code": "ES_DISCONNECTSWCONNECTION_EXECUTE_DISCONNECTION_UPDATE_SUCCESS",
-        "message": "Application disconnected successfully",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
         "code": "WS_DISCONNECT_APPROVE_FOR_DISCONNECTION_PENDING_FOR_DISCONNECTION_EXECUTION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is approved. For more information, please log in to {mseva URL}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_DISCONNECT_APPROVE_FOR_DISCONNECTION_PENDING_FOR_DISCONNECTION_EXECUTION_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is approved. For more information, please log in to {mseva URL}\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
@@ -3744,12 +3714,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "WF_EXECUTE_DISCONNECTION_APPLICATION",
-        "message": "Execute Disconnection",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
         "code": "WF_EMPLOYEE_DISCONNECTWSCONNECTION_EXECUTE_DISCONNECTION",
         "message": "Execute Disconnection",
         "module": "rainmaker-ws",
@@ -4506,44 +4470,14 @@
         "locale": "en_IN"
     },
     {
-        "code": "WF_EMPLOYEE_DISCONNECTSWCONNECTION_EXECUTE_DISCONNECTION",
-        "message": "Execute Disconnection",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "ES_FSM_ACTION_SERVICE_DATE",
-        "message": "Execution Date",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_NEW_SEWERAGE_DISCONNECTION",
-        "message": "Disconnection application",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
         "code": "WS_DISCONNECTION_NOTICE_LABEL",
         "message": "Disconnection notice",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
     {
-        "code": "WF_DISCONNECTWSCONNECTION_EXECUTE_DISCONNECTION",
-        "message": "Execute Disconnection",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
         "code": "WF_DISCONNECTWSCONNECTION_DISCONNECTION_EXECUTED",
         "message": "Disconnection Executed",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "ES_DISCONNECTWSCONNECTION_EXECUTE_DISCONNECTION_UPDATE_SUCCESS",
-        "message": "Connection disconnected successfully",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -5959,12 +5893,6 @@
     },
     {
         "code": "WS_DISCONNECT_APPROVE_FOR_DISCONNECTION_PENDING_FOR_DISCONNECTION_EXECUTION_APP_MESSAGE",
-        "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is approved. For more information, please log in to {mseva URL}\n\nEGOVS",
-        "module": "rainmaker-ws",
-        "locale": "en_IN"
-    },
-    {
-        "code": "WS_DISCONNECT_APPROVE_FOR_DISCONNECTION_PENDING_FOR_DISCONNECTION_EXECUTION_SMS_MESSAGE",
         "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is approved. For more information, please log in to {mseva URL}\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
