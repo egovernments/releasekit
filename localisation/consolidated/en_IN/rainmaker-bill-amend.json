@@ -1348,5 +1348,773 @@
         "message": "Bill Amendment",
         "module": "rainmaker-bill-amend",
         "locale": "en_IN"
+    },
+    {
+        "code": "WS_ADHOC_REBATE_TOOLTIP",
+        "message": "To reduce in bill amount is treated adhoc rebate.",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ADHOC_PENALTY_TOOLTIP",
+        "message": "To increase in bill amount is treated adhoc penalty.",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_REVISED_DEMAND",
+        "message": "Revised Demand",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_BILL_AMEND_EDIT_APP",
+        "message": "Bill Amendment Edit Application",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_SW",
+        "message": "Sewerage",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_WS",
+        "message": "Water",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REMISSION_FOR_PROPERTY_TAX",
+        "message": "Remission For Property Tax",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_REBATE_PENALTY",
+        "message": "Adhoc Rebate/Penalty",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_TITLE_GENERATE_NOTE",
+        "message": "Generate Note",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_CURRENT_DEMAND",
+        "message": "Current Demand",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_TOTAL_DUE",
+        "message": "Total Due Amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_COMMON_FROM_DATE_LABEL",
+        "message": "Date effective from",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_COMMON_TO_DATE_LABEL",
+        "message": "Date effective to",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_COURT_ORDER_NO",
+        "message": "Court Order No",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLAMEND_APPLICATIONNO",
+        "message": "Application number",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILL_AMEND_DOCS_UPLOADED",
+        "message": "Documents Uploaded",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_GOVTNOTIFICATION",
+        "message": "Government Notification",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_REDUCED_AMOUNT",
+        "message": "Reduced Amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_ADDITIONAL_AMOUNT",
+        "message": "Additional Amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_OFFICENOTEORDER",
+        "message": "Office note order",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SELECTED_TEXT",
+        "message": "Selected",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SUPPORTINGDOCUMENT",
+        "message": "Supporting Document",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_INVALID_INPUT",
+        "message": "Invalid input",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_REBATE_HEAD",
+        "message": "Reduced Amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_PENALTY_HEAD",
+        "message": "Additional Amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_REBATE",
+        "message": "Adhoc Rebate",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_PENALTY",
+        "message": "Adhoc Penalty",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_WS_CONSOLIDATED_ACKNOWELDGMENT_METER_ID",
+        "message": "Meter ID",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_WS_NEW_CONNECTION",
+        "message": "New connection",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_WS_REQUIRED_DOCS_DOWNLOAD",
+        "message": "Print",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_DOCS_REQ_INFO",
+        "message": "Listed below are the documents needed for this case",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DCB_CORRECTION",
+        "message": "DCB Correction",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ARREAR_WRITE_OFF",
+        "message": "Arrear write off",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ONE_TIME_SETTLEMENT",
+        "message": "ONE TIME SETTLEMENT",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COURTORDER",
+        "message": "Court order",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PASTBILLS",
+        "message": "Past bills",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SELFDECLARATION",
+        "message": "Self declaration",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "GOVTNOTIFICATION",
+        "message": "Government Notification",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OFFICENOTEORDER",
+        "message": "Office note order",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUPPORTINGDOCUMENT",
+        "message": "SUPPORTING DOCUMENT",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_BILL_AMEND_APP",
+        "message": "Bill Amendment Application",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ADJUSTMENT_AMOUNT",
+        "message": "Add Adjustment Amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ADJUSTMENT_AMOUNT_ADDITION_TEXT",
+        "message": "Please mention the adjustment amount against from respective tax head for generation of debit / credit note",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_TAX_HEADS",
+        "message": "Tax heads",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_CURRENT_AMOUNT",
+        "message": "Current amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_REDUCED_AMOUNT",
+        "message": "Reduced Amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ADDITIONAL_AMOUNT",
+        "message": "Additional Amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ADD_DEMAND_REVISION_BASIS",
+        "message": "Add Demand Revision Basis",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SELECT_DEMAND_REVISION",
+        "message": "Please select the reason for demand revision",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_DEMAND_REVISION_BASIS",
+        "message": "Demand Revision Basis ",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_GOVERNMENT_NOTIFICATION_NUMBER",
+        "message": "Government Notification Number",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_BILL_AMEND_EFFECTIVE_FROM",
+        "message": "Effective From date",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_BILL_AMEND_EFFECTIVE_TILL",
+        "message": "Effective To date",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_REQUIRED_FIELD",
+        "message": "Please fill the required details",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_NO_FILE_SELECTED",
+        "message": "No File Selected",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_SEARCH_MOBILE_APPLICATION_INVALID",
+        "message": "Please provide a valid mobile number",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_NO_DOCUMENTS_UPLOADED_LABEL",
+        "message": "No documents uploaded",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WATER",
+        "message": "Water",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_MAXIMUM_UPLOAD_SIZE_EXCEEDED",
+        "message": "Upload file less than 5MB",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_RESPONSE",
+        "message": "Response",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_BILL_AMEND_EFFECTIVE_FROM",
+        "message": "Date Effective From",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLAMENDMENT_ARREAR_WRITE_OFF_HEADING",
+        "message": "Arrear write off",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_BPA_ALL_SELECTED",
+        "message": "All selected",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ERROR_ENTER_LESS_THAN_MAX_VALUE",
+        "message": "Enter less than current amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_ERROR_ENTER_LESS_THAN_MAX_VALUE",
+        "message": "Enter less than current amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_DOCUMENT_REQUIRED",
+        "message": "Required documents",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_NAME_ERROR_MESSAGE",
+        "message": "Invalid name",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SERVICE_TYPE_SW",
+        "message": "Sewerage",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_DOCUMENT_NO",
+        "message": "Document no",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FILE_SIZE_EXCEEDED",
+        "message": "File size cannot be greater than 5mb",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_BILL_AMEND_SEWERAGE_INBOX_LABEL",
+        "message": "Sewerage Inbox",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_BILL_AMEND_WATER_INBOX_LABEL",
+        "message": "Water Inbox",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_WATER_INBOX",
+        "message": "Water Inbox",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ACK_SCREEN",
+        "message": "Acknowledgment screen",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FILE_TYPE_MISMATCHED",
+        "message": "Only image or pdf files can be uploaded",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_WS.AMENDMENT_APPROVE",
+        "message": "Approve",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_WS.AMENDMENT_APPROVALPENDING",
+        "message": "Pending for Approval",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_WS.AMENDMENT_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_WS.AMENDMENT_SEND_BACK",
+        "message": "Send back",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_WS.AMENDMENT_APPROVE",
+        "message": "Approved",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_WS.AMENDMENT_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_WS.AMENDMENT_SEND_BACK",
+        "message": "Send back",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_WS.AMENDMENT_APPROVED",
+        "message": "Approved",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_WS.AMENDMENT_PENDING_FOR_CITIZEN_ACTION",
+        "message": "Pending for citizen action",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_WS.AMENDMENT_RE-SUBMIT",
+        "message": "Re-submit",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_DEMAND_REVISION_BASIS_DETAILS",
+        "message": "Demand Revision Basis Details",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_REBATE",
+        "message": "Adhoc Rebate",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ACK_PDF",
+        "message": "Acknowledgment",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_AMOUNT_DETAILS",
+        "message": "Adjustment Amount Details",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_COURTORDER",
+        "message": "Court order",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_PASTBILLS",
+        "message": "Past bills",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_IDENTITYPROOF",
+        "message": "Identity proof",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ADDRESSPROOF",
+        "message": "Address proof",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SELFDECLARATION",
+        "message": "Self Declaration",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "APPROVALPENDING",
+        "message": "Pending for approval",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFYSWCONNECTION_APPROVE_UPDATE_SUCCESS",
+        "message": "Approved successfully",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NEWSW1_SEND_BACK_FOR_DOCUMENT_VERIFICATION_UPDATE_SUCCESS",
+        "message": "Application is sent back Successfully",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_NOTE_BOX_NOTE",
+        "message": "Note: The Approved Note amount will be automatically applied in the upcoming bill",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_NOTE_BOX_VALIDITY",
+        "message": "Note: Validity of the receipts generated for period in consideration for bill amendment will be considered as null and void",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_DOWNLOAD_COUPON_PDF",
+        "message": "Download coupon",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_MODIFYSWCONNECTION_RE_SUBMIT_UPDATE_SUCCESS",
+        "message": "Application re-submitted successfully",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SW.AMENDMENT_APPROVALPENDING",
+        "message": "Pending for approval",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SW.AMENDMENT_APPROVE",
+        "message": "Approved",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SW.AMENDMENT_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SW.AMENDMENT_SEND_BACK",
+        "message": "Send back",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SW.AMENDMENT_APPROVED",
+        "message": "Approved",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SW.AMENDMENT_PENDING_FOR_CITIZEN_ACTION",
+        "message": "Pending for citizen action",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_RE-SUBMIT",
+        "message": "Re-submit",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_APPROVE",
+        "message": "Approve",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_SEND_BACK",
+        "message": "Send back",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_NOTE_ID",
+        "message": "Note ID :",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_NOTE_DATE",
+        "message": "Date :",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_NOTE_AGAINST",
+        "message": "Against:",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_ADJUSTMENT_AMOUNT_DETAILS",
+        "message": "Adjustment amount details",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_TAX_HEADS",
+        "message": "Tax Heads",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_REDUCED_AMOUNT",
+        "message": "Amount",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_WATER_TAX",
+        "message": "Water Tax",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_WATER_CESS",
+        "message": "Water Cess ",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_INTEREST",
+        "message": "Interest",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_PENALTY",
+        "message": "Penalty",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_BILL_AMENDMENT_NOTE_TOTAL_AMOUNT",
+        "message": "Total Amount ",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_SW.AMENDMENT_PENDING_FOR_CITIZEN_ACTION",
+        "message": "Pending for citizen action",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_TIME_ADHOC_PENALTY",
+        "message": "Adhoc Penalty",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_TIME_ADHOC_PENALTY",
+        "message": "Adhoc Penalty",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_TIME_ADHOC_REBATE",
+        "message": "Adhoc Rebate",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_TIME_ADHOC_REBATE",
+        "message": "Adhoc Rebate",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLAMEND_CONSUMER_NO",
+        "message": "Consumer no",
+        "module": "rainmaker-bill-amend",
+        "locale": "en_IN"
     }
 ]

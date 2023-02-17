@@ -1,0 +1,1796 @@
+[
+    {
+        "code": "report.obps.receiptdate",
+        "message": "Receipt Date",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.receiptnumber",
+        "message": "Receipt No.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.applicationnumber",
+        "message": "Application No.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.applicationtype",
+        "message": "Application Type",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.name",
+        "message": "Applicant Name",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.instrumenttype",
+        "message": "Instrument Type",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.chequedate",
+        "message": "Cheque/DD Date",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.chequeno",
+        "message": "Cheque/DD no.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.bankname",
+        "message": "Bank Name",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.transactionid",
+        "message": "Transaction ID",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.lastfourdigits",
+        "message": "Last 4 digits of card",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.totalamountpaid",
+        "message": "Amount (Rs)",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "report.obps.instrumentstatus",
+        "message": "Status",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPSDAILYCOLLECTIONREPORT",
+        "message": "OBPS Daily Collection Report",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY",
+        "message": "Permit Application",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY",
+        "message": "Occupancy Certificate",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_ULB",
+        "message": "Ulb",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_FROMDATE",
+        "message": "From Date",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_TODATE",
+        "message": "To Date",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_INSTRUMENTTYPE",
+        "message": "Instrument Type",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_INSTRUMENTSTATUS",
+        "message": "Instrument Status",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REPORTS_OBPS_PARAM_COLLECTIONOPERATOR",
+        "message": "Collection Operator",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_OBPS_REPORTS",
+        "message": "OBPS Reports",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_OBPS_DAILY_COLLECTION_REPORT",
+        "message": "Daily Collection Report",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_OBPS_APPLICATION_STATUS_REPORT",
+        "message": "OBPS Application Status Report",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_OBPS_INBOX_LABEL",
+        "message": "OBPS Inbox",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_EDCR_INBOX_LABEL",
+        "message": "EDCR Inbox",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_NO_FILE_SELECTED_LABEL",
+        "message": "No File Selected",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PLAN_DIAGRAM_LABEL",
+        "message": "Building Plan Diagram",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EDCR_CLEAR_FORM",
+        "message": "Clear Form",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PROVIDE_REQ_FOR_NEW_BPA",
+        "message": "Provide the details required for New Building Plan Scrutiny",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EDCR_ACKNOWLEDGEMENT_SUCCESS_MESSAGE_LABEL",
+        "message": "New building plan edcr accepted successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EDCR_SCRUTINY_NUMBER_LABEL",
+        "message": "eDCR Scrutiny Number",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EDCR_DOWNLOAD_SCRUTINY_REPORT_LABEL",
+        "message": "Download Scrutiny Report",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_FOR_NEW_CONSTRUCTION_LABEL",
+        "message": "For New Construction",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_APPLY_FOR_BPA_LABEL",
+        "message": "Apply for Building Plan Permit",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_NEW_BUILDING_PERMIT",
+        "message": "Building plan permit for New Construction",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SCRUTINY_DETAILS",
+        "message": "Scrutiny Details",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OWNER_AND_DOCUMENT_DETAILS_LABEL",
+        "message": "Owner & Document",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SCRUTINY_DETAILS",
+        "message": "Scrutiny Details",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_TOTAL_BUILT_UP_AREA_HEADER",
+        "message": "Total Builtup Area",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEIGHT_FROM_GROUND_LEVEL_FROM_MUMTY",
+        "message": "Height from ground level from mumty",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_BLOCK_SUBHEADER",
+        "message": "Block",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_TABLE_COL_OCCUPANCY",
+        "message": "Occupancy",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_TABLE_COL_BUILDUPAREA",
+        "message": "Buildup Area",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_TABLE_COL_FLOORAREA",
+        "message": "Floor Area",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SQ_MTRS_LABEL",
+        "message": "sq.mtrs",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_GIS_LABEL",
+        "message": "GIS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PB_AMRITSAR_REVENUE_SUN04",
+        "message": "Ajit Nagar - Area1",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OWNER_AND_DOCUMENT_DETAILS_LABEL",
+        "message": "Owner & Document",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_TYPE_OF_OWNER_LABEL ",
+        "message": "Type of Owner",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPD.SITP",
+        "message": "Site Plan",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPD.SITP.SITP",
+        "message": "Site Plan",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_PLAN_DXF",
+        "message": "Uploaded Plan.DXF",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_MTRS_LABEL",
+        "message": "mtrs",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SEND_TO_CITIZEN_LABEL",
+        "message": "Send Application To Citizen",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_SEND_TO_CITIZEN_ARCHITECT_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Application reference is shared with applicant and architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PERMIT_APPLICATION_NUMBER_LABEL",
+        "message": "New Building Plan Permit Application",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "New Building Plan Permit Application Submitted Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SQ_FT_LABEL",
+        "message": "sq.ft",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_I_AGREE_THE_LABEL",
+        "message": "I agree to the",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_TERMS_AND_CONDITIONS_LABEL",
+        "message": "Terms and Conditions",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_CANCEL",
+        "message": "Cancel",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_OBPS_ACTION_COMMENTS",
+        "message": "Comments",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_APPROVE_INPROGRESS",
+        "message": "New Building Plan Permit Application Reviewed Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_APPROVE_ARCHITECT_INPROGRESS",
+        "message": "Notification is sent to the architect's mobile number",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_APPLY",
+        "message": "Submit",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_APPLY_PENDING_FEE",
+        "message": "New Building Plan Permit Application Submitted Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_APPLY_ARCHITECT_PENDING_FEE",
+        "message": "Application reference is shared with applicant and architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PERMIT_NUMBER_LABEL",
+        "message": "Permit Number",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PERMIT_VALIDITY",
+        "message": "Permit Validity",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_SEND_TO_CITIZEN_DONE",
+        "message": "Application created by stakeholder",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_CITIZEN_APPROVAL_PENDING_DONE",
+        "message": "Application approved by citizen",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_INPROGRESS_DONE",
+        "message": "Application submitted to department",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_PENDING_FEE_PAYMENT_DONE",
+        "message": "Payment is done",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_APPLICATION_DETAILS_APPLICATION_TIMELINE",
+        "message": "Application Timeline",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_TOT_AMT_PAID",
+        "message": "Total Amount Paid",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_LOW_APPL_FEES_DETAILS",
+        "message": "Application Fee Details",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_LOW_SANC_FEES_DETAILS",
+        "message": "Sanction Fee Details",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_FEE_DETAILS_LABEL",
+        "message": "Fee Details",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_APP_MOBILE_NO_SEARCH_PARAM",
+        "message": "Applicant's Mobile Number",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_APP_TO_DATE_SEARCH_PARAM",
+        "message": "Application To Date",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_APP_FROM_DATE_SEARCH_PARAM",
+        "message": "Application From Date",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_CURRENT_OWNER_HEAD",
+        "message": "Current Owner",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_LOW_SEND_BACK_TO_CITIZEN",
+        "message": "SEND BACK TO CITIZEN",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "New Building Plan Permit Application Is Sent To The Applicant",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_SEND_BACK_TO_CITIZEN_ARCHITECT_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Applicant and Architect are notified that the application has been sent back for clarification.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_SUB_HEADER_BPA_VERIFY_FORWARD_ARCHITECT_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Application reference is shared with applicant and architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "Document Verification For New Building Plan Permit Application Done Successfully.Application Will Be Processed For Field Inspection Shortly.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_FORWARD_ARCHITECT_FIELDINSPECTION_INPROGRESS",
+        "message": "Applicant and Architect are notified for completion of document verification.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SCORE_NA",
+        "message": "NA",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "New building plan permit application is sent to the applicant",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_SEND_BACK_TO_CITIZEN_ARCHITECT_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Applicant and Architect are notified that the application has been sent back for clarification.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "Field Inspection For New Building Plan Permit Application Done Successfully.Application Will Be Processed For No Objection Certificate Shortly.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_FORWARD_ARCHITECT_NOC_VERIFICATION_INPROGRESS",
+        "message": "Applicant and Architect are notified for completion of field inspection",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPROVED_HEADER",
+        "message": "Fire NOC is approved successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPROVED_SUB_HEADER",
+        "message": "Applicant is notified about the issual of NOC.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "New building plan permit application is sent to the applicant",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_SEND_BACK_TO_CITIZEN_ARCHITECT_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Applicant and Architect are notified that the application has been sent back for clarification.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_APPROVE_APPROVAL_INPROGRESS",
+        "message": "Permit application approved successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_APPROVE_ARCHITECT_APPROVAL_INPROGRESS",
+        "message": "Applicant and Architect are notified about the approval",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OC_NEW_BUILDING_CONSTRUCTION_LABEL",
+        "message": "OC for New Building Construction",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_OCEDCR_BUILDING_PERMIT_DESCRIPTION",
+        "message": "It would take 3 minutes to complete the scrutiny process.You would need the following details to process OC eDCR Scrutiny.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PERMIT_NUMBER_OC_SCRUTINY_LABEL",
+        "message": "Permit number for which OC scrutiny is done",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PERMIT_DATE_LABEL",
+        "message": "Permit Date",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OC_PLAN_DXF_FILE",
+        "message": "OC plan DXF file",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_OC_DOCS_FILE_SIZE",
+        "message": "Maximum file size allowed is 5MB.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_ARCHITECT_NAME_LABEL",
+        "message": "Architect name",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PERMIT_EDCR_DETAILS_LABEL",
+        "message": "Building Permit eDCR Details",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_PLAN_DIAGRAM_LABEL",
+        "message": "Uploaded Plan Diagram",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_UPLOADED_PLAN_DXF",
+        "message": "Uploaded Plan.DXF",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SCRUTINY_REPORT_OUTPUT_LABEL",
+        "message": "Scrutiny Report Output",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PROCEED_OC_SCRUTINY_LABEL",
+        "message": "Proceed for OC Scrutiny",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_UPLOAD_OC_PLAN_DIAGRAM_LABEL",
+        "message": "Upload OC Plan Diagram",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OC_PLAN_DIAGRAM_DXF ",
+        "message": "Uploaded  OC Plan.DXF",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OC_EDCR_ACKNOWLEDGEMENT_SUCCESS_MESSAGE_LABEL",
+        "message": "OC Building Plan eDCR Scrutiny Accepted Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EDCR_SCRUTINY_NUMBER_LABEL",
+        "message": "eDCR Scrutiny Number",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EDCR_DOWNLOAD_SCRUTINY_REPORT_LABEL",
+        "message": "Download Scrutiny Report",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_APPLY_OC_FOR_BPA_LABEL",
+        "message": "Apply for OC for New Construction",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OOCUPANCY_CERTIFICATE_APP_LABEL",
+        "message": "Occupancy Certificate Application",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "OBPS_NEW_BUILDING_PERMIT_DESCRIPTION",
+        "message": "It would take 15 minutes to complete this application and the following documents are required in .pdf or .jpeg format to complete the application.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Occupancy Certificate Application Submitted Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_TO_CITIZEN_ARCHITECT_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Application reference is shared with applicant and architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_TO_ARCHITECT_INITIATE",
+        "message": "Occupancy Certificate Application Reviewed Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_TO_ARCHITECT_ARCHITECT_INITIATED",
+        "message": "Architect are notified about your review comments",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_HEADER_BPA_OC_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Occupancy Certificate Application Submitted Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_TO_CITIZEN_ARCHITECT_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Application reference is shared with applicant and architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_APPROVE_INPROGRESS",
+        "message": "Occupancy Certificate Application Reviewed Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_APPROVE_ARCHITECT_INPROGRESS",
+        "message": "Notification is sent to the architect's mobile number",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_APPLY_PENDING_APPL_FEE",
+        "message": "Occupancy Certificate Application Submitted Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCY_CERTIFICATE_APPLICATION_NUMBER_LABEL",
+        "message": "Occupancy Certificate Application",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_APPLY_ARCHITECT_PENDING_APPL_FEE",
+        "message": "Application reference is shared with applicant and architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_DOC_VERIFICATION_INPROGRESS",
+        "message": "Occupancy Certificate Application Is Sent To The Applicant",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_ARCHITECT_DOC_VERIFICATION_INPROGRESS",
+        "message": "Applicant and Architect are notified that the application has been sent back for clarification.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_HEADER_BPA_OC_VERIFY_FORWARD_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Occupancy Certificate Application Submitted Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_SUB_HEADER_BPA_OC_VERIFY_FORWARD_ARCHITECT_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Application reference is shared with applicant and architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "Document Verification For Occupancy Certificate Application Done Successfully.Application Will Be Processed For Field Inspection Shortly.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_FORWARD_ARCHITECT_FIELDINSPECTION_INPROGRESS",
+        "message": "Applicant and Architect are notified for completion of document verification.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_FIELDINSPECTION_INPROGRESS",
+        "message": "Occupancy Certificate Application Is Sent To The Applicant",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_ARCHITECT_FIELDINSPECTION_INPROGRESS",
+        "message": "Applicant and Architect are notified that the application has been sent back for clarification.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_HEADER_BPA_OC_VERIFY_FORWARD_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Occupancy Certificate Application Submitted Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_SUB_HEADER_BPA_OC_VERIFY_FORWARD_ARCHITECT_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Application reference is shared with applicant and architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "Field Inspection For Occupancy Certificate Application Done Successfully.Application Will Be Processed For No Objection Certificate Shortly.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_FORWARD_ARCHITECT_NOC_VERIFICATION_INPROGRESS",
+        "message": "Applicant and Architect are notified for completion of field inspection.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_NOC_VERIFICATION_INPROGRESS",
+        "message": "Occupancy Certificate Application Is Sent To The Applicant",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_ARCHITECT_NOC_VERIFICATION_INPROGRESS",
+        "message": "Applicant and Architect are notified that the application has been sent back for clarification.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_HEADER_BPA_OC_VERIFY_FORWARD_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Occupancy Certificate Application Submitted Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUBMIT_SUB_HEADER_BPA_OC_VERIFY_FORWARD_ARCHITECT_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Application reference is shared with applicant and architect",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_FORWARD_APPROVAL_INPROGRESS",
+        "message": "NOC For Occupancy Certificate Application Done Successfully.Application Is Due For Approval Now.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_FORWARD_ARCHITECT_APPROVAL_INPROGRESS",
+        "message": "Applicant is notified for obtaining NOC.\n\n",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_CITIZEN_APPROVAL_PENDING_NOT_DONE",
+        "message": "Pending clarification from Architect",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_SEND_TO_CITIZEN_BY_ARCHITECT_DONE",
+        "message": "Architect clarification done",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_DOC_VERIFICATION_PENDING_NOT_DONE",
+        "message": "Pending clarification from citizen",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_FIELDINSPECTION_PENDING_NOT_DONE",
+        "message": "Pending clarification from citizen",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_NOC_VERIFICATION_PENDING_NOT_DONE",
+        "message": "Pending clarification from citizen",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_BACK_FROM_DOC_VERIFICATION_DONE",
+        "message": "Citizen Clarification Submitted",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_DOC_VERIFICATION_PENDING_DONE",
+        "message": "Document verification is done",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_FIELDINSPECTION_PENDING_DONE",
+        "message": "Field inspection is done",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_NOC_VERIFICATION_PENDING_DONE",
+        "message": "NOC verification is done",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_PENDINGAPPROVAL_DONE",
+        "message": "Approval in progress",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Occupancy Certificate Application Is Sent To The Applicant",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_SEND_BACK_TO_CITIZEN_ARCHITECT_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Applicant and Architect are notified that the application has been sent back for clarification.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_NEWTL_PENDINGDOCVERIFICATION_DONE",
+        "message": "Document verification is done",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_NEWTL_PENDINGPAYMENT_DONE",
+        "message": "Payment is done",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_APPLICANT_PAN_NO",
+        "message": "PAN Number",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_APPROVAL_CHECKLIST_BUTTON_UP_FILE",
+        "message": "Attach Supporting Documents",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPAREG_CANCEL",
+        "message": "CANCEL",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_STAKEHOLDER_INBOX_LABEL",
+        "message": "Stakeholder Inbox",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_COMMON_SEARCH_APPLICATION",
+        "message": "Search Application",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OC_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL",
+        "message": "OC Plan Scrutiny for new Construction",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_PLAN_SCRUTINY_FOR_NEW_CONSTRUCTION_LABEL",
+        "message": "Plan scrutiny for new construction",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HOME_BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_LABEL",
+        "message": "Building Plan Permit New Construction ",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HOME_BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_LABEL",
+        "message": "OC for new construction",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CITIZEN_FAILURE_COMMON_PAYMENT_MESSAGE",
+        "message": "Payment Failed",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_PAYMENT_FAILURE_MESSAGE",
+        "message": "Any amount deducted will be processed back in 24 hrs",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_REVOCATE_PERMIT_REVOCATION",
+        "message": "New Building Plan Permit Application Revocated Successfully",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_REVOCATE_ARCHITECT_PERMIT_REVOCATION",
+        "message": "Applicant and Architect are notified about the revocation",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_REJECT_REJECTED",
+        "message": "New Building Plan Permit Application Is Rejected",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_REJECT_ARCHITECT_REJECTED",
+        "message": "Applicant and Architect are notified about the rejection.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOC_FIRE_NOC_APPROVAL_NUMBER",
+        "message": "Fire NOC Approval Number",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CITIZEN_SUCCESS_BPA_NC_SAN_FEE_ARCHITECT_PAYMENT_MESSAGE_DETAIL",
+        "message": "A notification regarding Payment has been sent to the registered Mobile No. of the user/owner.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_BPA_LOW_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_LOW_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_REJECT_APPROVAL_INPROGRESS",
+        "message": "Permit Application Is Rejected",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_REJECT_ARCHITECT_APPROVAL_INPROGRESS",
+        "message": "Applicant and Architect are notified about the rejection.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_HEADER_BPA_OC_REJECT_REJECTED",
+        "message": "Occupancy Certificate Application Is Rejected",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_SUB_HEADER_BPA_OC_REJECT_ARCHITECT_REJECTED",
+        "message": "Applicant and Architect are notified about the rejection.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "Dear {1} , Your OC Application for New Construction is created with application number {3}. Click on Pay button to pay the application fee with deviation penalty of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT_EMAIL",
+        "message": "<h2>Mail subject - OC application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "Dear {1} , Your Occupancy certificate application {3} is reviewed by the applicant. You can now process the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED_EMAIL",
+        "message": "<h2>Mail subject - OC application reviewed by applicant_ {3}</h2><p>Your Occupancy certificate application {3} is reviewed by the applicant. You can now process the application.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Dear {1} , Your Application for New Construction is created with application number {3}. You can navigate to my applications page to review the application and send back to Architect for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application created _ {3}</h2><p>Your Application for {2}  is created.You can login to the portal using your mobile number {MOBILE_NUMBER}  and navigate to the my applications page to view the application.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SKIP_PAYMENT_APPROVED",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction {3} is generated. You can navigate to my applications page to download the OC. {DOWNLOAD_OC_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SKIP_PAYMENT_APPROVED_EMAIL",
+        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} {3} is generated. Click the link below to download the certificate.<br>{DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY",
+        "message": "Building plan scrutiny",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+        "message": "Dear {1}, Your Application for New Construction is created with application number {3}. Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further.{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE_EMAIL",
+        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further  or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} . <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_FEE",
+        "message": "Dear {1}, Your Application for {2} is created with application number {3}. Please pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further.{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_FEE_EMAIL",
+        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+        "message": "Dear {1}, Building permit order for your Application for New Construction {Service type} {3} is generated. Click the link below to download the permit order.  {DOWNLOAD_PERMIT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED_EMAIL",
+        "message": "<h2>Mail subject - Building permit application permit order generated _ {3}</h2><p>Dear {1} , Building permit order for your Application for {2} {3} is generated. Click the link below to download the permit order.<br> {DOWNLOAD_PERMIT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "Dear {1} , Your Building permit application {3} is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application accepted by applicant_ {3}</h2><p>Your Building permit application {3} is accepted by the applicant. You can now process the application.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "Dear {1}, Your Application for New Construction {3} is approved. Please pay the building permit fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the building permit order.{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT_EMAIL",
+        "message": "<h2>Mail subject - Building permit application pay permit fee_ {3}</h2><p>Dear {1}, <br> Your Application for {2} {3} is approved. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the building permit order or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+        "message": "Dear {1}, NOC verification is done for your New Construction application {3}. Application is pending for approval.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application NOC verification done _ {3}</h2><p>NOC verification is done for your {2} application {3}.Application is pending for approval.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1}, Application for your New Construction application {3} will be processed for Document verification shortly.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application sent for DOC verification _ {3}</h2><p>Dear {1} ,Your Application for {2} {3} will be processed for Document verification shortly.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "Dear {1}, Documents are verified for your New Construction application {3}. Application will be processed for field verification shortly.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application DOC verification done _ {3}</h2><p>Dear {1} ,Document verification is done for your {2} application {3}.Application will be processed for field inspection now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1}, Field verification is done for your New Construction application {3}. Application will be processed for NOC now.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application Field inspection done _ {3}</h2><p>Field verification is done for your {2} application {3}.Application will be processed for NOC now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "Dear {1}, Your Application for New Construction is created. Please use the Application number {3} for future reference.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED_EMAIL",
+        "message": "<h2>Mail subject - Building permit application created _ {3}</h2><p>Your Application for {2}  is created.You can login to the portal using your mobile number {MOBILE_NUMBER}  and navigate to the my applications page to view the application.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+        "message": "Dear {1}, Building permit order for your Application for New Construction {3} is generated. Click the link below to download the permit order {DOWNLOAD_PERMIT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED_EMAIL",
+        "message": "<h2>Mail subject - Building permit application permit order generated _ {3}</h2><p>Building permit order for your Application for {2} {3} is generated. Click the link below to download the permit order.<br> {DOWNLOAD_PERMIT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1}, Application fee is received for your New Construction application {3}. Application will be processed for Document verification shortly.Click the link below for receipt {RECEIPT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application fee payment confirmation_ {3}</h2><p>Application fee is received for your {2} application {3}.Application will be processed for Document verification shortly.You can login to the portal to download the payment receipt.<br>{RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+        "message": "Dear {1}, Your Application for New Construction {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED_EMAIL",
+        "message": "<h2>Mail subject - Building permit application rejected _ {3}</h2><p>Your Application for {2} {3} is rejected. You can login to the portal and check the reason for rejection.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED",
+        "message": "Dear {1}, Your Application for New Construction {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED_EMAIL",
+        "message": "<h2>Mail subject - Building permit application rejected _ {3}</h2><p>Your Application for {2} {3} is rejected. You can login to the portal and check the reason for rejection.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT",
+        "message": "Dear {1}, Your Application for New Construction {3} is revocated. You can login to the portal and check the reason for revocation.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT REVOCATION",
+        "message": "Dear {1}, Your Application for New Construction {3} is revocated. You can login to the portal and check the reason for revocation.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_REVOCATE_PERMIT_EMAIL",
+        "message": "<h2>Mail subject - Building permit permit revocated _ {3}</h2><p>Your Application for {2} {3} is revocated. You can login to the portal and check the reason for revocation.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF_EMAIL",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Dear {1}, Your Application for {2} {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "Dear {1}, Your Building permit application {3} is reviewed by the applicant. You can now process the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED_EMAIL",
+        "message": "<h2>Mail subject - Building permit application reviewed by applicant_ {3}</h2><p>Your Building permit application {3} is reviewed by the applicant. You can now process the application.<br>Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Dear {1}, Your Application for New Construction is created with application number {3}. You can login to the portal and navigate to the my applications page to review the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application created _ {3}</h2><p>Dear {1} , Your Application for {2} is created with reference number {3} by {STAKEHOLDER_TYPE} {STAKEHOLDER_NAME}. You can login to the portal using your mobile number {MOBILE_NUMBER}  and navigate to the my applications page to view the application.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE",
+        "message": "Dear {1} , Your Application for New Construction is created with application number {3}. Click on Pay button to pay the application fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPLY_PENDING_APPL_FEE_EMAIL",
+        "message": "<h2>Mail subject - Building permit application pay application fee _ {3}</h2> <p>Dear {1} , Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction {3} is generated. Click the link below to download the Occupancy certificate. {DOWNLOAD_OC_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_APPROVED_EMAIL",
+        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} {3} is generated. Click the link below to download the certificate. <br> {DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_INPROGRESS",
+        "message": "Dear {1} , Your Occupancy certificate application {3} is accepted by the applicant. You can now submit the application for department processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT",
+        "message": "Dear {1} , Your OC Application for New Construction is created with application number {3}. Click on Pay button to pay the application fee with deviation penalty of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or You can navigate to my applications page to make payment.{PAYMENT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_APPROVE_PENDING_SANC_FEE_PAYMENT_EMAIL",
+        "message": "<h2>Mail subject - OC application pay application fee _ {3}</h2><p>Dear {1}, <br> Application fee has to be paid for your {2} application {3}. You can login to the portal to pay the fee of Rs.{AMOUNT_TO_BE_PAID}/- to process the application further or you can make the payment by clicking the link given below. <br> {PAYMENT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS",
+        "message": "Dear {1} , NOC verification is done for your New Construction application {3}. Application is pending for approval. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_APPROVAL_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - OC application NOC verification done _ {3}</h2><p>Dear {1}, <br>NOC verification is done for your {2} application {3}.Application is pending for approval.You can check the status of the application by logging to the portal. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1}, Application for your New Construction application {3} will be processed for Document verification shortly.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_DOC_VERIFICATION_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - OC application sent for DOC verification _ {3}/h2}<p>Dear {1} ,Your Application for {2} {3} will be processed for Document verification shortly. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS",
+        "message": "Dear {1} , Documents are verified for your New Construction application {3}. Application will be processed for field inspection shortly. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_FIELDINSPECTION_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - OC application DOC verification done _ {3}</h2><p>Dear {1} ,Document verification is done for your {2} application {3}.Application will be processed for field inspection now.You can check the status of the application by logging to the portal.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1} , Field verification is done for your New Construction application {3}.Application will be processed for NOC now. You can navigate to my applications page to know the status of the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_FORWARD_NOC_VERIFICATION_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - OC application Field inspection done _ {3}</h2><p>Dear {1}, <br>Field verification is done for your {2} application {3}.Application will be processed for NOC now.You can check the status of the application by logging to the portal. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED",
+        "message": "Dear {1} , Your Application for New Construction(Service type) is created with application number {3}. You can view the status of the application from your portal login under 'My applications' link.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_INITIATE_INITIATED_EMAIL",
+        "message": "<h2>Mail subject - OC application created _ {3}</h2><p>Dear {1}, <br>Your Application for {2}  is created.You can login to the portal using your mobile number {MOBILE_NUMBER}  and navigate to the my applications page to view the application. <br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction {3} is generated. Click the link below to download the Occupancy certificate {DOWNLOAD_OC_LINK}.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_APPROVED_EMAIL",
+        "message": "<h2>Mail subject - OC application permit order generated _ {3}</h2><p>Occupancy certificate for your Application for {2} {3} is generated. Click the link below to download the occupancy certificate. <br> {DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1} , Application fee is received for your OC New Construction application {3}. Application will be processed for Document verification shortly. Click the link below for receipt {RECEIPT_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_PAY_DOC_VERIFICATION_INPROGRESS_EMAIL",
+        "message": "<h2>Mail subject - OC application fee payment confirmation_ {3}</h2><p>Application fee is received for your {2} application {3}.Application will be processed for Document verification shortly.You can login to the portal to download the payment receipt.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED",
+        "message": "Dear {1}, Your Application for New Construction {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECTED_EMAIL",
+        "message": "<h2>Mail subject - OC application rejected _ {3}</h2><p>Your Application for {2} {3} is rejected. You can login to the portal and check the reason for rejection.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED",
+        "message": "Dear {1}, Your Application for New Construction {3} is rejected. You can login to the portal and check the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_REJECT_REJECTED_EMAIL",
+        "message": "<h2>Mail subject - OC application rejected _ {3}</h2><p>Your Application for {2} {3} is rejected. You can login to the portal and check the reason for rejection.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF_EMAIL",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF_EMAIL",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACKTOCITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF_EMAIL",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SENDBACK_NOC_VERIFICATION_INPROGRESS",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Dear {1}, Your Application for New Construction {3} is reverted back for clarification. You can navigate to my applications page to provide clarification and send back to official for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Dear {1}, Your {2} application {3}. application is sent back to you.Please refer the comments , update the application and resubmit them for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_BACK_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application Sent back for correction _ {3}</h2><p>Dear {1} ,Your {2} application {3} is sent back to you.Please refer the comments , update the application and resubmit them for processing.<br> Portal URL - {PORTAL_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED",
+        "message": "Dear {1} , Your Occupancy certificate application {3} is reviewed by the applicant. You can now process the application.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_ARCHITECT_INITIATED_EMAIL",
+        "message": "<h2>Mail subject - OC application reviewed by applicant_ {3}</h2><p>Your Occupancy certificate application {3} is reviewed by the applicant. You can now process the application.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS",
+        "message": "Dear {1} , Your Application for New Construction is created with application number {3}. You can navigate to my applications page to review the application and send back to Architect for processing.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SEND_TO_CITIZEN_CITIZEN_APPROVAL_INPROCESS_EMAIL",
+        "message": "<h2>Mail subject - Building permit application created _ {3}</h2><p>Your Application for {2}  is created.You can login to the portal using your mobile number {MOBILE_NUMBER}  and navigate to the my applications page to view the application.<br> {RECEIPT_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SKIP_PAYMENT_APPROVED",
+        "message": "Dear {1} , Occupancy certificate for your Application for New Construction {3} is generated. You can navigate to my applications page to download the OC. {DOWNLOAD_OC_LINK}\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUILDING_OC_PLAN_SCRUTINY_NEW_CONSTRUCTION_SKIP_PAYMENT_APPROVED_EMAIL",
+        "message": "<h2>Mail subject - Occupancy certificate generated _ {3}</h2><p> Dear {1} , Occupancy certificate for your Application for {2} {3} is generated. Click the link below to download the certificate.<br>{DOWNLOAD_OC_LINK} <br> Thanks & Regards <br> CCC <br> {Ulb Name}</p>",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OWNER_VALIDATION_BPA_ARCHITECT",
+        "message": "The mobile number entered is registered with an Architect , please enter a different mobile number who is a citizen and not an Architect.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OWNER_VALIDATION_BPA_SUPERVISOR",
+        "message": "The mobile number entered is registered with an Supervisor, please enter a different mobile number who is a citizen and not an Supervisor.",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OWNER_VALIDATION_1",
+        "message": "The mobile number entered",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "M_APPLICATION_REJECTED_MSG",
+        "message": "Dear {1} , Your Application for {2} application {3} is rejected. You can navigate to my applications page to know the reason for rejection.\n\nEGOVS",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
+        "message": "Citizen Action Pending At NOC Verification",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CITIZEN_ACTION_PENDING_AT_FI_VERIF",
+        "message": "Citizen Action Pending At FI Verification",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_OCCUPANCY_TYPE_A",
+        "message": "Residential",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_SYSTEM",
+        "message": "System",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_REJECTED",
+        "message": "Rejected",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_BPA_PERMIT_REVOCATION",
+        "message": "Permit Revocation",
+        "module": "rainmaker-bpa",
+        "locale": "en_IN"
+    }
+]

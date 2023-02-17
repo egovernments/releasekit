@@ -1,0 +1,1844 @@
+    [
+        {
+            "code": "ACCESS-TO_DASHBOARD",
+            "message": "Access to the dashboard is role-based. (Role-based access controls maintains that only pre-allocated roles having login credentials created for them can access the platform)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACRYNOMS_LISTED_BELOW",
+            "message": "The acronyms used in the DSS and their full forms are listed below",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMINISTRATORS_DEFINE",
+            "message": "Administrators - officials from Ministry of Housing and Urban Affairs (MoHUA) & National Institute of Urban Affairs ( NIUA), a functional mission within it is NUDM ( National Urban Digital Mission ). Roles such as Director & Joint Secretaries of the above institutions are administrators.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ALL_DATASETS_ARE_ENCRYPTED",
+            "message": "All datasets are encrypted",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "API_AUTHENTICATION",
+            "message": "API authentication while integration with the dashboard is maintained",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BELOW_THE_TOP",
+            "message": "Below the top 3 / bottom 3 performing states cards, click on the ‘Show More’ button. This will redirect you and display the top performing states in ascending order or descending order based on your selection.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CLARITY_ON_DASHBOARD",
+            "message": "This section gives clarity on certain terms referred to in the dashboard",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CLICK_ON_ANY_ONE_LIVE_STATE",
+            "message": "Click on any one live state. This will show the total number of ULBs and also the module-wise split-up of live ULBs for the selected state.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CLICK_ON_PROPERTY_TAX",
+            "message": "Click on property tax card on the bottom of the landing page",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CLICK_ON_THE_ANY_ONE_LIVE_STATE",
+            "message": "Click on any one live state. This shows the total number of ULBs and also module wise split-up of live ULBs in that state",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CLICK_ON_THE_DROPDOWN",
+            "message": "Click on the dropdown arrow and select the check box next to the state whose data you wish to see",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CLICK_ON_THE_DROPDOWN_ARROW",
+            "message": "Click on the dropdown arrow and select the checkboxes next to the states whose data you wish to see. You can select more than one state and the aggregated data for those states are displayed on the dashboard.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DASHBOARD_BUILT_WITH_PURPOSE",
+            "message": "The Dashboard was built with the purpose of ensuring data transparency, providing access to data, ensuring accountability, and assisting in data-driven decision-making. It also helps users understand the nature of information on the dashboard and its governance.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DASHBOARD_RECEIVES_AGGREGATED",
+            "message": "The dashboard receives aggregated data from the State . There is no visibility on who’s data it is & what the details of the data are, as all datasets are in the numerical form.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DATA_FROM_STATES_TRANSMITTED",
+            "message": "Data from the States is transmitted through secure APIs (every State Instance has to implement an adaptor service that would collate/aggregate the data at each functional service level and push the data to the National Dashboard elastic search through ingest service. National Dashboard picks up these data from the National Dashboard Elastic Search to show KPIs, tables, and graphs as visualisation)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DOWNLOAD_THE_DATASET",
+            "message": "Download the dataset for further study/policy-making purposes/ driving performance incentives any other purposes",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_ABOUT_DASHBOARD",
+            "message": "About the Dashboard",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_ABOUT_PURPOSE",
+            "message": "Purpose",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_ABOUT_PURPOSE_DEFINE",
+            "message": "The DIGIT National Urban Dashboard offers users a consolidated Decision Support System (DSS) tool with rich and interactive dashboards that provide a complete visualisation of the key metrics. It simplifies the data into more manageable chunks of visual information, that allow users to see areas of efficiency as well as areas of improvement.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_ANS_DATA",
+            "message": "Data in this dashboard is aggregated information from urban development services provided by States. This aggregated information contains no personally identifiable information. The data is sent to show the performance of the State as per variables set on the dashboard.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_ANS_DATA_STORED",
+            "message": "The data is stored at a central instance - an infrastructure that is owned by the MoHUA or NIUA.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_ANS_GET_DATA_FROM_DASHBOARD",
+            "message": "The citizens share data while utilizing services provided by their respective urban local bodies. These datasets are collected by the State. MoUs are signed with the users and the States for sharing data on this dashboard. These states have either adopted DIGIT as a base for their urban service delivery or have a platform similar to that of DIGIT or have created their own digital way to provide information to this dashboard.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_ANS_WHAT_CAN_DASBOARD_VIEWER_SEE_N_DO",
+            "message": "The user of the dashboard can see :-",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_AVERAGE",
+            "message": "Average",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_BUILDING_PLAN_APPROVAL",
+            "message": "Building Plan Approval",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_CITIZEN_SERVICE_CENTER",
+            "message": "Citizen Service Center",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_DECISION_SUPPORT_SYSTEM",
+            "message": "Decision Support System",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FAQS",
+            "message": "FAQs",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_LAST_YEAR",
+            "message": "Last Year",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_NO_OBJECTION_CERTIFICATE",
+            "message": "No Objection Certificate",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_NUMBER",
+            "message": "Number",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_OCCUPANCY_CERTIFICATE",
+            "message": "Occupancy Certificate",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_ONLINE_BUILDING_PLAN_APPROVAL_SYSTEM",
+            "message": "Online Building Plan Approval System",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_POINT_OF_SALE",
+            "message": "Point of Sale",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_PROPERTY_TAX",
+            "message": "Property Tax",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_QUES_GET_DATA_FROM_DASHBOARD",
+            "message": "Where does the data for the dashboard come from?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_QUES_WHAT_CAN_DASBOARD_VIEWER_SEE_N_DO",
+            "message": "What can the user of the dashboard see and do?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_QUES_WHAT_IS_DATA",
+            "message": "What is ‘data’?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_SERVICE_LEVEL_AGREEMENT",
+            "message": "Service Level Agreement",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_SQUARE_METER",
+            "message": "Square meter",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_UNIFIED_PAYMENT_INTERFACE",
+            "message": "Unified Payment Interface",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_WATER_AND_SEWERAGE",
+            "message": "Water and Sewerage",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DSS_ABOUT",
+            "message": "About",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DSS_FAQS",
+            "message": "FAQs",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FIND_THE_FILTER_BOX",
+            "message": "Find the filter box marked ‘State’ on the top of the screen",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FOLLOWING_VIEWER_DO_ON_DASHBOARD",
+            "message": "The user can do the following on the dashboard :-",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FOR_LINE/BAR_GRAPHS",
+            "message": "For line/bar graphs -",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FOR_PIE_CHARTS",
+            "message": "To view the values on any pie chart -",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GENERATE_DETAILED_REPORTS",
+            "message": "Generate detailed reports with a single click (useful to plan the next step forward for action items)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "HOVER_OVER_HE_INE/BAR",
+            "message": "Hover over the line/bar for the respective period to view the values",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "HOVER_OVER_THE_INDIVIDUAL_SLICES",
+            "message": "Hover over the individual slices of the pie to view the absolute and percentage values for that portion",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "HOW_DATA_SECURED",
+            "message": "How is this data secured?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "HOW_DATA_STORED",
+            "message": "How is the data stored?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "KEY_TERMS",
+            "message": "Key terms:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "MAP_OF_INDIA_ON_THE_LANDING_PAGE",
+            "message": "On the Map of India on the Landing Page, the states are categorised and colour coded based on the implementation status (Live/Under Implementation/Onboarded/None).",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "MEASURE_EFFICIENCY",
+            "message": "Measure the efficiency of employees and identify the success rate of various citizen services",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NO_LINKAGE_OF_DATA",
+            "message": "No linkage of data on the dashboard can direct towards one individual being identified.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ON_THE_MAP_OF_INDIA_ON_THE_LANDING_PAGE",
+            "message": "On the Map of India on the Landing Page, the states are categorised and colour coded based on the implementation status (Live/Under Implementation/Onboarded/None).",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PERFORMANCE_METRICS",
+            "message": "Performance metrics",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PERFORMANCES_IN_FORM_VISUALIZATIONS",
+            "message": "Performances in the form of visualizations, such as graphs",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PERFORMING_STATES_IN_THE_REVENUE_TABS",
+            "message": "The top/bottom performing states in the revenue tabs are ranked based on the target achievement. In the service tab, it is ranked based on the completion rate/SLA achievement.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PERSONALLY_IDENTIFIABLE_INFORMATION",
+            "message": "No personally identifiable information is sent to the dashboard",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_EIGHT_HOW_PERFORMING_STATES_ASSESSED",
+            "message": "How are the top/bottom performing states assessed?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_ELEVEN_CAN_I_SHARE_INDIVIDUAL_CARDS",
+            "message": "Can I share individual cards over an email/WhatsApp?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_FIVE_CAN_I_DOWNLOAD_THE_DASHBOARD",
+            "message": "Can I download the dashboard for any particular page?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_FOUR_HOW_CAN_I_COMPARE_THE_METRICS",
+            "message": "How can I compare the metrics against the same period last year.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_NINE_HOW_CAN_I_VIEW_IMPLEMENTATION_STATUS_PROGRAM",
+            "message": "How can I view the implementation status of the program across states?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_ONE_VARIOUS_ACRYNOMS_DSS_STAND",
+            "message": "What do the various acronyms in DSS stand for?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_SEVEN_HOW_CAN_I_SEE_PERFORMANCE_RANKING",
+            "message": "How can I see the performance ranking for all the states?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_SIX_CAN_I_DOWNLOAD_THE_TABULAR_CHARTS",
+            "message": "Can I download the tabular charts in excel?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_TEN_CAN_I_VIEW_DATA_MULTIPLE_STATES",
+            "message": "Can I view data from multiple states/ULBs in a single go?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_THIRTEEN_WHERE_CAN_I_FIND_DEFINITIONS_FOR_VARIOUS_KPIS",
+            "message": "Where can I find the definitions for various KPIs?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_THREE_HOW_CAN_I_VIEW_VALUES_GRAPH",
+            "message": "How can I view the values on the graph?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_TWELVE_HOW_CAN_I_SEE_WHICH_MODULES_ARE_LIVE",
+            "message": "How can i see which modules are live in different states",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUES_TWO_HOW_CAN_I_SEE_THE_TOTAL_TAX_COLLECTION",
+            "message": "How can I see the total tax collection for a particular state/ULB?",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "QUICKLY_IDENTIFY_DATA",
+            "message": "Quickly identify data outliers and correlations ( know what’s working and what is not)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "REGULAR_SECURITY_AUDITS",
+            "message": "Regular security audits are done to take care of the code of the dashboard",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RESPECTIVE_STATE'S_PERFORMANCE",
+            "message": "Respective state's performance as per the metrics",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SEE_COMPARISON_ON_YEAR-WISE",
+            "message": "See comparison on year-wise performance",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SEE_COMPARISONS_OF_INTER-STATE",
+            "message": "See comparisons of inter-state performance",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SERVICE-WISE_PERFORMANCE",
+            "message": "Service-wise performance of states",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SHARE_ANY_INDIVIDUAL_CARDS_SUCH_AS_OVERVIEW",
+            "message": "To share any individual cards such as overview or tables or charts, click on the kebab menu icon (three vertical dots) on the top right corner of each individual card. From the drop down click on the email or WhatsApp icon to share them as per your requirement",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SHARE_DATA_ANALYTICS",
+            "message": "Share the data & analytics on the dashboard through WhatsApp or e-mail",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATE_AGGREGATES_THE_DATA",
+            "message": "The State aggregates the data and removes the personal identifying information from it for the purpose of sharing with the dashboard. The States use secure APIs for sharing such data. The States are to solely share information related to the performance/result of the urban local bodies on delivery of urban development services, in an aggregated form.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STATES_DEFINE",
+            "message": "States - States whose data is presented on this dashboard are those that have adopted UPYOG, DIGIT, or platforms similar to these and that have signed an MoU with NUDM to be a part of this dashboard. The term includes departments in the State governments that manage the urban development / Urban local bodies (ULB) related works. The term also includes Union Territories and such departments in a Union Territory.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "STUDY_THE_PERFORMANCES",
+            "message": "Study the performances of ULBs and states",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "THE_DASHBOARD_CAN_BE_DOWNLOADED",
+            "message": "Yes. The dashboard can be downloaded or shared across WhatsApp/Email. To download an entire page, click on the Download button on the top right corner on any page. To share, click on the share button on the top right corner of any page.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "THE_TABULAR_CHARTS_ARE_DOWNLOADED",
+            "message": "Yes. The tabular charts are downloaded in excel format by clicking on the kebab menu icon (three vertical dots) on the top right corner of the tabular chart",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TO_VIEW_THE_DATA",
+            "message": "To view the data for any particular ULB, repeat the same action for the filter box named ‘ULB’",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TOP_OF_THE_SCREEN",
+            "message": "At the top of the screen, there is a filter box marked ‘State’ on the property tax DSS page",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TOTAL_COLLECTION",
+            "message": "The total collection for the selected State/ULB is visible on the overview card",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "URBAN_DEVELOPMENT_SERVICES_DEFINE",
+            "message": "Urban development services - Urban development services include works in property tax collection, water & sewerage, trade license, birth & death, public grievance & redressal, fire NOC, miscellaneous payments (mCollect), and online building plan approval systems",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "USERS_DEFINE",
+            "message": "Users- Currently, users of the dashboard are officials from the Ministry of Housing and Urban Affairs (MoHUA) and/or personnel of the National Institute of Urban Affairs ( NIUA)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "VALUES_OF_EACH_METRIC_CORRESPONDING_SAME_TIME",
+            "message": "The values of each metric corresponding to the same time period for last year is denoted below each metric with an upward or downward arrow with a text X % than LY (Last Year). A positive change with respect to last year is indicated as an upward green arrow. A negative change is marked with a red downward arrow.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "VARIOUS_KPIS_CAN_BE_VIEWED_BY_HOVERING",
+            "message": "The definitions for various KPIs can be viewed by hovering over each KPI with the mouse pointer.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "VIEW_THE_DATA_FOR_ANY_PARTICULAR_ULBS",
+            "message": "To view the data for any particular ULBs, repeat the same action for the filter box named ‘ULB’.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WHAT_DATA_IS_SHARED",
+            "message": "What data is to be shared is pre-determined by fixed metrics. Examples of these metrics are - total collections of property tax on a specific period for a state, total applications, or the total number of complaints received.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "YEAR_PERFORMANCE",
+            "message": "Year-on-year performance statistics",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TO_DOWNLOAD_ANY_INDIVIDUAL_CARDS",
+            "message": "To download/share any individual cards such as overview or tables or charts, click on the kebab menu icon (three vertical dots) on the top right corner of each individual card.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_#",
+            "message": "#:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_AVG",
+            "message": "Avg:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_BPA",
+            "message": "BPA:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_CSC",
+            "message": "CSC:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_DSS",
+            "message": "DSS:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_LY",
+            "message": "LY:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_NOC",
+            "message": "NOC:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_OBPA",
+            "message": "OBPS:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_OC",
+            "message": "OC:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_POS",
+            "message": "POS:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_PT",
+            "message": "PT:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_SLA",
+            "message": "SLA:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_SM",
+            "message": "sq m:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_UPI",
+            "message": "UPI:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_W&S",
+            "message": "W&S:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NATIONAL_URBAN_DASHBOARD_ENABLES",
+            "message": "The National Urban Dashboard enables users to:",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_DASHBOARD_OBPS",
+            "message": "Online Building Plan Approval System",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_FIRE_NOC",
+            "message": "FireNoc",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_MCOLLECT",
+            "message": "mCollect",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_OVERVIEW",
+            "message": "Overview Page",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_PGR",
+            "message": "Public Grievances & Redressal",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_PROPERTY_TAX",
+            "message": "Property Tax",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_TRADELICENSE",
+            "message": "Trade Licence",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_UBRAN_REALTIME_DASHBOARD",
+            "message": "National Urban Real-Time Dashboard",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_URBAN_REALTIME_DASHBOARD",
+            "message": "NURT Dashboard",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_URBAN_REALTIME_LANDING_DASHBOARD",
+            "message": "NURT Dashboard",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_URBAN_REALTIME_LANDING_PAGE",
+            "message": "Landing Page",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_NATIONAL_WATER_&_SEWERAGE",
+            "message": "Water & Sewerage",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_ABOUT_DASHBOARD",
+            "message": "About",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_FAQS",
+            "message": "FAQs",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_BIRTH_AND_DEATH",
+            "message": "Birth & Death",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NSS_WS_DASHBOARD",
+            "message": "Water & Sewerage",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_LANDING_PAGE",
+            "message": "Landing Page",
+            "module": "rainmaker-dsson",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_CITY_C",
+            "message": "City C",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_CITY_D",
+            "message": "City  D",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_CITY_E",
+            "message": "City E",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_NATIONAL_PT_DSS_AVG_TAX_COLLECTION",
+            "message": "Total property tax collected  / Total number of properties paid",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "NATIONAL_PT_DSS_AVG_TAX_COLLECTION",
+            "message": "Average Property Tax Collected",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TOTAL_NON_TAX_COLLECTION",
+            "message": "Total Non-Tax Collection",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TOTAL_NON_TAX_COLLECTION",
+            "message": "Sum of all non tax revenue collections such as ( Trade licenses , Building plan approval , miscellaneous receipts , etc..)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_NON_TAX_REVENUE_CONTRIBUTION",
+            "message": "Non-Tax Revenue Contribution",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_NON_TAX_REVENUE_CONTRIBUTION",
+            "message": "(Total non-tax collected/Total revenue collected) x 100",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DSS_FINANCE",
+            "message": "Finance",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FINANCE_OVERVIEW (In Lac)",
+            "message": "Overview",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FINANCE_TOTAL_COLLECTION",
+            "message": "Total Collections",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FINANCE_TOTAL_BILL_AMOUNT",
+            "message": "Total Bill amount",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_FINANCE_OVERVIEW (In Lac)",
+            "message": "Overview",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_FINANCE_TOTAL_COLLECTION",
+            "message": "Total Collections",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_FINANCE_TOTAL_BILL_AMOUNT",
+            "message": "Total Bill amount",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_financeTotalPaidAmount",
+            "message": "Total Paid Amount",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "financeTotalPaidAmount",
+            "message": "Total Paid Amount",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FINANCE_INSIGHTS",
+            "message": "Finance Insights",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_FINANCE_INSIGHTS",
+            "message": "Finance Insights",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_CITY_NAME",
+            "message": "City Name",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_CITY_NAME",
+            "message": "City Name",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_TOTAL_BILLS_GENERATED  ",
+            "message": "No. of Bills Generated",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_TOTAL_BILLS_GENERATED",
+            "message": "The total number of Bills generated for the selected date range. Expense, Contractor and Supplier Bill",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_TOTAL_VOUCHERS_GENERATED",
+            "message": "No. of Vouchers Generated",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_TOTAL_VOUCHERS_GENERATED",
+            "message": "Total number of vouchers in the system. Includes all types of vouchers.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_TOTAL_BILLED_AMOUNT",
+            "message": "Total Billed Amount",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_TOTAL_BILLED_AMOUNT",
+            "message": "Sum of all the Bills (Bill Amount)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_BILLS_PAID",
+            "message": "No. of Bills Paid",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_BILLS_PAID",
+            "message": "Total number of bill where status is Payment Done",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_PAYMENTS_DONE",
+            "message": "No. of Payments Done",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_PAYMENTS_DONE",
+            "message": "Total number of payments made",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_BILL_AMOUNT_PAID",
+            "message": "Amount Paid Against Bills",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_BILL_AMOUNT_PAID",
+            "message": "Sum of amount of Payments made against Bills ",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_RECEIPT_VOUCHERS_PASSED",
+            "message": "No. of Receipt Vouchers Passed",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_RECEIPT_VOUCHERS_PASSED",
+            "message": "Total number of receipt vouchers in the system. i.e count of voucher where type is Receipt",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_FINANCE_COLLECTION",
+            "message": "Finance Collection",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_FINANCE_COLLECTION",
+            "message": "Sum of amount of all the receipt vouchers",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_VENDORS",
+            "message": "No. of Vendors",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_VENDORS",
+            "message": "Count of vendors in system from master (Contractor/Supplier)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_BANK_ACCOUNTS",
+            "message": "No. of Bank Accounts",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_BANK_ACCOUNTS",
+            "message": "Count of total Bank account in the system from Masters",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FINANCE_OVERVIEW",
+            "message": "Overview",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FINANCE_TOTAL_BILLS_GENERATED",
+            "message": "No. of Bills Generated",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FINANCE_TOTAL_PAYMENTS",
+            "message": "No. of Payments done",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FINANCE_DASHBOARD",
+            "message": "Finance Dashboard",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FINANCE",
+            "message": "Finance",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DSS_PROPERTYTAX",
+            "message": "Property Tax",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_TOTAL_PROPERTIES",
+            "message": "Total # of properties registered on the system",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_TOTAL_ASSESSMENTS",
+            "message": "# of properties for which assessments were generated",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_TOTAL_ACTIVE_ULBS",
+            "message": "Total Active ULBS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_CUMULATIVE_PROPERTIES_ASSESSED",
+            "message": "Cumulative Properties Assessed",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "(SUB_DSS_PT_TOP_3_PERFORMING_ULBS)",
+            "message": "Top Performing ULBS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "(SUB_DSS_PT_BOTTOM_3_PERFORMING_ULBS)",
+            "message": "Bottom Performing ULBS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_TOP_3_PERFORMING_ULBS",
+            "message": "Top Performing ULBS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_BOTTOM_3_PERFORMING_ULBS",
+            "message": "Bottom Performing ULBS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_PROPERTIES_BY_USAGE_TYPE",
+            "message": "Properties By Usage Type",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_MIXED",
+            "message": "Mixed",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_SHOWROOM",
+            "message": "Showroom",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_MALLS",
+            "message": "Malls",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_OTHER_NON_RESIDENTIAL",
+            "message": "Non Resedential",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_PROPERTIES_BY_FINANCIAL_YEAR",
+            "message": "Properties by Financial Year",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_CUMULATIVEPROPERTIESASSESSED",
+            "message": "Cumulative Properties Assessed",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_CUMULATIVECOLLECTION",
+            "message": "Cumulative Collection",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "(SUB_DSS_PT_TOP_3_PERFORMING_ULBS)",
+            "message": "Top 3 performing ULBS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_TOP_3_PERFORMING_ULBS",
+            "message": "Top 3 performing ULBS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_COLLECTION_BY_USAGE_TYPE",
+            "message": "Properties By Usage Type",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_TARGET_ACHIEVEMENT",
+            "message": "Target Achievement",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_TARGET_ACHIEVEMENT",
+            "message": "Target Achievement",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_AJIT_NAGAR___AREA1",
+            "message": "Ajit Nagar Area 1",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_SHOWROOM",
+            "message": "Showroom",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_COLLECTION_BY_SELECTED_TYPE_SHOWROOM",
+            "message": "Showroom",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PT_KEY_FY_INDICATORS",
+            "message": "Key Financial Indicators",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_RECEIPT_NUMBER",
+            "message": "Receipt Number",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_RECEIPT_NUMBER",
+            "message": "Receipt Number",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_AMOUNT_COLLECTED",
+            "message": "Amount Collected",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_AMOUNT_COLLECTED",
+            "message": "Amount Collected",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_PAYMENT_MODE",
+            "message": "Payment",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_PAYMENT_MODE",
+            "message": "Payment",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_CONSUMER_CODE",
+            "message": "Consumer Code",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_CONSUMER_CODE",
+            "message": "Consumer Code",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_FIRE_CESS",
+            "message": "Fire Cess",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_FIRE_CESS",
+            "message": "Fire Cess",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_CANCER_CESS",
+            "message": "Cancer Cess",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_CANCER_CESS",
+            "message": "Cancer Cess",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_TIME_INTEREST",
+            "message": "Interest",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_TIME_INTEREST",
+            "message": "Interest",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_ROUND_OFF",
+            "message": "Round off",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_ROUND_OFF",
+            "message": "Round off",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DSS_TRADELICENSE",
+            "message": "Trade License",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TL_TOTAL_COLLECTION_TODAY",
+            "message": "Today's Collection",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TL_TOTAL_COLLECTION_TODAY",
+            "message": "Today's collections from applying and renewing a trade license",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TL_TARGET_COLLECTION",
+            "message": "Target Collection",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TL_TARGET_ACHIEVED_OVERVIEW",
+            "message": "Target Achieved Overview",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TL_TARGET_COLLECTION",
+            "message": "Sum of target revenue for trade license set by the state/ULB",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TL_TARGET_ACHIEVED_OVERVIEW",
+            "message": "Total Collection / Target Collection",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_RAGS",
+            "message": "Rags",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_CHARCOAL_KILN",
+            "message": "Charcoal Kiln",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_ELECTRIC_GOODS",
+            "message": "Electric Goods",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_BEAUTY_PARLOUR",
+            "message": "Beauty Parlour",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_AGGARSAIN_CHOWK_TO_MAL_GODOWN___BOTH_SIDES___AREA3",
+            "message": "Area 2",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_BACK_SIDE_CIVIL_COURTS_COLONY___AREA1",
+            "message": "Backside Colony Area3",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_AJIT_NAGAR___AREA1",
+            "message": "Ajit Nagar",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_PB_MOHALI",
+            "message": "Mohali",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TL_LICENSE_ISSUED",
+            "message": "Total # of trade licenses issued by the concerned authority",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TL_TOTAL_ACTIVE_ULBS",
+            "message": "Total Active ULBs",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_CITIZENACTIONREQUIRED",
+            "message": "Citizen Action Required",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_CANCELLED",
+            "message": "Cancelled",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_CITIZENACTIONREQUIRED",
+            "message": "Citizen Action Required",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_PAID",
+            "message": "Paid",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_CANCELLED",
+            "message": "Cancelled",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_CITIZENACTIONREQUIRED",
+            "message": "Citizen Action Required",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_PAID",
+            "message": "Paid",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TLCUMULATIVECOLLECTION",
+            "message": "Cumulative Collection",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_RAGS",
+            "message": "Rags",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_BEAUTY_PARLOUR",
+            "message": "Beauty Parlour",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TL_LICENSE_BY_TRADE_TYPE_ELECTRIC_GOODS",
+            "message": "Electric Goods",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_AJIT_NAGAR___AREA1",
+            "message": "Ajit Nagar Area 1",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PGR_CLOSED_COMPLAINTS",
+            "message": "Total # of complaints successfully resolved by the concerned authorities.",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PGR_COMPLETION_RATE",
+            "message": "Closed Complaints / Total Complaints",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TOTAL_CUMULATIVE_CLOSED_COMPLAINTS",
+            "message": "Cumulative Complaints",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TOTAL_COMPLAINTS_BY_SOURCE",
+            "message": "Total Complaints Source",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TOTAL_COMPLAINTS_STATUS",
+            "message": "Total Complaints Status",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "IVR",
+            "message": "IVR",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WEB",
+            "message": "Web",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WHATSAPP",
+            "message": "Whatsapp",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "MOBILEAPP",
+            "message": "Mobile App",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_PENDINGFORASSIGNMENT",
+            "message": "Pending for Assignment",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_PENDINGATLME",
+            "message": "Pending at LME",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_PENDINGFORREASSIGNMENT",
+            "message": "Pending for Re Assignment",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "IP_DSS_PGR_COMPLAINTS_BY_DEPARTMENT",
+            "message": "Total Complaints by Department",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PGR_COMPLAINTS_BY_CHANNEL",
+            "message": "Total Complaints by Channel",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_EVENT_DURATION_GRAPH",
+            "message": "Event Duration Graph",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_EVENTDURATIONGRAPH",
+            "message": "Event Duration Graph",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PGR_CITIZENS",
+            "message": "Unique Citizens",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PGR_TOP_COMPLAINTS",
+            "message": "Top Complaints",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_CLOSED_COMPLAINTS",
+            "message": "Closed Complaints",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_HEADER_CLOSED_COMPLAINTS",
+            "message": "Closed Complaints",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_STREET_LIGHTS",
+            "message": "Street Lights",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_OPERATION_&_MAINTENANCE",
+            "message": "Operation & Maintenence",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_HEALTH_&_SANITATION",
+            "message": "Sanitation",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_COMMON_DSS_PGR",
+            "message": "Complaints",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_BACK_SIDE_33_KVA_GRID_PATIALA_ROAD",
+            "message": "Patiala 33",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_BIGHARWAL_CHOWK_TO_RAILWAY_STATION",
+            "message": "Bigharwal",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DSS_TB_BACK_SIDE_66_KVA_GRID_PATIALA_ROAD",
+            "message": "patiala 66",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_PGRCITIZENONDATERANGE",
+            "message": "Citizen on Date Range",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_PGR_STATUS_BY_TENANT",
+            "message": "Status by Tenant",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_CITIZEN_REGISTERED",
+            "message": "Total # of citizens registered on the system",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TOTAL_APPLICATIONS__DEPARTMENT_WISE",
+            "message": "Total Applications (Service Wise)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TOTAL_APPLICATIONS__DEPARTMENT_WISE",
+            "message": "Total Applications (Service Wise)",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_W&S",
+            "message": "Water & Sewerage",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_PROPERTY_TAX",
+            "message": "Property Tax",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_FSM",
+            "message": "FSM",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_FIRE_NOC",
+            "message": "FireNoc",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_TRADE_LICENCE",
+            "message": "Tradelicence",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_DSS_SERVICES",
+            "message": "Services",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ES_DSS_ALL_SERVICES_SELECTED",
+            "message": "All Services Selected",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_HEADER_SERVICE",
+            "message": "Service",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_PROPERTY_TAX",
+            "message": "Property Tax",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TRADE_LICENSE",
+            "message": "Tradelicence",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_PGR",
+            "message": "Complaints",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_OBPS",
+            "message": "OBPS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FIRENOC",
+            "message": "FireNoc",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_MCOLLECT",
+            "message": "MCollect",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_W&S",
+            "message": "Water & Sewerage",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_FSM",
+            "message": "FSM",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_BND",
+            "message": "Birth & Death",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_STATE_OVERVIEW",
+            "message": "Overview",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "(SUB_DSS_TOP_PERFORMING_ULBS)",
+            "message": "Top Performing ULBS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "(SUB_DSS_BOTTOM_PERFORMING_ULBS)",
+            "message": "Bottom Performing ULBS",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TOTAL_CUMULATIVE_COLLECTION__DEPARTMENT_WISE",
+            "message": "Total Cumulative Collection (Service Wise) ",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_MASTERS_FIRENOC",
+            "message": "FireNoc",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIP_DSS_TOTAL_CUMULATIVE_COLLECTION__DEPARTMENT_WISE",
+            "message": "Total Cumulative Collection (Service Wise) ",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DDR_D",
+            "message": "DDR D",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DSS_TB_DDR_E",
+            "message": "DDR E",
+            "module": "rainmaker-dss",
+            "locale": "en_IN"
+        }
+    ]

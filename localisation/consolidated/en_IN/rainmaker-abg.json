@@ -1252,5 +1252,545 @@
         "message": "Date",
         "module": "rainmaker-abg",
         "locale": "en_IN"
+    },
+    {
+        "code": "WS_COMMON_CONNECTION_DETAIL",
+        "message": "Connection details",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_UNIT",
+        "message": "Floor Details",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_APPLICATION_TYPE_MODIFY_SEWERAGE_CONNECTION",
+        "message": "Modify sewerage connection",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_INFO_VALIDATION",
+        "message": "Provide at least one parameter to search for an application",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT",
+        "message": "Property Tax Dishonoured Cheque Payment",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_CANOPY_FEE",
+        "message": "Canopy Fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_OUTDOOR_MEDIA_DISPLAY_FEE",
+        "message": "Outdoor Media Display Fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_DOWNLOADBILLS",
+        "message": "Download bills",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_SALE_OF_LAND",
+        "message": "Sale of Land",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES",
+        "message": "Service Tax/GST of Rent of MC Properties",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_STREET_VENDOR_ICARD_CERTIFICATE_FEES",
+        "message": "Street vendor ICARD/Certificate Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_PROVIDENT_FUND_PROCESSING_FEES",
+        "message": "Provident Fund Processing Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_TENDER_EARNEST_MONEY_DEPOSIT_REFUNDABLE_FEE",
+        "message": "Tender Earnest Money Deposit (Refundable fee)",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_SECURITY_DEPOSIT_FEE_REFUNDABLE_FEE",
+        "message": "Security Deposit Fee (Refundable Fee)",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_FEE",
+        "message": "Collection and Demolition Waste Challan fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_BURNING_OF_WASTE_CHALLAN_FEE",
+        "message": "Burning of Waste Challan fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS__MALBA_FEES",
+        "message": "Malba fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_ECONOMIC_WEAKER_SECTION_SCHEME_CHARGES",
+        "message": "Economic Weaker Section Scheme Charges",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_ECONOMIC_WEAKER_SECTION_PROJECTS_FEES",
+        "message": "Economic Weaker Section Projects Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_SUB_DIVISION_CHARGES_FEE",
+        "message": "Sub division charges fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_INFORMATION_CERTIFICATE_FEE",
+        "message": "Information Certificate fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_BUILDING_SAFETY_CERTIFICATE_FEE",
+        "message": "Building safety Certificate fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_DISPENSARY_FEE",
+        "message": "Dispensary Fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_LICENSE_FEE_SLAUGHTER_HOUSE",
+        "message": "License fee (Slaughter House)",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_CANDY_FEE_SLAUGHTER_HOUSE",
+        "message": "Candy fee (Slaughter House)",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_CONSERVANCY_FEE",
+        "message": "Conservancy fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_STREET_LIGHT_POLE_TRANSFER_FEE",
+        "message": "Street Light Pole Transfer fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_SALE_OF_COMPOST_FEES",
+        "message": "Sale of Compost Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_SALE_OF_RECYCLABLE_FEES",
+        "message": "Sale of Recyclable Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_DOG_REGISTRATION",
+        "message": "Dog Registration",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES",
+        "message": "Swimming Pool And Gymnactics Hall Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_COMPOSITION_FEES",
+        "message": "Composition fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_DISCONNECTION_CLICK_ON_INFO1_LABEL",
+        "message": "Unmasking the personal information of citizens is sensitive in nature. For security purposes, your user details will be stored in the database and reproduced on request.",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_CLICK_ON_INFO_LABEL",
+        "message": "to unmask the field details. Unmasking the personal information of citizens is sensitive in nature. For security purposes, your user details will be stored in the database and reproduced on request.",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ABG_BILL_CANCELLED",
+        "message": "Bill Cancelled successfully",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "AGB_BILL_CANCEL_FAILED",
+        "message": "Bill Cancellation Failed",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ABG_WATER_BILLS",
+        "message": "Water Bills",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ABG_SEWERAGE_BILLS",
+        "message": "Sewerage Bills",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ABG_WATER_SEWERAGE_BILLS",
+        "message": "Water and Sewerage Bills",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT",
+        "message": "Property Tax Dishonoured Cheque Payment",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_CANOPY_FEE",
+        "message": "Canopy Fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_OUTDOOR_MEDIA_DISPLAY_FEE",
+        "message": "Outdoor Media Display Fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_DOWNLOADBILLS",
+        "message": "Downloads",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ABG_RETRY",
+        "message": "Retry",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ABG_SEARCH_RESULTS_HEADER",
+        "message": "Search Bills",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_GROUP_BILLS",
+        "message": "Group Bills",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_CANCEL_BILL",
+        "message": "Cancel Bills",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_DOWNLOAD_BILL_PDF",
+        "message": "Download Bill PDF",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLS_MERGE_AND_DOWNLOAD",
+        "message": "MERGE & DOWNLOAD",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_INFO_VALIDATION",
+        "message": "Provide at least one parameter to search for an application",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_COMMON_SERV_DETAIL",
+        "message": "Service Details",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PDF_STATIC_LABEL_CONSUMER_NUMBER_LABEL",
+        "message": "Consumer Number",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SERVICE_NAME_LABEL",
+        "message": "Service Name",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_CONN_TYPE",
+        "message": "Connection Type",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_NO_OF_TAPS",
+        "message": "Number Of taps",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_PIPE_SIZE_IN_INCHES_LABEL",
+        "message": "Pipe Size (in inches)",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SERV_DETAIL_WATER_SOURCE",
+        "message": "Water Source",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_COMMON_CONNECTION_DETAIL",
+        "message": "Connection details",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_APPLICATION_DETAILS_UNIT",
+        "message": "Floor Details",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_APPLICATION_TYPE_MODIFY_SEWERAGE_CONNECTION",
+        "message": "Modify sewerage connection",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_INFO_VALIDATION",
+        "message": "Provide at least one parameter to search for an application",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_TX_PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT",
+        "message": "Property Tax Dishonoured Cheque Payment",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_CANOPY_FEE",
+        "message": "Canopy Fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_ADVT_OUTDOOR_MEDIA_DISPLAY_FEE",
+        "message": "Outdoor Media Display Fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_DOWNLOADBILLS",
+        "message": "Download bills",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_SALE_OF_LAND",
+        "message": "Sale of Land",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES",
+        "message": "Service Tax/GST of Rent of MC Properties",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_RT_STREET_VENDOR_ICARD_CERTIFICATE_FEES",
+        "message": "Street vendor ICARD/Certificate Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_PROVIDENT_FUND_PROCESSING_FEES",
+        "message": "Provident Fund Processing Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_TENDER_EARNEST_MONEY_DEPOSIT_REFUNDABLE_FEE",
+        "message": "Tender Earnest Money Deposit (Refundable fee)",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_FN_SECURITY_DEPOSIT_FEE_REFUNDABLE_FEE",
+        "message": "Security Deposit Fee (Refundable Fee)",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_FEE",
+        "message": "Collection and Demolition Waste Challan fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_CH_BURNING_OF_WASTE_CHALLAN_FEE",
+        "message": "Burning of Waste Challan fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS__MALBA_FEES",
+        "message": "Malba fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_ECONOMIC_WEAKER_SECTION_SCHEME_CHARGES",
+        "message": "Economic Weaker Section Scheme Charges",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_ECONOMIC_WEAKER_SECTION_PROJECTS_FEES",
+        "message": "Economic Weaker Section Projects Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_SUB_DIVISION_CHARGES_FEE",
+        "message": "Sub division charges fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_INFORMATION_CERTIFICATE_FEE",
+        "message": "Information Certificate fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_NKS_BUILDING_SAFETY_CERTIFICATE_FEE",
+        "message": "Building safety Certificate fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_DISPENSARY_FEE",
+        "message": "Dispensary Fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_LICENSE_FEE_SLAUGHTER_HOUSE",
+        "message": "License fee (Slaughter House)",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_CANDY_FEE_SLAUGHTER_HOUSE",
+        "message": "Candy fee (Slaughter House)",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_CONSERVANCY_FEE",
+        "message": "Conservancy fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_STREET_LIGHT_POLE_TRANSFER_FEE",
+        "message": "Street Light Pole Transfer fee",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_SALE_OF_COMPOST_FEES",
+        "message": "Sale of Compost Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_SALE_OF_RECYCLABLE_FEES",
+        "message": "Sale of Recyclable Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_DOG_REGISTRATION",
+        "message": "Dog Registration",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_OTHER_SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES",
+        "message": "Swimming Pool And Gymnactics Hall Fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_FTP_COMPOSITION_FEES",
+        "message": "Composition fees",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ABG_GROUP_BILL",
+        "message": "Group Bills",
+        "module": "rainmaker-abg",
+        "locale": "en_IN"
     }
 ]
