@@ -42,18 +42,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "WS_COMMON_CONNECTION_DETAILS",
-        "message": "Connection Details",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "NEW_SEWERAGE_CONNECTION",
-        "message": "Sewerage Connection",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "NEW_WATER_CONNECTION",
         "message": "Water Connection",
         "module": "rainmaker-common",
@@ -180,48 +168,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "CITIZEN_SERVICE_CENTER",
-        "message": "Citizen service center",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "COMPLAINTS_RESOLVED_IN_LAST_30_DAYS",
-        "message": "Complaints resolved in last 30 days",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "IS_AVG_COMPLAINT_RESOLUTION_TIME",
-        "message": "is average complaint resolution time.",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CATEGORIES_OF_COMPLAINT_TYPES_CAN_BE_SUBMITTED_ON_GRIEVANCE_PORTAL",
-        "message": "Categories of complaint types can be submitted on portal",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PAY_VIA_WHATSAPP",
-        "message": "Pay Via Whatsapp",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "VIEW_ON_MAP",
-        "message": "View on Map",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PROPERTIES_REGISTERED_IN_LAST_12_MONTHS",
-        "message": "Application issued in last 12 months",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "APPLICATION_PROCESSED_IN_LAST_12_MONTHS",
         "message": "Application renewed in last 12 months",
         "module": "rainmaker-common",
@@ -330,12 +276,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "TL_VALIDITY_IS",
-        "message": "Validity is",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "COMMON_YEAR",
         "message": "Years",
         "module": "rainmaker-common",
@@ -406,31 +346,7 @@
         "message": "M-Collect",
         "module": "rainmaker-common",
         "locale": "en_IN"
-    },
-    {
-        "code": "SERVICE_CATEGORIES_OF_CHALLANS_PROCESSED_IN",
-        "message": "Service categories of Challans Processed in Amritsar",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "COLLECTED_IN_FORM_OF_CHALLANS_IN_LAST_12_MONTHS",
-        "message": "Collected in form of challans in last 12 months",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "FROM_ISSUED_DATE",
-        "message": "from Issued date",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "VALIDITY_OF_CHALLAN_IS",
-        "message": "Validity of challan is",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
+    },        
     {
         "code": "COMMON_DAY",
         "message": "day",
@@ -480,12 +396,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "CORE_COMMON_PROFILE_EMAIL_INVALID",
-        "message": "Please enter a valid email",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "CORE_COMMON_PROFILE_NAME_ERROR_MESSAGE",
         "message": "Please enter a valid name",
         "module": "rainmaker-common",
@@ -506,24 +416,6 @@
     {
         "code": "ES_PAYMENT_WS_WS_SUCCESSFUL_DESCRIPTION",
         "message": "The notification along with your application number is sent to your applicant’s mobile number. Applicant can track the application status using mobile or web app",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "ACTION_TEST_WNS_REPORTS",
-        "message": "WnS Reports",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "ACTION_TEST_WNS_COLLECTION_REGISTER_REPORT",
-        "message": "Collection Register",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "ES_COMMON_CREATE_PROPERTY_HEADER",
-        "message": "Create Property",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -786,12 +678,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "FILTERS_FILTER_CARD_CAPTION",
-        "message": "Filters",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "WS_INFO_VALIDATION",
         "message": "Provide at least one parameter to search for an application",
         "module": "rainmaker-common",
@@ -803,7 +689,7 @@
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
-    {
+   {
         "code": "CS_COMMON_CLEAR_SEARCH",
         "message": "clear search",
         "module": "rainmaker-common",
@@ -1104,24 +990,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "APPLICATION_ISSUED_IN_LAST_12_MONTHS",
-        "message": "Applications issued in last 12 months",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "APPLICATION_RENEWED_IN_LAST_12_MONTHS",
-        "message": "Applications renewed in last 12 months",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PT_FAQ_S",
-        "message": "FAQs",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "PT_ASSEMBLY_DET",
         "message": "Property Assembly Details",
         "module": "rainmaker-common",
@@ -1214,12 +1082,6 @@
     {
         "code": "ES_TITLE_DSS",
         "message": "DSS",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "DSS_FINANCE",
-        "message": "DSS Finance",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -1362,12 +1224,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "PT_COMMON_PAYEE_NAME",
-        "message": "Owner Name",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "PT_KNOW_PT_ID",
         "message": "I know my property ID",
         "module": "rainmaker-common",
@@ -1422,26 +1278,8 @@
         "locale": "en_IN"
     },
     {
-        "code": "CORE_COMMON_PROFILE_PASSWORD_INVALID",
-        "message": "Invalid password",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "CS_COMMON_INFO",
         "message": "Info",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CORE_COMMON_PROFILE_EMAIL_INVALID",
-        "message": "Invalid Email",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "ES_COMMON_CREATE_PROPERTY_HEADER",
-        "message": "Create property",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -1818,12 +1656,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "reports.wns.paymentmode",
-        "message": "Payment Mode",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "reports.wns.paymentmode_PLACE",
         "message": "Payment Mode",
         "module": "rainmaker-common",
@@ -1832,12 +1664,6 @@
     {
         "code": "WNSDEFAULTERREPORT",
         "message": "Defaulter Report",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "reports.wns.usageType",
-        "message": "Usage Type",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -1962,24 +1788,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "WS_LOAD_MORE_MSG",
-        "message": "Load More?",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "NEW_WATER_CONNECTION",
-        "message": "water",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "NEW_SEWERAGE_CONNECTION",
-        "message": "sewerage",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "PDF_STATIC_LABEL_WS_CONSOLIDATED_ACKNOWELDGMENT_TO_LABEL",
         "message": "To,",
         "module": "rainmaker-common",
@@ -2070,38 +1878,8 @@
         "locale": "en_IN"
     },
     {
-        "code": "WATER",
-        "message": "Water",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SEWERAGE",
-        "message": "Sewerage",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "PDF_STATIC_LABEL_WS_CONSOLIDATED_ACKNOWELDGMENT_ESTIMATION_NOTICE_HEADER",
         "message": "Estimation Notice",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PDF_STATIC_LABEL_WS_CONSOLIDATED_ACKNOWELDGMENT_LOGO_SUB_HEADER",
-        "message": "Municipal Corporation Amritsar, Town Hall, Amritsar, Punjab. 0183-2545155 | www.amritsarcorp.com | cmcasr@gmail.com",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PDF_STATIC_LABEL_WS_CONSOLIDATED_ACKNOWELDGMENT_ADDITIONAL_COMMENTS_VALUES",
-        "message": "connection will be sanctioned after the full payment of estimation fee.",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PDF_STATIC_LABEL_WS_CONSOLIDATED_ACKNOWELDGMENT_THE_LABEL",
-        "message": "The",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -2502,18 +2280,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "WATER",
-        "message": "WATER",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SEWERAGE",
-        "message": "SEWERAGE",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "TENANTS_MOHALLA_JLC478",
         "message": "Preet Nagar",
         "module": "rainmaker-common",
@@ -2604,12 +2370,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "CHALLAN_VALIDITY",
-        "message": "Validity of challan is",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "TL_VALIDITY",
         "message": "Trade License validity is",
         "module": "rainmaker-common",
@@ -2660,42 +2420,6 @@
     {
         "code": "ES_COMMON_TAKE_ACTION",
         "message": "Take action",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SHORT_ANSWER_TYPE",
-        "message": "Short answer",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "MULTIPLE_ANSWER_TYPE",
-        "message": "Multiple choice",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CHECKBOX_ANSWER_TYPE",
-        "message": "Check boxes",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "LONG_ANSWER_TYPE",
-        "message": "Paragraph",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "DATE_ANSWER_TYPE",
-        "message": "Date",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "TIME_ANSWER_TYPE",
-        "message": "Time",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
@@ -3504,42 +3228,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
-        "message": "Citizen Action Pending At Document Verification",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "INPROGRESS",
-        "message": "Stakeholders’s submission pending",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PENDING_APPL_FEE",
-        "message": "Pending Application Fee",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PENDING_SANC_FEE_PAYMENT",
-        "message": "Pending Sanction Fee Payment",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "DOC_VERIFICATION_INPROGRESS",
-        "message": "Document Verification In Progress",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
-        "message": "Citizen Action Pending At NOC Verification",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
         "code": "PERMIT REVOCATION",
         "message": "PERMIT REVOCATION",
         "module": "rainmaker-common",
@@ -3962,60 +3650,6 @@
     {
         "code": "CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
         "message": "Citizen Action Pending At NOC Verification",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "FIELDINSPECTION_INPROGRESS",
-        "message": "Field Inspection InProgress",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PENDING_FEE",
-        "message": "Pending For Payment",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "NOC_VERIFICATION_INPROGRESS",
-        "message": "NOC Verification Is InProgress",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "INITIATED",
-        "message": "Pending for Stakeholders update",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CITIZEN_APPROVAL_INPROCESS",
-        "message": "Citizen Approval Inprogress",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "REJECTED",
-        "message": "Rejected",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "APPROVED",
-        "message": "Approved",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CITIZEN_ACTION_PENDING_AT_FI_VERIF",
-        "message": "Citizen Action Pending At FI Verification",
-        "module": "rainmaker-common",
-        "locale": "en_IN"
-    },
-    {
-        "code": "APPROVAL_INPROGRESS",
-        "message": "Approval In Progress",
         "module": "rainmaker-common",
         "locale": "en_IN"
     },
