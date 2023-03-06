@@ -144,18 +144,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "ACCESSCONTROL_ROLES_ROLES_ASSETCREATOR",
-        "message": "एसेट निर्माता",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "ACCESSCONTROL_ROLES_ROLES_ASSETREPORTVIEWER",
-        "message": "एसेट रिपोर्ट देखें",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "ACCESSCONTROL_ROLES_ROLES_ASSET_ADMINISTRATOR",
         "message": "एसेट प्रबंधक",
         "module": "rainmaker-common",
@@ -164,18 +152,6 @@
     {
         "code": "ACCESSCONTROL_ROLES_ROLES_AUTO_ESCALATE",
         "message": "ऑटो एस्केलेट",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "ACCESSCONTROL_ROLES_ROLES_AssetCreator",
-        "message": "एसेट क्रिएटर",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "ACCESSCONTROL_ROLES_ROLES_AssetReportViewer",
-        "message": "एसेट रिपोर्ट व्यूअर",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -4970,24 +4946,6 @@
     {
         "code": "COMMON_INBOX_ROWS_LABEL",
         "message": "पंक्तियाँ प्रति पेज:",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "COMMON_INBOX_TAB_ALL",
-        "message": "सभी ({0})",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "COMMON_INBOX_TAB_ASSIGNED_TO_ME",
-        "message": "मुझे असाइन किया हुआ ({0})",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "COMMON_INBOX_TAB_ESCALATED",
-        "message": "समयसीमा के पार ({0})",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -15858,12 +15816,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "PT_HOW_IT_WORKS",
-        "message": "यह काम किस प्रकार करता है?",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "PT_KNOW_PTID",
         "message": "मैं अपनी संपत्ति आईडी जानता हूँ",
         "module": "rainmaker-common",
@@ -18762,20 +18714,8 @@
         "locale": "hi_IN"
     },
     {
-        "code": "WF_BPA_APPROVAL_INPROGRESS",
-        "message": "स्वीकृति प्रगति में",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "WF_BPA_APPROVE",
         "message": "स्वीकार करें",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_BPA_APPROVED",
-        "message": "स्वीकार किया गया",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -18810,50 +18750,14 @@
         "locale": "hi_IN"
     },
     {
-        "code": "WF_BPA_CITIZEN_ACTION_PENDING_AT_DOC_VERIF",
-        "message": "दस्तावेज़ सत्यापन पर नागरिक कार्यवाही बकाया",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_BPA_CITIZEN_ACTION_PENDING_AT_FI_VERIF",
-        "message": "FI सत्यापन पर नागरिक कार्यवाही बकाया",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_BPA_CITIZEN_ACTION_PENDING_AT_NOC_VERIF",
-        "message": "अनापत्ति प्रमाणपत्र सत्यापन पर नागरिक कार्यवाही बकाया",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_BPA_CITIZEN_APPROVAL_INPROCESS",
-        "message": "नागरिक स्वीकृति प्रगति में",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "WF_BPA_CITIZEN_APPROVAL_PENDING",
         "message": "नागरिक स्वीकृति रुकी हुई",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
     {
-        "code": "WF_BPA_DOC_VERIFICATION_INPROGRESS",
-        "message": "दस्तावेज़ सत्यापन में प्रगति",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "WF_BPA_DOC_VERIFICATION_PENDING",
         "message": "दस्तावेज़ सत्यापन रुका हुआ",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_BPA_FIELDINSPECTION_INPROGRESS",
-        "message": "फील्ड निरीक्षण प्रगति में",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -18872,18 +18776,6 @@
     {
         "code": "WF_BPA_HIGH",
         "message": "उच्च",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_BPA_INITIATED",
-        "message": "हितधारक द्वारा अपडेट के लिए रुका हुआ",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_BPA_INPROGRESS",
-        "message": "हितधारकों द्वारा जमा करने के लिए रुका हुआ",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -19148,12 +19040,6 @@
     {
         "code": "WF_BPA_PENDING_APPL_FEE_PAYMENT",
         "message": "आवेदन शुल्क हेतु रुका हुआ",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WF_BPA_PENDING_SANC_FEE_PAYMENT",
-        "message": "बकाया स्वीकृति शुल्क भुगतान",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
@@ -21072,12 +20958,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "COMMON_HOW_IT_WORKS",
-        "message": "यह काम किस प्रकार करता है?",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "HOW_IT_WORKS",
         "message": "यह काम किस प्रकार करता है?",
         "module": "rainmaker-common",
@@ -21852,12 +21732,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "FIRENOC_BUILDINGTYPE_GROUP_H_STORAGE_GROUP_H_STORAGE",
-        "message": "ग्रुप एच स्टोरेज",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
         "code": "FIRENOC_BUILDINGTYPE_GROUP_J_HAZARDOUS",
         "message": "ग्रुप जे जोखिम भरा / खतरनाक",
         "module": "rainmaker-common",
@@ -21890,12 +21764,6 @@
     {
         "code": "BPA_OCCUPANCY_TYPE_I",
         "message": "खतरनाक",
-        "module": "rainmaker-common",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "BPA_OCCUPANCY_TYPE_J",
-        "message": "Transportation",
         "module": "rainmaker-common",
         "locale": "hi_IN"
     },
