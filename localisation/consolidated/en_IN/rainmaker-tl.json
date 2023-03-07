@@ -324,18 +324,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "ES_COMMON_CREATE_PROPERTY_HEADER",
-        "message": "Create New Property (For TL Application)",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "ES_COMMON_CREATE_PROPERTY_HEADER_TL",
-        "message": "Create New Property (For Trade License)",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "ES_COMMON_NO_DATA",
         "message": "No Data Found",
         "module": "rainmaker-tl",
@@ -630,12 +618,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "PT_MUTATION_STATUS",
-        "message": "Status",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "PT_OWNERSHIP_INSTITUTIONALGOVERNMENT",
         "message": "Institutional - Government",
         "module": "rainmaker-tl",
@@ -662,12 +644,6 @@
     {
         "code": "PT_SELECT_LOCALITY",
         "message": "Locality",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PT_VIEW_MORE_DETAILS",
-        "message": "View More Details",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
@@ -8148,12 +8124,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "TL_TIMELINE_DOCS",
-        "message": "Workflow Documents",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "TL_TL_CANCELLED_MESSAGE_HEAD",
         "message": "Trade License Cancelled",
         "module": "rainmaker-tl",
@@ -13146,12 +13116,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "WF_TL_INITIATED",
-        "message": "Initiated",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "WF_TL_PENDINGPAYMENT",
         "message": "Pending Payment",
         "module": "rainmaker-tl",
@@ -13290,24 +13254,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "report.tl.instrumenttype",
-        "message": "Payment Mode",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.issueddate",
-        "message": "Issue Date",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.licensenumber",
-        "message": "Trade License No.",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "report.tl.offline.collection",
         "message": "Amount Collected Offline",
         "module": "rainmaker-tl",
@@ -13386,12 +13332,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "report.tl.tradetype",
-        "message": "Name of Trade Subtype",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "report.tl.transactionumber",
         "message": "DD/Cheque/Transaction Number",
         "module": "rainmaker-tl",
@@ -13400,12 +13340,6 @@
     {
         "code": "report.tl.user.mobilenumber",
         "message": "Mobile No.",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.user.name",
-        "message": "Name of Applicant",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
@@ -13758,36 +13692,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "TLREGISTRYREPORT",
-        "message": "Trade License registry report",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "TL Daily Collection report",
-        "message": "Trade License Daily Collection report",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "ACTION_TEST_TRADE_LICENSE_DAILY_COLLECTION_REPORT",
-        "message": "Trade License Daily Collection report",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.receiptdate",
-        "message": "Receipt date",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.chequedate",
-        "message": "Cheque/DD date",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "report.tl.chequeno",
         "message": "Cheque/DD No",
         "module": "rainmaker-tl",
@@ -13842,68 +13746,8 @@
         "locale": "en_IN"
     },
     {
-        "code": "report.tl.applicationchannel",
-        "message": "Application Channel",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.applicationtype",
-        "message": "Application Type",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.applicationstatus",
-        "message": "Status",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.currentowner",
-        "message": "Current Owner",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "report.tl.applicationnumber",
         "message": "Application number",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.tradetype",
-        "message": "Trade Type / Sub type",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.user.name",
-        "message": "Applicant Name",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.licensenumber",
-        "message": "License No",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.name",
-        "message": "Applicant Name",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.tradename",
-        "message": "Name of Trade",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.instrumenttype",
-        "message": "Instrument type",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
@@ -13928,12 +13772,6 @@
     {
         "code": "report.tl.commencementdate",
         "message": "Trade Commencement date",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.name",
-        "message": "Trade Owner Name",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
@@ -20358,12 +20196,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "CPT_COMPLETE_PROPERTY_DETAILS",
-        "message": "View Complete Property Details",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "PT_PROPERTY_ID",
         "message": "Property ID",
         "module": "rainmaker-tl",
@@ -20538,12 +20370,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "TL_STREET_TEXT",
-        "message": "Enter your street name",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
         "code": "TL_OTHER_TRADE_DETAILS_HEADER",
         "message": "Other trade Details",
         "module": "rainmaker-tl",
@@ -20576,60 +20402,6 @@
     {
         "code": "report.tl.chequedate",
         "message": "Cheque/DD date",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.chequeno",
-        "message": "Cheque/DD No",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.bankname",
-        "message": "Bank Name",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.transactionid",
-        "message": "Transaction ID",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.lastfourdigits",
-        "message": "Last 4 digits of card",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.totalamountpaid",
-        "message": "Amount (Rs)",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.instrumentstatus",
-        "message": "Status",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "reports.tl.instrumenttype",
-        "message": "Instrument type",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "report.tl.applicationdate",
-        "message": "Application date",
-        "module": "rainmaker-tl",
-        "locale": "en_IN"
-    },
-    {
-        "code": "TL application number",
-        "message": "Application number",
         "module": "rainmaker-tl",
         "locale": "en_IN"
     },
