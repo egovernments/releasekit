@@ -768,18 +768,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_FIELD_FEE",
-        "message": "Field Collection Fee",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_TAX",
-        "message": "Gas Balloon Advertisement Tax Amount",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
         "code": "ADVT.HOARDINGS_CGST",
         "message": "CGST (If applicable):",
         "module": "rainmaker-uc",
@@ -9486,7 +9474,7 @@
         "locale": "en_IN"
     },
     {
-        "code": "FN.PF_transfer_(Accounts)_FIELD_FEE",
+        "code": "FN.PF_transfer_(Accounts)_FIELD_FEEFN.PF_transfer_(Accounts)_FIELD_FEE",
         "message": "Field Collection Fee",
         "module": "rainmaker-uc",
         "locale": "en_IN"
@@ -20004,12 +19992,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "UC_CHALLAN_NUMBER",
-        "message": "Challan Number",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
         "code": "UC_CHEQUE_DATE_LABEL",
         "message": "Cheque Date",
         "module": "rainmaker-uc",
@@ -20036,18 +20018,6 @@
     {
         "code": "UC_CITY_LABEL",
         "message": "City",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_CLEAR_SEARCH_LABEL",
-        "message": "Clear Search",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_COLLECT",
-        "message": "Collect",
         "module": "rainmaker-uc",
         "locale": "en_IN"
     },
@@ -20138,18 +20108,6 @@
     {
         "code": "UC_DOOR_NO_PLACEHOLDER",
         "message": "Enter Door No",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_DOWNLOAD_RECEIPT",
-        "message": "Download Receipt",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_DUE_DATE",
-        "message": "Due Date",
         "module": "rainmaker-uc",
         "locale": "en_IN"
     },
@@ -20275,12 +20233,6 @@
     },
     {
         "code": "UC_MOBILE_NUMBER:",
-        "message": "Mobile Number",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_MOBILE_NUMBER_LABEL",
         "message": "Mobile Number",
         "module": "rainmaker-uc",
         "locale": "en_IN"
@@ -20576,18 +20528,6 @@
     {
         "code": "UC_STREET_NAME_LABEL:",
         "message": "Street Name",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_TABLE_COL_ACTION",
-        "message": "Action",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "UC_TOTAL_AMOUNT",
-        "message": "Total Amount",
         "module": "rainmaker-uc",
         "locale": "en_IN"
     },
@@ -20966,18 +20906,6 @@
     {
         "code": "WF_Tender Form Fee_TAX",
         "message": "Tender Form Fee",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "echallan.cancel.sms",
-        "message": "Challan No: {challanno} for {service} has been cancelled.\n\nEGOVS",
-        "module": "rainmaker-uc",
-        "locale": "en_IN"
-    },
-    {
-        "code": "echallan.create.sms",
-        "message": "Challan No: {challanno} for {service} INR {amount} generated. Pay @ {Link} .\n\nEGOVS",
         "module": "rainmaker-uc",
         "locale": "en_IN"
     },
