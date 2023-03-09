@@ -2790,30 +2790,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "PGR_APPLY_PENDINGFORASSIGNMENT_SMS_MESSAGE",
-        "message": "Dear Citizen,\n Your complaint for {complaint_type} has been submitted with ID {id} on {date}. You can track your complaint status on the mSeva Punjab mobile App (download here - {download link}) or your local municipal web portal.\n\nEGOVS",
-        "module": "rainmaker-pgr",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PGR_REASSIGN_PENDINGATLME_SMS_MESSAGE",
-        "message": "Dear Citizen,\n Your complaint for {complaint_type} with ID {id} submitted on {date} has been re-assigned to {reassign_emp_name}, {emp_designation}, {emp_department} department. You can track your complaint status and connect with our officials on the mSeva Punjab mobile App (download here - {download link}) or your local municipal web portal.\n\nEGOVS",
-        "module": "rainmaker-pgr",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PGR_REJECT_REJECTED_SMS_MESSAGE",
-        "message": "Dear Citizen,\n Your complaint for {complaint_type} with ID {id} submitted on {date} has been rejected. Reason for Rejection: {additional_comments} If you wish to re-open the complaint, you can download the mSeva Punjab mobile app (download here - {download link}) or visit your local municipal website.\n\nEGOVS",
-        "module": "rainmaker-pgr",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PGR_REOPEN_PENDINGFORASSIGNMENT_SMS_MESSAGE",
-        "message": "Dear Citizen,\n Your complaint for {complaint_type} with ID {id} submitted on {date} has been RE-OPEN as per your request. You can track your complaint status and connect with our officials on the mSeva Punjab mobile App (download here - {download link}) or your local municipal web portal.\n\nEGOVS",
-        "module": "rainmaker-pgr",
-        "locale": "en_IN"
-    },
-    {
         "code": "PGR_RESOLVE_RESOLVED_SMS_MESSAGE",
         "message": "Dear Citizen,\n Your complaint for {complaint_type} with ID {id} submitted on {date} has been resolved by {emp_name}. If you are not satisfied with service you can REOPEN complaint through mSeva Punjab mobile App (download here - {download link}) or your local municipal web portal or by calling our CSR.\n\nEGOVS",
         "module": "rainmaker-pgr",
