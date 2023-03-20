@@ -4031,5 +4031,29 @@
         "message": "Dear Consumer, You have successfully submitted your application for Modification of the Connection. Your Application No. is {Application number} . {Action Button}Download Application{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_RE-SUBMIT",
+        "message": "Re-submit",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_APPROVE",
+        "message": "Approve",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_SEND_BACK",
+        "message": "Send back",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
     }
 ]

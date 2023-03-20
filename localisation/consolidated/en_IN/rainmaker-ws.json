@@ -8554,5 +8554,29 @@
         "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is sent back for correction. To make the corrections, please log in to {mseva URL}\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_RE-SUBMIT",
+        "message": "Re-submit",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_APPROVE",
+        "message": "Approve",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_REJECT",
+        "message": "Reject",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_EMPLOYEE_SW.AMENDMENT_SEND_BACK",
+        "message": "Send back",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
     }
 ]
