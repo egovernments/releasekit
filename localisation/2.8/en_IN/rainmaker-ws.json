@@ -3604,13 +3604,13 @@
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been rejected. Click here for more details {Action Button}View History Link{/Action Button} \n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
-    },    
+    },
     {
         "code": "WS_DISCONNECT_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_APP_MESSAGE",
         "message": "Dear {Owner Name}, Your application {Application number} for disconnection {Service} Connection, Consumer Number {Connection number} is sent back for correction. For more details, please log in to {mseva URL}\n\nEGOVS",
         "module": "rainmaker-ws",
         "locale": "en_IN"
-    }, 
+    },
     {
         "code": "WS_DEFAULT_EDIT_NEW_CONNECTION_APP_MESSAGE",
         "message": "Dear {Owner Name}, Your Application {Application number} for a New {Service} Connection has been edited. Click here for more details {View History Link} . \n\nEGOVS",
@@ -3787,7 +3787,7 @@
     },
     {
         "code": "WS_SEND_BACK_FOR_FIELD_INSPECTION_PENDING_FOR_FIELD_INSPECTION_EMAIL_MESSAGE",
-        "message": "<h2>Your application for New {Service} is sent back</h2><p>Dear {Owner Name}, <br>Your Application {Application number} for a New {Service} Connection is sent back. <br>For more details, please log in to {mseva URL}<br>This is a system generated email. Do not reply to this email.</p>",        
+        "message": "<h2>Your application for New {Service} is sent back</h2><p>Dear {Owner Name}, <br>Your Application {Application number} for a New {Service} Connection is sent back. <br>For more details, please log in to {mseva URL}<br>This is a system generated email. Do not reply to this email.</p>",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
@@ -4001,7 +4001,6 @@
         "module": "rainmaker-ws",
         "locale": "en_IN"
     },
-
     {
         "code": "WS_MODIFY_APPROVE_CONNECTION_APPROVED_SMS_MESSAGE",
         "message": "Dear Consumer, Your Application {Application number} for Modification of the Connection has been approved. Changes will be effective from {Date effective from}. Click here for more details. {Action Button}View History Link{/Action Button} \n\nEGOVS",
@@ -4053,6 +4052,24 @@
     {
         "code": "WF_EMPLOYEE_SW.AMENDMENT_SEND_BACK",
         "message": "Send back",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_VIEW_PROPERTY_DETAILS",
+        "message": "View Property Details",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_PENALTY",
+        "message": "Adhoc Penalty",
+        "module": "rainmaker-ws",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_TAX_HEAD",
+        "message": "Tax Heads",
         "module": "rainmaker-ws",
         "locale": "en_IN"
     }
