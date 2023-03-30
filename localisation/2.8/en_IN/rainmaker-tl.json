@@ -6784,5 +6784,35 @@
         "message": "Invalid trade GST number",
         "module": "rainmaker-tl",
         "locale": "en_IN"
+    },
+    {
+        "code": "ERR_WRONG_UOM_VALUE",
+        "message": "Please fill the correct UOM value, Range :",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_FILL_CORRECT_UOM_VALUE",
+        "message": "Please fill the correct UOM value, Range",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_LOCALIZATION_APPLICATIONTYPE_NewTL",
+        "message": "New TL",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_BILLING_SLAB_NOT_FOUND_FOR_COMB",
+        "message": "No Billing Slab found",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_LOCALIZATION_LICENSE_NO",
+        "message": "Trade License number",
+        "module": "rainmaker-tl",
+        "locale": "en_IN"
     }
 ]
