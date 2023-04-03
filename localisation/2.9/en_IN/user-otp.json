@@ -1,0 +1,26 @@
+[
+    {
+        "code": "email.login.otp.sub",
+        "message": "Login OTP",
+        "module": "egov-user",
+        "locale": "en_IN"
+    },
+    {
+        "code": "email.login.otp.body",
+        "message": "Dear Citizen, Your Login OTP is %s.",
+        "module": "egov-user",
+        "locale": "en_IN"
+    },
+    {
+        "code": "email.pwd.reset.otp.body",
+        "message": "Your OTP for recovering password is %s.",
+        "module": "egov-user",
+        "locale": "en_IN"
+    },
+    {
+        "code": "email.pwd.reset.otp.sub",
+        "message": "Password Reset",
+        "module": "egov-user",
+        "locale": "en_IN"
+    }
+]
