@@ -1,0 +1,26 @@
+[
+    {
+        "code": "email.login.otp.sub",
+        "message": "लॉगिन ओटीपी",
+        "module": "egov-user",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "email.login.otp.body",
+        "message": "प्रिय नागरिक, आपका लॉगिन ओटीपी है - %s.",
+        "module": "egov-user",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "email.pwd.reset.otp.body",
+        "message": "प्रिय नागरिक, पासवर्ड रिकवर करने के लिए आपका ओटीपी है - %s.",
+        "module": "egov-user",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "email.pwd.reset.otp.sub",
+        "message": "पासवर्ड रिकवर",
+        "module": "egov-user",
+        "locale": "hi_IN"
+    }
+]
