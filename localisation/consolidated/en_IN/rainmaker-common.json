@@ -27010,5 +27010,209 @@
         "message": "Download Permit Order",
         "module": "rainmaker-common",
         "locale": "en_IN"
+    },
+    {
+        "code": "CS_REVIEW_AND_FEEDBACK",
+        "message": "Rate us",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_HELP_TEXT_CREATE",
+        "message": "Help Us Help You",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_WHAT_WENT_WRONG",
+        "message": "What went wrong ?",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_SUBMIT",
+        "message": "Submit",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_GO_BACK_HOME",
+        "message": "Go Back Home",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_PROPERTY_FEEDBACK_SUCCESS",
+        "message": "Thank you for rating us!",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_CF_FEEDBACK_RESPONSE",
+        "message": "Your rating has been recorded successfully.",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_GO_BACK_TO_HOME",
+        "message": "Go Back To Home",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_FEEDBACK_SUBMITTED_SUCCESSFULLY",
+        "message": "Your rating has been recorded successfully!",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_HELP_TEXT",
+        "message": "Help Us Help You",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_TEXT",
+        "message": "Rate your experience with us for your recent transaction.",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_HELP_TEXT_MUTATE",
+        "message": "Help Us Help You",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_NOT_ABLE_TO_FIND_APP_MSG",
+        "message": "Not able to find the application?",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BPA_CLICK_HERE_TO_SEARCH_LINK",
+        "message": "Click here to Search Application",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_SLA_ACHIEVED",
+        "message": "Aggregated SLA",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_SLA_ACHIEVED",
+        "message": "(Total applications approved in stipulated time / Total applications approved) x 100",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_OVERVIEW_CITIZEN_FEEDBACK_SCORE",
+        "message": "Citizen Feedback Score",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_OVERVIEW_CITIZEN_FEEDBACK_SCORE",
+        "message": "(Sum of citizen ratings / total number of request for which the rating was provided)",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_CITIZEN_FEEDBACK_SCORE",
+        "message": "Citizen Feedback Score",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_CITIZEN_FEEDBACK_SCORE",
+        "message": "(Sum of citizen ratings / total number of request for which the rating was provided)",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_OVERVIEW_PENDANCY",
+        "message": "Pendancy",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_OVERVIEW_PENDANCY",
+        "message": "(Total applications received – Total applications resolved / Total applications received) x 100",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_CARD_TEXT_CREATE",
+        "message": "Rate your experience with us for your recent transaction to create property with application reference {{acknowldgementNumber}} for the property ID {{propertyId}}.",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_CARD_TEXT_MUTATE",
+        "message": "Rate your experience with us for your recent transaction on mutation for property ID {{propertyId}} and application reference {{acknowldgementNumber}}.",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_HELP_TEXT_UPDATE",
+        "message": "Help Us Help You",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_CARD_TEXT_UPDATE",
+        "message": "Rate your experience with us for your recent transaction on update for property ID {{propertyId}} and application reference {{acknowldgementNumber}}.",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_HELP_TEXT_PAY",
+        "message": "Help Us Help You",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RATE_CARD_TEXT_PAY",
+        "message": "Rate your experience with us for your recent transaction to pay property tax for property ID {{propertyId}}.",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_PENDANCY",
+        "message": "(Total applications received – Total applications resolved / Total applications received) x 100",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_PENDANCY",
+        "message": "Pendancy",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NATIONAL_DSS_PT_CITIZEN_SERVICE_DELIVERY_INDEX",
+        "message": "Citizen Delivery Index",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_NATIONAL_DSS_PT_CITIZEN_SERVICE_DELIVERY_INDEX",
+        "message": "((0.5 x Aggregated SLA) + ( 0.5 x Citizen Feedback score%))",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TIP_DSS_PT_SLA_ACHIEVED",
+        "message": "(Total applications approved in stipulated time / Total applications approved) x 100",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_WHAT_WENT_GOOD",
+        "message": "What went good?",
+        "module": "rainmaker-common",
+        "locale": "en_IN"
     }
 ]
