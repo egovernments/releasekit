@@ -18340,5 +18340,28 @@
         "message": "Built-up Area (In Sq.Ft.)",
         "module": "rainmaker-pt",
         "locale": "en_IN"
+    },{
+        "code": "PT_NOTIF_CF_CREATED",
+        "message": "Dear {OWNER_NAME}, You have recently created a property in our portal with application no {APPID}. We would like to hear your experience with us. Please take a moment to rate us to serve you better. {FeedbackURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_CF_UPDATED",
+        "message": "Dear {OWNER_NAME}, You have recently updated a property in our portal with application no {APPID}. We would like to hear your experience with us. Please take a moment to rate us to serve you better. {FeedbackURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_CF_MUTATED",
+        "message": "Dear {OWNER_NAME}, You have recently changed your property ownership in our portal with application no {APPID}. We would like to hear your experience with us. Please take a moment to rate us to serve you better. {FeedbackURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_CF_PAYMENT_ONLINE",
+        "message": "Dear {OWNER_NAME}, You have recently paid your property taxes in our portal with transaction ID {TRANSACTION_ID} We would like to hear your experience with us. Please take a moment to rate us to serve you better. {FeedbackURL} Thank you \n\nEGOVS",
+        "module": "rainmaker-pt",
+        "locale": "en_IN"
     }
 ]
