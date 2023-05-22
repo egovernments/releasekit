@@ -343,7 +343,7 @@
     },
     {
         "code": "CORE_LOGIN_NO_ACCOUNT",
-        "message": "Don’t have an account?",
+        "message": "Don\u2019t have an account?",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
@@ -427,7 +427,7 @@
     },
     {
         "code": "CORE_OTP_NOT_RECEIVE",
-        "message": "Didn’t receive OTP?",
+        "message": "Didn\u2019t receive OTP?",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
@@ -721,7 +721,7 @@
     },
     {
         "code": "CS_ADDCOMPLAINT_LOCATION_ERRORMSG",
-        "message": "Address doesn’t exist",
+        "message": "Address doesn\u2019t exist",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
@@ -1705,7 +1705,7 @@
     },
     {
         "code": "CS_CONTACTUS_WEEKDAY",
-        "message": "Mon – Fri",
+        "message": "Mon \u2013 Fri",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
@@ -1945,7 +1945,7 @@
     },
     {
         "code": "CS_HOWITWORKS_DESCRIPTION",
-        "message": "We have made connecting with us easier than ever before. Once you raise the complaint, we will assign it to the responsible officer. You can track the status of your complaint on our web-site under “ My Complaints “ till your complaint is resolved.",
+        "message": "We have made connecting with us easier than ever before. Once you raise the complaint, we will assign it to the responsible officer. You can track the status of your complaint on our web-site under \u201c My Complaints \u201c till your complaint is resolved.",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
@@ -2437,7 +2437,7 @@
     },
     {
         "code": "ES_COMMON_TRACK_COMPLAINT_TEXT",
-        "message": "The notification along with complaint number is sent to your applicant’s mobile number. Applicant can track the complaint status using mobile or web app.",
+        "message": "The notification along with complaint number is sent to your applicant\u2019s mobile number. Applicant can track the complaint status using mobile or web app.",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
@@ -2923,7 +2923,7 @@
     },
     {
         "code": "PT_CALCULATION_LOGIC_TEXT",
-        "message": "Property Tax = Built up area on GF*Rates per unit of GF-built up empty land on GF * Rate per unit of GF-empty land 𝝨(built-up on nth floor*Rate per unit of nth floor-built up)",
+        "message": "Property Tax = Built up area on GF*Rates per unit of GF-built up empty land on GF * Rate per unit of GF-empty land \ud835\udf68(built-up on nth floor*Rate per unit of nth floor-built up)",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
@@ -4009,13 +4009,13 @@
     },
     {
         "code": "PT_PROPERTY_TAX_WHICH_YEAR_QUESTION",
-        "message": "Which year’s taxes would you like to pay?",
+        "message": "Which year\u2019s taxes would you like to pay?",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
     {
         "code": "PT_PROPERTY_TAX_WHICH_YEAR_QUESTIONS",
-        "message": "Which year’s taxes would you like to pay?",
+        "message": "Which year\u2019s taxes would you like to pay?",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
@@ -6373,7 +6373,7 @@
     },
     {
         "code": "reports.rainmaker-pgr.avg citizen rating",
-        "message": "Citizen’s Avg. Rating",
+        "message": "Citizen\u2019s Avg. Rating",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     },
@@ -6776,12 +6776,6 @@
     {
         "code": "PGR_RESOLVE_CITIZEN_RESOLVED_SMS_MESSAGE",
         "message": "Dear Citizen, Your complaint for {complaint_type} with ID {id} submitted on {date} has been resolved by {emp_name}. If you are not satisfied with service you can RE-OPEN complaint through mSeva mobile App (download here - {download_link}) or your local municipal web portal or by calling your nearest municipal office\n\nEGOVS",
-        "module": "rainmaker-pgr",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PGR_RESOLVE_RESOLVED_SMS_MESSAGE",
-        "message": "Dear Citizen, Your complaint for {complaint_type} with ID {id} submitted on {date} has been resolved by {emp_name}. If you are not satisfied with service you can REOPEN complaint through mSeva mobile App (download here - {download_link}) or your local municipal web portal or by calling our CSR.\n\nEGOVS",
         "module": "rainmaker-pgr",
         "locale": "en_IN"
     }
