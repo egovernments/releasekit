@@ -1,0 +1,382 @@
+{
+    "messages": [
+        {
+            "code": "DAMAGED_STOCK_DETAILS",
+            "message": "Damaged Stock Details",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "DAMAGED_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Stock Received From",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "ISSUED_STOCK_DETAILS",
+            "message": "Issued Stock Details",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "ISSUED_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Stock Issued To",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "LOST_STOCK_DETAILS",
+            "message": "Lost Stock Details",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "LOST_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Stock Received From",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_LABEL",
+            "message": "Manage Stocks",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECEIPT_DESCRIPTION",
+            "message": "Create records for stock received at the warehouse",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_DAMAGED_DESCRIPTION",
+            "message": "Record the list of resources damaged during campaign operations",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_DAMAGED_LABEL",
+            "message": "Stock Damaged",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_ISSUED_DESCRIPTION",
+            "message": "Create records for stock sent out from the warehouse",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_ISSUED_LABEL",
+            "message": "Record Stock Issued",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_LOSS_DESCRIPTION",
+            "message": "Record the list of resources lost during campaign operations",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_LOSS_LABEL",
+            "message": "Stock Loss",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_RECEIPT_LABEL",
+            "message": "Record Stock Receipt",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_RETURNED_DESCRIPTION",
+            "message": "Create records for the stock returned to the warehouse",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_RETURNED_LABEL",
+            "message": "Stock Returned",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "RECEIVED_STOCK_DETAILS",
+            "message": "Received Stock Details",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "RECEIVED_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Stock Received From",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "RETURNED_STOCK_DETAILS",
+            "message": "Returned Stock Details",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "RETURNED_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Stock Returned From",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_COMMENTS_LABEL",
+            "message": "Comments",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_DAMAGED_DURING",
+            "message": "Damaged during",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_DIALOG_CONTENT",
+            "message": "Make sure you reivew all details before clicking on the Submit button. Click on the Cancel button to go back to the previous page.",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_DIALOG_TITLE",
+            "message": "Ready to submit?",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_ISSUED_TO",
+            "message": "Issued to",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_LOST_DURING",
+            "message": "Lost during",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_DAMAGED",
+            "message": "Quantity damaged",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_DAMAGED_MAX_ERROR",
+            "message": "Count must be less than 10,000",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_DAMAGED_MIN_ERROR",
+            "message": "Count must be greater than 0",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_LOST",
+            "message": "Quantity lost",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_LOST_MAX_ERROR",
+            "message": "Count must be less than 10,000",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_LOST_MIN_ERROR",
+            "message": "Count must be greater than 0",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RECEIVED",
+            "message": "Quantity received",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RECEIVED_ERROR",
+            "message": "Please enter the quantity",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RECEIVED_MAX_ERROR",
+            "message": "Count must be less than 10,000",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RECEIVED_MIN_ERROR",
+            "message": "Count must be greater than 0",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RETURNED",
+            "message": "Quantity returned",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RETURNED_MAX_ERROR",
+            "message": "Count must be less than 10,000",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RETURNED_MIN_ERROR",
+            "message": "Count must be greater than 0",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_SENT",
+            "message": "Quantity sent",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_SENT_MAX_ERROR",
+            "message": "Count must be less than 10,000",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_SENT_MIN_ERROR",
+            "message": "Count must be greater than 0",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIVED_FROM",
+            "message": "Received from",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIVED_FROM_DAMAGED",
+            "message": "Received from",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIVED_FROM_LOST",
+            "message": "Received from",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RETURNED_TO",
+            "message": "Returned to",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_SELECT_PRODUCT",
+            "message": "Select product",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_SELECT_PRODUCT_ERROR",
+            "message": "Required",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_SELECT_PRODUCT_IS_REQUIRED",
+            "message": "Please select a product",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_TRANSPORT_TYPE",
+            "message": "Type of transport",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_VEHICLE_NUMBER",
+            "message": "Vehicle number",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_WAYBILL_NUMBER",
+            "message": "Waybill Number",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_WAYBILL_QUANTITY",
+            "message": "Quantity indicated on waybill",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_WAYBILL_QUANTITY_ERROR",
+            "message": "Please enter the quantity",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_RECONCILIATION_COUNT_EXPECTS_NUMBER",
+            "message": "please give number",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "TRANSPORT_TYPE_1",
+            "message": "Transport type 1",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "TRANSPORT_TYPE_2",
+            "message": "Transport type 2",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "WAREHOSUE_DETAILS_ADMINISTRATIVE_UNIT",
+            "message": "Administrative unit",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "WAREHOSUE_DETAILS_WAREHOUSE_NAME_ID",
+            "message": "Warehouse name / ID",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "WAREHOUSE_DETAILS_ADMINISTRATIVE_UNIT",
+            "message": "Administrative unit",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "WAREHOUSE_DETAILS_DATE_OF_RECEIPT",
+            "message": "Date of receipt",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "WAREHOUSE_DETAILS_LABEL",
+            "message": "Warehouse Details",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        }
+    ]
+}
