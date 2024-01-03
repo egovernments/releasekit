@@ -1,0 +1,443 @@
+[
+  {
+    "code": "FSM_DRIVER_SW_ERR",
+    "message": "Driver cannot be same as Sanitation Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_DRIVER",
+    "message": "Driver",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_1",
+    "message": "Sanitation Worker 1",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_2",
+    "message": "Sanitation Worker 2",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_3",
+    "message": "Sanitation Worker 3",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_4",
+    "message": "Sanitation Worker 4",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_5",
+    "message": "Sanitation Worker 5",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_6",
+    "message": "Sanitation Worker 6",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_7",
+    "message": "Sanitation Worker 7",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_8",
+    "message": "Sanitation Worker 8",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_9",
+    "message": "Sanitation Worker 9",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_DSO_ACCEPT",
+    "message": "Add Vehicle and Workers",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SW_FUNCTIONAL_ROLE_DRIVER",
+    "message": "Driver",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_ACTION_ASSIGN_DRIVER",
+    "message": "Assign Driver",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_ACTION_ASSIGN_SW",
+    "message": "Assign Sanitation Workers",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_COMMON_DSO_ACCEPT",
+    "message": "Confirm",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SW_SEARCH_BY_NAME_ID",
+    "message": "Search by Name / Sanitation worker ID",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_EMPTY_CARD_DRIVER",
+    "message": "No Sanitation Worker Found",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_TITLE_NEW_DRIVER",
+    "message": "Add New Sanitation Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_EMPTY_BUTTON_DRIVER",
+    "message": "Add New Sanitation Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WORDER_ADDED_VENDOR_FAILED",
+    "message": "Worker created but cannot tag vendor",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_1",
+    "message": "Sanitation Worker 1",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_2",
+    "message": "Sanitation Worker 2",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_3",
+    "message": "Sanitation Worker 3",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_4",
+    "message": "Sanitation Worker 4",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_5",
+    "message": "Sanitation Worker 5",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_6",
+    "message": "Sanitation Worker 6",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_7",
+    "message": "Sanitation Worker 7",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_8",
+    "message": "Sanitation Worker 8",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_9",
+    "message": "Sanitation Worker 9",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_ACTION_ASSIGN_SW",
+    "message": "Assign Sanitation Workers",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_ACTION_CREATE_WORKER",
+    "message": "Sanitation Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_DSO_ACCEPT",
+    "message": "Add Vehicle and Workers",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_REGISTRY_DELETE_WORKER_SUCCESS",
+    "message": "Worker deleted successfully",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_REGISTRY_EMPTY_BUTTON_DRIVER",
+    "message": "Add New Sanitation Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_REGISTRY_EMPTY_CARD_DRIVER",
+    "message": "No Sanitation Worker Found",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_REGISTRY_INBOX_TAB_WORKER",
+    "message": "Sanitation Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_REGISTRY_SEARCH_SW_ID",
+    "message": "Sanitation Worker ID",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_SEARCH_SW_NAME",
+    "message": "Sanitation Worker Name",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_REGISTRY_TITLE_NEW_DRIVER",
+    "message": "Add New Sanitation Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_REGISTRY_UPDATE_WORKER_WITH_VENDOR_SUCCESS",
+    "message": "Worker updated successfully",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_REGISTRY_WORDER_ADDED_WITH_VENDOR_SUCCESS",
+    "message": "Worker created and tagged to vendor",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_WORKER_DETAILS_ID",
+    "message": "Sanitation Worker ID {ID}",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_WORKER_ID",
+    "message": "Sanitation worker ID",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_WORKER_NAME",
+    "message": "Sanitation worker name",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "ES_FSM_WORKER_ADD_FAILED",
+    "message": "Worker add failed",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_WORKER_UPDATE_FAILED",
+    "message": "Worker update failed",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "FSM_DRIVER_SW_ERR",
+    "message": "Driver cannot be same as Sanitation Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "FSM_REGISTRY_ADD_WORKER_HEADING",
+    "message": "Create Sanitation Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_ADD_WORKER_ROLE",
+    "message": "Add Role",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "FSM_REGISTRY_WORKER_ADDRESS_HEADING",
+    "message": "Residential Details",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_EMPLOYEE_HEADING",
+    "message": "Employment Details",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_EMPLOYER",
+    "message": "Employer",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_LABEL_LICENSE",
+    "message": "License number",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "FSM_REGISTRY_WORKER_LINK_VIEW_DETAILS",
+    "message": "View details",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_MOBILE_EXIST_ERROR",
+    "message": "Mobile number already exists for Sanitation Worker ID XXXXXXX.",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_PROFESSIONAL_HEADING",
+    "message": "Professional Details",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_ROLE_HEADING",
+    "message": "Role Details",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_SELECT_VENDOR",
+    "message": "Select Vendor",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_SKILLS",
+    "message": "Skills",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "SW_SEARCH_BY_NAME_ID",
+    "message": "Search by Name / Sanitation worker ID",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "SW_WORKER_UPDATE_SUCCESS",
+    "message": "Worker updated successfully",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "UPDATE_WORKER_VENDOR_FAILED",
+    "message": "Worker updated but vendor tag failed",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, {
+    "code": "WORDER_ADDED_VENDOR_FAILED",
+    "message": "Worker created but cannot tag vendor",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DRIVING",
+    "message": "Driving",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OPERATOR",
+    "message": "Operator",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }, 
+  {
+    "code": "SANITATION_HELPER",
+    "message": "Sanitation helper",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_TITLE_WORKER_ADD",
+    "message": "Add worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_TITLE_WORKER_DETAILS",
+    "message": "Worker details",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_TITLE_WORKER_EDIT",
+    "message": "Edit worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SW_FUNCTIONAL_ROLE_SANITATION_HELPER",
+    "message": "Helper",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EDIT_VENDOR_FAILED",
+    "message": "Edit vendor failed",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADD_VENDOR_FAILED",
+    "message": "Add vendor failed",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DELETE_VENDOR_FAILED",
+    "message": "Delete vendor failed",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DELETE_WORKER_FAILED",
+    "message": "Delete Worker failed",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_TITLE_WORKER_DETAILS",
+    "message": "Worker details",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_DETAILS_TYPE_WORKER",
+    "message": "Add Worker",
+    "module": "rainmaker-fsm",
+    "locale": "en_IN"
+  }
+]
