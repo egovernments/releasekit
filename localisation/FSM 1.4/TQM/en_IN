@@ -1,0 +1,1820 @@
+[
+  {
+      "code": "ACTION_TEST_TQM",
+      "message": "Treatment quality",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ACTION_TEST_TQM_INBOX",
+      "message": "Inbox",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "COMMON_NO_RESULTS_FOUND",
+      "message": "No Results Found for the given criteria",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_COMMON_CLEAR_SEARCH",
+      "message": "Clear",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_FSM_VEHICLE_LOG",
+      "message": "Vehicle Log",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_ADD_TEST_RESULTS_TITLE",
+      "message": "Add test result",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_ATLEAST_ONE_PARAMETER",
+      "message": "Atleast one parameter needs to be filled to Add Test Result",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_CHOOSE_SUITABLE_OPTION",
+      "message": "Please choose the suitable options for quality parameters.",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_DOCUMENTS_HEADING",
+      "message": "Documents",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_ISSUE_MANAGEMENT",
+      "message": "Issue Management",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_PLANT_NAME",
+      "message": "Plant name",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_RESULT_FAIL",
+      "message": "Fail",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_RESULT_PASS",
+      "message": "Pass",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_RESULT_SUMMARY",
+      "message": "Result summary",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_SLA",
+      "message": "SLA",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_STAGE",
+      "message": "Stage",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_STATUS",
+      "message": "Status",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_SUBMIT_SAMPLE",
+      "message": "Submit Sample",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_TEST_ID",
+      "message": "Test ID",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_TEST_SCHEDULED_ON",
+      "message": "Pending Date",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_TEST_TYPE",
+      "message": "Test type",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_TREATMENT_PROCESS",
+      "message": "Treatment process",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_LABEL_VIEW_DETAILS",
+      "message": "View Details",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_NOTIFICATIONS",
+      "message": "Notifications",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_QUALITY_PARAMETERS",
+      "message": "Quality Parameters",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_REQUIRED",
+      "message": "This field is mandatory",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_SEE_SUMMARY_TITLE",
+      "message": "See Summary.",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_SELECT_LAB_LABEL",
+      "message": "Select Lab",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_SELECT_LAB_LABEL_ERROR",
+      "message": "Select a lab first",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_SELECT_SAMPLE_TO_LAB_LABEL",
+      "message": "Submitted sample to lab?",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_SHOW_LESS",
+      "message": "Show Less",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_SLA_PENDING_DUE_DATE",
+      "message": "Due in {NO_OF_DAYS} days",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_STATUS_UPDATE_SUCCESS",
+      "message": "Status updated successfully",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_SUBMIT_TEST_RESULTS_BUTTON",
+      "message": "Submit",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_SUMMARY_HEADING",
+      "message": "Summary",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_BACK_BUTTON",
+      "message": "Back",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_DETAILS_HEADING",
+      "message": "Test Details",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAMS_FAIL_MESSAGE",
+      "message": "Seems like treatment quality is not as per benchmarks. An issue has been raised",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAMS_FAIL_MESSAGE_PRI",
+      "message": "Seems like treatment quality is not",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAMS_FAIL_MESSAGE_SECND",
+      "message": "as per benchmarks.",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAMS_FAIL_TITLE",
+      "message": "Oops!",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAMS_HEADING",
+      "message": "Treated Effluent Quality Overview",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAMS_SUCCESS_MESSAGE",
+      "message": "All your test results are as per benchmarks",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAMS_SUCCESS_MESSAGE_PRI",
+      "message": "All your test results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAMS_SUCCESS_MESSAGE_SECND",
+      "message": "are as per benchmarks",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAMS_SUCCESS_TITLE",
+      "message": "Good Job!",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAM_ATTACH_DOCUMENTS",
+      "message": "Attach Document",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAM_ATTACH_DOCUMENTS_ERROR_MSG",
+      "message": "Only Document can upload upto 5MB",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAM_BOD",
+      "message": "BOD (in mg/L)",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAM_COD",
+      "message": "COD (in mg/L)",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAM_ERROR_MESSAGE",
+      "message": "Only numeric values allowed. Please input in the required format",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAM_FCOLI",
+      "message": "F.Coli (per 100ml)",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAM_PH",
+      "message": "pH",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_PARAM_TSS",
+      "message": "TSS (in mg/L)",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_RESULTS_DATE_LABEL",
+      "message": "Result Date",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_RESULTS_DETAILS_HEADER",
+      "message": "View Test Result",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_UPDATE_SUCCESS_RESPONSE",
+      "message": "Lab results submitted successfully!",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TEST_UPDATE_SUCCESS_RESPONSE_TEXT",
+      "message": "Laboratory results for {TEST_ID} have been submitted successfully.",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_TREATMENT_QUALITY",
+      "message": "Treatment Quality",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_UPDATE_MODAL_BACK",
+      "message": "Go Back",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_UPDATE_MODAL_HEADER",
+      "message": "Alert!",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_UPDATE_MODAL_SUBMIT",
+      "message": "Submit",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_UPDATE_MODAL_TEXT",
+      "message": "Results once submitted cannot be changed. Are you sure you want to submit the results?",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_UPDATE_STATUS_BUTTON",
+      "message": "Update Status",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_UPDATE_STATUS_ERROR",
+      "message": "Failed to update status. Please retry.",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_VIEW_ALL",
+      "message": "View All",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_VIEW_ALL_PENDING_TASKS",
+      "message": "View All Pending Tasks",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_VIEW_DASHBOARD",
+      "message": "View Dashboard",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_VIEW_TEST_DETAILS",
+      "message": "View Tets Details",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_ARSENIC",
+      "message": "Arsenic",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_BIOSOLID",
+      "message": "Bio solid",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_CHLORINE",
+      "message": "chlorine",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_EFFLUENTS",
+      "message": "Effluents",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_FECAL_SLUDGE",
+      "message": "Faecal sludge",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_IRON",
+      "message": "Iron",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_NA",
+      "message": "NA",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_POTABLE_WATER",
+      "message": "Potable water",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_SALT",
+      "message": "Salt",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_SCREENED_SLUDGE",
+      "message": "Screened Sludge",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_ANGUL_FSTP",
+      "message": "Angul FSTP",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_DEFAULT_ALL",
+      "message": "All Plants",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_PURI_FSTP",
+      "message": "Puri FSTP",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_4_STAGE_WATER_TREATMENT",
+      "message": "4Stage Water Treatment",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_5_STAGE_WATER_TREATMENT",
+      "message": "5Stage Water Treatment",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_7_STAGE_WATER_TREATMENT",
+      "message": "7Stage Water Treatment",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_ANAEROBIC_DIGESTION_AND_UNPLANTED_DRYING_BED_BASED_FSTP",
+      "message": "Anaerobic Digestion and Unplanted Drying Bed Based FSTP",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_FECAL_SLUDGE_MANAGEMENT",
+      "message": "FAECAL SLUDGE MANAGEMENT",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_INCINERATION",
+      "message": "Incineration",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_PLANTED_DRYING_BED_BASED_FSTP",
+      "message": "Planted Drying Bed based FSTP",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_THERMAL_SOLIDS_TREATMENT_BASED_FSTP",
+      "message": "Thermal Solids Treatment based FSTP",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_WATER_FILTERING",
+      "message": "Water Filtering",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_FECAL_SLUDGE_MANAGEMENT",
+      "message": "Fecal Sludge Management",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_WATER_FILTERING",
+      "message": "Water filtering",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_ARSENIC_NEQ_75",
+      "message": "Arsenic",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYTESTLAB_DHENAKAL_GEO_CORP",
+      "message": "Dhenakal geo corp",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYTESTLAB_IN_HOUSE",
+      "message": "In house",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITY_TEST_PASSED",
+      "message": "% Quality tests passed",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_COAGULATION",
+      "message": "Coagulation",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_SCREENING",
+      "message": "Screening",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_SOLID_LIQUID_SEPARATION",
+      "message": "Solid liquid separation",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_SOLID_TREATMENT_PATHOGEN_REDUCTION",
+      "message": "Pathogen Reduction",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_SOLID_TREATMENT_VAR",
+      "message": "Solid Treatment",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_WATER_FILTERING",
+      "message": "Water Filtering",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTTYPE_LAB",
+      "message": "Lab",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTTYPE_LAB_ADHOC",
+      "message": "ADHOC",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTTYPE_LAB_SCHEDULED",
+      "message": "Lab",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TEST_ALERTS",
+      "message": "Alerts",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TEST_ALERTS_LAST_30_DAYS",
+      "message": "Alerts raised in the past 30 days",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TEST_COMPLIANCE",
+      "message": "Test Compliance",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "QUALITYTESTLAB_IN_HOUSE",
+      "message": "In house",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_ADD_TEST_RESULT",
+      "message": "Add Test result",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_BREAD_CREATE_TEST",
+      "message": "Create Adhoc Test",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_BREAD_HOME",
+      "message": "Home",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_BREAD_INBOX",
+      "message": "Inbox",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_BREAD_PAST_TESTS",
+      "message": "View Past Tests",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_BREAD_SENSOR",
+      "message": "Sensor Monitoring",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_BREAD_VIEW_TEST_RESULTS",
+      "message": "View Test Results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_CLEAR_SEARCH",
+      "message": "Clear",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_DASHBOARD",
+      "message": "Dashboard",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_DROPDOWN_SELECTED",
+      "message": "Selected",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q1",
+      "message": "Treatment Quality Monitoring",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q1_DESC",
+      "message": "I want to see my list of my pending tests",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q2",
+      "message": "Treatment Quality Monitoring",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q2_DESC",
+      "message": "I want to upload test results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q3",
+      "message": "Treatment Quality Monitoring",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q3_DESC",
+      "message": "I want to view previously uploaded test results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q4",
+      "message": "Treatment Quality Monitoring",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q4_DESC",
+      "message": "I want to see list and status of all sensors in the plant",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q5",
+      "message": "Treatment Quality Monitoring",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q5_DESC",
+      "message": "I want to view today's and past IoT results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q6",
+      "message": "Treatment Quality Monitoring",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_Q6_DESC",
+      "message": "I want to view the dashboard",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_HELP_SECTION",
+      "message": "Help",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX",
+      "message": "Inbox",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_ACTION_UPDATE_RESULTS",
+      "message": "Update Results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_ACTION_UPDATE_STATUS",
+      "message": "Update Status",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_DATE_RANGE",
+      "message": "Date range",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_FILTER",
+      "message": "Filter",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_FILTERS",
+      "message": "Filters",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_LATEST_FIRST",
+      "message": "Date (Latest First)",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_LATEST_LAST",
+      "message": "Date (Latest Last)",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_SLA",
+      "message": "SLA",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_SORT",
+      "message": "Sort",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_SORTBY",
+      "message": "Sort By",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_INBOX_STATUS",
+      "message": "Status",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_KPI_NEARING_SLA",
+      "message": "Nearing SLA",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_KPI_PENDING_TESTS",
+      "message": "Pending Tests",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_OUTPUT_TYPE",
+      "message": "Output Type",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_PENDING_DATE",
+      "message": "Pending Date",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_PLANT",
+      "message": "Plant",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_PLANT_NAME",
+      "message": "Plant Name",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_PROCESS_STAGE",
+      "message": "Stage",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_QUALITY_CRITERIA_NOT_PRESENT",
+      "message": "Quality criteria not present for the given type",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_QUALITY_PARAMETERS",
+      "message": "Quality Parameters",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_QUALITY_TESTING",
+      "message": "Quality testing",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_SEARCH_HINT",
+      "message": "Provide at least one parameter to search for test result",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_SENSOR_MON",
+      "message": "Sensor Monitoring",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_SHARE",
+      "message": "Share",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_DATE",
+      "message": "Pending Date",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_ID",
+      "message": "Test ID",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_RESULTS",
+      "message": "Test Results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_RESULT_FAIL",
+      "message": "Fail",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_RESULT_NOT_AS_PER_BENCHMARKS_FOR_IOT",
+      "message": "Test result not as per benchmarks for the IOT",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_RESULT_NOT_AS_PER_BENCHMARKS_FOR_LAB",
+      "message": "Test result not as per benchmarks for the lab",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_RESULT_PASS",
+      "message": "Pass",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_STATUS_FAIL",
+      "message": "Fail",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_STATUS_PASS",
+      "message": "Pass",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_STATUS_PENDING",
+      "message": "Pending",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TEST_TYPE",
+      "message": "Test Type",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TIMELINE_STATE_PENDINGRESULTS",
+      "message": "Pending for results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TIMELINE_STATE_SCHEDULED",
+      "message": "Submit Sample",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TIMELINE_STATUS_SCHEDULE",
+      "message": "Schedule",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TIMELINE_STATUS_SUBMIT_SAMPLE",
+      "message": "Sample Submitted",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TIMELINE_STATUS_UPDATE_RESULT",
+      "message": "Results Submitted",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_TREATMENT_PROCESS",
+      "message": "Treatment process",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_VIEW_DASHBOARD",
+      "message": "View Dashboard",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_VIEW_IOT_READING",
+      "message": "View IoT Reading",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_VIEW_IOT_RESULTS",
+      "message": "View IoT Results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_VIEW_PAST_RESULTS",
+      "message": "View Past Results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_VIEW_RESULTS",
+      "message": "View Results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_VIEW_TEST_DETAILS",
+      "message": "View Test Details",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "TQM_WF_STATUS",
+      "message": "Status",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_PENDINGRESULTS",
+      "message": "Pending Results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_PQM_PENDINGRESULTS",
+      "message": "Pending results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_PQM_SCHEDULED",
+      "message": "Scheduled",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_PQM_STATE_PENDINGRESULTS",
+      "message": "Pending for Results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_PQM_STATE_SCHEDULED",
+      "message": "Scheduled",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_PQM_SUBMITTED",
+      "message": "Submitted",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_SCHEDULED",
+      "message": "Scheduled",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_TQM_PENDINGRESULTS",
+      "message": "Pending Results",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_TQM_SCHEDULED",
+      "message": "Scheduled",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "WF_STATUS_TQM_SUBMITTED",
+      "message": "Submitted",
+      "module": "rainmaker-tqm",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_RAW_WATER",
+      "message": "Raw Water",
+      "module": "rainmaker-mdms",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_DAYS_AGO",
+      "message": " {NO_OF_DAY} days ago ",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_DAY_AGO",
+      "message": "1 day ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_MONTHS_AGO",
+      "message": " {NO_OF_MONTH} months ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+  },
+  {
+      "code": "ES_TQM_MONTH_AGO",
+      "message": "1 month ago",
+      "module": "rainmaker-common",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_SOURCETYPE_IOT_SCHEDULED",
+      "message": "IOT",
+      "module": "rainmaker-mdms",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_SOURCETYPE_LAB_ADHOC",
+      "message": "ADHOC",
+      "module": "rainmaker-mdms",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_SOURCETYPE_LAB_SCHEDULED",
+      "message": "LAB",
+      "module": "rainmaker-mdms",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_PLANT",
+      "message": "Plant",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_PLANTCONFIG",
+      "message": "Plant Configuration",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_PLANTTYPE",
+      "message": "Plant Type",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_WASTETYPE",
+      "message": "Waste Type",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_PROCESS",
+      "message": "Process",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_PROCESSTYPE",
+      "message": "Process Type",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_STAGE",
+      "message": "Stage",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_MATERIAL",
+      "message": "Material",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_PARAMETER",
+      "message": "Parameter",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_UNIT",
+      "message": "Unit",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_BENCHMARKRULE",
+      "message": "Benchmark Rule",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_QUALITYCRITERIA",
+      "message": "Quality Criteria",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_TESTSTANDARD",
+      "message": "Test Standard",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_SOURCETYPE",
+      "message": "Source Type",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "SCHEMA_PQM_QUALITYTESTLAB",
+      "message": "Quality Test Labs",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_BENCHMARKRULE_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_BENCHMARKRULE_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_BENCHMARKRULE_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYTESTLAB_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYTESTLAB_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYTESTLAB_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_MATERIAL_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PARAMETER_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PARAMETER_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PARAMETER_DESCRIPTION",
+      "message": "Description",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PARAMETER_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESSTYPE_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTTYPE_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTTYPE_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTTYPE_DESCRIPTION",
+      "message": "Description",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTTYPE_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_UNIT_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_UNIT_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_UNIT_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_WASTETYPE_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_WASTETYPE_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_WASTETYPE_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_SOURCETYPE_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_SOURCETYPE_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_SOURCETYPE_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_ADDRESS",
+      "message": "Address",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_CITY",
+      "message": "City",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_LATITUDE",
+      "message": "Latitude",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_LONGITUDE",
+      "message": "Longitude",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_PLANTTYPE",
+      "message": "Plant Type",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_PROCESSES",
+      "message": "Processes",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_WASTETYPE",
+      "message": "Waste Type",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_DESCRIPTION",
+      "message": "Description",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_EFFECTIVEFROM",
+      "message": "Effective From",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_EFFECTIVETO",
+      "message": "Effective To",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANT_PLANTCONFIG",
+      "message": "Plant Configuration",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTCONFIG_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTCONFIG_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTCONFIG_IOTANOMALYDETECTIONDAYS",
+      "message": "IoT Anomaly Detection Days",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTCONFIG_PENDINGTASKTODISPLAYWITHINDAYS",
+      "message": "Pending Tests To Display Within Days",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTCONFIG_MANUALTESTPENDINGESCALATIONDAYS",
+      "message": "Lab Test Escalation Days",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTCONFIG_PENDINGTASKTODISPLAYWITHINDAYSINBOX",
+      "message": "Pending Tests To Display Within Days In Inbox",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PLANTCONFIG_PENDINGTASKTODISPLAYWITHINDAYSFORULB",
+      "message": "Pending Tests To Display Within Days For ULB",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_TYPE",
+      "message": "Process Type",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_STAGES",
+      "message": "Stages",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_ORDER",
+      "message": "Order",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_STAGECODE",
+      "message": "Stage Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PQM_STAGES",
+      "message": "Stage",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_WASTETYPE",
+      "message": "Waste Type",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_DESCRIPTION",
+      "message": "Description",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_EFFECTIVETO",
+      "message": "Effective To",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_PROCESS_EFFECTIVEFROM",
+      "message": "Effective From",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_UNIT",
+      "message": "Unit Of Measurement",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_PARAMETER",
+      "message": "Parameter",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_EFFECTIVETO",
+      "message": "Effective To",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_BENCHMARKRULE",
+      "message": "Benchmark Rule",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_EFFECTIVEFROM",
+      "message": "Effective From",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_BENCHMARKVALUES",
+      "message": "Benchmark Values",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_QUALITYCRITERIA_ALLOWEDDEVIATION",
+      "message": "Allowed Deviation",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_NAME",
+      "message": "Name",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_INPUT",
+      "message": "Input Material",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_OUTPUT",
+      "message": "Output Material",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_STAGE_DESCRIPTION",
+      "message": "Description",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_CODE",
+      "message": "Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_ACTIVE",
+      "message": "Active",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_PLANT",
+      "message": "Plant Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_STAGE",
+      "message": "Stage Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_PROCESS",
+      "message": "Process Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_MATERIAL",
+      "message": "Material Code",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_FREQUENCY",
+      "message": "Frequency",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_SOURCETYPE",
+      "message": "Source Type",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_EFFECTIVETO",
+      "message": "Effective To",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_EFFECTIVEFROM",
+      "message": "Effective From",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  },
+  {
+      "code": "PQM_TESTSTANDARD_QUALITYCRITERIA",
+      "message": "Quality Criteria",
+      "module": "rainmaker-workbench",
+      "locale": "en_IN"
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "code": "FSM_DRIVER_SW_ERR",
+    "message": "ड्राइवर स्वच्छता कर्मी के समान नहीं हो सकता",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_DRIVER",
+    "message": "चालक",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_1",
+    "message": "सफाई कर्मचारी 1",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_2",
+    "message": "स्वच्छता कर्मी 2",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_3",
+    "message": "स्वच्छता कर्मी 3",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_4",
+    "message": "स्वच्छता कर्मी 4",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_5",
+    "message": "स्वच्छता कर्मी 5",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_6",
+    "message": "स्वच्छता कर्मी 6",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_7",
+    "message": "स्वच्छता कर्मी 7",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_8",
+    "message": "स्वच्छता कर्मी 8",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_9",
+    "message": "स्वच्छता कर्मी 9",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_DSO_ACCEPT",
+    "message": "वाहन और श्रमिक जोड़ें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "SW_FUNCTIONAL_ROLE_DRIVER",
+    "message": "चालक",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_ACTION_ASSIGN_DRIVER",
+    "message": "ड्राइवर नियुक्त करें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_ACTION_ASSIGN_SW",
+    "message": "स्वच्छता कर्मियों को नियुक्त करें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CS_COMMON_DSO_ACCEPT",
+    "message": "पुष्टि करना",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "SW_SEARCH_BY_NAME_ID",
+    "message": "नाम/स्वच्छता कार्यकर्ता आईडी के आधार पर खोजें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_EMPTY_CARD_DRIVER",
+    "message": "कोई सफाई कर्मचारी नहीं मिला",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_TITLE_NEW_DRIVER",
+    "message": "नया सफ़ाई कर्मचारी जोड़ें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_EMPTY_BUTTON_DRIVER",
+    "message": "नया सफ़ाई कर्मचारी जोड़ें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "WORDER_ADDED_VENDOR_FAILED",
+    "message": "कार्यकर्ता ने बनाया लेकिन विक्रेता को टैग नहीं कर सका",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_1",
+    "message": "सफाई कर्मचारी 1",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_2",
+    "message": "स्वच्छता कर्मी 2",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_3",
+    "message": "स्वच्छता कर्मी 3",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_4",
+    "message": "स्वच्छता कर्मी 4",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_5",
+    "message": "स्वच्छता कर्मी 5",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_6",
+    "message": "स्वच्छता कर्मी 6",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_7",
+    "message": "स्वच्छता कर्मी 7",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_8",
+    "message": "स्वच्छता कर्मी 8",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_9",
+    "message": "स्वच्छता कर्मी 9",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_ACTION_ASSIGN_SW",
+    "message": "स्वच्छता कर्मियों को नियुक्त करें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_ACTION_CREATE_WORKER",
+    "message": "सफाई कर्मचारी",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_DSO_ACCEPT",
+    "message": "वाहन और श्रमिक जोड़ें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_DELETE_WORKER_SUCCESS",
+    "message": "कार्यकर्ता सफलतापूर्वक हटा दिया गया",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_EMPTY_BUTTON_DRIVER",
+    "message": "नया सफ़ाई कर्मचारी जोड़ें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_EMPTY_CARD_DRIVER",
+    "message": "कोई सफाई कर्मचारी नहीं मिला",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_INBOX_TAB_WORKER",
+    "message": "सफाई कर्मचारी",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_SEARCH_SW_ID",
+    "message": "स्वच्छता कार्यकर्ता आईडी",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_SEARCH_SW_NAME",
+    "message": "स्वच्छता कर्मी का नाम",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_TITLE_NEW_DRIVER",
+    "message": "नया सफ़ाई कर्मचारी जोड़ें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_UPDATE_WORKER_WITH_VENDOR_SUCCESS",
+    "message": "कार्यकर्ता सफलतापूर्वक अद्यतन किया गया",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_WORDER_ADDED_WITH_VENDOR_SUCCESS",
+    "message": "कार्यकर्ता ने बनाया और विक्रेता को टैग किया",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_WORKER_DETAILS_ID",
+    "message": "स्वच्छता कार्यकर्ता आईडी {आईडी},",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_WORKER_ID",
+    "message": "स्वच्छता कर्मी आईडी",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_WORKER_NAME",
+    "message": "स्वच्छता कर्मी का नाम",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_WORKER_ADD_FAILED",
+    "message": "कार्यकर्ता जोड़ना विफल रहा",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_WORKER_UPDATE_FAILED",
+    "message": "कार्यकर्ता अद्यतन विफल रहा",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_DRIVER_SW_ERR",
+    "message": "ड्राइवर स्वच्छता कर्मी के समान नहीं हो सकता",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_ADD_WORKER_HEADING",
+    "message": "स्वच्छता कार्यकर्ता बनाएं",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_ADD_WORKER_ROLE",
+    "message": "भूमिका जोड़ें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_ADDRESS_HEADING",
+    "message": "आवासीय विवरण",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_EMPLOYEE_HEADING",
+    "message": "रोजगार का विवरण",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_EMPLOYER",
+    "message": "नियोक्ता",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_LABEL_LICENSE",
+    "message": "लाइसेंस संख्या",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_LINK_VIEW_DETAILS",
+    "message": "विवरण देखें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_MOBILE_EXIST_ERROR",
+    "message": "स्वच्छता कार्यकर्ता आईडी XXXXXXX के लिए मोबाइल नंबर पहले से मौजूद है।",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_PROFESSIONAL_HEADING",
+    "message": "व्यावसायिक विवरण",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_ROLE_HEADING",
+    "message": "भूमिका विवरण",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_SELECT_VENDOR",
+    "message": "विक्रेता का चयन करें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "FSM_REGISTRY_WORKER_SKILLS",
+    "message": "कौशल",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "SW_SEARCH_BY_NAME_ID",
+    "message": "नाम/स्वच्छता कार्यकर्ता आईडी के आधार पर खोजें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "SW_WORKER_UPDATE_SUCCESS",
+    "message": "कार्यकर्ता सफलतापूर्वक अद्यतन किया गया",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "UPDATE_WORKER_VENDOR_FAILED",
+    "message": "वर्कर अपडेट किया गया लेकिन विक्रेता टैग विफल रहा",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "WORDER_ADDED_VENDOR_FAILED",
+    "message": "कार्यकर्ता ने बनाया लेकिन विक्रेता को टैग नहीं कर सका",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "DRIVING",
+    "message": "ड्राइविंग",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "OPERATOR",
+    "message": "ऑपरेटर",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "SANITATION_HELPER",
+    "message": "स्वच्छता सहायक",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_TITLE_WORKER_ADD",
+    "message": "कार्यकर्ता जोड़ें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_TITLE_WORKER_DETAILS",
+    "message": "कार्यकर्ता विवरण",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_TITLE_WORKER_EDIT",
+    "message": "कार्यकर्ता संपादित करें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "SW_FUNCTIONAL_ROLE_SANITATION_HELPER",
+    "message": "सहायक",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "EDIT_VENDOR_FAILED",
+    "message": "विक्रेता संपादित करना विफल रहा",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ADD_VENDOR_FAILED",
+    "message": "विक्रेता जोड़ना विफल रहा",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "DELETE_VENDOR_FAILED",
+    "message": "विक्रेता को हटाना विफल रहा",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "DELETE_WORKER_FAILED",
+    "message": "वर्कर मिटाना विफल रहा",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_TITLE_WORKER_DETAILS",
+    "message": "कार्यकर्ता विवरण",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ES_FSM_REGISTRY_DETAILS_TYPE_WORKER",
+    "message": "कार्यकर्ता जोड़ें",
+    "module": "rainmaker-fsm",
+    "locale": "hi_IN"
+  }
+]
