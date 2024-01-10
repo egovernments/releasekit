@@ -439,5 +439,35 @@
     "message": "Add Worker",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }
+  },
+    {
+        "code": "PQM_PLANT_ULBS",
+        "message": "ULBS",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_PLANT_PLUSCODE",
+        "message": "PlusCode",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_PLANT_PLANTLOCATION",
+        "message": "PlantLocation",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_PLANT_PLANTOPERATIONALTIMINGS",
+        "message": "PlantOperationalTimings",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PQM_PLANT_PLANTOPERATIONALCAPACITYKLD",
+        "message": "PlantOperationalCapacityKLD",
+        "module": "rainmaker-schema",
+        "locale": "en_IN"
+    }
 ]
