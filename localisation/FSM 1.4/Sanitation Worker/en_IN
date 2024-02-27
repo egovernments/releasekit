@@ -124,7 +124,8 @@
     "message": "Worker created but cannot tag vendor",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_APPLICATION_DETAILS_ASSIGNED_SW_1",
     "message": "Sanitation Worker 1",
     "module": "rainmaker-fsm",
@@ -177,42 +178,50 @@
     "message": "Sanitation Worker 9",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_ACTION_ASSIGN_SW",
     "message": "Assign Sanitation Workers",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_ACTION_CREATE_WORKER",
     "message": "Sanitation Worker",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_DSO_ACCEPT",
     "message": "Add Vehicle and Workers",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_REGISTRY_DELETE_WORKER_SUCCESS",
     "message": "Worker deleted successfully",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_REGISTRY_EMPTY_BUTTON_DRIVER",
     "message": "Add New Sanitation Worker",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_REGISTRY_EMPTY_CARD_DRIVER",
     "message": "No Sanitation Worker Found",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_REGISTRY_INBOX_TAB_WORKER",
     "message": "Sanitation Worker",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_REGISTRY_SEARCH_SW_ID",
     "message": "Sanitation Worker ID",
     "module": "rainmaker-fsm",
@@ -223,17 +232,20 @@
     "message": "Sanitation Worker Name",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_REGISTRY_TITLE_NEW_DRIVER",
     "message": "Add New Sanitation Worker",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_REGISTRY_UPDATE_WORKER_WITH_VENDOR_SUCCESS",
     "message": "Worker updated successfully",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_REGISTRY_WORDER_ADDED_WITH_VENDOR_SUCCESS",
     "message": "Worker created and tagged to vendor",
     "module": "rainmaker-fsm",
@@ -256,7 +268,8 @@
     "message": "Sanitation worker name",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "ES_FSM_WORKER_ADD_FAILED",
     "message": "Worker add failed",
     "module": "rainmaker-fsm",
@@ -267,12 +280,14 @@
     "message": "Worker update failed",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "FSM_DRIVER_SW_ERR",
     "message": "Driver cannot be same as Sanitation Worker",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "FSM_REGISTRY_ADD_WORKER_HEADING",
     "message": "Create Sanitation Worker",
     "module": "rainmaker-fsm",
@@ -283,7 +298,8 @@
     "message": "Add Role",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "FSM_REGISTRY_WORKER_ADDRESS_HEADING",
     "message": "Residential Details",
     "module": "rainmaker-fsm",
@@ -306,7 +322,8 @@
     "message": "License number",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "FSM_REGISTRY_WORKER_LINK_VIEW_DETAILS",
     "message": "View details",
     "module": "rainmaker-fsm",
@@ -341,22 +358,26 @@
     "message": "Skills",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "SW_SEARCH_BY_NAME_ID",
     "message": "Search by Name / Sanitation worker ID",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "SW_WORKER_UPDATE_SUCCESS",
     "message": "Worker updated successfully",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "UPDATE_WORKER_VENDOR_FAILED",
     "message": "Worker updated but vendor tag failed",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, {
+  },
+  {
     "code": "WORDER_ADDED_VENDOR_FAILED",
     "message": "Worker created but cannot tag vendor",
     "module": "rainmaker-fsm",
@@ -373,7 +394,7 @@
     "message": "Operator",
     "module": "rainmaker-fsm",
     "locale": "en_IN"
-  }, 
+  },
   {
     "code": "SANITATION_HELPER",
     "message": "Sanitation helper",
@@ -440,46 +461,52 @@
     "module": "rainmaker-fsm",
     "locale": "en_IN"
   },
-    {
-        "code": "PQM_PLANT_ULBS",
-        "message": "ULBS",
-        "module": "rainmaker-schema",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PQM_PLANT_PLUSCODE",
-        "message": "PlusCode",
-        "module": "rainmaker-schema",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PQM_PLANT_PLANTLOCATION",
-        "message": "PlantLocation",
-        "module": "rainmaker-schema",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PQM_PLANT_PLANTOPERATIONALTIMINGS",
-        "message": "PlantOperationalTimings",
-        "module": "rainmaker-schema",
-        "locale": "en_IN"
-    },
-    {
-        "code": "PQM_PLANT_PLANTOPERATIONALCAPACITYKLD",
-        "message": "PlantOperationalCapacityKLD",
-        "module": "rainmaker-schema",
-        "locale": "en_IN"
-    },
-{
+  {
+    "code": "PQM_PLANT_ULBS",
+    "message": "ULBS",
+    "module": "rainmaker-schema",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PQM_PLANT_PLUSCODE",
+    "message": "PlusCode",
+    "module": "rainmaker-schema",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PQM_PLANT_PLANTLOCATION",
+    "message": "PlantLocation",
+    "module": "rainmaker-schema",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PQM_PLANT_PLANTOPERATIONALTIMINGS",
+    "message": "PlantOperationalTimings",
+    "module": "rainmaker-schema",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PQM_PLANT_PLANTOPERATIONALCAPACITYKLD",
+    "message": "PlantOperationalCapacityKLD",
+    "module": "rainmaker-schema",
+    "locale": "en_IN"
+  },
+  {
     "code": "NOTIF_TEST_RESULT_NOT_SUBMITTED",
     "message": "Lab results for plant {Plant Name} for {Output} of {Stage} stage scheduled on {Test Scheduled Date} has not yet been submitted.",
     "module": "rainmaker-tqm",
     "locale": "en_IN"
-},
-{
+  },
+  {
     "code": "NOTIF_TEST_RESULT_NOT_AS_PER_BENCHMARK",
     "message": "Lab results submitted for plant {Plant Name} for {Output} of {Stage} stage submitted on {Test Submitted Date} is not as per benchmark values.",
     "module": "rainmaker-tqm",
     "locale": "en_IN"
-}
+  },
+  {
+    "code": "UC_NOTIF_WF_MT_DEPOSITED",
+    "message": "Deposited",
+    "module": "collection-services",
+    "locale": "en_IN"
+  }
 ]
