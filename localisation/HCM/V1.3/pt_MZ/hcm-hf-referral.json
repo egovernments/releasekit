@@ -1,0 +1,369 @@
+[
+    {
+        "code": "CREATE_REFERRAL_LABEL",
+        "message": "Criar nova referência",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REFERRED_BY_TEAM_CODE_LABEL",
+        "message": "Indicado por (Código da equipa CDD)",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SEARCH_REFERRALS_HEADER",
+        "message": "Pesquisar referências",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REASON_FOR_REFERRAL_HEADER",
+        "message": "Qual é o motivo da referenciação?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REFERRAL_CODE_LABEL",
+        "message": "Código de referenciação",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REFERRAL_BENEFICIARY_ID_LABEL",
+        "message": "Identificação do beneficiário",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REFERRAL_NAME_OF_CHILD_LABEL",
+        "message": "Nome da criança",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NAME_OF_HF_COORDINATOR_LABEL",
+        "message": "Nome do coordenador do centro de saúde",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "EVALUATION_FACILITY_LABEL",
+        "message": "Estabelecimento de saúde para avaliação",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FACILITY_DETAILS_HEADER",
+        "message": "Detalhes do estabelecimento de saúde",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PLEASE_ENTER_VALID_FACILITY",
+        "message": "POR FAVOR, INTRODUZA UM ESTABELECIMENTO VÁLIDO",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REFERRAL_DETAILS_HEADER",
+        "message": "Detalhes da referenciação",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "AGE_IN_MONTHS_LABEL",
+        "message": "Idade em meses",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HF_HOME_SHOWCASE_BENEFICIARY_LABEL",
+        "message": "Mostruário de encaminhamento do beneficiário",
+        "module": "hcm-home",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HOME_BENEFICIARY_REFERRAL_LABEL",
+        "message": "Referência do beneficiário",
+        "module": "hcm-home",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DRUG_SIDE_EFFECT_FRM_PC",
+        "message": "Efeito secundário do medicamento do ciclo anterior",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DRUG_SIDE_EFFECT_FRM_CC",
+        "message": "Efeito secundário do medicamento do ciclo atual",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REFER_BENEFICIARY_DATE_OF_EVALUATION_LABEL",
+        "message": "Data da avaliação",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REFERRAL_SELECT_CYCLE",
+        "message": "Selecionar ciclo",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SICK",
+        "message": "Doente",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FEVER",
+        "message": "Febre",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_CC.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a reação adversa ao medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_PC.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a reação adversa a um medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a febre",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q1",
+        "message": "Criança avaliada quanto a reação adversa para SP e AQ ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi internada / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de paludismo positivo tratada com antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
+        "message": "Nome e dose do antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a doença",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "A criança foi internada / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_SECONDARY_ACTION",
+        "message": "Cancelar",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "O nome e a dose do anti-malárico são obrigatórios",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Comentários é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "O nome e a dose do medicamento são obrigatórios",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DRUG_SE_PC",
+        "message": "Efeito secundário do medicamento do ciclo anterior",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DRUG_SE_CC",
+        "message": "Efeito secundário do medicamento do ciclo atual",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_POSITIVE",
+        "message": "Positivo",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_NEGATIVE",
+        "message": "Negativo",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Massamba.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "A criança foi internada / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PROJECT_FACILITY_SEARCH_HEADER_LABEL",
+        "message": "Pesquisa de estabelecimento de saúde",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    }
+]
+
