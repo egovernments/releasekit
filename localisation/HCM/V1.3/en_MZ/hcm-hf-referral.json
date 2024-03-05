@@ -1,0 +1,176 @@
+[
+    {
+        "code": "CREATE_REFERRAL_LABEL",
+        "message": "Create New Referral",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REFERRED_BY_TEAM_CODE_LABEL",
+        "message": "Referred By (CDD Team Code)",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SEARCH_REFERRALS_HEADER",
+        "message": "Search Referrals",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REASON_FOR_REFERRAL_HEADER",
+        "message": "What is the reason for referral ?",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REFERRAL_CODE_LABEL",
+        "message": "Referral Code",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REFERRAL_BENEFICIARY_ID_LABEL",
+        "message": "Beneficiary ID",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REFERRAL_NAME_OF_CHILD_LABEL",
+        "message": "Name of the child",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "NAME_OF_HF_COORDINATOR_LABEL",
+        "message": "Name of health facility coordinator",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "EVALUATION_FACILITY_LABEL",
+        "message": "Health Facility for Evaluation",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "FACILITY_DETAILS_HEADER",
+        "message": "Health Facility Details",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "PLEASE_ENTER_VALID_FACILITY",
+        "message": "PLEASE_ENTER_VALID_FACILITY",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REFERRAL_DETAILS_HEADER",
+        "message": "Referral Details",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "AGE_IN_MONTHS_LABEL",
+        "message": "Age in months",
+        "module": "hcm-common",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "HF_HOME_SHOWCASE_BENEFICIARY_LABEL",
+        "message": "Showcase of Beneficiary Referral",
+        "module": "hcm-home",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "HOME_BENEFICIARY_REFERRAL_LABEL",
+        "message": "Beneficiary Referral",
+        "module": "hcm-home",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DRUG_SIDE_EFFECT_FRM_PC",
+        "message": "Drug Side Effect from Previous Cycle",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DRUG_SIDE_EFFECT_FRM_CC",
+        "message": "Drug Side Effect from Current Cycle",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REFER_BENEFICIARY_DATE_OF_EVALUATION_LABEL",
+        "message": "Date of Evaluation",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REFERRAL_SELECT_CYCLE",
+        "message": "Select Cycle",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SICK",
+        "message": "Sick",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "FEVER",
+        "message": "Fever",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_CC.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to adverse drug reaction",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_PC.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to adverse drug reaction",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to fever",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+

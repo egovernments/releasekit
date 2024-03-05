@@ -1,0 +1,334 @@
+{
+    "messages": [
+        {
+            "code": "DAMAGED_STOCK_DETAILS",
+            "message": "Detalhes Do Estoque Danificado",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "DAMAGED_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Estoque recebido de",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "ISSUED_STOCK_DETAILS",
+            "message": "Detalhes Do Estoque Emitido",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "ISSUED_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Estoque concedida a",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "LOST_STOCK_DETAILS",
+            "message": "Detalhes Do Estoque Perdido",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "LOST_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Estoque recebido de",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_LABEL",
+            "message": "Gerir o Estoque",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECEIPT_DESCRIPTION",
+            "message": "Criar registos para as existências recebidas no armazém",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_DAMAGED_DESCRIPTION",
+            "message": "Registar a lista dos recursos danificados durante as operações de campanha",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_DAMAGED_LABEL",
+            "message": "Estoque danificado",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_ISSUED_DESCRIPTION",
+            "message": "Criar registos para as existências enviadas do armazém",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_ISSUED_LABEL",
+            "message": "Estoque Recorde Emitido",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_LOSS_DESCRIPTION",
+            "message": "Registar a lista dos recursos perdidos durante as operações de campanha",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_LOSS_LABEL",
+            "message": "Perda de Estoque",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_RETURNED_DESCRIPTION",
+            "message": "Criar registos para as existências devolvidas ao armazém",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MANAGE_STOCK_RECORDSTOCK_RETURNED_LABEL",
+            "message": "Estoque devolvido",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "RECEIVED_STOCK_DETAILS",
+            "message": "Detalhes Do Estoque Recebido",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "RECEIVED_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Estoque recebido de",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "RETURNED_STOCK_DETAILS",
+            "message": "Detalhes Do Estoque Devolvido",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "RETURNED_STOCK_DETAILS_STOCK_LABEL",
+            "message": "Estoque devolvido de",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_COMMENTS_LABEL",
+            "message": "Comentários",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_DAMAGED_DURING",
+            "message": "Danificado durante",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_DIALOG_CONTENT",
+            "message": "Certifique-se de que revê todos os detalhes antes de clicar no botão Submeter. Clique no botão Cancelar para voltar à página anterior.",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_DIALOG_TITLE",
+            "message": "Pronto a submeter?",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_LOST_DURING",
+            "message": "Perdido durante",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_DAMAGED",
+            "message": "Quantidade danificada",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_DAMAGED_MAX_ERROR",
+            "message": "A contagem tem de ser inferior a 10 000",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_DAMAGED_MIN_ERROR",
+            "message": "A contagem tem de ser superior a 0",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_LOST",
+            "message": "Quantidade perdida",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_LOST_MAX_ERROR",
+            "message": "A contagem tem de ser inferior a 10 000",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_LOST_MIN_ERROR",
+            "message": "A contagem tem de ser superior a 0",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RECEIVED",
+            "message": "Quantidade recebida",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RECEIVED_ERROR",
+            "message": "Por favor, introduza a quantidade",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RECEIVED_MAX_ERROR",
+            "message": "A contagem tem de ser inferior a 10 000",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RECEIVED_MIN_ERROR",
+            "message": "A contagem tem de ser superior a 0",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RETURNED",
+            "message": "Quantidade devolvida",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RETURNED_MAX_ERROR",
+            "message": "A contagem tem de ser inferior a 10 000",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RETURNED_MIN_ERROR",
+            "message": "A contagem tem de ser superior a 0",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_SENT",
+            "message": "Quantidade enviada",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_SENT_MAX_ERROR",
+            "message": "A contagem tem de ser inferior a 10 000",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_SENT_MIN_ERROR",
+            "message": "A contagem tem de ser superior a 0",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_SELECT_PRODUCT",
+            "message": "Seleccionar produto",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_SELECT_PRODUCT_IS_REQUIRED",
+            "message": "Por favor, seleccionar um produto",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_TRANSPORT_TYPE",
+            "message": "Tipo de transporte",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_VEHICLE_NUMBER",
+            "message": "Número do veículo",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_WAYBILL_NUMBER",
+            "message": "Número da carta de porte",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_WAYBILL_QUANTITY",
+            "message": "Quantidade indicada na carta de porte",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_WAYBILL_QUANTITY_ERROR",
+            "message": "Por favor, introduza a quantidade",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_RECONCILIATION_COMMENTS_LABEL",
+            "message": "Comentários",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_RECONCILIATION_FACILITY_LABEL",
+            "message": "Armazém",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "TRANSPORT_TYPE_1",
+            "message": "Tipo de transporte 1",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "TRANSPORT_TYPE_2",
+            "message": "Tipo de transporte 2",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_DETAILS_ADMINISTRATIVE_UNIT",
+            "message": "Unidade Administrativa",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_DETAILS_DATE_OF_RECEIPT",
+            "message": "Data da Receita",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_DETAILS_LABEL",
+            "message": "Detalhes do armazém",
+            "module": "hcm-stock",
+            "locale": "pt_MZ"
+        }
+    ]
+}
