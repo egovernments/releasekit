@@ -120,12 +120,9 @@
 									]
 								},
 								"url": {
-									"raw": "https://unified-uat.digit.org/user/oauth/token",
-									"protocol": "https",
+									"raw": "{{url}}/user/oauth/token",
 									"host": [
-										"unified-uat",
-										"digit",
-										"org"
+										"{{url}}"
 									],
 									"path": [
 										"user",
@@ -170,12 +167,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -207,7 +202,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\":\n        {\n            // \"id\": \"57e28d5c-2a96-4e56-bf76-91296af0e771\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.Boundary\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"type\",\n                    \"properties\",\n                    \"required\"\n                ],\n                \"x-unique\": [\n                    \"title\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"$schema\": {\n                        \"type\": \"string\"\n                    },\n                    \"required\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\",\n                            \"HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL\"\n                        ],\n                        \"properties\": {\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"minLength\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"minLength\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"minimum\",\n                                    \"maximum\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maximum\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minimum\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715251870293,\n                \"lastModifiedTime\": 1715251870293\n            }\n        }\n    \n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\":\n        {\n            // \"id\": \"57e28d5c-2a96-4e56-bf76-91296af0e771\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.Boundary\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"type\",\n                    \"properties\",\n                    \"required\"\n                ],\n                \"x-unique\": [\n                    \"title\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"$schema\": {\n                        \"type\": \"string\"\n                    },\n                    \"required\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\",\n                            \"HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL\"\n                        ],\n                        \"properties\": {\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"minLength\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"minLength\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"minimum\",\n                                    \"maximum\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maximum\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minimum\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715251870293,\n                \"lastModifiedTime\": 1715251870293\n            }\n        }\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -215,12 +210,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -252,7 +245,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n     \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": {\n            // \"id\": \"dbec654c-158c-435a-84ae-004210719c5f\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.deliveryConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"projectType\",\n                    \"attrAddDisable\",\n                    \"deliveryAddDisable\",\n                    \"customAttribute\",\n                    \"cycleConfig\",\n                    \"deliveryConfig\"\n                ],\n                \"x-unique\": [\n                    \"projectType\"\n                ],\n                \"properties\": {\n                    \"cycleConfig\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"cycle\",\n                            \"deliveries\"\n                        ],\n                        \"properties\": {\n                            \"cycle\": {\n                                \"type\": \"number\"\n                            },\n                            \"deliveries\": {\n                                \"type\": \"number\"\n                            }\n                        }\n                    },\n                    \"projectType\": {\n                        \"type\": \"string\"\n                    },\n                    \"attrAddDisable\": {\n                        \"type\": \"boolean\"\n                    },\n                    \"deliveryConfig\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"object\",\n                            \"required\": [\n                                \"attributeConfig\",\n                                \"productConfig\"\n                            ],\n                            \"properties\": {\n                                \"productConfig\": {\n                                    \"type\": \"array\",\n                                    \"items\": {\n                                        \"type\": \"object\",\n                                        \"required\": [\n                                            \"key\",\n                                            \"count\",\n                                            \"value\",\n                                            \"name\"\n                                        ],\n                                        \"properties\": {\n                                            \"key\": {\n                                                \"type\": \"number\"\n                                            },\n                                            \"name\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"count\": {\n                                                \"type\": \"number\"\n                                            },\n                                            \"value\": {\n                                                \"type\": \"string\"\n                                            }\n                                        }\n                                    }\n                                },\n                                \"attributeConfig\": {\n                                    \"type\": \"array\",\n                                    \"items\": {\n                                        \"type\": \"object\",\n                                        \"required\": [\n                                            \"key\",\n                                            \"label\",\n                                            \"attrType\",\n                                            \"attrValue\"\n                                        ],\n                                        \"properties\": {\n                                            \"key\": {\n                                                \"type\": \"number\"\n                                            },\n                                            \"label\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"attrType\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"attrValue\": {\n                                                \"type\": \"string\"\n                                            }\n                                        }\n                                    }\n                                }\n                            }\n                        }\n                    },\n                    \"customAttribute\": {\n                        \"type\": \"boolean\"\n                    },\n                    \"deliveryAddDisable\": {\n                        \"type\": \"boolean\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1716986189154,\n                \"lastModifiedTime\": 1716986189154\n            }\n        }\n    \n}",
+									"raw": "{\n     \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": {\n            // \"id\": \"dbec654c-158c-435a-84ae-004210719c5f\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.deliveryConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"projectType\",\n                    \"attrAddDisable\",\n                    \"deliveryAddDisable\",\n                    \"customAttribute\",\n                    \"cycleConfig\",\n                    \"deliveryConfig\"\n                ],\n                \"x-unique\": [\n                    \"projectType\"\n                ],\n                \"properties\": {\n                    \"cycleConfig\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"cycle\",\n                            \"deliveries\"\n                        ],\n                        \"properties\": {\n                            \"cycle\": {\n                                \"type\": \"number\"\n                            },\n                            \"deliveries\": {\n                                \"type\": \"number\"\n                            }\n                        }\n                    },\n                    \"projectType\": {\n                        \"type\": \"string\"\n                    },\n                    \"attrAddDisable\": {\n                        \"type\": \"boolean\"\n                    },\n                    \"deliveryConfig\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"object\",\n                            \"required\": [\n                                \"attributeConfig\",\n                                \"productConfig\"\n                            ],\n                            \"properties\": {\n                                \"productConfig\": {\n                                    \"type\": \"array\",\n                                    \"items\": {\n                                        \"type\": \"object\",\n                                        \"required\": [\n                                            \"key\",\n                                            \"count\",\n                                            \"value\",\n                                            \"name\"\n                                        ],\n                                        \"properties\": {\n                                            \"key\": {\n                                                \"type\": \"number\"\n                                            },\n                                            \"name\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"count\": {\n                                                \"type\": \"number\"\n                                            },\n                                            \"value\": {\n                                                \"type\": \"string\"\n                                            }\n                                        }\n                                    }\n                                },\n                                \"attributeConfig\": {\n                                    \"type\": \"array\",\n                                    \"items\": {\n                                        \"type\": \"object\",\n                                        \"required\": [\n                                            \"key\",\n                                            \"label\",\n                                            \"attrType\",\n                                            \"attrValue\"\n                                        ],\n                                        \"properties\": {\n                                            \"key\": {\n                                                \"type\": \"number\"\n                                            },\n                                            \"label\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"attrType\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"attrValue\": {\n                                                \"type\": \"string\"\n                                            }\n                                        }\n                                    }\n                                }\n                            }\n                        }\n                    },\n                    \"customAttribute\": {\n                        \"type\": \"boolean\"\n                    },\n                    \"deliveryAddDisable\": {\n                        \"type\": \"boolean\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1716986189154,\n                \"lastModifiedTime\": 1716986189154\n            }\n        }\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -260,12 +253,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -297,7 +288,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": {\n        // \"id\": \"dbec654c-158c-435a-84ae-004210719c5f\",\n        \"tenantId\": \"{{tenantid}}\",\n        \"code\": \"HCM-ADMIN-CONSOLE.deliveryTypeConfig\",\n        \"description\": null,\n        \"definition\": {\n            \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n            \"title\": \"Generated schema for Root\",\n            \"type\": \"object\",\n            \"properties\": {\n                \"key\": {\n                    \"type\": \"number\"\n                },\n                \"code\": {\n                    \"type\": \"string\"\n                }\n            },\n            \"required\": [\n                \"key\",\n                \"code\"\n            ],\n            \"x-unique\": [\n                \"key\"\n            ]\n        },\n        \"isActive\": true,\n        \"auditDetails\": {\n            \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n            \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n            \"createdTime\": 1716986189154,\n            \"lastModifiedTime\": 1716986189154\n        }\n    }\n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": {\n        // \"id\": \"dbec654c-158c-435a-84ae-004210719c5f\",\n        \"tenantId\": \"{{tenantid}}\",\n        \"code\": \"HCM-ADMIN-CONSOLE.deliveryTypeConfig\",\n        \"description\": null,\n        \"definition\": {\n            \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n            \"title\": \"Generated schema for Root\",\n            \"type\": \"object\",\n            \"properties\": {\n                \"key\": {\n                    \"type\": \"number\"\n                },\n                \"code\": {\n                    \"type\": \"string\"\n                }\n            },\n            \"required\": [\n                \"key\",\n                \"code\"\n            ],\n            \"x-unique\": [\n                \"key\"\n            ]\n        },\n        \"isActive\": true,\n        \"auditDetails\": {\n            \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n            \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n            \"createdTime\": 1716986189154,\n            \"lastModifiedTime\": 1716986189154\n        }\n    }\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -305,12 +296,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -342,7 +331,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": {\n        // \"id\": \"dbec654c-158c-435a-84ae-004210719c5f\",\n        \"tenantId\": \"{{tenantid}}\",\n        \"code\": \"HCM-ADMIN-CONSOLE.hierarchyConfig\",\n        \"description\": null,\n        \"definition\": {\n            \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n            \"title\": \"Generated schema for Root\",\n            \"type\": \"object\",\n            \"properties\": {\n                \"hierarchy\": {\n                    \"type\": \"string\"\n                },\n                \"lowestHierarchy\": {\n                    \"type\": \"string\"\n                }\n            },\n            \"required\": [\n                \"hierarchy\",\n                \"lowestHierarchy\"\n            ],\n            \"x-unique\": [\n                \"hierarchy\"\n            ]\n        },\n        \"isActive\": true,\n        \"auditDetails\": {\n            \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n            \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n            \"createdTime\": 1716986189154,\n            \"lastModifiedTime\": 1716986189154\n        }\n    }\n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": {\n        // \"id\": \"dbec654c-158c-435a-84ae-004210719c5f\",\n        \"tenantId\": \"{{tenantid}}\",\n        \"code\": \"HCM-ADMIN-CONSOLE.hierarchyConfig\",\n        \"description\": null,\n        \"definition\": {\n            \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n            \"title\": \"Generated schema for Root\",\n            \"type\": \"object\",\n            \"properties\": {\n                \"hierarchy\": {\n                    \"type\": \"string\"\n                },\n                \"lowestHierarchy\": {\n                    \"type\": \"string\"\n                }\n            },\n            \"required\": [\n                \"hierarchy\",\n                \"lowestHierarchy\"\n            ],\n            \"x-unique\": [\n                \"hierarchy\"\n            ]\n        },\n        \"isActive\": true,\n        \"auditDetails\": {\n            \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n            \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n            \"createdTime\": 1716986189154,\n            \"lastModifiedTime\": 1716986189154\n        }\n    }\n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -350,12 +339,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -387,7 +374,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\":\n        {\n            // \"id\": \"4984c2a5-6e04-4fd4-a7dd-e18c2df21134\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.facilitySchema\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"type\",\n                    \"properties\",\n                    \"required\",\n                    \"unique\"\n                ],\n                \"x-unique\": [\n                    \"title\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"unique\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"$schema\": {\n                        \"type\": \"string\"\n                    },\n                    \"required\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"HCM_ADMIN_CONSOLE_FACILITY_NAME\",\n                            \"HCM_ADMIN_CONSOLE_FACILITY_TYPE\",\n                            \"HCM_ADMIN_CONSOLE_FACILITY_STATUS\",\n                            \"HCM_ADMIN_CONSOLE_FACILITY_CAPACITY\",\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\"\n                        ],\n                        \"properties\": {\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_NAME\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"maxLength\",\n                                    \"minLength\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maxLength\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minLength\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_TYPE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_STATUS\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_CAPACITY\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"minimum\",\n                                    \"maximum\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maximum\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minimum\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256082057,\n                \"lastModifiedTime\": 1715256082057\n            }\n        }\n    \n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\":\n        {\n            // \"id\": \"4984c2a5-6e04-4fd4-a7dd-e18c2df21134\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.facilitySchema\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"type\",\n                    \"properties\",\n                    \"required\",\n                    \"unique\"\n                ],\n                \"x-unique\": [\n                    \"title\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"unique\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"$schema\": {\n                        \"type\": \"string\"\n                    },\n                    \"required\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"HCM_ADMIN_CONSOLE_FACILITY_NAME\",\n                            \"HCM_ADMIN_CONSOLE_FACILITY_TYPE\",\n                            \"HCM_ADMIN_CONSOLE_FACILITY_STATUS\",\n                            \"HCM_ADMIN_CONSOLE_FACILITY_CAPACITY\",\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\"\n                        ],\n                        \"properties\": {\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_NAME\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"maxLength\",\n                                    \"minLength\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maxLength\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minLength\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_TYPE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_STATUS\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_CAPACITY\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"minimum\",\n                                    \"maximum\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maximum\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minimum\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256082057,\n                \"lastModifiedTime\": 1715256082057\n            }\n        }\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -395,12 +382,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -432,7 +417,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"8d90d0e2-69e6-42a6-932c-3a2194419bd8\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.genderConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256486799,\n                \"lastModifiedTime\": 1715256486799\n            }\n        }\n    \n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"8d90d0e2-69e6-42a6-932c-3a2194419bd8\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.genderConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256486799,\n                \"lastModifiedTime\": 1715256486799\n            }\n        }\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -440,12 +425,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -477,7 +460,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\":\n        {\n            // \"id\": \"15edb3cc-16a7-4011-a940-8d43d1887910\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.mailConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"mailId\"\n                ],\n                \"x-unique\": [\n                    \"mailId\"\n                ],\n                \"properties\": {\n                    \"mailId\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256666207,\n                \"lastModifiedTime\": 1715256666207\n            }\n        }\n    \n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\":\n        {\n            // \"id\": \"15edb3cc-16a7-4011-a940-8d43d1887910\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.mailConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"mailId\"\n                ],\n                \"x-unique\": [\n                    \"mailId\"\n                ],\n                \"properties\": {\n                    \"mailId\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256666207,\n                \"lastModifiedTime\": 1715256666207\n            }\n        }\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -485,12 +468,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -522,7 +503,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"20fc3e80-5f98-43a0-9e48-931700ce904b\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.operatorConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256786787,\n                \"lastModifiedTime\": 1715256786787\n            }\n        }\n    \n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"20fc3e80-5f98-43a0-9e48-931700ce904b\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.operatorConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256786787,\n                \"lastModifiedTime\": 1715256786787\n            }\n        }\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -530,12 +511,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -567,7 +546,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n        //     \"id\": \"c1836af4-e893-4e5a-91ee-881039e77185\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.productType\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715257024748,\n                \"lastModifiedTime\": 1715257024748\n            }\n        }\n    \n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n        //     \"id\": \"c1836af4-e893-4e5a-91ee-881039e77185\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.productType\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715257024748,\n                \"lastModifiedTime\": 1715257024748\n            }\n        }\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -575,12 +554,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -612,7 +589,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"563c6e45-62d4-423b-9b4a-ba4b93e37817\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.ReadMeConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"type\",\n                    \"texts\"\n                ],\n                \"x-unique\": [\n                    \"type\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"texts\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"object\",\n                            \"required\": [\n                                \"header\",\n                                \"isHeaderBold\",\n                                \"inSheet\",\n                                \"inUiInfo\",\n                                \"descriptions\"\n                            ],\n                            \"properties\": {\n                                \"header\": {\n                                    \"type\": \"string\"\n                                },\n                                \"inSheet\": {\n                                    \"type\": \"boolean\"\n                                },\n                                \"inUiInfo\": {\n                                    \"type\": \"boolean\"\n                                },\n                                \"descriptions\": {\n                                    \"type\": \"array\",\n                                    \"items\": {\n                                        \"type\": \"object\",\n                                        \"required\": [\n                                            \"text\",\n                                            \"isStepRequired\"\n                                        ],\n                                        \"properties\": {\n                                            \"text\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"isStepRequired\": {\n                                                \"type\": \"boolean\"\n                                            }\n                                        }\n                                    }\n                                },\n                                \"isHeaderBold\": {\n                                    \"type\": \"boolean\"\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"lastModifiedBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"createdTime\": 1715778297492,\n                \"lastModifiedTime\": 1715778297492\n            }\n        }\n    \n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"563c6e45-62d4-423b-9b4a-ba4b93e37817\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.ReadMeConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"type\",\n                    \"texts\"\n                ],\n                \"x-unique\": [\n                    \"type\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"texts\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"object\",\n                            \"required\": [\n                                \"header\",\n                                \"isHeaderBold\",\n                                \"inSheet\",\n                                \"inUiInfo\",\n                                \"descriptions\"\n                            ],\n                            \"properties\": {\n                                \"header\": {\n                                    \"type\": \"string\"\n                                },\n                                \"inSheet\": {\n                                    \"type\": \"boolean\"\n                                },\n                                \"inUiInfo\": {\n                                    \"type\": \"boolean\"\n                                },\n                                \"descriptions\": {\n                                    \"type\": \"array\",\n                                    \"items\": {\n                                        \"type\": \"object\",\n                                        \"required\": [\n                                            \"text\",\n                                            \"isStepRequired\"\n                                        ],\n                                        \"properties\": {\n                                            \"text\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"isStepRequired\": {\n                                                \"type\": \"boolean\"\n                                            }\n                                        }\n                                    }\n                                },\n                                \"isHeaderBold\": {\n                                    \"type\": \"boolean\"\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"lastModifiedBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"createdTime\": 1715778297492,\n                \"lastModifiedTime\": 1715778297492\n            }\n        }\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -620,12 +597,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -657,7 +632,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"cf3a993c-44cc-4d90-95c7-d13a463f55b0\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"42880512-731f-4d45-9569-547f910d2144\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.userSchema\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"type\",\n                    \"properties\",\n                    \"required\",\n                    \"unique\"\n                ],\n                \"x-unique\": [\n                    \"unique\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"unique\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"$schema\": {\n                        \"type\": \"string\"\n                    },\n                    \"required\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"HCM_ADMIN_CONSOLE_USER_NAME\",\n                            \"HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER\",\n                            \"HCM_ADMIN_CONSOLE_USER_ROLE\",\n                            \"HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE\",\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\"\n                        ],\n                        \"properties\": {\n                            \"HCM_ADMIN_CONSOLE_USER_NAME\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"maxLength\",\n                                    \"minLength\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maxLength\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minLength\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_USER_ROLE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    },\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715257172095,\n                \"lastModifiedTime\": 1715257172095\n            }\n        }\n    \n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"42880512-731f-4d45-9569-547f910d2144\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.userSchema\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"type\",\n                    \"properties\",\n                    \"required\",\n                    \"unique\"\n                ],\n                \"x-unique\": [\n                    \"unique\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"unique\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"$schema\": {\n                        \"type\": \"string\"\n                    },\n                    \"required\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"HCM_ADMIN_CONSOLE_USER_NAME\",\n                            \"HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER\",\n                            \"HCM_ADMIN_CONSOLE_USER_ROLE\",\n                            \"HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE\",\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\"\n                        ],\n                        \"properties\": {\n                            \"HCM_ADMIN_CONSOLE_USER_NAME\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"maxLength\",\n                                    \"minLength\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maxLength\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minLength\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_USER_ROLE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    },\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715257172095,\n                \"lastModifiedTime\": 1715257172095\n            }\n        }\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
@@ -665,12 +640,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -720,12 +693,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -765,12 +736,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -810,12 +779,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -855,12 +822,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -900,12 +865,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -945,12 +908,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -990,12 +951,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1035,12 +994,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1080,12 +1037,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1135,12 +1090,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1180,12 +1133,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1225,12 +1176,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1270,12 +1219,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1315,12 +1262,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1360,12 +1305,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1405,12 +1348,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1450,12 +1391,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1495,12 +1434,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1540,12 +1477,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1585,12 +1520,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1630,12 +1563,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1675,12 +1606,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1720,12 +1649,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1765,12 +1692,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1810,12 +1735,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1855,57 +1778,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
-							},
-							"response": []
-						},
-						{
-							"name": "common-masters.UomCategory",
-							"event": [
-								{
-									"listen": "test",
-									"script": {
-										"exec": [
-											"pm.test(\"Status code is 202\", function () {",
-											"pm.response.to.have.status(202);",
-											"});"
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								}
-							],
-							"request": {
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"d7867ef2-d046-4361-9a82-94c35c98416e\"\n        }\n    },\n    \"SchemaDefinition\": \n      {\n            // \"id\": \"fa6b1ff8-4b98-4892-a5f2-1301958c9124\",\n            \"tenantId\":\"{{tenantid}}\",\n            \"code\": \"common-masters.UomCategory\",\n            \"description\": \" common masters Uom Category \",\n            \"definition\": {\n                \"type\": \"object\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"code\"\n                ],\n                \"properties\": {\n                    \"id\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    },\n                    \"name\": {\n                        \"type\": \"string\"\n                    },\n                    \"toDate\": {\n                        \"type\": \"number\"\n                    },\n                    \"fromDate\": {\n                        \"type\": \"number\"\n                    },\n                    \"tenantId\": {\n                        \"type\": \"string\"\n                    },\n                    \"description\": {\n                        \"type\": \"string\"\n                    },\n                    \"uomCategory\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"0da6b089-265e-44ef-bf7f-9e0d3ef47bf9\",\n                \"lastModifiedBy\": \"0da6b089-265e-44ef-bf7f-9e0d3ef47bf9\",\n                \"createdTime\": 1700718852326,\n                \"lastModifiedTime\": 1700718852326\n            }\n        }\n    \n}",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
-									"host": [
-										"localhost"
-									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1945,12 +1821,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -1990,12 +1864,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2035,12 +1907,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2080,12 +1950,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2125,12 +1993,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2170,12 +2036,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2215,12 +2079,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2260,12 +2122,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2305,12 +2165,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2350,12 +2208,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2395,12 +2251,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2440,12 +2294,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2485,12 +2337,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2530,12 +2380,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2575,12 +2423,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2620,12 +2466,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2665,12 +2509,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2710,12 +2552,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2765,12 +2605,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2810,12 +2648,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2855,12 +2691,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2900,12 +2734,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2945,12 +2777,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -2990,12 +2820,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -3035,12 +2863,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -3080,12 +2906,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -3125,12 +2949,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -3170,12 +2992,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -3215,12 +3035,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -3260,12 +3078,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -3305,12 +3121,10 @@
 									}
 								},
 								"url": {
-									"raw": "http://localhost:8083/mdms-v2/schema/v1/_create",
-									"protocol": "http",
+									"raw": "{{url}}/mdms-v2/schema/v1/_create",
 									"host": [
-										"localhost"
+										"{{url}}"
 									],
-									"port": "8083",
 									"path": [
 										"mdms-v2",
 										"schema",
@@ -3352,6 +3166,16 @@
 		{
 			"key": "tenantid",
 			"value": "so"
+		},
+		{
+			"key": "url",
+			"value": "http://localhost:8083",
+			"type": "string"
+		},
+		{
+			"key": "Auth",
+			"value": "",
+			"type": "string"
 		}
 	]
 }
