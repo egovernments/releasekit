@@ -1,0 +1,411 @@
+[
+        {
+            "id": "77a6ce36-f7d5-46cf-8a4e-d1392d520ebc",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "test",
+            "data": {
+                "schemaCode": "test"
+            },
+            "isActive": false,
+            "auditDetails": {
+                "createdBy": "3ae47a59-ed1e-489d-b8fb-a78e7a167966",
+                "lastModifiedBy": "3ae47a59-ed1e-489d-b8fb-a78e7a167966",
+                "createdTime": 1706075507974,
+                "lastModifiedTime": 1706075723040
+            }
+        },
+        {
+            "id": "150b44bf-9d80-406e-855f-1efc8b03c88f",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "Health.ProjectFacility",
+            "data": {
+                "order": [
+                    "order"
+                ],
+                "addAPI": {
+                    "url": "/project/facility/v1/_create",
+                    "requestBody": "{\"ProjectFacility\":{}}",
+                    "requestJson": "ProjectFacility",
+                    "responseJson": "ProjectFacility.id"
+                },
+                "custom": [
+                    {
+                        "prefix": " ",
+                        "suffix": "",
+                        "fieldPath": "projectId",
+                        "dataSource": {
+                            "API": "/project/v1/_search",
+                            "requestBody": "{\"Projects\":  [{\"tenantId\": \"mz\", \"startDate\": 1686853800000}]}",
+                            "responseJSON": "Project",
+                            "requestParams": "{\"limit\":100,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "(data)=>{return data?.Project.map(obj=>({label:`${obj?.name}/${obj?.address?.boundaryType}/${obj?.address?.boundary}`,value:obj.id})); }",
+                            "responseFieldPath": "projectId"
+                        }
+                    },
+                    {
+                        "prefix": "",
+                        "suffix": "",
+                        "fieldPath": "facilityId",
+                        "dataSource": {
+                            "API": "/facility/v1/_search",
+                            "requestBody": " {\"Facility\" :  {\"tenantId\": \"mz\"}}",
+                            "responseJSON": "Facilities",
+                            "requestParams": "{\"limit\":10,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "(data)=>{ return data?.Facilities.map(obj=>obj.id); }",
+                            "responseFieldPath": "facilityId"
+                        }
+                    }
+                ],
+                "schemaCode": "Health.ProjectFacility"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "fafcaf45-95d2-4bbb-acc5-3781e460d5c6",
+                "lastModifiedBy": "3ae47a59-ed1e-489d-b8fb-a78e7a167966",
+                "createdTime": 1702890866350,
+                "lastModifiedTime": 1704776465850
+            }
+        },
+        {
+            "id": "1aed9555-6ae4-4f6b-89b7-2d87ea532563",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "Health.ProjectResource",
+            "data": {
+                "addAPI": {
+                    "url": "/project/resource/v1/_create",
+                    "requestBody": "{\"ProjectResource\":{}}",
+                    "requestJson": "ProjectResource",
+                    "responseJson": "ProjectResource.id"
+                },
+                "custom": [
+                    {
+                        "prefix": " ",
+                        "suffix": "",
+                        "fieldPath": "projectId",
+                        "dataSource": {
+                            "API": "/project/v1/_search",
+                            "requestBody": "{\"Projects\":  [{\"tenantId\": \"mz\", \"startDate\": 1686853800000}]}",
+                            "responseJSON": "Project",
+                            "requestParams": "{\"limit\":100,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "(data)=>{return data?.Project.map(obj=>({label:`${obj?.name}/${obj?.address?.boundaryType}/${obj?.address?.boundary}`,value:obj.id})); }",
+                            "responseFieldPath": "id"
+                        }
+                    },
+                    {
+                        "prefix": "",
+                        "suffix": "",
+                        "fieldPath": "resource.productVariantId",
+                        "dataSource": {
+                            "API": "/product/variant/v1/_search",
+                            "requestBody": "{\"ProductVariant\":{}}",
+                            "responseJSON": "ProductVariant",
+                            "requestParams": "{\"limit\":100,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "(data)=>{ return data?.ProductVariant.map(obj=>obj.id); }",
+                            "responseFieldPath": "productVariantId"
+                        }
+                    }
+                ],
+                "schemaCode": "Health.ProjectResource"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "6920b276-0532-4fdc-82b0-1ad101dddbc2",
+                "lastModifiedBy": "caad2332-b4f7-44b1-bf95-3b772502f210",
+                "createdTime": 1702543896328,
+                "lastModifiedTime": 1704455728284
+            }
+        },
+        {
+            "id": "f324604a-1ba3-4d1a-895b-ea2d5e7c383f",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "Health.Facility",
+            "data": {
+                "order": [
+                    "tenantId",
+                    "facilityName",
+                    "facilityUsage",
+                    "storageCapacity"
+                ],
+                "addAPI": {
+                    "url": "/facility/v1/_create",
+                    "requestBody": "{\"Facility\":{}}",
+                    "requestJson": "Facility",
+                    "responseJson": "Facility.id"
+                },
+                "custom": [
+                    {
+                        "prefix": "",
+                        "suffix": "",
+                        "fieldPath": "productId",
+                        "dataSource": {
+                            "API": "/product/v1/_search",
+                            "requestBody": "\"{  \\\"Product\\\": {             }}\"",
+                            "responseJSON": "Product",
+                            "requestParams": "{\"limit\":50,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "\"(data)=>{ return data?.Product.map(obj=>obj.id); }\"",
+                            "responseFieldPath": "productId"
+                        }
+                    }
+                ],
+                "schemaCode": "Health.Facility"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "6920b276-0532-4fdc-82b0-1ad101dddbc2",
+                "lastModifiedBy": "3ae47a59-ed1e-489d-b8fb-a78e7a167966",
+                "createdTime": 1702450119833,
+                "lastModifiedTime": 1704784401384
+            }
+        },
+        {
+            "id": "d62f7fe8-09e3-4a43-8288-1cbe197fc7a9",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "Health.Project",
+            "data": {
+                "order": [
+                    "tenantId",
+                    "name",
+                    "projectType",
+                    "projectTypeId",
+                    "parent",
+                    "startDate",
+                    "endDate",
+                    "department",
+                    "description",
+                    "referenceId",
+                    "projectSubType"
+                ],
+                "addAPI": {
+                    "url": "/project/v1/_create",
+                    "requestBody": "{\"Projects\":[]}",
+                    "requestJson": "Projects[0]",
+                    "responseJson": "Project[0].projectNumber"
+                },
+                "custom": [
+                    {
+                        "prefix": "",
+                        "suffix": "",
+                        "fieldPath": "productId",
+                        "dataSource": {
+                            "API": "/product/v1/_search",
+                            "requestBody": "\"{  \\\"Product\\\": {             }}\"",
+                            "responseJSON": "Product",
+                            "requestParams": "{\"limit\":50,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "\"(data)=>{ return data?.Product.map(obj=>obj.id); }\"",
+                            "responseFieldPath": "productId"
+                        }
+                    }
+                ],
+                "schemaCode": "Health.Project"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "lastModifiedBy": "3ae47a59-ed1e-489d-b8fb-a78e7a167966",
+                "createdTime": 1702039778610,
+                "lastModifiedTime": 1704784197435
+            }
+        },
+        {
+            "id": "7b11dc7a-64db-487e-ab15-45c58750ae33",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "Health.ProjectTask",
+            "data": {
+                "order": [
+                    "order"
+                ],
+                "addAPI": {
+                    "url": "/project/task/v1/_create",
+                    "requestBody": "{\"Task\":{}}",
+                    "requestJson": "Task[0]",
+                    "responseJson": "Tasks"
+                },
+                "custom": [
+                    {
+                        "prefix": "",
+                        "suffix": "",
+                        "fieldPath": "productId",
+                        "dataSource": {
+                            "API": "/product/v1/_search",
+                            "requestBody": "\"{  \\\"Product\\\": {             }}\"",
+                            "responseJSON": "Product",
+                            "requestParams": "{\"limit\":50,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "\"(data)=>{ return data?.Product.map(obj=>obj.id); }\"",
+                            "responseFieldPath": "productId"
+                        }
+                    }
+                ],
+                "schemaCode": "Health.ProjectTask"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "lastModifiedBy": "6920b276-0532-4fdc-82b0-1ad101dddbc2",
+                "createdTime": 1701930097184,
+                "lastModifiedTime": 1702461082670
+            }
+        },
+        {
+            "id": "159248c3-687d-4226-be62-d0029f4384b5",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "Health.Household",
+            "data": {
+                "order": [
+                    "order"
+                ],
+                "addAPI": {
+                    "url": "/household/v1/_create",
+                    "requestBody": "{\"Household\":{}}",
+                    "requestJson": "Household",
+                    "responseJson": "Household"
+                },
+                "custom": [
+                    {
+                        "prefix": "",
+                        "suffix": "",
+                        "fieldPath": "productId",
+                        "dataSource": {
+                            "API": "/product/v1/_search",
+                            "requestBody": "\"{  \\\"Product\\\": {             }}\"",
+                            "responseJSON": "Product",
+                            "requestParams": "{\"limit\":50,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "\"(data)=>{ return data?.Product.map(obj=>obj.id); }\"",
+                            "responseFieldPath": "productId"
+                        }
+                    }
+                ],
+                "schemaCode": "Health.Household"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "lastModifiedBy": "6920b276-0532-4fdc-82b0-1ad101dddbc2",
+                "createdTime": 1701930006896,
+                "lastModifiedTime": 1702461316048
+            }
+        },
+        {
+            "id": "a818334b-e999-4141-8a98-a2810819778c",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "Health.ProjectBeneficiary",
+            "data": {
+                "addAPI": {
+                    "url": "/project/beneficiary/v1/_create",
+                    "requestBody": "{\"ProjectBeneficiary\":{}}",
+                    "requestJson": "ProjectBeneficiary[0]",
+                    "responseJson": "ProjectBeneficiary"
+                },
+                "custom": [
+                    {
+                        "prefix": "",
+                        "suffix": "",
+                        "fieldPath": "projectId",
+                        "dataSource": {
+                            "API": "/project/v1/_search",
+                            "requestBody": "{\"Projects\":  [{\"tenantId\": \"mz\", \"startDate\": 1686853800000}]}",
+                            "responseJSON": "Project",
+                            "requestParams": "{\"limit\":100,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "(data)=>{return data?.Project.map(obj=>({label:`${obj?.name}/${obj?.address?.boundaryType}/${obj?.address?.boundary}`,value:obj.id})); }",
+                            "responseFieldPath": "projectNumber"
+                        }
+                    }
+                ],
+                "schemaCode": "Health.ProjectBeneficiary"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "lastModifiedBy": "6920b276-0532-4fdc-82b0-1ad101dddbc2",
+                "createdTime": 1701929948740,
+                "lastModifiedTime": 1702537947143
+            }
+        },
+        {
+            "id": "a76c33d6-b6d2-429c-8614-add61a41384e",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "Health.ProductVariant",
+            "data": {
+                "order": [
+                    "order"
+                ],
+                "addAPI": {
+                    "url": "/product/variant/v1/_create",
+                    "requestBody": "{\"ProductVariant\": [],  \"tenantId\":\"mz\",      \"apiOperation\": \"CREATE\"}",
+                    "requestJson": "ProductVariant[0]",
+                    "responseJson": "ProductVariant[0].id"
+                },
+                "custom": [
+                    {
+                        "prefix": "",
+                        "suffix": "",
+                        "fieldPath": "productId",
+                        "dataSource": {
+                            "API": "/product/v1/_search",
+                            "requestBody": "{\"Product\": {}}",
+                            "responseJSON": "Product",
+                            "requestParams": "{\"limit\":50,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "(data)=>{ return data?.Product.map(obj=>obj.id); }",
+                            "responseFieldPath": "productId"
+                        }
+                    }
+                ],
+                "schemaCode": "Health.ProductVariant"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "lastModifiedBy": "caad2332-b4f7-44b1-bf95-3b772502f210",
+                "createdTime": 1701844431540,
+                "lastModifiedTime": 1704455519576
+            }
+        },
+        {
+            "id": "8869c02b-1809-49e6-a2dc-beb1cd9768d8",
+            "tenantId": "mz",
+            "schemaCode": "Workbench.UISchema",
+            "uniqueIdentifier": "Health.ProjectStaff",
+            "data": {
+                "order": [
+                    "order"
+                ],
+                "addAPI": {
+                    "url": "/project/staff/v1/_create",
+                    "requestBody": "{\"ProjectStaff\":{}}",
+                    "requestJson": "ProjectStaff",
+                    "responseJson": "ProjectStaff.id"
+                },
+                "custom": [
+                    {
+                        "prefix": " ",
+                        "suffix": "",
+                        "fieldPath": "projectId",
+                        "dataSource": {
+                            "API": "/project/v1/_search",
+                            "requestBody": "{\"Projects\":  [{\"tenantId\": \"mz\", \"startDate\": 1686853800000}]}",
+                            "responseJSON": "Project",
+                            "requestParams": "{\"limit\":100,\"offset\":0,\"tenantId\":\"mz\"}",
+                            "customFunction": "(data)=>{return data?.Project.map(obj=>({label:`${obj?.name}/${obj?.address?.boundaryType}/${obj?.address?.boundary}`,value:obj.id})); }",
+                            "responseFieldPath": "projectId"
+                        }
+                    }
+                ],
+                "schemaCode": "Health.ProjectStaff"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "lastModifiedBy": "caad2332-b4f7-44b1-bf95-3b772502f210",
+                "createdTime": 1701844179210,
+                "lastModifiedTime": 1704456000560
+            }
+        }
+    ]
