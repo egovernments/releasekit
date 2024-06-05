@@ -1,0 +1,110 @@
+[
+        {
+            "id": "f3a8e724-f9e9-41d4-bd10-10f8b57f1e08",
+            "tenantId": "mz",
+            "schemaCode": "Health.ProjectBeneficiary",
+            "uniqueIdentifier": "cvbv",
+            "data": {
+                "address": {
+                    "locality": {}
+                },
+                "tenantId": "mz",
+                "projectId": "13",
+                "beneficiaryId": "\"H-2023-02-10-000258\"",
+                "additionalFields": {
+                    "fields": [
+                        {
+                            "key": "key1",
+                            "value": "value1"
+                        }
+                    ],
+                    "schema": "Health.ProjectBeneficiary",
+                    "version": 1
+                },
+                "clientReferenceId": "cvbv",
+                "dateOfRegistration": 46,
+                "beneficiaryClientReferenceId": "456"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "6920b276-0532-4fdc-82b0-1ad101dddbc2",
+                "lastModifiedBy": "6920b276-0532-4fdc-82b0-1ad101dddbc2",
+                "createdTime": 1702480233494,
+                "lastModifiedTime": 1702480233494
+            }
+        },
+        {
+            "id": "5fd10f9f-62dc-4375-8941-ce8fd962777e",
+            "tenantId": "mz",
+            "schemaCode": "Health.ProjectBeneficiary",
+            "uniqueIdentifier": "9",
+            "data": {
+                "tenantId": "mz",
+                "projectId": "99",
+                "beneficiaryId": "99",
+                "additionalFields": {
+                    "fields": [
+                        {
+                            "key": "key1",
+                            "value": "value1"
+                        }
+                    ],
+                    "schema": "Health.ProjectBeneficiary",
+                    "version": 1
+                },
+                "clientReferenceId": "9",
+                "dateOfRegistration": 99,
+                "beneficiaryClientReferenceId": "99"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "lastModifiedBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "createdTime": 1701938903049,
+                "lastModifiedTime": 1701938903049
+            }
+        },
+        {
+            "id": "a5cd61c1-96b6-4761-9ea2-c8b950a45cfd",
+            "tenantId": "mz",
+            "schemaCode": "Health.ProjectBeneficiary",
+            "uniqueIdentifier": "0",
+            "data": {
+                "id": "3",
+                "sku": "0",
+                "tenantId": "mz",
+                "isDeleted": true,
+                "productId": "0",
+                "projectId": "99",
+                "variation": "0",
+                "rowVersion": 0,
+                "auditDetails": {
+                    "createdBy": "9",
+                    "createdTime": 9,
+                    "lastModifiedBy": "9",
+                    "lastModifiedTime": 0
+                },
+                "beneficiaryId": "99",
+                "additionalFields": {
+                    "fields": [
+                        {
+                            "key": "key1",
+                            "value": "value1"
+                        }
+                    ],
+                    "schema": "Health.ProjectStaff",
+                    "version": 1
+                },
+                "clientReferenceId": "0",
+                "dateOfRegistration": 9,
+                "beneficiaryClientReferenceId": "9"
+            },
+            "isActive": true,
+            "auditDetails": {
+                "createdBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "lastModifiedBy": "03dc723f-7f45-4c34-89fd-f0c997cf8326",
+                "createdTime": 1701931391998,
+                "lastModifiedTime": 1701931391998
+            }
+        }
+    ]
