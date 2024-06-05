@@ -1,0 +1,1892 @@
+[
+    {
+        "code": "CHECKLIST",
+        "message": "Lista de controlo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_BACK_DIALOG_PRIMARY_ACTION",
+        "message": "Sim",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_BACK_DIALOG_SECONDARY_ACTION",
+        "message": "Não",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_CREATE_ACTION_LABEL",
+        "message": "Criar lista de controlo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_DATE",
+        "message": "Data",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_DETAILS_LABEL",
+        "message": "Detalhes da lista de controlo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_DESCRITPTION",
+        "message": "Certifique-se de que os dados introduzidos estão correctos.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_LABEL",
+        "message": "Pronto para submeter a lista de controlo?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_PRIMARY_ACTION",
+        "message": "Enviar",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_SECONDARY_ACTION",
+        "message": "Voltar atrás",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_LABEL",
+        "message": "As minhas listas de verificação",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_REASON_REQUIRED_ERROR",
+        "message": "O motivo não pode estar vazio",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_VIEW_ACTION_LABEL",
+        "message": "Ver listas de controlo enviadas",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_CC.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a reação adversa a um medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_PC.HEALTH_FACILITY_WORKER",
+        "message": "Consulta devido a reação adversa a um medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Consulta devido a febre",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q1",
+        "message": "Criança avaliada quanto a reação adversa para SP e AQ ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2",
+        "message": "A Farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de malária positivo tratada com antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
+        "message": "Nome e dose do antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "O nome e a dose do antipalúdico são obrigatórios",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento por motivo de doença",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Os comentários são obrigatórios",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "O nome e a dose do medicamento são obrigatórios",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "A criança foi internada / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Massamba.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_CC.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a reação adversa a um medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_PC.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a reação adversa a medicamentos",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a febre",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas à SP e à AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de malária positivo tratada com antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
+        "message": "Nome e dose do antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "O nome e a dose do antipalúdico são obrigatórios",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento por motivo de doença",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Os comentários são obrigatórios",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "O nome e a dose do medicamento são obrigatórios",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MY_CHECK_LIST_LABEL",
+        "message": "As minhas listas de controlo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Criança avaliada quanto a reacções adversas para SP e AQ ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada por reação adversa a SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada por reação adversa a SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "A criança com teste negativo à malária recebeu SPAQ neste ciclo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de paludismo positivo tratada com antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
+        "message": "Efeito secundário do ciclo atual",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_01.ADDITIONAL_FIELD",
+        "message": "Comentários",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_02.ADDITIONAL_FIELD",
+        "message": "Comentários",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_03.ADDITIONAL_FIELD",
+        "message": "Comentários",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Criança avaliada quanto a reacções adversas para SP e AQ ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
+        "message": "Efeito secundário do ciclo anterior",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada por reação adversa a SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Febre",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi internada / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "A criança com teste negativo à malária recebeu SPAQ neste ciclo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de paludismo positivo tratada com antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Doente",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
+        "message": "Nome e dose do antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "O nome e a dose do antipalúdico são obrigatórios",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
+        "message": "Efeito secundário do ciclo atual",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
+        "message": "Efeito secundário do ciclo anterior",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Febre",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada por reação adversa a SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "A criança com teste negativo à malária recebeu SPAQ neste ciclo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de paludismo positivo tratada com antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Doente",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada por reação adversa a SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada por reação adversa a SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada por reação adversa a SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "A criança com teste negativo à malária recebeu SPAQ neste ciclo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de paludismo positivo tratada com antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi internada / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "A criança com teste negativo à malária recebeu SPAQ neste ciclo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de paludismo positivo tratada com antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas para SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada por reação adversa a SP e AQ?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "A criança com teste negativo à malária recebeu SPAQ neste ciclo",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de paludismo positivo tratada com antipalúdico",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico.",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "A criança foi internada/transferida para o hospital mais próximo devido a doença grave?",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-checklist",
+        "locale": "pt_MZ"
+    }
+]

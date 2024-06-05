@@ -1,0 +1,2624 @@
+[
+    {
+        "code": "ATTR1",
+        "message": "The district warehouse and the staff comply with COVID-19 prevention measures (minimum distance of 1.5m, use of masks, use of disinfectants etc)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "ATTR2",
+        "message": "Does the warehouse have RTI stock forms?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "ATTR3",
+        "message": "Is the stock form completed?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "ATTR4",
+        "message": "Are all the header fields on the stock card filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "ATTR5",
+        "message": "Is the number of RTIS (bales) received equal to the number of planned RTIS (bales)? (See MPP)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "ATTR6",
+        "message": "Are the RTI movement fields filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "ATTR7",
+        "message": "Are the RTI movement fields CORRECTLY filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST",
+        "message": "Checklist ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_CREATE_ACTION_LABEL",
+        "message": "Create Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DATE",
+        "message": "Date",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DETAILS_LABEL",
+        "message": "Checklist Details",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_DESCRITPTION",
+        "message": "Make sure the details entered are correct.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_LABEL",
+        "message": "Ready to submit checklist?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_PRIMARY_ACTION",
+        "message": "Submit",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_SECONDARY_ACTION",
+        "message": "Go Back",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_LABEL",
+        "message": "My Checklists",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_VIEW_ACTION_LABEL",
+        "message": "View Submitted Checklists",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR",
+        "message": "Team Formation Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1",
+        "message": "Does the warehouse have a STOCK SHEET of RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2",
+        "message": "Are the fields of the RTI movement CORRECTLY filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3",
+        "message": "Are the fields of the RTIs movement filled in with the appropriate pen colors? (Red entries, blue/black exits)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR4",
+        "message": "Is there a record of INVENTORY of RTIs in the stock sheet every 15 days?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5",
+        "message": "Does the warehouse have a SHIPPING DOCUMENT for RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "DistrictSupervisorMur.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR",
+        "message": "Team Formation Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1",
+        "message": "The registration and distribution teams, including the assistant, have material and comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or washing",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2",
+        "message": "Is there a map with a calendar/route and daily distribution of the teams to the communities?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3",
+        "message": "Are registration and distribution teams organized as planned? Check presence of registrar, distributor and assistant.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5",
+        "message": "Is the entry of registration and distribution data into the platform performed daily?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.TEAM_FORMATION.DISTRICT_SUPERVISOR.FIELD_SUPERVISOR.ATTR4",
+        "message": "Do the registration and distribution teams have a functioning electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR1",
+        "message": "The district warehouse and the warehouse workers (warehouse guards and custodians) have material and comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR2",
+        "message": "Does the warehouse have a STOCK SHEET of RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR3",
+        "message": "Is the stock sheet filled out?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR4",
+        "message": "Is the number of RTIs (Bales) received equal to the number of RTIS (Bales) planned? (See MPP)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR5",
+        "message": "Are the fields of the RTI movement CORRECTLY filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Angónia.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR",
+        "message": "Team Formation Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1",
+        "message": "The registration and distribution teams, including the assistant, have material and comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or washing",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2",
+        "message": "Is there a map with a calendar/route and daily distribution of the teams to the communities?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3",
+        "message": "Are registration and distribution teams organized as planned? Check presence of registrar, distributor and assistant.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR4",
+        "message": "Are you satisfied with team formation tasks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5",
+        "message": "Is the entry of registration and distribution data into the platform performed daily?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.TEAM_FORMATION.DISTRICT_SUPERVISOR.FIELD_SUPERVISOR.ATTR4",
+        "message": "Do the registration and distribution teams have a functioning electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR",
+        "message": "Warehouse Inspection Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR1",
+        "message": "The district warehouse and the warehouse workers (warehouse guards and custodians) have material and comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR2",
+        "message": "Does the warehouse have a STOCK SHEET of RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR3",
+        "message": "Is the stock sheet filled out?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR4",
+        "message": "Are all the fields in the header of the stock sheet filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR5",
+        "message": "Is the number of RTIs (Bales) received equal to the number of RTIS (Bales) planned? (See MPP)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Changara.WAREHOUSE.DISTRICT_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR",
+        "message": "Team Formation Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR1",
+        "message": "The registration and distribution teams, including the assistant, have material and comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or washing",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR2",
+        "message": "Is there a map with a calendar/route and daily distribution of the teams to the communities?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR3",
+        "message": "Are registration and distribution teams organized as planned? Check presence of registrar, distributor and assistant.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR4",
+        "message": "Do the registration and distribution teams have a functioning electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR5",
+        "message": "Is the entry of registration and distribution data into the platform performed daily?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TEAM_FORMATION.FIELD_SUPERVISOR.FIELD_SUPERVISOR.ATTR4",
+        "message": "Do the registration and distribution teams have a functioning electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR",
+        "message": "Registration And Delivery Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR1",
+        "message": "Do the training site and the teams comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or hand washing with soap and water or ash? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR2",
+        "message": "Does the training have an agenda?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR3",
+        "message": "Do the teams have an electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR4",
+        "message": "Are all electronic devices operational?  ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR5",
+        "message": "Is the District M&E Officer part of the training? (applicable if he/she was not present at the provincial microplanning)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Chioco.TRAINING_SUPERVISION.FIELD_SUPERVISOR.FIELD_SUPERVISOR.ATTR4",
+        "message": "Are all electronic devices operational?  ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR",
+        "message": "Team Formation Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR1",
+        "message": "The registration and distribution teams, including the assistant, have material and comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or washing",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR2",
+        "message": "Is there a map with a calendar/route and daily distribution of the teams to the communities?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR3",
+        "message": "Are registration and distribution teams organized as planned? Check presence of registrar, distributor and assistant.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR4",
+        "message": "Do the registration and distribution teams have a functioning electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR5",
+        "message": "Is the entry of registration and distribution data into the platform performed daily?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TEAM_FORMATION.FIELD_SUPERVISOR.FIELD_SUPERVISOR.ATTR4",
+        "message": "Do the registration and distribution teams have a functioning electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR",
+        "message": "Registration And Delivery Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR1",
+        "message": "Do the training site and the teams comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or hand washing with soap and water or ash? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR2",
+        "message": "Does the FLW know how to operate a mobile?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR3",
+        "message": "Do the teams have an electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR4",
+        "message": "Are all electronic devices operational?  ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR5",
+        "message": "Is the District M&E Officer part of the training? (applicable if he/she was not present at the provincial microplanning)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Dómuè.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR",
+        "message": "Team Formation Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR1",
+        "message": "The registration and distribution teams, including the assistant, have material and comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or washing",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR2",
+        "message": "Is there a map with a calendar/route and daily distribution of the teams to the communities?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR3",
+        "message": "Are registration and distribution teams organized as planned? Check presence of registrar, distributor and assistant.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR4",
+        "message": "Do the registration and distribution teams have a functioning electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR5",
+        "message": "Is the entry of registration and distribution data into the platform performed daily?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TEAM_FORMATION.FIELD_SUPERVISOR.FIELD_SUPERVISOR.ATTR4",
+        "message": "Do the registration and distribution teams have a functioning electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR",
+        "message": "Registration And Delivery Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR1",
+        "message": "Do the training site and the teams comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or hand washing with soap and water or ash? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR2",
+        "message": "Does the training have an agenda?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR3",
+        "message": "Do the teams have an electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR4",
+        "message": "Are all electronic devices operational?  ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR5",
+        "message": "Is the District M&E Officer part of the training? (applicable if he/she was not present at the provincial microplanning)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Kazula.TRAINING_SUPERVISION.FIELD_SUPERVISOR.FIELD_SUPERVISOR.ATTR4",
+        "message": "Are all electronic devices operational?  ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR",
+        "message": "Service Delivery Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1",
+        "message": "Did you tell the beneficiary about symptoms of Malaria?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2",
+        "message": "Did you tell the beneficiary about the correct use of bednets?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3",
+        "message": "Did you tell the beneficiary about how to dispose old bednets?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR4",
+        "message": "Is there a record of INVENTORY of RTIs in the stock sheet every 15 days?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5",
+        "message": "Does the warehouse have a SHIPPING DOCUMENT for RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN MURRUPULA.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR",
+        "message": "Team Formation Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1",
+        "message": "Does the warehouse have a STOCK SHEET of RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2",
+        "message": "Are the fields of the RTI movement CORRECTLY filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3",
+        "message": "Are the fields of the RTIs movement filled in with the appropriate pen colors? (Red entries, blue/black exits)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR4",
+        "message": "Is there a record of INVENTORY of RTIs in the stock sheet every 15 days?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5",
+        "message": "Does the warehouse have a SHIPPING DOCUMENT for RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TEAM_FORMATION.DISTRICT_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR1",
+        "message": "Does the warehouse have enough stock in the storage?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR1.ADDITIONALFIELD",
+        "message": "Reason for less stock",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR1.Nao.AR1",
+        "message": "Did the warehouse manager request for more stock to be issued?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR1.Nao.AR1.Sim.AR5",
+        "message": "Was the stock transactions recorded properly?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR1.Sim.AR1",
+        "message": "Did the warehouse manager fill the stock reconcilation form?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR1.Sim.AR1.Nao.AR6",
+        "message": "Was the stock very limited at that time ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR2",
+        "message": "Were the registrars able to achieve the daily target?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR2.Nao.AR3",
+        "message": "Did you monitor the registrars campaign activities? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR2.Sim.AR2",
+        "message": "Did the registrars follow the campaign protocol?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR3",
+        "message": "Does the distributor deliver the bednets  to each household properly?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.MR4",
+        "message": "Were all the devices returned back to the local monitors by the FLWs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR1",
+        "message": "Does the warehouse have enough stock in the storage?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR1.ADDITIONALFIELD",
+        "message": "Reason for less stock",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR1.Nao.AR1",
+        "message": "Did the warehouse manager request for more stock to be issued?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR1.Nao.AR1.Sim.AR5",
+        "message": "Was the stock transactions recorded properly?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR1.Sim.AR1",
+        "message": "Did the warehouse manager fill the stock reconcilation form?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR1.Sim.AR1.Nao.AR6",
+        "message": "Was the stock very limited at that time ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR2",
+        "message": "Were the registrars able to achieve the daily target?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR2.Nao.AR3",
+        "message": "Did you monitor the registrars campaign activities? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR2.Sim.AR2",
+        "message": "Did the registrars follow the campaign protocol?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR3",
+        "message": "Does the distributor deliver the bednets  to each household properly?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN NIHESSIUE.WAREHOUSE.DISTRICT_SUPERVISOR.MR4",
+        "message": "Were all the devices returned back to the local monitors by the FLWs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nairobi.TEAM_FORMATION.DISTRIBUTOR",
+        "message": "Service Delivery Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nairobi.TEAM_FORMATION.DISTRIBUTOR.ATTR1",
+        "message": "Did you tell the beneficiary about symptoms of Malaria ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nairobi.TEAM_FORMATION.DISTRIBUTOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nairobi.TEAM_FORMATION.DISTRIBUTOR.ATTR2",
+        "message": "Did you tell the beneficiary about the correct use of bednets?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nairobi.TEAM_FORMATION.DISTRIBUTOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nairobi.TEAM_FORMATION.DISTRIBUTOR.ATTR3",
+        "message": "Did you tell the beneficiary about how to dispose old bednets?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nairobi.TEAM_FORMATION.DISTRIBUTOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR",
+        "message": "Warehouse Inspection Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR1",
+        "message": "Does the warehouse have a STOCK SHEET of RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR2",
+        "message": "Are the fields of the RTI movement CORRECTLY filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR3",
+        "message": "Are the fields of the RTIs movement filled in with the appropriate pen colors? (Red entries, blue/black exits)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR4",
+        "message": "Is there a record of INVENTORY of RTIs in the stock sheet every 15 days?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR5",
+        "message": "Does the warehouse have a SHIPPING DOCUMENT for RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Nampula Province.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR",
+        "message": "Warehouse Inspection Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR1",
+        "message": "Does the warehouse have a STOCK SHEET of RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR2",
+        "message": "Are the fields of the RTI movement CORRECTLY filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR3",
+        "message": "Are the fields of the RTIs movement filled in with the appropriate pen colors? (Red entries, blue/black exits)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR4",
+        "message": "Is there a record of INVENTORY of RTIs in the stock sheet every 15 days?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR5",
+        "message": "Does the warehouse have a SHIPPING DOCUMENT for RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Tete.WAREHOUSE.PROVINCIAL_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR",
+        "message": "Team Formation Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR1",
+        "message": "The registration and distribution teams, including the assistant, have material and comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or washing",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR2",
+        "message": "Is there a map with a calendar/route and daily distribution of the teams to the communities?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR3",
+        "message": "Are registration and distribution teams organized as planned? Check presence of registrar, distributor and assistant.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR5",
+        "message": "Is the entry of registration and distribution data into the platform performed daily?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TEAM_FORMATION.FIELD_SUPERVISOR.FIELD_SUPERVISOR.ATTR4",
+        "message": "Do the registration and distribution teams have a functioning electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR",
+        "message": "Registration And Delivery Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR1",
+        "message": "Do the training site and the teams comply with the preventive measures against COVID-19 (minimum distance of 1.5m, use of masks, use of disinfectant and/or hand washing with soap and water or ash? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR2",
+        "message": "Does the training have an agenda?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR3",
+        "message": "Do the teams have an electronic device?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR4",
+        "message": "Are all electronic devices operational?  ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR5",
+        "message": "Is the District M&E Officer part of the training? (applicable if he/she was not present at the provincial microplanning)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Ulongué.TRAINING_SUPERVISION.FIELD_SUPERVISOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MY_CHECK_LIST_LABEL",
+        "message": "My Checklists",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_CC.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to adverse drug reaction",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_PC.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to adverse drug reaction",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to fever",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_01.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_02.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_03.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.DISTRICT_SUPERVISOR.HF_REASON_DRUG_SE_CC_01.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.DISTRICT_SUPERVISOR.HF_REASON_DRUG_SE_CC_02.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.DISTRICT_SUPERVISOR.HF_REASON_DRUG_SE_CC_03.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
+        "message": "Side effect from current cycle",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_01.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_02.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_03.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_01.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_02.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_03.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
+        "message": "Side effect from previous cycle",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Child with positive malaria test treated with anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Fever",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Child with positive malaria test treated with anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Child with positive malaria test treated with anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q1",
+        "message": "Child evaluated to determine the cause of illness.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Enter comments for diagnosis.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q2",
+        "message": "Was the child treated ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Name and dose of the drug",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q3",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Sick",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Child evaluated to determine the cause of illness.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Enter comments for diagnosis.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "Was the child treated ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Name and dose of the drug",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q1",
+        "message": "Child evaluated to determine the cause of illness.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Enter comments for diagnosis.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q2",
+        "message": "Was the child treated ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Name and dose of the drug",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q3",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ? ",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TEAM_FORMATION.WAREHOUSE_MANAGER",
+        "message": "Feedback",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TEAM_FORMATION.WAREHOUSE_MANAGER.ATTR1",
+        "message": "overall co-ordination",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TEAM_FORMATION.WAREHOUSE_MANAGER.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TEAM_FORMATION.WAREHOUSE_MANAGER.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TRAINING_SUPERVISION.WAREHOUSE_MANAGER",
+        "message": "Supervision Feedback",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.ATTR1",
+        "message": "project1.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.ATTR1",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.ATTR2",
+        "message": "Supervision Worked onTime?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.ATTR3",
+        "message": "Supervision overall co-ordination",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER",
+        "message": "Warehouses",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR1",
+        "message": "The district warehouse and the staff comply with COVID-19 prevention measures (minimum distance of 1.5m, use of masks, use of disinfectants etc)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR10",
+        "message": "Does the warehouse have RTIs SHIPMENT GUIDE?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR10.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR11",
+        "message": "If there was movement of RTIs (outside of the initial entry), was the Shipping Slip completed?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR11.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR12",
+        "message": "Does the warehouse have (Verify) the map of the flow of direct and reverse logistics?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR12.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR13",
+        "message": "Do you have (Check) the inventory flowchart in the warehouse?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR13.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR2",
+        "message": "Does the warehouse have RTI stock forms?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR3",
+        "message": "Is the stock form completed?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR4",
+        "message": "Are all the header fields on the stock card filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR5",
+        "message": "Is the number of RTIS (bales) received equal to the number of planned RTIS (bales)? (See MPP)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR6",
+        "message": "Are the RTI movement fields filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR6.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR7",
+        "message": "Are the RTI movement fields CORRECTLY filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR7.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR8",
+        "message": "Are the RTI movement fields filled in with the appropriate pen colors? (Red inputs, blue/black outputs)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR8.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR9",
+        "message": "Is there an INVENTORY record of the RTIs on the stock card every 15 days?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1.WAREHOUSE.WAREHOUSE_MANAGER.ATTR9.ADDITIONAL_FIELD",
+        "message": "Reason for cause",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "project1_WAREHOUSE_WAREHOUSE_MANAGER_ATTR7",
+        "message": "Are the RTI movement fields CORRECTLY filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR",
+        "message": "Team Formation Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR1",
+        "message": "Does the warehouse have a STOCK SHEET of RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR1.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR2",
+        "message": "Are the fields of the RTI movement CORRECTLY filled in?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR2.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR3",
+        "message": "Are the fields of the RTIs movement filled in with the appropriate pen colors? (Red entries, blue/black exits)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR3.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR4",
+        "message": "Is there a record of INVENTORY of RTIs in the stock sheet every 15 days?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR4.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR5",
+        "message": "Does the warehouse have a SHIPPING DOCUMENT for RTIs?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "projectName.TEAM_FORMATION.DISTRIBUTOR.ATTR5.ADDITIONAL_FIELD",
+        "message": "Reason",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    }
+]
