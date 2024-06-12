@@ -1,5 +1,179 @@
- [
-      
+{
+    "messages": [
+        {
+            "code": "ADMIN10_COUNTRY",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN10_DISTRITO",
+            "message": "Distrito",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN10_LOCALIDADE",
+            "message": "Localidade",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN10_POST ADMINISTRATIVO",
+            "message": "Post Administrativo",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN10_STATE",
+            "message": "State",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN11_COUNTRY",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN11_DISTRITO",
+            "message": "Distrito",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN11_LOCALIDADE",
+            "message": "Localidade",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN11_POST ADMINISTRATIVO",
+            "message": "Post Administrativo",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN11_STATE",
+            "message": "State",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN1_ALDEIA",
+            "message": "Aldeia",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN1_COUNTRY",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN1_DISTRITO",
+            "message": "Distrito",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN1_LOCALIDADE",
+            "message": "Localidade",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN1_POSTO ADMINISTRATIVO",
+            "message": "Posto Administrativo",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN1_PROVINCIA",
+            "message": "Provincia",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN2_ALDEIA",
+            "message": "Aldeia",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN2_COUNTRY",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN2_DISTRITO",
+            "message": "Distrito",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN2_LOCALIDADE",
+            "message": "Localidade",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN2_POSTO ADMINISTRATIVO",
+            "message": "Posto Administrativo",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN2_PROVINCIA",
+            "message": "Provincia",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN3_ALDEIA",
+            "message": "Aldeia",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN3_COUNTRY",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN3_DISTRITO",
+            "message": "District",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN3_LOCALIDADE",
+            "message": "Localidade",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN3_POST ADMINISTRATIVO",
+            "message": "Posto Administrativo",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN3_POSTO ADMINISTRATIVO",
+            "message": "Posto Administrativo",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADMIN3_PROVINCIA",
+            "message": "Provincia",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
         {
             "code": "ADMIN_ALDEIA",
             "message": "Village",
@@ -8,7 +182,7 @@
         },
         {
             "code": "ADMIN_CONSOLE_TARGET",
-            "message": "Target at the Selected Boundary level",
+            "message": "Household Target at village level (Mandatory and to be entered by the user)",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "en_IN"
         },
@@ -20,7 +194,7 @@
         },
         {
             "code": "ADMIN_DISTRITO",
-            "message": "Distrito",
+            "message": "District",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "en_IN"
         },
@@ -32,13 +206,13 @@
         },
         {
             "code": "ADMIN_POST ADMINISTRATIVO",
-            "message": "Post Administrative",
+            "message": "Administrative Post",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "en_IN"
         },
         {
             "code": "ADMIN_POSTO ADMINISTRATIVO",
-            "message": "Post Administrative",
+            "message": "Post administrative",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "en_IN"
         },
@@ -54,7 +228,48 @@
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "en_IN"
         },
-       
+        {
+            "code": "AU_COUNTRY",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "AU_DISTRICT",
+            "message": "Distrito",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "AU_LOCALITY",
+            "message": "Locality",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "AU_POST ADMINISTRATIVE",
+            "message": "Post administrative",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "AU_PROVINCE",
+            "message": "Province",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "AU_VILLAGE",
+            "message": "Village",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "Admin9.Country",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
         {
             "code": "Admin9.Distrito",
             "message": "Distrito",
@@ -362,6 +577,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "HCM_ADMIN_CONSOLE_FACILITY_CAPACITY_ERROR",
+            "message": "should not be empty and should be number from 1 to 10 million",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
             "code": "HCM_ADMIN_CONSOLE_FACILITY_CODE",
             "message": "Facility Code",
             "module": "rainmaker-hcm-admin-schemas",
@@ -393,7 +614,25 @@
         },
         {
             "code": "HCM_ADMIN_CONSOLE_TARGET",
-            "message": "Target at the Selected Boundary level",
+            "message": "Household Target at village level (Mandatory and to be entered by the user)",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL",
+            "message": "Household Target at village level (Mandatory and to be entered by the user)",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_12_TO_59",
+            "message": "Target at village level - Age 12 to 59 Months (Mandatory and to be entered by the user)",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_3_TO_11",
+            "message": "Target at village level - Age 3 to 11 Months (Mandatory and to be entered by the user)",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "en_IN"
         },
@@ -607,7 +846,54 @@
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "en_IN"
         },
-      
+        {
+            "code": "mobile_COUNTRY",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "mobile_Country",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "mobile_District",
+            "message": "Distrito",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "mobile_Locality",
+            "message": "Locality",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "mobile_Post administrative",
+            "message": "Post administrative",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "mobile_Province",
+            "message": "Province",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "mobile_Village",
+            "message": "Village",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
+        {
+            "code": "mobile_country",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
+        },
         {
             "code": "mz",
             "message": "Mocambique",
@@ -619,6 +905,12 @@
             "message": "Nihessiue",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "en_IN"
+        },
+        {
+            "code": "{{hierarchytype}}_COUNTRY",
+            "message": "Country",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "en_IN"
         }
     ]
-
+}
