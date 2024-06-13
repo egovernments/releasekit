@@ -1798,5 +1798,17 @@
             "message": "Upload user data",
             "module": "rainmaker-campaignmanager",
             "locale": "en_MZ"
+        },
+         {
+             "code": "ES_CAMPAIGN_UPDATE_TYPE_MODAL_HEADER",
+             "message": "Are you sure you want to update the campaign type?",
+             "locale": "en_MZ",
+             "module": "rainmaker-campaignmanager"
+           },
+           {
+             "code": "ES_CAMPAIGN_UPDATE_TYPE_MODAL_TEXT",
+             "message": "If you change the campaign type in this step, all the data will be deleted.",
+             "locale": "en_MZ",
+           "module": "rainmaker-campaignmanager"
         }
     ]
