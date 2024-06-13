@@ -5773,7 +5773,7 @@
         },
         {
             "code": "BOUNDARY_README_HEADER_2_DESC_1",
-            "message": "Vá para a ficha do distrito para o qual deseja definir metas e adicione números na coluna “Metas” para cada Aldeia.",
+            "message": "Vá para a ficha do distrito para o qual deseja definir metas e adicione números na coluna “Metas” para cada Aldeia. ",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
@@ -5797,13 +5797,13 @@
         },
         {
             "code": "BOUNDARY_README_HEADER_3",
-            "message": "Pressione o botão “Browse In My Files” na tela “Upload Target” e selecione o arquivo salvo com todos os alvos do sistema.",
+            "message": "Cses para erros comuns.",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
         {
             "code": "BOUNDARY_README_HEADER_3_DESC_1",
-            "message": "Casos de erros comuns:",
+            "message": "Pressione o botão “Browse In My Files” na tela “Upload Target” e selecione o arquivo salvo com todos os alvos do sistema.",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
@@ -5827,7 +5827,7 @@
         },
         {
             "code": "FACILITYWITHBOUNDARY_README_HEADER_1",
-            "message": "Leia-me as instruções para upload de destino",
+            "message": "Leia-me instruções para upload de destino",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
@@ -5851,7 +5851,7 @@
         },
         {
             "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_1",
-            "message": " esta folha estará vazia. A terceira folha será denominada “Lista de Limites de Campanha“ que conterá todos os limites com seus respectivos Códigos de Limites.",
+            "message": " esta folha estará vazia. A terceira folha será denominada “Lista de Limites de Campanha” que conterá todos os limites com seus respectivos Códigos de Limites.",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
@@ -5995,7 +5995,7 @@
         },
         {
             "code": "HCM_ADMIN_CONSOLE_FACILITY_CAPACITY",
-            "message": "Capacidade",
+            "message": "Capacidade (Unidades: Fardos para redes mosquiteiras/ Blister SPAQ para SMC)",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
@@ -6020,6 +6020,12 @@
         {
             "code": "HCM_ADMIN_CONSOLE_FACILITY_TYPE",
             "message": "Tipo de instalação",
+            "module": "rainmaker-hcm-admin-schemas",
+            "locale": "pt_IN"
+        },
+        {
+            "code": "HCM_ADMIN_CONSOLE_FACILITY_USAGE",
+            "message": "Uso das instalações",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
@@ -6163,43 +6169,43 @@
         },
         {
             "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_2",
-            "message": " Número de telefone (obrigatório)",
+            "message": "Cada usuário criado precisa ser atribuído a um limite usando o Código de Limite do limite necessário, que pode ser encontrado na “Lista de Limites de Campanha“. Se houver um usuário mapeado para vários limites, o administrador do sistema terá que adicionar os códigos de limite de todos os limites para os quais o usuário está mapeado, separando-os por vírgulas na célula para adicionar códigos de limite para esse usuário.",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
         {
             "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_3",
-            "message": "Função (obrigatório) Tipo de emprego (obrigatório)",
+            "message": "Salve a planilha com as metas atualizadas para cada aldeia no modelo Excel.",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
         {
             "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_4",
-            "message": " Código de limite (obrigatório). Se houver um usuário mapeado para várias funções",
+            "message": "Pressione o botão “Browse In My Files” na tela “Upload Target” e selecione o arquivo salvo com todos os alvos do sistema.",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
         {
             "code": "USERWITHBOUNDARY_README_HEADER_3",
-            "message": " o administrador do sistema terá que adicionar todas as funções para as quais o usuário está mapeado, separando-as por vírgulas na célula para adicionar funções para esse usuário.",
+            "message": "Casos de erros comuns:",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
         {
             "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_1",
-            "message": "Cada usuário criado precisa ser atribuído a um limite usando o Código de Limite do limite necessário, que pode ser encontrado na “Lista de Limites de Campanha“. Se houver um usuário mapeado para vários limites",
+            "message": "Se o usuário não tiver adicionado códigos de limite para todas as entradas do usuário, o sistema gerará um erro com o número da linha onde o código de limite está faltando",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
         {
             "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_2",
-            "message": " o administrador do sistema terá que adicionar os códigos de limite de todos os limites para os quais o usuário está mapeado, separando-os por vírgulas na célula para adicionar códigos de limite para esse usuário.",
+            "message": "Se o usuário excluir algum dos cabeçalhos da planilha e carregá-la, o sistema gerará um erro e o usuário terá que baixar o modelo novamente e recarregar a planilha correta com os dados corretos.",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
         {
             "code": "USERWITHBOUNDARY_README_MAINHEADER",
-            "message": "Salve a planilha com as metas atualizadas para cada aldeia no modelo Excel.",
+            "message": "Leia-me instruções para upload do usuário",
             "module": "rainmaker-hcm-admin-schemas",
             "locale": "pt_IN"
         },
