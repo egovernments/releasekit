@@ -1733,6 +1733,18 @@
             "message": "Carregar dados do usuário",
             "module": "rainmaker-campaignmanager",
             "locale": "pt_MZ"
+        },
+         {
+            "code": "ES_CAMPAIGN_UPDATE_TYPE_MODAL_HEADER",
+            "message": "Tem certeza de que deseja atualizar o tipo de campanha?",
+            "module": "rainmaker-campaignmanager",
+            "locale": "pt_IN"
+        },
+        {
+            "code": "ES_CAMPAIGN_UPDATE_TYPE_MODAL_TEXT",
+            "message": "Se você alterar o tipo de campanha nesta etapa, todos os dados serão excluídos.",
+            "module": "rainmaker-campaignmanager",
+            "locale": "pt_IN"
         }
     ]
 }
