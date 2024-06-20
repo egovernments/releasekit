@@ -12,50 +12,44 @@
         "locale": "pt_MZ"
     },
     {
-        "code": "BENEFICIARY_REFERRED",
-        "message": "Beneficiário referenciado",
-        "module": "hcm-common",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "BENEFICIARY_REFUSED",
-        "message": "Beneficiário recusado",
+        "code": "Aldeia",
+        "message": "Vila",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CHECKLIST_REASON_REQUIRED_ERROR",
-        "message": "Motivo não pode estar vazio",
+        "message": "A razão não pode estar vazia",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CHW",
-        "message": "Agente comunitário de saúde",
+        "message": "Agente Comunitário de Saúde",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_ACKNOWLEDGEMENT_ACTION",
-        "message": "Voltar a Reclamações",
+        "message": "Voltar para Reclamações",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_ACKNOWLEDGEMENT_DESCRIPTION",
-        "message": "A queixa foi registada com êxito e enviada à pessoa em causa.",
+        "message": "A reclamação foi registada com sucesso e enviada ao interessado.",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_ACKNOWLEDGEMENT_LABEL",
-        "message": "Queixa apresentada",
+        "message": "Reclamação enviada",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_ACKNOWLEDGEMENT_SUB_LABEL_MAIN",
-        "message": "Nº da queixa",
+        "message": "Reclamação nº.",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -73,43 +67,43 @@
     },
     {
         "code": "COMPLAINTS_ASSIGNED_TO_SELF",
-        "message": "Atribuída a mim",
+        "message": "Atribuído a mim",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_BACK_TO_INBOX",
-        "message": "Voltar à caixa de entrada",
+        "message": "De volta à caixa de entrada",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_COMPLAINANT_CONTACT_NUMBER",
-        "message": "Número de contacto do queixoso",
+        "message": "Número de contato do reclamante",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_COMPLAINANT_NAME",
-        "message": "Nome do queixoso",
+        "message": "Nome do reclamante",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_COMPLAINANT_TYPE_QUESTION",
-        "message": "Está a apresentar uma queixa para si ou para outro utilizador?",
+        "message": "Você está fazendo uma reclamação para você ou para outro usuário?",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_DATE",
-        "message": "Data da queixa",
+        "message": "Data da reclamação",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_DESCRIPTION",
-        "message": "Descrição da queixa",
+        "message": "Descrição da reclamação",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -121,7 +115,7 @@
     },
     {
         "code": "COMPLAINTS_DIALOG_MESSAGE",
-        "message": "Certifique-se de que revê todos os detalhes antes de clicar no botão Submeter. Clique no botão Cancelar para voltar à página anterior",
+        "message": "Certifique-se de revisar todos os detalhes antes de clicar no botão Enviar. Clique no botão Cancelar para voltar à página anterior",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -133,7 +127,7 @@
     },
     {
         "code": "COMPLAINTS_FILE_COMPLAINT_ACTION",
-        "message": "Apresentar Reclamação",
+        "message": "Reclamação de arquivo",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -157,7 +151,7 @@
     },
     {
         "code": "COMPLAINTS_INBOX_FILTER_CTA",
-        "message": "Filtrar",
+        "message": "Filtro",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -175,7 +169,7 @@
     },
     {
         "code": "COMPLAINTS_INBOX_NOT_GENERATED_LABEL",
-        "message": "Não geradas",
+        "message": "Não gerado",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -187,19 +181,19 @@
     },
     {
         "code": "COMPLAINTS_INBOX_SEARCH_CTA",
-        "message": "Pesquisar",
+        "message": "Procurar",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_INBOX_SEARCH_HEADING",
-        "message": "Pesquisar por:",
+        "message": "Procurar por:",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_INBOX_SORT_CTA",
-        "message": "Ordenar",
+        "message": "Organizar",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -211,7 +205,7 @@
     },
     {
         "code": "COMPLAINTS_INBOX_STATUS_LABEL",
-        "message": "Estado",
+        "message": "Status",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -223,7 +217,7 @@
     },
     {
         "code": "COMPLAINTS_INBOX_TYPE_LABEL",
-        "message": "Tipo de reclamação",
+        "message": "Tipo de queixa",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -235,25 +229,25 @@
     },
     {
         "code": "COMPLAINTS_LOCATION_LABEL",
-        "message": "Detalhes da localidade",
+        "message": "Detalhes do local",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_NO_COMPLAINTS_EXIST",
-        "message": "Não existem queixas",
+        "message": "Não existem reclamações",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_RAISED_FOR_ANOTHER_USER",
-        "message": "Outro utilizador",
+        "message": "Outro usuário",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_RAISED_FOR_MYSELF",
-        "message": "Eu próprio",
+        "message": "Eu mesmo",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -265,13 +259,13 @@
     },
     {
         "code": "COMPLAINTS_STATUS_CREATED",
-        "message": "Criado",
+        "message": "Criada",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_STATUS_PENDING_ASSIGNMENT",
-        "message": "Atribuição pendente",
+        "message": "Tarefa pendente",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -289,7 +283,7 @@
     },
     {
         "code": "COMPLAINTS_SUPERVISOR_CONTACT_NUMBER",
-        "message": "Número de contacto do supervisor",
+        "message": "Número de contato do supervisor",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -301,13 +295,13 @@
     },
     {
         "code": "COMPLAINTS_TYPE_HEADING",
-        "message": "Tipo de reclamação",
+        "message": "Tipo de queixa",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_TYPE_LABEL",
-        "message": "Seleccione o seu tipo de reclamação",
+        "message": "Selecione o tipo de reclamação",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -319,25 +313,25 @@
     },
     {
         "code": "COMPLAINTS_VALIDATION_RADIO_REQUIRED_ERROR",
-        "message": "Por favor, seleccione uma opção",
+        "message": "Por favor selecione uma opção",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINTS_VALIDATION_REQUIRED_ERROR",
-        "message": "O campo não pode estar vazio",
+        "message": "O campo não pode ficar vazio",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINT_SORT_DATE_ASC",
-        "message": "Data da Reclamação (Último Último)",
+        "message": "Data da reclamação (última última)",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "COMPLAINT_SORT_DATE_DESC",
-        "message": "Data da reclamação (último primeiro)",
+        "message": "Data da reclamação (mais recente primeiro)",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -349,7 +343,7 @@
     },
     {
         "code": "CONTACT_SYS_ADMIN",
-        "message": "Contactar o administrador do sistema",
+        "message": "Por favor contacte o administrador do sistema",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -379,13 +373,13 @@
     },
     {
         "code": "CORE_COMMON_CONNECTION_CONTENT",
-        "message": "Sem Internet. Por favor, ligue-se à Internet.",
+        "message": "Sem internet. Conecte-se à Internet.",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_CONNECTION_LABEL",
-        "message": "Alerta de ligação",
+        "message": "Alerta de conexão",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -403,7 +397,7 @@
     },
     {
         "code": "CORE_COMMON_DATA_SYNC_FAILED",
-        "message": "A sincronização falhou!",
+        "message": "Falha na sincronização!",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -414,56 +408,68 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "CORE_COMMON_DOWNLOAD",
+        "message": "Download",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_DOWNLOAD_FAILED",
+        "message": "Download falhou !",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "CORE_COMMON_EMAIL_ID",
-        "message": "ID de correio eletrónico",
+        "message": "Identificação do email",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_FEMALE",
-        "message": "Mulher",
+        "message": "Fêmea",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_GENDER",
-        "message": "Género",
+        "message": "Gênero",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_GO_BACK",
-        "message": "Voltar atrás",
+        "message": "Volte",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_HELP",
-        "message": "Ajudar",
+        "message": "Ajuda",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_HOME",
-        "message": "Início",
+        "message": "Lar",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_LANGUAGE",
-        "message": "Idioma",
+        "message": "Linguagem",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_LOGOUT",
-        "message": "Terminar sessão",
+        "message": "Sair",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_MALE",
-        "message": "Homem",
+        "message": "Macho",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -475,13 +481,13 @@
     },
     {
         "code": "CORE_COMMON_NA",
-        "message": "NA",
+        "message": "N / D",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_NAME",
-        "message": "Nome do utilizador",
+        "message": "Nome",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -504,8 +510,8 @@
         "locale": "pt_MZ"
     },
     {
-        "code": "CORE_COMMON_NO_MATCH_FOUN",
-        "message": "Nenhuma correspondência encontrada",
+        "code": "CORE_COMMON_NO_MATCH_FOUND",
+        "message": "Nenhuma equivalência encontrada",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -517,7 +523,7 @@
     },
     {
         "code": "CORE_COMMON_OK",
-        "message": "Ok",
+        "message": "OK",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -535,37 +541,43 @@
     },
     {
         "code": "CORE_COMMON_PROFILE",
-        "message": "Editar perfil",
+        "message": "Editar Perfil",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_REQUIRED",
-        "message": "O campo obrigatório não pode estar vazio",
+        "message": "O campo obrigatório não pode ficar vazio",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_REQUIRED_ITEMS",
-        "message": "Pelo menos um item tem de ser selecionado",
+        "message": "Pelo menos um item precisa ser selecionado",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_SAVE",
-        "message": "Guardar",
+        "message": "Salvar",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_SEARCH_BY_NAME",
-        "message": "Procurar por nome",
+        "message": "Procura por nome",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SEARCH_COMPLAINT",
+        "message": "Reclamação de pesquisa",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_SKIP",
-        "message": "Saltar",
+        "message": "Pular",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -577,25 +589,55 @@
     },
     {
         "code": "CORE_COMMON_SYNC_IN_PROGRESS",
-        "message": "Sincronização em curso",
+        "message": "Sincronização em andamento",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_SYNC_PROGRESS",
-        "message": "Sincronização em curso",
+        "message": "Sincronização em andamento",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_VIEW_DOWNLOADED_DATA",
-        "message": "Ver dados descarregados",
+        "message": "Ver dados baixados",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "CORE_COMMON_YES",
         "message": "Sim",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE",
+        "message": "Ciclo",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Country",
+        "message": "País",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DAMAGED_IN_STORAGE",
+        "message": "Danificado no armazenamento",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DAMAGED_IN_TRANSIT",
+        "message": "Danificado em trânsito",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DATA_ISSUES",
+        "message": "Problema de dados",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -607,7 +649,13 @@
     },
     {
         "code": "DIARRHOEA",
-        "message": "Diarreia",
+        "message": "Diarréia",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Distrito",
+        "message": "Distrito",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -625,31 +673,19 @@
     },
     {
         "code": "GENDER_LABEL_TEXT",
-        "message": "Género",
+        "message": "Gênero",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "GO_TO_HOME_SCREEN",
-        "message": "Ir para o ecrã inicial",
-        "module": "hcm-common",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "HOME_DB_LABEL",
-        "message": "BD",
+        "message": "Vá para a tela inicial",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "HOUSEHOLD_OVER_VIEW_DELIVERED_ICON_LABEL",
-        "message": "Visitado",
-        "module": "hcm-common",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "INDIVIDUAL_DETAILS_INVALID_MOBILE_NUMBER",
-        "message": "O número de telemóvel deve ter um máximo de 10 dígitos",
+        "message": "visitado    ",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -660,38 +696,44 @@
         "locale": "pt_MZ"
     },
     {
-        "code": "LOGIN_ACTION_LABEL",
-        "message": "Iniciar sessão",
-        "module": "hcm-common",
-        "locale": "pt_MZ"
-    },
-    {
         "code": "LOGIN_LABEL_TEXT",
-        "message": "Iniciar sessão",
+        "message": "Conecte-se",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
-        "code": "MANAGE_STOCK_RECORDSTOCK_RECEIPT_LABEL",
-        "message": "Registro de recebimento de estoque",
+        "code": "LOST_IN_STORAGE",
+        "message": "Perdido no armazenamento",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOST_IN_TRANSIT",
+        "message": "Perdido em trânsito",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Localidade",
+        "message": "Localidade",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "MAX_CHARS_ALLOWED",
-        "message": "São permitidos no máximo {} caracteres",
+        "message": "Máximo de {} caracteres são permitidos",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "MAX_VALUE_ALLOWED",
-        "message": "A idade máxima pode ser {}",
+        "message": "A idade máxima pode ser de {} meses",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
-        "code": "MIN_2_CHARS_REQUIRED",
-        "message": "É necessário um mínimo de 2 caracteres",
+        "code": "MIN_VALUE_ALLOWED",
+        "message": "A idade mínima pode ser de {} meses",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -703,13 +745,13 @@
     },
     {
         "code": "MONTHS_HINT_TEXT",
-        "message": "Mês(es)",
+        "message": "Meses)",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "NOT_ENOUGH_STOCK",
-        "message": "Stock insuficiente",
+        "message": "Estoque insuficiente",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -720,20 +762,8 @@
         "locale": "pt_MZ"
     },
     {
-        "code": "NO_PROJECTS_ASSIGNED_CONTACT_SYS_ADMIN",
-        "message": "Não há projectos atribuídos. Por favor contacte o administrador do sistema",
-        "module": "hcm-common",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "NO_PROJECT_SELECTED",
-        "message": "Nenhum projecto seleccionado",
-        "module": "hcm-common",
-        "locale": "pt_MZ"
-    },
-    {
         "code": "NO_RESULTS_FOUND",
-        "message": "Não foram encontrados resultados",
+        "message": "Nenhum resultado encontrado",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -745,49 +775,127 @@
     },
     {
         "code": "OTHER",
-        "message": "Outros",
+        "message": "Outro",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
-        "code": "PENDING_SYNC_CONTENT",
-        "message": "Existem registos pendentes para sincronização no seu dispositivo. Por favor, sincronize o seu dispositivo e depois prossiga com o descarregamento de dados.",
-        "module": "hcm-common",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "PENDING_SYNC_LABEL",
-        "message": "Registos pendentes",
+        "code": "PERFORMANCE_ISSUE",
+        "message": "Problema de desempenho",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "PERSON_UNKNOWN_TO_THE_HOUSEHOLD",
-        "message": "Pessoa desconhecida do agregado familiar",
+        "message": "Pessoa desconhecida da família",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-05-30-000957",
+        "message": "Mecanismo de Projeto 57",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-05-30-000958",
+        "message": "Mecanismo de Projeto 58",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-05-30-000959",
+        "message": "Mecanismo de Projeto 59",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-05-30-000960",
+        "message": "Mecanismo de Projeto 60",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-05-30-000961",
+        "message": "Mecanismo de Projeto 61",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-05-30-000962",
+        "message": "Mecanismo de Projeto 62",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-04-19-000100",
+        "message": "Instalação do Projeto 100",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-04-19-000102",
+        "message": "Mecanismo de Projeto 102",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "PLEASE_ENTER_VALID_FACILITY",
-        "message": "Por favor, introduza um ID válido",
+        "message": "Por favor insira um ID válido",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "PROJECT_DETAILS_LABEL",
-        "message": "Projectos",
+        "message": "Projetos",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "PROJECT_FACILITY_SEARCH_HEADER_LABEL",
-        "message": "Pesquisa de estabelecimentos de saúde",
+        "message": "Pesquisa de instalações de saúde",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Posto Administrativo",
+        "message": "Posto administrativo",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Provincia",
+        "message": "Província",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SECURITY_ISSUES",
+        "message": "Problema de segurança",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SECURITY_ISSUEs",
+        "message": "Problema de segurança",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "SEPARATOR_LABEL_TEXT",
         "message": "(ou)",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF...",
+        "message": "Quaisquer sintomas adicionais",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "STOCK_DETAILS_NO_PRODUCTS_FOUND",
+        "message": "Nenhum produto encontrado para este estoque.",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -799,7 +907,7 @@
     },
     {
         "code": "STOCK_RECONCILIATION_COUNT_BELOW_MIN",
-        "message": "A contagem é inferior ao mínimo",
+        "message": "A contagem está abaixo do mínimo",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -847,7 +955,7 @@
     },
     {
         "code": "SYNC_DIALOG_DOWN_SYNC_FAILED_TITLE",
-        "message": "Sincronização falhou",
+        "message": "Falha na sincronização",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -859,79 +967,79 @@
     },
     {
         "code": "SYNC_DIALOG_SYNC_FAILED_TITLE",
-        "message": "A sincronização falhou",
+        "message": "Falha na sincronização",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "SYNC_DIALOG_SYNC_IN_PROGRESS_TITLE",
-        "message": "Sincronização em curso",
+        "message": "Sincronização em andamento",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "SYNC_DIALOG_UP_SYNC_FAILED_TITLE",
-        "message": "Sincronização falhada",
+        "message": "Falha na sincronização",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "SYNC_FAILED",
-        "message": "Sincronização falhada",
+        "message": "Falha na sincronização",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "SYNC_IN_PROGRESS",
-        "message": "Sincronização em curso",
+        "message": "Sincronização em andamento",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "SYNC_NOT_WORKING",
-        "message": "A sincronização não está a funcionar",
+        "message": "A sincronização não funciona",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
-        "code": "VIEW_ATTENDANCE",
-        "message": "Ver assiduidade",
+        "code": "TECHNICAL_ISSUES",
+        "message": "Problema técnico",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
-        "code": "VISITED",
-        "message": "Visitado",
+        "code": "TRANSACTION_DETAILS_LABEL",
+        "message": "Detalhes da transação",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USER_ACCOUNT_ISSUES",
+        "message": "Problema na conta do usuário",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "VOMITTING",
-        "message": "Vómitos",
+        "message": "Vomitando",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "YEARS_HINT_TEXT",
-        "message": "Ano(s)",
+        "message": "Anos)",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "coreCommonOk",
-        "message": "Ok",
+        "message": "OK",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
     {
         "code": "delivered",
         "message": "Visitado",
-        "module": "hcm-common",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "gender",
-        "message": "Género",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -944,6 +1052,18 @@
     {
         "code": "householdOverViewNotDeliveredIconLabel",
         "message": "Não visitado",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_REASON_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "INDIVIDUAL_DETAILS_MOBILE_NUMBER_LENGTH",
+        "message": "O número do celular deve ter 10 dígitos",
         "module": "hcm-common",
         "locale": "pt_MZ"
     }

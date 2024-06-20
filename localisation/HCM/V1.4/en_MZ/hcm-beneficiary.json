@@ -1,5 +1,11 @@
 [
     {
+        "code": "12<=ageandage<=59",
+        "message": "12 - 59 months",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
         "code": "12<=ageandage<=64",
         "message": "12 - 64 months",
         "module": "hcm-beneficiary",
@@ -25,7 +31,7 @@
     },
     {
         "code": "ADMINISTRATION_UNIT_FORM_LABEL",
-        "message": "Administrative Unit",
+        "message": "Administrative unit",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -49,7 +55,7 @@
     },
     {
         "code": "BENEFICIARY_DETAILS_COMPLETED_ON",
-        "message": "Completed On",
+        "message": "Completed on",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -79,7 +85,7 @@
     },
     {
         "code": "BENEFICIARY_DETAILS_DOSE_COMPLETED_ON",
-        "message": "Completed On",
+        "message": "Completed on",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -181,7 +187,7 @@
     },
     {
         "code": "BENEFICIARY_SEARCH_HINT_TEXT",
-        "message": "Enter the name of referral",
+        "message": "Enter the name of the beneficiary",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -211,7 +217,7 @@
     },
     {
         "code": "CORE_COMMON_DOWNLOAD_FAILED",
-        "message": "Download failed !",
+        "message": "Download failed!",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -223,7 +229,7 @@
     },
     {
         "code": "DATA_DOWNLOADED_SUCCESS_LABEL",
-        "message": "Data Downloaded Successfully",
+        "message": "Data downloaded successfully",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -481,7 +487,7 @@
     },
     {
         "code": "HOUSEHOLD_OVER_VIEW_BENEFICIARY_REFERRED_LABEL",
-        "message": "Beneficiary Referred",
+        "message": "Beneficiary referred",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -499,13 +505,13 @@
     },
     {
         "code": "ID_NUMBER_LABEL_TEXT",
-        "message": "ID Number",
+        "message": "ID number",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "ID_NUMBER_LABEL_TEXT_IS_REQUIRED",
-        "message": "ID Number is required",
+        "message": "ID number is required",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -517,13 +523,13 @@
     },
     {
         "code": "ID_TYPE_LABEL_TEXT",
-        "message": "ID Type",
+        "message": "ID type",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "ID_TYPE_LABEL_TEXT_IS_REQUIRED",
-        "message": "ID Type is required",
+        "message": "ID type is required",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -541,13 +547,13 @@
     },
     {
         "code": "INDIVIDUAL_NAME_LABEL_TEXT",
-        "message": "Name of the Individual",
+        "message": "Name of the individual ",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "INDIVIDUAL_NAME_LABEL_TEXT_IS_REQUIRED",
-        "message": "Name of the Individual is required",
+        "message": "Name of the individual is required",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -619,7 +625,7 @@
     },
     {
         "code": "LLIN Massamba.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -655,7 +661,7 @@
     },
     {
         "code": "LLIN Massamba.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -697,7 +703,7 @@
     },
     {
         "code": "LLIN Massamba.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -709,19 +715,19 @@
     },
     {
         "code": "LLIN Massamba.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
-        "message": "Was the child tested for malaria ? ",
+        "message": "Was the child tested for malaria ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "LLIN Massamba.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
-        "message": "Result of malaria diagnostic test ? ",
+        "message": "Result of malaria diagnostic test ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "LLIN Massamba.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -799,7 +805,7 @@
     },
     {
         "code": "LLIN Massamba.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
-        "message": "Was the child treated ? ",
+        "message": "Was the child treated ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -823,7 +829,7 @@
     },
     {
         "code": "LLIN Massamba.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -871,7 +877,7 @@
     },
     {
         "code": "LLIN-Massamba.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -883,19 +889,19 @@
     },
     {
         "code": "LLIN-Massamba.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
-        "message": "Was the child tested for malaria ? ",
+        "message": "Was the child tested for malaria ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "LLIN-Massamba.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
-        "message": "Result of malaria diagnostic test ? ",
+        "message": "Result of malaria diagnostic test ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "LLIN-Massamba.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -973,7 +979,7 @@
     },
     {
         "code": "LLIN-Massamba.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
-        "message": "Was the child treated ? ",
+        "message": "Was the child treated ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1069,7 +1075,7 @@
     },
     {
         "code": "NO_DATA_FOUND",
-        "message": "No data found !",
+        "message": "No data found!",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1147,7 +1153,7 @@
     },
     {
         "code": "PLEASE_ENTER_VALID_FACILITY",
-        "message": "PLEASE_ENTER_VALID_FACILITY",
+        "message": "Please enter a valid ID",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1177,7 +1183,7 @@
     },
     {
         "code": "REASON_FOR_REFERRAL",
-        "message": "Reason for Referral",
+        "message": "Reason For Referral",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1369,7 +1375,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.DISTRIBUTOR.HF_REASON_DRUG_SE_CC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1405,7 +1411,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1441,7 +1447,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_CC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1477,7 +1483,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_PC.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1507,7 +1513,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_FRM_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1531,7 +1537,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1567,7 +1573,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_PC.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1609,7 +1615,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1621,19 +1627,19 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1",
-        "message": "Was the child tested for malaria ? ",
+        "message": "Was the child tested for malaria ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1",
-        "message": "Result of malaria diagnostic test ? ",
+        "message": "Result of malaria diagnostic test ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1711,7 +1717,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1723,19 +1729,19 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
-        "message": "Was the child tested for malaria ? ",
+        "message": "Was the child tested for malaria ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
-        "message": "Result of malaria diagnostic test ? ",
+        "message": "Result of malaria diagnostic test ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1813,7 +1819,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1825,19 +1831,19 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1",
-        "message": "Was the child tested for malaria ? ",
+        "message": "Was the child tested for malaria ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1",
-        "message": "Result of malaria diagnostic test ? ",
+        "message": "Result of malaria diagnostic test ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1915,7 +1921,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q2",
-        "message": "Was the child treated ? ",
+        "message": "Was the child treated ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1939,7 +1945,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR.HF_REASON_SICK_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1981,7 +1987,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
-        "message": "Was the child treated ? ",
+        "message": "Was the child treated ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -2005,7 +2011,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -2047,7 +2053,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q2",
-        "message": "Was the child treated ? ",
+        "message": "Was the child treated ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -2071,7 +2077,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER.HF_REASON_SICK_Q3",
-        "message": "Was the child admitted / transferred to the hospital due to serious illness ? ",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -2138,6 +2144,30 @@
     {
         "code": "visited",
         "message": "Visited",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REFERRAL_SEARCH_HINT_TEXT",
+        "message": "Enter the name of the referral",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "REFERRAL_INFO_DESCRIPTION",
+        "message": "Click on create new referral button to create a referral",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "BENEFICIARY_HOUSEHOLD_MEMBER",
+        "message": "Household member",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "BENEFICIARY_HOUSEHOLD_MEMBERS",
+        "message": "Household members",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     }
