@@ -1,140 +1,14 @@
 {
 	"info": {
-		"_postman_id": "916b225c-22a0-4cfd-b02a-6a684a163edb",
-		"name": "MDMS_V2",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_postman_id": "8c051c76-4729-4ab5-a877-0f53a047b9ec",
+		"name": "MDMS_V2 curls",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
 		"_exporter_id": "29681440"
 	},
 	"item": [
 		{
-			"name": "HCM Admin console",
+			"name": "HCM Admin console Copy 2",
 			"item": [
-				{
-					"name": "access",
-					"item": [
-						{
-							"name": "get_access_token",
-							"event": [
-								{
-									"listen": "test",
-									"script": {
-										"exec": [
-											"var jsonData = JSON.parse(responseBody);",
-											"postman.setEnvironmentVariable(\"access_token\", jsonData.access_token);",
-											"postman.setEnvironmentVariable(\"auth\", jsonData.refresh_token);"
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								}
-							],
-							"request": {
-								"method": "POST",
-								"header": [
-									{
-										"key": "authority",
-										"value": "qa.digit.org"
-									},
-									{
-										"key": "sec-ch-ua",
-										"value": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\", \"Google Chrome\";v=\"90\""
-									},
-									{
-										"key": "accept",
-										"value": "application/json, text/plain, */*"
-									},
-									{
-										"key": "authorization",
-										"value": "Basic ZWdvdi11c2VyLWNsaWVudDo="
-									},
-									{
-										"key": "sec-ch-ua-mobile",
-										"value": "?0"
-									},
-									{
-										"key": "user-agent",
-										"value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
-									},
-									{
-										"key": "content-type",
-										"value": "application/x-www-form-urlencoded"
-									},
-									{
-										"key": "origin",
-										"value": "https://qa.digit.org"
-									},
-									{
-										"key": "sec-fetch-site",
-										"value": "same-origin"
-									},
-									{
-										"key": "sec-fetch-mode",
-										"value": "cors"
-									},
-									{
-										"key": "sec-fetch-dest",
-										"value": "empty"
-									},
-									{
-										"key": "referer",
-										"value": "https://qa.digit.org/employee/user/login"
-									},
-									{
-										"key": "accept-language",
-										"value": "en-GB,en;q=0.9"
-									}
-								],
-								"body": {
-									"mode": "urlencoded",
-									"urlencoded": [
-										{
-											"key": "username",
-											"value": "UATMZ",
-											"type": "text"
-										},
-										{
-											"key": "password",
-											"value": "eGov@123",
-											"type": "text"
-										},
-										{
-											"key": "grant_type",
-											"value": "password",
-											"type": "text"
-										},
-										{
-											"key": "scope",
-											"value": "read",
-											"type": "text"
-										},
-										{
-											"key": "tenantId",
-											"value": "mz",
-											"type": "text"
-										},
-										{
-											"key": "userType",
-											"value": "EMPLOYEE",
-											"type": "text"
-										}
-									]
-								},
-								"url": {
-									"raw": "{{url}}/user/oauth/token",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"user",
-										"oauth",
-										"token"
-									]
-								}
-							},
-							"response": []
-						}
-					]
-				},
 				{
 					"name": "Schema",
 					"item": [
@@ -166,61 +40,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
-							},
-							"response": []
-						},
-						{
-							"name": "boundaryschema",
-							"event": [
-								{
-									"listen": "test",
-									"script": {
-										"exec": [
-											"pm.test(\"Status code is 202\", function () {",
-											"pm.response.to.have.status(202);",
-											"});"
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								}
-							],
-							"request": {
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\":\n        {\n            // \"id\": \"57e28d5c-2a96-4e56-bf76-91296af0e771\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.Boundary\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"type\",\n                    \"properties\",\n                    \"required\"\n                ],\n                \"x-unique\": [\n                    \"title\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"$schema\": {\n                        \"type\": \"string\"\n                    },\n                    \"required\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\",\n                            \"HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL\"\n                        ],\n                        \"properties\": {\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"minLength\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"minLength\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"minimum\",\n                                    \"maximum\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maximum\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minimum\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715251870293,\n                \"lastModifiedTime\": 1715251870293\n            }\n        }\n    \n}",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -252,18 +72,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -295,18 +104,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -338,104 +136,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
-							},
-							"response": []
-						},
-						{
-							"name": "facilityschema",
-							"event": [
-								{
-									"listen": "test",
-									"script": {
-										"exec": [
-											"pm.test(\"Status code is 202\", function () {",
-											"pm.response.to.have.status(202);",
-											"});"
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								}
-							],
-							"request": {
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\":\n        {\n            // \"id\": \"4984c2a5-6e04-4fd4-a7dd-e18c2df21134\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.facilitySchema\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"type\",\n                    \"properties\",\n                    \"required\",\n                    \"unique\"\n                ],\n                \"x-unique\": [\n                    \"title\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"unique\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"$schema\": {\n                        \"type\": \"string\"\n                    },\n                    \"required\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"HCM_ADMIN_CONSOLE_FACILITY_NAME\",\n                            \"HCM_ADMIN_CONSOLE_FACILITY_TYPE\",\n                            \"HCM_ADMIN_CONSOLE_FACILITY_STATUS\",\n                            \"HCM_ADMIN_CONSOLE_FACILITY_CAPACITY\",\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\"\n                        ],\n                        \"properties\": {\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_NAME\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"maxLength\",\n                                    \"minLength\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maxLength\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minLength\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_TYPE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_STATUS\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_FACILITY_CAPACITY\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"minimum\",\n                                    \"maximum\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maximum\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minimum\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256082057,\n                \"lastModifiedTime\": 1715256082057\n            }\n        }\n    \n}",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
-							},
-							"response": []
-						},
-						{
-							"name": "genderconfig",
-							"event": [
-								{
-									"listen": "test",
-									"script": {
-										"exec": [
-											"pm.test(\"Status code is 202\", function () {",
-											"pm.response.to.have.status(202);",
-											"});"
-										],
-										"type": "text/javascript",
-										"packages": {}
-									}
-								}
-							],
-							"request": {
-								"method": "POST",
-								"header": [],
-								"body": {
-									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"8d90d0e2-69e6-42a6-932c-3a2194419bd8\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.genderConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256486799,\n                \"lastModifiedTime\": 1715256486799\n            }\n        }\n    \n}",
-									"options": {
-										"raw": {
-											"language": "json"
-										}
-									}
-								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -467,18 +168,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -510,18 +200,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -553,18 +232,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -596,23 +264,12 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
 						{
-							"name": "userschema",
+							"name": "adminschema",
 							"event": [
 								{
 									"listen": "test",
@@ -632,25 +289,46 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            // \"id\": \"42880512-731f-4d45-9569-547f910d2144\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.userSchema\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"type\",\n                    \"properties\",\n                    \"required\",\n                    \"unique\"\n                ],\n                \"x-unique\": [\n                    \"unique\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"unique\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"$schema\": {\n                        \"type\": \"string\"\n                    },\n                    \"required\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"HCM_ADMIN_CONSOLE_USER_NAME\",\n                            \"HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER\",\n                            \"HCM_ADMIN_CONSOLE_USER_ROLE\",\n                            \"HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE\",\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\"\n                        ],\n                        \"properties\": {\n                            \"HCM_ADMIN_CONSOLE_USER_NAME\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"maxLength\",\n                                    \"minLength\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    },\n                                    \"maxLength\": {\n                                        \"type\": \"number\"\n                                    },\n                                    \"minLength\": {\n                                        \"type\": \"number\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_USER_ROLE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\",\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    },\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_BOUNDARY_CODE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"type\"\n                                ],\n                                \"properties\": {\n                                    \"type\": {\n                                        \"type\": \"string\"\n                                    }\n                                }\n                            },\n                            \"HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE\": {\n                                \"type\": \"object\",\n                                \"required\": [\n                                    \"enum\"\n                                ],\n                                \"properties\": {\n                                    \"enum\": {\n                                        \"type\": \"array\",\n                                        \"items\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715257172095,\n                \"lastModifiedTime\": 1715257172095\n            }\n        }\n    \n}",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": \n      [\n        {\n            // \"id\": \"92fb3b53-adfe-44e9-ab27-da3209b5e0f1\",\n            \"tenantId\": \"{{tenantid}}\",\n            \"code\": \"HCM-ADMIN-CONSOLE.adminSchema\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Comprehensive Example Schema\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"$schema\",\n                    \"title\",\n                    \"campaignType\"\n                ],\n                \"x-unique\": [\n                    \"title\",\n                    \"campaignType\"\n                ],\n                \"properties\": {\n                    \"title\": {\n                        \"type\": \"string\"\n                    },\n                    \"$schema\": {\n                        \"enum\": [\n                            \"http://json-schema.org/draft-07/schema#\"\n                        ],\n                        \"type\": \"string\",\n                        \"default\": \"http://json-schema.org/draft-07/schema#\"\n                    },\n                    \"properties\": {\n                        \"type\": \"object\",\n                        \"properties\": {\n                            \"enumProperties\": {\n                                \"type\": \"array\",\n                                \"items\": {\n                                    \"type\": \"object\",\n                                    \"required\": [\n                                        \"name\",\n                                        \"description\"\n                                    ],\n                                    \"properties\": {\n                                        \"enum\": {\n                                            \"type\": \"array\",\n                                            \"items\": {\n                                                \"type\": \"string\"\n                                            }\n                                        },\n                                        \"name\": {\n                                            \"type\": \"string\"\n                                        },\n                                        \"isUnique\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"hideColumn\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"isRequired\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"description\": {\n                                            \"type\": \"string\"\n                                        },\n                                        \"orderNumber\": {\n                                            \"type\": \"integer\",\n                                            \"minimum\": 1\n                                        },\n                                        \"errorMessage\": {\n                                            \"type\": \"string\"\n                                        },\n                                        \"freezeColumn\": {\n                                            \"type\": \"boolean\"\n                                        }\n                                    },\n                                    \"minProperties\": 1\n                                },\n                                \"minItems\": 1\n                            },\n                            \"numberProperties\": {\n                                \"type\": \"array\",\n                                \"items\": {\n                                    \"type\": \"object\",\n                                    \"required\": [\n                                        \"name\",\n                                        \"description\"\n                                    ],\n                                    \"properties\": {\n                                        \"name\": {\n                                            \"type\": \"string\"\n                                        },\n                                        \"type\": {\n                                            \"enum\": [\n                                                \"number\"\n                                            ],\n                                            \"type\": \"string\"\n                                        },\n                                        \"maximum\": {\n                                            \"type\": \"number\"\n                                        },\n                                        \"minimum\": {\n                                            \"type\": \"number\"\n                                        },\n                                        \"isUnique\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"hideColumn\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"isRequired\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"multipleOf\": {\n                                            \"type\": \"number\"\n                                        },\n                                        \"description\": {\n                                            \"type\": \"string\"\n                                        },\n                                        \"orderNumber\": {\n                                            \"type\": \"integer\",\n                                            \"minimum\": 1\n                                        },\n                                        \"errorMessage\": {\n                                            \"type\": \"string\"\n                                        },\n                                        \"freezeColumn\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"exclusiveMaximum\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"exclusiveMinimum\": {\n                                            \"type\": \"boolean\"\n                                        }\n                                    },\n                                    \"minProperties\": 1\n                                },\n                                \"minItems\": 1\n                            },\n                            \"stringProperties\": {\n                                \"type\": \"array\",\n                                \"items\": {\n                                    \"type\": \"object\",\n                                    \"required\": [\n                                        \"name\",\n                                        \"description\"\n                                    ],\n                                    \"properties\": {\n                                        \"name\": {\n                                            \"type\": \"string\"\n                                        },\n                                        \"type\": {\n                                            \"enum\": [\n                                                \"string\"\n                                            ],\n                                            \"type\": \"string\"\n                                        },\n                                        \"pattern\": {\n                                            \"type\": \"string\",\n                                            \"format\": \"regex\"\n                                        },\n                                        \"isUnique\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"maxLength\": {\n                                            \"type\": \"integer\",\n                                            \"minimum\": 0\n                                        },\n                                        \"minLength\": {\n                                            \"type\": \"integer\",\n                                            \"minimum\": 0\n                                        },\n                                        \"hideColumn\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"isRequired\": {\n                                            \"type\": \"boolean\"\n                                        },\n                                        \"description\": {\n                                            \"type\": \"string\"\n                                        },\n                                        \"orderNumber\": {\n                                            \"type\": \"integer\",\n                                            \"minimum\": 1\n                                        },\n                                        \"errorMessage\": {\n                                            \"type\": \"string\"\n                                        },\n                                        \"freezeColumn\": {\n                                            \"type\": \"boolean\"\n                                        }\n                                    },\n                                    \"minProperties\": 1\n                                },\n                                \"minItems\": 1\n                            },\n                            \"additionalProperties\": {\n                                \"type\": \"boolean\"\n                            }\n                        },\n                        \"additionalProperties\": false\n                    },\n                    \"campaignType\": {\n                        \"type\": \"string\"\n                    }\n                },\n                \"description\": \"A simplified JSON Schema example based on data type.\",\n                \"additionalProperties\": false\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"lastModifiedBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"createdTime\": 1718169189364,\n                \"lastModifiedTime\": 1718169189364\n            }\n        }\n    ]\n    \n}",
 									"options": {
 										"raw": {
 											"language": "json"
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
+							},
+							"response": []
+						},
+						{
+							"name": "baseTimeOut",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"exec": [
+											"pm.test(\"Status code is 202\", function () {",
+											"pm.response.to.have.status(202);",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
 								}
+							],
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": \"search with from and to values\",\n        \"authToken\": \"{{access_token}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": 102,\n            \"uuid\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n            \"userName\": \"EMP33\",\n            \"name\": \"Jagan\",\n            \"mobileNumber\": \"6667776662\",\n            \"emailId\": \"xyz@egovernments.org\",\n            \"locale\": \"string\",\n            \"type\": \"EMPLOYEE\",\n            \"roles\": [\n                {\n                    \"name\": \"Localisation admin\",\n                    \"code\": \"LOC_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"System Administrator\",\n                    \"code\": \"SYSTEM_ADMINISTRATOR\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"MDMS ADMIN\",\n                    \"code\": \"MDMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"Super User\",\n                    \"code\": \"SUPERUSER\",\n                    \"tenantId\": \"pg\"\n                },\n                {\n                    \"name\": \"HRMS Admin\",\n                    \"code\": \"HRMS_ADMIN\",\n                    \"tenantId\": \"pg\"\n                }\n            ],\n            \"active\": true,\n            \"tenantId\": \"pg\",\n            \"permanentCity\": \"Amritsar\"\n        }\n    },\n    \"SchemaDefinition\": {\n        // \"id\": \"92fb3b53-adfe-44e9-ab27-da3209b5e0f1\",\n        \"tenantId\": \"{{tenantid}}\",\n        \"code\": \"HCM-ADMIN-CONSOLE.baseTimeout\",\n        \"description\": null,\n        \"definition\": {\n            \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n            \"title\": \"Generated schema for Root\",\n            \"type\": \"object\",\n            \"properties\": {\n                \"baseTimeOut\": {\n                    \"type\": \"number\"\n                },\n                \"maxTime\": {\n                    \"type\": \"number\"\n                }\n            },\n            \"required\": [\n                \"baseTimeOut\",\n                \"maxTime\"\n            ],\n            \"x-unique\": [\n                \"baseTimeOut\"\n            ]\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"lastModifiedBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"createdTime\": 1718169189364,\n                \"lastModifiedTime\": 1718169189364\n            }\n        }\n    }",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						}
@@ -692,18 +370,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -735,18 +402,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -778,18 +434,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -821,18 +466,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -864,18 +498,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -907,18 +530,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -950,18 +562,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -993,18 +594,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1036,18 +626,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						}
@@ -1089,18 +668,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1132,18 +700,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1175,18 +732,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1218,18 +764,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1261,18 +796,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1304,18 +828,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1347,18 +860,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1390,18 +892,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1433,18 +924,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1476,18 +956,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1519,18 +988,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1562,18 +1020,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1605,18 +1052,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1648,18 +1084,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1691,18 +1116,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1734,18 +1148,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1777,18 +1180,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1820,18 +1212,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1863,18 +1244,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1906,18 +1276,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1949,18 +1308,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -1992,18 +1340,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2035,18 +1372,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2078,18 +1404,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2121,18 +1436,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2164,18 +1468,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2207,18 +1500,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2250,18 +1532,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2293,18 +1564,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2336,18 +1596,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2379,18 +1628,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2422,18 +1660,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2465,18 +1692,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2508,18 +1724,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2551,18 +1756,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						}
@@ -2604,18 +1798,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2647,18 +1830,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2690,18 +1862,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2733,18 +1894,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2776,18 +1926,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2819,18 +1958,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2862,18 +1990,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2905,18 +2022,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2948,18 +2054,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -2991,18 +2086,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -3034,18 +2118,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -3077,18 +2150,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						},
@@ -3120,18 +2182,7 @@
 										}
 									}
 								},
-								"url": {
-									"raw": "{{url}}/mdms-v2/schema/v1/_create",
-									"host": [
-										"{{url}}"
-									],
-									"path": [
-										"mdms-v2",
-										"schema",
-										"v1",
-										"_create"
-									]
-								}
+								"url": "{{url}}/mdms-v2/schema/v1/_create"
 							},
 							"response": []
 						}
@@ -3165,7 +2216,7 @@
 	"variable": [
 		{
 			"key": "tenantid",
-			"value": "so"
+			"value": "mz"
 		},
 		{
 			"key": "url",
