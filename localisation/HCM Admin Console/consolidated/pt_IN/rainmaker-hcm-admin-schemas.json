@@ -1,0 +1,1250 @@
+[
+    {
+        "code": "OTHER_TARGETS",
+        "message": "Outros alvos",
+        "module": "rainmaker-campaignmanager",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "MALE",
+        "message": "Macho",
+        "module": "rainmaker-campaignmanager",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FEMALE",
+        "message": "Fêmea",
+        "module": "rainmaker-campaignmanager",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_COUNTRY",
+        "message": "País",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_DISTRITO",
+        "message": "Distrito",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_LOCALIDADE",
+        "message": "Localidade",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_POST ADMINISTRATIVO",
+        "message": "Posto administrativo",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_POSTO ADMINISTRATIVO",
+        "message": "Posto administrativo",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_PROVINCIA",
+        "message": "Província",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_STATE",
+        "message": "Estado",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_1",
+        "message": "Baixando modelos do Excel para definição de metas:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_1_DESC_1",
+        "message": "Baixe o modelo Excel clicando no botão “Baixar modelo”.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_1_DESC_2",
+        "message": "Abra o modelo Excel que foi baixado na etapa anterior e a primeira planilha que você verá é uma planilha “Leia-me”. As restantes folhas serão nomeadas de acordo com o nome dos distritos seleccionados no passo “Selecção de Limites”, tendo cada folha de distrito uma lista de todas as aldeias mapeadas para esse distrito.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2",
+        "message": "Definir metas após o download do modelo:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2_DESC_1",
+        "message": "Vá para a ficha do distrito para o qual deseja definir metas e adicione números na coluna “Metas” para cada Aldeia. ",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2_DESC_2",
+        "message": "Insira as metas para cada aldeia na ficha de cada distrito na coluna “Meta ao nível do limite seleccionado”. Se alguma aldeia não tiver metas definidas",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2_DESC_3",
+        "message": "Salve a planilha com as metas atualizadas para cada aldeia no modelo Excel.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2_DESC_4",
+        "message": "Pressione o botão “Browse In My Files” na tela “Upload Target” e selecione o arquivo salvo com todos os alvos do sistema.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_3",
+        "message": "Casos de erros comuns:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_3_DESC_1",
+        "message": "Se o usuário não tiver definido metas para cada aldeia, o sistema gerará um erro com o número da linha onde as metas estão faltando.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_3_DESC_2",
+        "message": "Se o usuário excluir qualquer aldeia da planilha ou excluir uma planilha distrital completa e carregar a planilha, o sistema gerará um erro e o usuário terá que baixar o modelo novamente e recarregar a planilha correta com os dados corretos.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_3_DESC_3",
+        "message": "Se o usuário excluir qualquer um dos cabeçalhos da planilha e carregar a planilha, o sistema gerará um erro e o usuário terá que baixar o modelo novamente e recarregar a planilha correta com os dados corretos.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_MAINHEADER",
+        "message": "Leia-me instruções para upload de destino",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_1",
+        "message": "Baixando modelos do Excel para definição de metas:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_1_DESC_1",
+        "message": "Baixe o modelo Excel clicando no botão “Baixar modelo”.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_1_DESC_2",
+        "message": "Abra o modelo que foi baixado na etapa anterior e terá 3 planilhas e a primeira planilha que você verá é uma planilha “Leia-me”. A segunda Folha denominada “Lista de Instalações Disponíveis” conterá uma lista de todas as instalações disponíveis que podem ser utilizadas na campanha. Se não houver nenhuma facilidade disponível, esta folha estará vazia. A terceira folha será denominada “Lista de Limites de Campanha” que conterá todos os limites com seus respectivos Códigos de Limites.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2",
+        "message": "Criar novos dados de instalações/usar dados de instalações existentes após o download do modelo:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_1",
+        "message": "Se não houver instalações disponíveis para seleção, a aba “Lista de instalações disponíveis” no modelo estará vazia. Para criar novos dados de instalação, adicione o nome do Nome da Instalação, Tipo de Instalação, Status da Instalação, Capacidade. A coluna “Código da Instalação” precisa ser deixada em branco se esta for uma instalação nova. Caso se trate de uma instalação sendo reaproveitada (que fica disponível no template após o download) o usuário só precisa realizar o passo 2.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_2",
+        "message": "Para mapear a instalação para o limite correto, o usuário precisa copiar o código de limite correto do limite da planilha “Lista de Limites de Campanha” para a qual a instalação precisa ser mapeada. Se houver uma instalação mapeada para vários limites, o administrador do sistema terá que adicionar os códigos de limite de todos os limites para os quais a instalação está mapeada, separando-os por vírgulas na célula para adicionar códigos de limite para essa instalação.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_3",
+        "message": "Salve a planilha com as metas atualizadas para cada aldeia no modelo Excel.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_4",
+        "message": "Pressione o botão “Browse In My Files” na tela “Upload Facility Data” e selecione o arquivo salvo com todos os alvos do sistema.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_5",
+        "message": "Desativando Instalações existentes para uma campanha.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_6",
+        "message": "Depois que o usuário tiver baixado o modelo para instalações, se o sistema tiver dados de instalações existentes para serem reutilizados, o modelo será pré-preenchido com essa lista de instalações.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_7",
+        "message": "Se o usuário optar por não usar instalações específicas, ele poderá excluir as linhas de dados dessas instalações específicas que precisam ser removidas e carregar a planilha apenas com as instalações necessárias para a campanha com os códigos de limite corretos mapeados para essas instalações.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_3",
+        "message": "Casos de erros comuns:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_1",
+        "message": "Se o usuário tiver removido os códigos de instalação de uma instalação existente na lista, o sistema criará uma instalação duplicada com esses valores de coluna.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_2",
+        "message": "Se o usuário excluir alguma coluna da “Lista de Instalações Disponíveis” da planilha e carregar a planilha, o sistema gerará um erro e o usuário terá que baixar o modelo novamente e recarregar a planilha correta com os dados corretos.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_3",
+        "message": "Se o usuário excluir algum dos cabeçalhos da planilha e carregá-la, o sistema gerará um erro e o usuário terá que baixar o modelo novamente e recarregar a planilha correta com os dados corretos.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_MAINHEADER",
+        "message": "Leia-me as instruções para upload de instalações",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_ALDEIA",
+        "message": "Aldeia",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_COUNTRY",
+        "message": "País",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_COUNTRY_DISTRITO",
+        "message": "Distrito",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_DISTRITO",
+        "message": "Distrito",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_LOCALIDADE",
+        "message": "Localidade",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_POST ADMINISTRATIVO",
+        "message": "Posto administrativo",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_POSTO ADMINISTRATIVO",
+        "message": "Posto administrativo",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_PROVINCIA",
+        "message": "Província",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+        "message": "Código de limite",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE_MANDATORY",
+        "message": "Código de limite (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_BOUNDARY_DATA",
+        "message": "Dados de limite",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITIES",
+        "message": "Lista de instalações disponíveis",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_CAPACITY",
+        "message": "Capacidade (Unidades: Fardos para redes mosquiteiras/ Blister SPAQ para SMC)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_CODE",
+        "message": "Código da instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_NAME",
+        "message": "Nome da instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_STATUS",
+        "message": "Status da instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_TYPE",
+        "message": "Tipo de instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET",
+        "message": "Alvo no nível do limite selecionado",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE",
+        "message": "Tipo de emprego (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_LIST",
+        "message": "Criar lista de usuários",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_NAME",
+        "message": "Nome da Pessoa (Obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER",
+        "message": "Número de telefone (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_ROLE",
+        "message": "Função (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_README_SHEETNAME",
+        "message": "Leia-me",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_CITY",
+        "message": "Cidade",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_COUNTRY",
+        "message": "País",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_DISTRICT",
+        "message": "Distrito",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_REGION",
+        "message": "Região",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_STATE",
+        "message": "Estado",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_WARD",
+        "message": "Ala",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_ZONE",
+        "message": "Zona",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_1",
+        "message": "Baixando modelos do Excel para criação de usuários:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_1_DESC_1",
+        "message": "Baixe o modelo Excel clicando no botão “Baixar modelo”.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_1_DESC_2",
+        "message": "Abra o modelo Excel que foi baixado na etapa anterior terá 3 planilhas e a primeira planilha que você verá é uma planilha “Leia-me”. A segunda Planilha denominada “Criar Lista de Usuários“ que será uma planilha vazia onde o usuário deverá inserir os dados para criar usuários para a campanha. A terceira folha será denominada “Lista de Limites de Campanha” que terá todos os limites selecionados na etapa “Detalhes dos Limites” com seus respectivos códigos de limites.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2",
+        "message": "Criando usuários para a campanha:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_1",
+        "message": "O administrador do sistema terá que criar uma entrada separada para cada usuário. O administrador do sistema terá que adicionar o nome do usuário (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_2",
+        "message": " Número de telefone (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_3",
+        "message": "Função (obrigatório) Tipo de emprego (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_4",
+        "message": " Código de limite (obrigatório). Se houver um usuário mapeado para diversas funções",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_3",
+        "message": " o administrador do sistema terá que adicionar todas as funções para as quais o usuário está mapeado, separando-as por vírgulas na célula para adicionar funções para esse usuário.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_1",
+        "message": "Cada usuário criado precisa ser atribuído a um limite usando o Código de Limite do limite necessário, que pode ser encontrado na “Lista de Limites de Campanha“. Se houver um usuário mapeado para vários limites",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_2",
+        "message": " o administrador do sistema terá que adicionar os códigos de limite de todos os limites para os quais o usuário está mapeado, separando-os por vírgulas na célula para adicionar códigos de limite para esse usuário.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_MAINHEADER",
+        "message": "Salve a planilha com as metas atualizadas para cada aldeia no modelo Excel.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "VFTw0jbRf1y",
+        "message": "Cavina1",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "f5F6xAskA05",
+        "message": "Nampula",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "mz",
+        "message": "Moçambique",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "w22L4En0Zgg",
+        "message": "Nihessiue",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_ALDEIA",
+        "message": "Aldeia",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_CONSOLE_TARGET",
+        "message": "Alvo no nível do limite selecionado",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_COUNTRY",
+        "message": "País",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_DISTRITO",
+        "message": "Distrito",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_LOCALIDADE",
+        "message": "Localidade",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_POST ADMINISTRATIVO",
+        "message": "Posto administrativo",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_POSTO ADMINISTRATIVO",
+        "message": "Posto administrativo",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_PROVINCIA",
+        "message": "Província",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "ADMIN_STATE",
+        "message": "Estado",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_1",
+        "message": "Baixando modelos do Excel para definição de metas:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_1_DESC_1",
+        "message": "Baixe o modelo Excel clicando no botão “Baixar modelo”.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_1_DESC_2",
+        "message": "Abra o modelo Excel que foi baixado na etapa anterior e a primeira planilha que você verá é uma planilha “Leia-me”. As restantes folhas serão nomeadas de acordo com o nome dos distritos seleccionados no passo “Selecção de Limites”, tendo cada folha de distrito uma lista de todas as aldeias mapeadas para esse distrito.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2",
+        "message": "Definir metas após o download do modelo:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2_DESC_1",
+        "message": "Vá para a ficha do distrito para o qual deseja definir metas e adicione números na coluna “Metas” para cada Aldeia. ",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2_DESC_2",
+        "message": "Insira as metas para cada aldeia na ficha de cada distrito na coluna “Meta ao nível do limite seleccionado”. Se alguma aldeia não tiver metas definidas",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2_DESC_3",
+        "message": " a planilha terá erros.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_2_DESC_4",
+        "message": "Salve a planilha com as metas atualizadas para cada aldeia no modelo Excel.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_3",
+        "message": "Cses para erros comuns.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_3_DESC_1",
+        "message": "Pressione o botão “Browse In My Files” na tela “Upload Target” e selecione o arquivo salvo com todos os alvos do sistema.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_3_DESC_2",
+        "message": "Se o usuário não tiver definido metas para cada aldeia, o sistema gerará um erro com o número da linha onde as metas estão faltando.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_3_DESC_3",
+        "message": "As alterações na coluna Código de limite' e na coluna 'Alvo no nível de limite selecionado' gerarão erros.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_MAINHEADER",
+        "message": "Se o usuário excluir qualquer um dos cabeçalhos da planilha e carregar a planilha, o sistema gerará um erro e o usuário terá que baixar o modelo novamente e recarregar a planilha correta com os dados corretos.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_1",
+        "message": "Leia-me as instruções para upload da instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_1_DESC_1",
+        "message": "Baixando modelos do Excel para configuração de instalações:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_1_DESC_2",
+        "message": "Baixe o modelo Excel clicando no botão “Baixar modelo”.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2",
+        "message": "Abra o modelo que foi baixado na etapa anterior e terá 3 planilhas e a primeira planilha que você verá é uma planilha “Leia-me”. A segunda Folha denominada “Lista de Instalações Disponíveis” conterá uma lista de todas as instalações disponíveis que podem ser utilizadas na campanha. Se não houver facilidade disponível",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_1",
+        "message": " esta folha estará vazia. A terceira folha será denominada “Lista de Limites de Campanha” que conterá todos os limites com seus respectivos Códigos de Limites.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_2",
+        "message": "Criar novos dados de instalações/usar dados de instalações existentes após o download do modelo:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_3",
+        "message": "Se não houver instalações disponíveis para seleção",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_4",
+        "message": " a aba “Lista de Instalações Disponíveis” no modelo estará vazia. Para criar novos dados de instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_5",
+        "message": " adicione o nome do nome da instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_6",
+        "message": " Capacidade. A coluna “Código da Instalação” precisa ser deixada em branco se esta for uma instalação nova. Caso se trate de uma instalação sendo reaproveitada (que fica disponível no template após o download) o usuário só precisa realizar o passo 2.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_7",
+        "message": "Para mapear a instalação para o limite correto",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_3",
+        "message": " o usuário precisa copiar o código de limite correto do limite da planilha “Lista de Limites de Campanha” para a qual a instalação precisa ser mapeada. Se houver uma instalação mapeada para vários limites",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_1",
+        "message": " o administrador do sistema terá que adicionar os códigos de limite de todos os limites para os quais a instalação está mapeada, separando-os por vírgulas na célula para adicionar códigos de limite para essa instalação.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_2",
+        "message": "Salve a planilha com as metas atualizadas para cada aldeia no modelo Excel.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_3",
+        "message": "Pressione o botão “Browse In My Files” na tela “Upload Facility Data” e selecione o arquivo salvo com todos os alvos do sistema.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_MAINHEADER",
+        "message": "Desativando Instalações existentes para uma campanha.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_ALDEIA",
+        "message": "Aldeia",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_COUNTRY",
+        "message": "País",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_COUNTRY_DISTRITO",
+        "message": "Distrito",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_DISTRITO",
+        "message": "Distrito",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_LOCALIDADE",
+        "message": "Localidade",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_POST ADMINISTRATIVO",
+        "message": "Pós Administrativo",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_POSTO ADMINISTRATIVO",
+        "message": "Posto Administrativo",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM-MOZ-HIERARCHY_PROVINCIA",
+        "message": "Província",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+        "message": "Código de limite",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE_MANDATORY",
+        "message": "Código de limite (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_BOUNDARY_DATA",
+        "message": "Dados de limite",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITIES",
+        "message": "Lista de instalações disponíveis",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_CAPACITY",
+        "message": "Capacidade (Unidades: Fardos para redes mosquiteiras/ Blister SPAQ para SMC)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_CODE",
+        "message": "Código da instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_NAME",
+        "message": "Nome da instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_STATUS",
+        "message": "Status da instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_TYPE",
+        "message": "Tipo de instalação",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_USAGE",
+        "message": "Uso das instalações",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET",
+        "message": "Alvo no nível do limite selecionado",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE",
+        "message": "Tipo de emprego (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_LIST",
+        "message": "Criar lista de usuários",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_NAME",
+        "message": "Nome da Pessoa (Obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER",
+        "message": "Número de telefone (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_ROLE",
+        "message": "Função (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_README_SHEETNAME",
+        "message": "Leia-me",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "Svefewg4YCb",
+        "message": "Múrrupula",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_CITY",
+        "message": "Cidade",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_COUNTRY",
+        "message": "País",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_DISTRICT",
+        "message": "Distrito",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_REGION",
+        "message": "Região",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_STATE",
+        "message": "Estado",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_WARD",
+        "message": "Ala",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TEST BOUNDARY_ZONE",
+        "message": "Zona",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_1",
+        "message": "Baixando modelos do Excel para criação de usuários:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_1_DESC_1",
+        "message": "Baixe o modelo Excel clicando no botão “Baixar modelo”.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_1_DESC_2",
+        "message": "Abra o modelo Excel que foi baixado na etapa anterior terá 3 planilhas e a primeira planilha que você verá é uma planilha “Leia-me”. A segunda Planilha denominada “Criar Lista de Usuários“ que será uma planilha vazia onde o usuário deverá inserir os dados para criar usuários para a campanha. A terceira folha será denominada “Lista de Limites de Campanha” que terá todos os limites selecionados na etapa “Detalhes dos Limites” com seus respectivos códigos de limites.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2",
+        "message": "Criando usuários para a campanha:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_1",
+        "message": "O administrador do sistema terá que criar uma entrada separada para cada usuário. O administrador do sistema terá que adicionar o nome do usuário (obrigatório)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_2",
+        "message": "Cada usuário criado precisa ser atribuído a um limite usando o Código de Limite do limite necessário, que pode ser encontrado na “Lista de Limites de Campanha“. Se houver um usuário mapeado para vários limites, o administrador do sistema terá que adicionar os códigos de limite de todos os limites para os quais o usuário está mapeado, separando-os por vírgulas na célula para adicionar códigos de limite para esse usuário.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_3",
+        "message": "Salve a planilha com as metas atualizadas para cada aldeia no modelo Excel.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_4",
+        "message": "Pressione o botão “Browse In My Files” na tela “Upload Target” e selecione o arquivo salvo com todos os alvos do sistema.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_3",
+        "message": "Casos de erros comuns:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_1",
+        "message": "Se o usuário não tiver adicionado códigos de limite para todas as entradas do usuário, o sistema gerará um erro com o número da linha onde o código de limite está faltando",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_2",
+        "message": "Se o usuário excluir algum dos cabeçalhos da planilha e carregá-la, o sistema gerará um erro e o usuário terá que baixar o modelo novamente e recarregar a planilha correta com os dados corretos.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "USERWITHBOUNDARY_README_MAINHEADER",
+        "message": "Leia-me instruções para upload do usuário",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "VFTw0jbRf1y",
+        "message": "Cavina1",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "f5F6xAskA05",
+        "message": "Nampula",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "mz",
+        "message": "Moçambique",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "w22L4En0Zgg",
+        "message": "Nihessiue",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET",
+        "message": "Alvo do agregado familiar ao nível da aldeia (obrigatório e a ser introduzido pelo utilizador)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL",
+        "message": "Alvo do agregado familiar ao nível da aldeia (obrigatório e a ser introduzido pelo utilizador)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_12_TO_59",
+        "message": "Alvo ao nível da aldeia - Idade dos 12 aos 59 meses (obrigatório e a inserir pelo utilizador)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_3_TO_11",
+        "message": "Alvo ao nível da aldeia - Idade dos 3 aos 11 meses (obrigatório e a inserir pelo utilizador)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "BOUNDARY_README_MAINHEADER",
+        "message": "Leia-me instruções para upload de destino",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITIES",
+        "message": "Lista de instalações disponíveis",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_AVAILABLE_FACILITIES",
+        "message": "Lista de instalações disponíveis",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1",
+        "message": "Caso em que não há dados da instalação no sistema:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1_DESC_1",
+        "message": "Passo 1: Quando não houver dados de instalações no sistema, o modelo “Lista de instalações disponíveis” estará vazio. Para cada instalação adicionada, o usuário precisa inserir o nome da instalação (deve ser exclusivo), tipo de instalação (armazém/instalação de saúde), status da instalação (temporário/permanente), capacidade (entrada de número)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1_DESC_2",
+        "message": "Passo 2: Para mapear as instalações para um determinado limite, o usuário precisa copiar o Código do Limite correto da planilha “Dados do Limite”. Se houver mais de um limite para o qual uma instalação precisa ser mapeada, o usuário poderá adicionar todos os códigos de limite separados por vírgulas",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1_DESC_3",
+        "message": "Etapa 3: Para cada instalação, o usuário precisa adicionar Ativo ou Inativo para todas as instalações na coluna “Uso da Instalação”. Todas as Instalações marcadas como “Ativas” serão utilizadas na campanha que está sendo criada, as marcadas como “Inativas” não serão utilizadas na campanha que está sendo criada.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1_DESC_4",
+        "message": "Passo 4: Depois que todas as facilidades forem adicionadas, o usuário precisa salvar o arquivo em seu sistema e fazer upload do arquivo pressionando a opção “Navegar em Meus Arquivos”.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2",
+        "message": "Caso em que existem dados de instalações existentes no sistema:",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2_DESC_1",
+        "message": "Passo 1: Ao abrir o modelo de instalação baixado, consulte a folha Lista de instalações disponíveis. Para instalações existentes, adicione entradas na coluna Código de limite. Você pode encontrar os códigos de limite na planilha Dados de limite. Se uma instalação mapear vários limites, separe os códigos com vírgulas.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2_DESC_2",
+        "message": "Etapa 2: nesta etapa, o usuário terá que adicionar entradas na coluna Uso da instalação com entradas válidas sendo Ativas ou Inativas, onde o usuário pode definir o uso de uma instalação como Ativo se a instalação estiver sendo usada para uma campanha ou então pode ser definido como Inativo. As entradas na coluna Uso da Instalação precisam ser adicionadas para todas as entradas.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2_DESC_3",
+        "message": "Etapa 3: Para adicionar novas instalações que não estão presentes na lista de instalações existentes, o usuário precisa inserir o nome da instalação (deve ser exclusivo), tipo de instalação (armazém/instalação de saúde), status da instalação (temporário/permanente), capacidade (Entrada de número), Código de limite (da Folha de dados de limite) e Uso da instalação (Ativo/Inativo), conforme explicado anteriormente",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2_DESC_4",
+        "message": "Passo 4: Depois que todas as facilidades forem adicionadas, o usuário precisa salvar o arquivo em seu sistema e fazer upload do arquivo pressionando a opção “Navegar em Meus Arquivos”.",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET_SMC",
+        "message": "Alvo ao nível da aldeia (obrigatório e a ser inserido pelo usuário)",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "MALE",
+        "message": "Macho",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FEMALE",
+        "message": "Fêmea",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "CAMPAIGN_BEDNET_INDIVIDUAL_LABEL",
+        "message": "Número de indivíduos por mosquiteiro",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "LESS_THAN_EQUAL_TO",
+        "message": "menor ou igual a",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "CAMPAIGN_BEDNET_HOUSEHOLD_LABEL",
+        "message": "Número de mosquiteiros por domicílio",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "AGE",
+        "message": "Idade",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "FROM",
+        "message": "de",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "TO",
+        "message": "para",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "HEIGHT",
+        "message": "Altura",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "WEIGHT",
+        "message": "Peso",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "GENDER",
+        "message": "Gênero",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "LESS_THAN",
+        "message": "menor que",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "GREATER_THAN",
+        "message": "maior que",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "IN_BETWEEN",
+        "message": "entre",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "EQUAL_TO",
+        "message": "igual a",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "GREATER_THAN_EQUAL_TO",
+        "message": "maior ou igual a",
+        "module": "rainmaker-hcm-admin-schemas",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "OTHER_TARGETS",
+        "message": "Outros alvos",
+        "module": "rainmaker-campaignmanager",
+        "locale": "pt_IN"
+    }
+]

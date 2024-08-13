@@ -1,0 +1,1244 @@
+[
+{
+    "code": "OTHER_TARGETS",
+    "message": "Other targets",
+    "module": "rainmaker-campaignmanager",
+    "locale": "en_IN"
+},
+{
+    "code": "MALE",
+    "message": "Male",
+    "module": "rainmaker-campaignmanager",
+    "locale": "en_IN"
+},
+{
+    "code": "FEMALE",
+    "message": "Female",
+    "module": "rainmaker-campaignmanager",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_COUNTRY",
+    "message": "Country",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_DISTRITO",
+    "message": "District",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_LOCALIDADE",
+    "message": "Locality",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_POST ADMINISTRATIVO",
+    "message": "Administrative post",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_POSTO ADMINISTRATIVO",
+    "message": "Administrative post",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_PROVINCIA",
+    "message": "Province",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_STATE",
+    "message": "State",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_1",
+    "message": "Downloading excel templates for setting targets:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_1_DESC_1",
+    "message": "Download the excel template by clicking on the “Download Template” button.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_1_DESC_2",
+    "message": "Open the excel template that was downloaded in the previous step and the first sheet you will see is a “Read Me” sheet. The remaining sheets will be named after the name of the districts selected in the “Boundary Selection” step with each district Sheets having a list of all the villages mapped to that district.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2",
+    "message": "Setting targets once the template is downloaded:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2_DESC_1",
+    "message": "Go to the district’s sheet you want to set targets for and add numbers in the “Targets” Column for each Village. ",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2_DESC_2",
+    "message": "Enter targets for each village in each district’s sheet under the “Target at the Selected Boundary level” Column. If any village does not have targets set",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2_DESC_3",
+    "message": "Save the sheet with the updated targets for each village on the excel template.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2_DESC_4",
+    "message": "Press the “Browse In My Files” button on the “Upload Target” screen and select the saved file with all targets from the system.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_3",
+    "message": "Cases for common errors:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_3_DESC_1",
+    "message": "If the user has not set targets for each village the system will throw an error with line number where the targets are missing.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_3_DESC_2",
+    "message": "If the user deletes any village from the sheet or deletes a complete district sheet and uplaods the sheet the system will throw an error and the user will have to download the template again and reupload the correct sheet with the correct data.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_3_DESC_3",
+    "message": "If the user deletes any of the headers in the sheet and uploads the sheet the system will throw an error and the user will have to download the template again and reupload the correct sheet with the correct data.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_MAINHEADER",
+    "message": "Read me instructions for target upload",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_1",
+    "message": "Downloading excel templates for setting targets:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_1_DESC_1",
+    "message": "Download the excel template by clicking on the “Download Template” button.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_1_DESC_2",
+    "message": "Open the Template that was downloaded in the previous step will have 3 sheets and the first sheet you will see is a “Read Me” sheet. The second Sheet named “List of Available Facilities“ will have a list of all the available facilities that can be used in the campaign. If there is no facility available, this sheet will be empty. The third sheet will be named “List of Campaign Boundaries“ which will have all the boundaries with their respective Boundary Codes.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2",
+    "message": "Creating new facility data/using existing facility data once the template is downloaded:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_1",
+    "message": "If there are no Facilities available for selection, the “List of Available Facilities“ tab in the template will be empty. To create new facility data, add the name of the Facility Name, Facility Type, Facility Status, Capacity. The “Facility Code” column needs to be left empty if this is a new facility. If it is a facility being reused (which is available in the template after downloading) the user only needs to do step 2.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_2",
+    "message": "To map the facility to the correct boundary, the user needs to copy the correct boundary code of the boundary from the “List of Campaign Boundaries“ sheet that the facility needs to be mapped to. If there is a facility that is mapped to multiple boundaries, the System Admin will have to add the boundary codes of all the boundaries that facility is mapped to by separating them by commas in the cell to add Boundary Codes for that Facility.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_3",
+    "message": "Save the sheet with the updated targets for each village on the excel template.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_4",
+    "message": "Press the “Browse In My Files” button on the “Upload Facility Data” screen and select the saved file with all targets from the system.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_5",
+    "message": "Deactivating existing Facilities for a campaign.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_6",
+    "message": "After the user has downloaded the template for facilities, if the system has existing facility data to be reused, the template will be pre populated with those list of facilities.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_7",
+    "message": "If the user then chooses not use specific facilities, they can delete those lines of data for those specific facilities that need to be removed and upload the sheet with only those facilities that are needed for the campaign with the correct boundary codes mapped to those facilities.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_3",
+    "message": "Cases for common errors:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_1",
+    "message": "If the user has removed Facility codes for an existing facility in the list then system will create a duplicate facility with those column values.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_2",
+    "message": "If the user deletes any columns from the “List of Available Facilities” from the sheet and uploads the sheet, the system will throw an error and the user will have to download the template again and reupload the correct sheet with the correct data.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_3",
+    "message": "If the user deletes any of the headers in the sheet and uploads the sheet, the system will throw an error and the user will have to download the template again and reupload the correct sheet with the correct data.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_MAINHEADER",
+    "message": "Read me instructions for facility upload",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_ALDEIA",
+    "message": "Aldeia",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_COUNTRY",
+    "message": "Country",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_COUNTRY_DISTRITO",
+    "message": "Distrito",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_DISTRITO",
+    "message": "Distrito",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_LOCALIDADE",
+    "message": "Localidade",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_POST ADMINISTRATIVO",
+    "message": "Administrative post",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_POSTO ADMINISTRATIVO",
+    "message": "Administrative post",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_PROVINCIA",
+    "message": "Provincia",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+    "message": "Boundary Code",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE_MANDATORY",
+    "message": "Boundary Code (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_BOUNDARY_DATA",
+    "message": "Boundary Data",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITIES",
+    "message": "List of Available Facilities",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_CAPACITY",
+    "message": "Capacity (Units: Bales for Bednets/ SPAQ Blister for SMC)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_CODE",
+    "message": "Facility Code",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_NAME",
+    "message": "Facility Name",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_STATUS",
+    "message": "Facility Status",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_TYPE",
+    "message": "Facility Type",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_TARGET",
+    "message": "Target at the Selected Boundary level",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE",
+    "message": "Employment Type (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_LIST",
+    "message": "Create List of Users",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_NAME",
+    "message": "Name of the Person (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER",
+    "message": "Phone Number (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_ROLE",
+    "message": "Role (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_README_SHEETNAME",
+    "message": "Read Me",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_CITY",
+    "message": "City",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_COUNTRY",
+    "message": "Country",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_DISTRICT",
+    "message": "District",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_REGION",
+    "message": "Region",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_STATE",
+    "message": "State",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_WARD",
+    "message": "Ward",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_ZONE",
+    "message": "Zone",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_1",
+    "message": "Downloading excel templates for creating users:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_1_DESC_1",
+    "message": "Download the excel template by clicking on the “Download Template” button.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_1_DESC_2",
+    "message": "Open the excel template that was downloaded in the previous step will have 3 sheets and the first sheet you will see is a “Read Me” sheet. The second Sheet named “Create List of Users“ that will be an empty sheet where the user needs to enter data to create users for the campaign. The third sheet will be named “List of Campaign Boundaries“ which will have all the boundaries selected in the “Boundary Details“ step with their respective boundary codes.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2",
+    "message": "Creating users for the campaign:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_1",
+    "message": "The System Admin will have to create a separate entry for each user. The System Admin will have to add The Name of the User (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_2",
+    "message": " Phone Number (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_3",
+    "message": "Role (Mandatory) Employment Type (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_4",
+    "message": " Boundary Code (Mandatory). If there is a user who is mapped to multiple roles",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_3",
+    "message": " the System Admin will have to add all the roles that user is mapped to by separating them by commas in the cell to add Roles for that user.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_1",
+    "message": "Each user being created needs to be assigned to a boundary using the Boundary Code of the required boundary which can be found in the “List of Campaign Boundaries“. If there is a user who is mapped to multiple boundaries",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_2",
+    "message": " the System Admin will have to add the boundary codes of all the boundaries that user is mapped to by separating them by commas in the cell to add Boundary Codes for that user.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_MAINHEADER",
+    "message": "Save the sheet with the updated targets for each village on the excel template .",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "VFTw0jbRf1y",
+    "message": "Cavina1",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "f5F6xAskA05",
+    "message": "Nampula",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "mz",
+    "message": "Mocambique",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "w22L4En0Zgg",
+    "message": "Nihessiue",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_ALDEIA",
+    "message": "Village",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_CONSOLE_TARGET",
+    "message": "Target at the Selected Boundary level",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_COUNTRY",
+    "message": "Country",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_DISTRITO",
+    "message": "District",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_LOCALIDADE",
+    "message": "Locality",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_POST ADMINISTRATIVO",
+    "message": "Administrative post",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_POSTO ADMINISTRATIVO",
+    "message": "Administrative post",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_PROVINCIA",
+    "message": "Province",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "ADMIN_STATE",
+    "message": "State",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_1",
+    "message": "Downloading excel templates for setting targets:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_1_DESC_1",
+    "message": "Download the excel template by clicking on the “Download Template” button.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_1_DESC_2",
+    "message": "Open the excel template that was downloaded in the previous step and the first sheet you will see is a “Read Me” sheet. The remaining sheets will be named after the name of the districts selected in the “Boundary Selection” step with each district Sheets having a list of all the villages mapped to that district.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2",
+    "message": "Setting targets once the template is downloaded:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2_DESC_1",
+    "message": "Go to the district’s sheet you want to set targets for and add numbers in the “Targets” Column for each Village. ",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2_DESC_2",
+    "message": "Enter targets for each village in each district’s sheet under the “Target at the Selected Boundary level” Column. If any village does not have targets set",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2_DESC_3",
+    "message": " the sheet will have errors.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_2_DESC_4",
+    "message": "Save the sheet with the updated targets for each village on the excel template .",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_3",
+    "message": "Cses for common errors.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_3_DESC_1",
+    "message": "Press the “Browse In My Files” button on the “Upload Target” screen and select the saved file with all targets from the system.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_3_DESC_2",
+    "message": "If the user has not set targets for each village the system will throw an error with line number where the targets are missing.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_HEADER_3_DESC_3",
+    "message": "Boundary Code' column and 'Target at the Selected Boundary level' column changes will throw error.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_MAINHEADER",
+    "message": "If the user deletes any of the headers in the sheet and uploads the sheet the system will throw an error and the user will have to download the template again and reupload the correct sheet with the correct data.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_1",
+    "message": "Read me instructions for Facility upload",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_1_DESC_1",
+    "message": "Downloading excel templates for setting facilities:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_1_DESC_2",
+    "message": "Download the excel template by clicking on the “Download Template” button.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2",
+    "message": "Open the Template that was downloaded in the previous step will have 3 sheets and the first sheet you will see is a “Read Me” sheet. The second Sheet named “List of Available Facilities“ will have a list of all the available facilities that can be used in the campaign. If there is no facility available",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_1",
+    "message": " this sheet will be empty. The third sheet will be named “List of Campaign Boundaries“ which will have all the boundaries with their respective Boundary Codes.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_2",
+    "message": "Creating new facility data/using existing facility data once the template is downloaded:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_3",
+    "message": "If there are no Facilities available for selection",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_4",
+    "message": " the “List of Available Facilities“ tab in the template will be empty. To create new facility data",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_5",
+    "message": " add the name of the Facility Name",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_6",
+    "message": " Capacity. The “Facility Code” column needs to be left empty if this is a new facility. If it is a facility being reused (which is available in the template after downloading) the user only needs to do step 2.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_DESC_7",
+    "message": "To map the facility to the correct boundary",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_3",
+    "message": " the user needs to copy the correct boundary code of the boundary from the “List of Campaign Boundaries“ sheet that the facility needs to be mapped to. If there is a facility that is mapped to multiple boundaries",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_1",
+    "message": " the System Admin will have to add the boundary codes of all the boundaries that facility is mapped to by separating them by commas in the cell to add Boundary Codes for that Facility.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_2",
+    "message": "Save the sheet with the updated targets for each village on the excel template.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_3_DESC_3",
+    "message": "Press the “Browse In My Files” button on the “Upload Facility Data” screen and select the saved file with all targets from the system.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_MAINHEADER",
+    "message": "Deactivating existing Facilities for a campaign.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_ALDEIA",
+    "message": "Aldeia",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_COUNTRY",
+    "message": "Country",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_COUNTRY_DISTRITO",
+    "message": "Distrito",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_DISTRITO",
+    "message": "Distrito",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_LOCALIDADE",
+    "message": "Localidade",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_POST ADMINISTRATIVO",
+    "message": "Post Administrativo",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_POSTO ADMINISTRATIVO",
+    "message": "Posto Administrativo",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM-MOZ-HIERARCHY_PROVINCIA",
+    "message": "Provincia",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+    "message": "Boundary Code",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE_MANDATORY",
+    "message": "Boundary Code (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_BOUNDARY_DATA",
+    "message": "Boundary Data",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITIES",
+    "message": "List of Available Facilities",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_CAPACITY",
+    "message": "Capacity (Units: Bales for Bednets/ SPAQ Blister for SMC)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_CODE",
+    "message": "Facility Code",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_NAME",
+    "message": "Facility Name",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_STATUS",
+    "message": "Facility Status",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_TYPE",
+    "message": "Facility Type",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITY_USAGE",
+    "message": "Facility Usage",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_TARGET",
+    "message": "Target at the Selected Boundary level",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE",
+    "message": "Employment Type (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_LIST",
+    "message": "Create List of Users",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_NAME",
+    "message": "Name of the Person (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER",
+    "message": "Phone Number (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_USER_ROLE",
+    "message": "Role (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_README_SHEETNAME",
+    "message": "Read Me",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "Svefewg4YCb",
+    "message": "Murrupula",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_CITY",
+    "message": "City",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_COUNTRY",
+    "message": "Country",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_DISTRICT",
+    "message": "District",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_REGION",
+    "message": "Region",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_STATE",
+    "message": "State",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_WARD",
+    "message": "Ward",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TEST BOUNDARY_ZONE",
+    "message": "Zone",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_1",
+    "message": "Downloading excel templates for creating users:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_1_DESC_1",
+    "message": "Download the excel template by clicking on the “Download Template” button.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_1_DESC_2",
+    "message": "Open the excel template that was downloaded in the previous step will have 3 sheets and the first sheet you will see is a “Read Me” sheet. The second Sheet named “Create List of Users“ that will be an empty sheet where the user needs to enter data to create users for the campaign. The third sheet will be named “List of Campaign Boundaries“ which will have all the boundaries selected in the “Boundary Details“ step with their respective boundary codes.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2",
+    "message": "Creating users for the campaign:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_1",
+    "message": "The System Admin will have to create a separate entry for each user. The System Admin will have to add The Name of the User (Mandatory)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_2",
+    "message": "Each user being created needs to be assigned to a boundary using the Boundary Code of the required boundary which can be found in the “List of Campaign Boundaries“. If there is a user who is mapped to multiple boundaries, the System Admin will have to add the boundary codes of all the boundaries that user is mapped to by separating them by commas in the cell to add Boundary Codes for that user.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_3",
+    "message": "Save the sheet with the updated targets for each village on the excel template.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_2_DESC_4",
+    "message": "Press the “Browse In My Files” button on the “Upload Target” screen and select the saved file with all targets from the system.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_3",
+    "message": "Cases for common errors:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_1",
+    "message": "If the user has not added boundary codes for all user entries, the system will throw an error with line number where the boundary code is missing",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_HEADER_3_DESC_2",
+    "message": "If the user deletes any of the headers in the sheet and uploads the sheet, the system will throw an error and the user will have to download the template again and reupload the correct sheet with the correct data.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "USERWITHBOUNDARY_README_MAINHEADER",
+    "message": "Read me instructions for user upload",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "VFTw0jbRf1y",
+    "message": "Cavina1",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "f5F6xAskA05",
+    "message": "Nampula",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "mz",
+    "message": "Mocambique",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "w22L4En0Zgg",
+    "message": "Nihessiue",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_TARGET",
+    "message": "Household Target at village level (Mandatory and to be entered by the user)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL",
+    "message": "Household Target at village level (Mandatory and to be entered by the user)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_12_TO_59",
+    "message": "Target at village level - Age 12 to 59 Months (Mandatory and to be entered by the user)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_3_TO_11",
+    "message": "Target at village level - Age 3 to 11 Months (Mandatory and to be entered by the user)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "BOUNDARY_README_MAINHEADER",
+    "message": "Read me instructions for target upload",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_FACILITIES",
+    "message": "List of Available Facilities",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_AVAILABLE_FACILITIES",
+    "message": "List of Available Facilities",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1",
+    "message": "Case when there is no facility data in the system:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1_DESC_1",
+    "message": "Step 1: When there is no facility data in the system, the “List of available facility” template will be empty. For every facility added the user needs to input the Facility Name (must be unique), Facility Type (Warehouse/Health Facility), Facility Status (Temporary/Permanent), Capacity (Number input)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1_DESC_2",
+    "message": "Step 2: To map the facilities to a given boundary the user needs to copy the correct Boundary Code from the “Boundary Data” sheet. If there are more than one boundaries that a facility needs to be mapped to, the user can add all the boundary codes separated by commas",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1_DESC_3",
+    "message": "Step 3: For every facility, the user needs to add Active or Inactive for all facilities under the “Facility Usage” column. All the Facilities marked as “Active” will be used in the campaign being created the ones marked “Inactive” will not be used in the campaign being created.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_1_DESC_4",
+    "message": "Step 4: Once all the facilities are added the user needs to save the file on their system and upload the file by pressing “Browse in My Files” option.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2",
+    "message": "Case when there is existing facility data in the system:",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2_DESC_1",
+    "message": "Step 1: When you open the downloaded facility template, please refer to the List of available Facility sheet. For existing facilities, kindly add entries in the Boundary Code column. You can find the boundary codes in the Boundary Data sheet. If a facility maps to multiple boundaries, please separate the codes with commas.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2_DESC_2",
+    "message": "Step 2: In this step the user will have to add entries in the Facility Usage column with valid entries being either Active or Inactive where the user can set the usage for a facility to Active if the facility is being is used for a campaign or else can be set to Inactive. The inputs in the Facility Usage column need to be added for all entries.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2_DESC_3",
+    "message": "Step 3: For adding new Facilities which are not present in the list of existing facilities, the user needs to input the Facility Name (must be unique), Facility Type (Warehouse/Health Facility), Facility Status (Temporary/Permanent), Capacity (Number input), Boundary Code(from the Boundary Data Sheet) and Facility Usage (Active/Inactive) as explained previously",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FACILITYWITHBOUNDARY_README_HEADER_2_SUB_2_DESC_4",
+    "message": "Step 4: Once all the facilities are added the user needs to save the file on their system and upload the file by pressing “Browse in My Files” option.",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HCM_ADMIN_CONSOLE_TARGET_SMC",
+    "message": "Target at village level (Mandatory and to be entered by the user)",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "MALE",
+    "message": "Male",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FEMALE",
+    "message": "Female",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "CAMPAIGN_BEDNET_INDIVIDUAL_LABEL",
+    "message": "Number of individuals per bed net",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "LESS_THAN_EQUAL_TO",
+    "message": "less than or equal to",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "CAMPAIGN_BEDNET_HOUSEHOLD_LABEL",
+    "message": "Number of bed nets per household",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "AGE",
+    "message": "Age",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "FROM",
+    "message": "from",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "TO",
+    "message": "to",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "HEIGHT",
+    "message": "Height",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "WEIGHT",
+    "message": "Weight",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "GENDER",
+    "message": "Gender",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "LESS_THAN",
+    "message": "less than",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "GREATER_THAN",
+    "message": "greater than",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "IN_BETWEEN",
+    "message": "in between",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "EQUAL_TO",
+    "message": "equal to",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+},
+{
+    "code": "GREATER_THAN_EQUAL_TO",
+    "message": "greater than or equal to",
+    "module": "rainmaker-hcm-admin-schemas",
+    "locale": "en_IN"
+}
+]
