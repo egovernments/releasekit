@@ -36,6 +36,12 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "CHECK_FOR_PRODUCT_VARIANTS_CONFIG",
+        "message": "Verificar a configuração das variantes e ciclos do produto",
+        "module": "hcm-delivery",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "DELIVERED",
         "message": "Entregue",
         "module": "hcm-delivery",
@@ -198,6 +204,12 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "DELIVER_INTERVENTION_RESOURCE_DELETE_PRIMARY_ACTION_LABEL",
+        "message": "Eliminar",
+        "module": "hcm-delivery",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "DELIVER_INTERVENTION_RESOURCE_DELETE_RESOURCE",
         "message": "Excluir recurso",
         "module": "hcm-delivery",
@@ -288,6 +300,12 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "MEMBER_CARD_REFER_BENEFICIARY_LABEL",
+        "message": "Encaminhar o beneficiário",
+        "module": "hcm-delivery",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "MEMBER_CARD_UNABLE_TO_DELIVER_LABEL",
         "message": "Não é possível entregar?",
         "module": "hcm-delivery",
@@ -320,6 +338,12 @@
     {
         "code": "PARTIALLY_DELIVERED",
         "message": "Parcialmente entregue",
+        "module": "hcm-delivery",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "QUANTITY_DISTRIBUTION_VALIDATION",
+        "message": "Para {totalMembers} a quantidade que pode ser distribuída é {quantidade}",
         "module": "hcm-delivery",
         "locale": "pt_MZ"
     },

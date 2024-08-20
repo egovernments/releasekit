@@ -253,19 +253,19 @@
     },
     {
         "code": "CORE_COMMON_SS4.OP1",
-        "message": "Cette installation répond à la totalité ou à la plupart des exigences du personnel",
+        "message": "Cette structure/centre répond à la totalité ou à la plupart des exigences du personnel",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "CORE_COMMON_SS4.OP2",
-        "message": "Cette installation répond uniquement aux exigences de base du personnel",
+        "message": "Cette structure/centre répond uniquement aux exigences de base du personnel",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "CORE_COMMON_SS4.OP3",
-        "message": "Cette installation ne répond même pas aux exigences de base du personnel",
+        "message": "Cette structure/centre ne répond même pas aux exigences de base du personnel",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -517,7 +517,7 @@
     },
     {
         "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
-        "message": "Orientation pour cause de fièvre",
+        "message": "Référence pour cause de fièvre",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -679,7 +679,7 @@
     },
     {
         "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRIBUTOR",
-        "message": "Formation aux applications pour les distributeurs",
+        "message": "Formation pour les distributeurs sur l'application",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -853,7 +853,7 @@
     },
     {
         "code": "LLIN BednetTRAINING_SUPERVISION.DISTRIBUTOR",
-        "message": "Formation aux applications pour les distributeurs",
+        "message": "Formation des distributeurs sur l'applications",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -961,7 +961,7 @@
     },
     {
         "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
-        "message": "Orientation pour cause de fièvre",
+        "message": "Référence pour cause de fièvre",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1057,7 +1057,7 @@
     },
     {
         "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER",
-        "message": "Orientation pour cause de maladie",
+        "message": "Référence pour cause de maladie",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1122,246 +1122,6 @@
         "locale": "fr_MZ"
     },
     {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
-        "message": "Enfant évalué pour effet indésirable pour SP et AQ ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
-        "message": "La Pharmacovigilance nationale a-t-elle été remplie ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
-        "message": "Enfant évalué pour effet indésirable pour SP et AQ ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
-        "message": "La Pharmacovigilance nationale a-t-elle été remplie ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
-        "message": "Enfant évalué pour effet indésirable pour SP et AQ ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
-        "message": "La Pharmacovigilance nationale a-t-elle été remplie ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
-        "message": "Enfant évalué pour effet indésirable pour SP et AQ ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
-        "message": "La Pharmacovigilance nationale a-t-elle été remplie ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
-        "message": "L'enfant a-t-il été testé pour le paludisme ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
-        "message": "Résultat du test de diagnostic du paludisme",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
-        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital le plus proche en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
-        "message": "Enfant avec un test de paludisme positif traité avec un antipaludique",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
-        "message": "Enfant évalué pour déterminer la cause de la maladie.",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
-        "message": "Saisissez des commentaires pour le diagnostic.",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
-        "message": "L'enfant a-t-il été soigné ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
-        "message": "Nom et dose du médicament",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital le plus proche en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
         "code": "SMC Camapign.WAREHOUSE.WAREHOUSE_MANAGER.MR2",
         "message": "2. Existe-t-il un système en place pour vérifier régulièrement et supprimer les doses de vaccin périmées de l’inventaire ?",
         "module": "hcm-checklist",
@@ -1387,25 +1147,25 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
-        "message": "Effet secondaire du cycle en cours",
+        "message": "Effet secondaire du cycle/passage en cours",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_01.ADDITIONAL_FIELD",
-        "message": "commentaires",
+        "message": "Commentaires",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_02.ADDITIONAL_FIELD",
-        "message": "commentaires",
+        "message": "Commentaires",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_03.ADDITIONAL_FIELD",
-        "message": "commentaires",
+        "message": "Commentaires",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1441,7 +1201,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
-        "message": "Effet secondaire du cycle précédent",
+        "message": "Effet secondaire du cycle/passage précédent",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1585,7 +1345,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
-        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle",
+        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle/passage",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1699,7 +1459,7 @@
     },
     {
         "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRIBUTOR",
-        "message": "Formation aux applications pour les distributeurs",
+        "message": "Formation des distributeurs sur l'application",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1777,6 +1537,126 @@
     },
     {
         "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Raisons/Commentaires",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER",
+        "message": "Formation sur l'application pour la gestion des stocks de la campagne de vaccination",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q1",
+        "message": "1. Disposez-vous actuellement de stocks suffisants de chaque type de vaccin pour répondre à la demande prévue pour les deux prochaines semaines ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q1.ADDITIONAL_FIELD",
+        "message": "Raisons/Commentaires",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q2",
+        "message": "2. Disposez-vous actuellement de stocks suffisants de chaque type de vaccin pour répondre à la demande prévue pour les deux prochaines semaines ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q2.ADDITIONAL_FIELD",
+        "message": "Raisons/Commentaires",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q3",
+        "message": "3. Disposez-vous actuellement de stocks suffisants de chaque type de vaccin pour répondre à la demande prévue pour les deux prochaines semaines ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q3.ADDITIONAL_FIELD",
+        "message": "Raisons/Commentaires",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q1",
+        "message": "1. Disposez-vous actuellement de stocks suffisants de chaque type de vaccin pour répondre à la demande prévue pour les deux prochaines semaines ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Raisons/Commentaires",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q2",
+        "message": "2. Existe-t-il un système en place pour vérifier régulièrement et supprimer les doses de vaccin périmées de l’inventaire ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Raisons/Commentaires",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q3",
+        "message": "3. Tous les membres du personnel ont-ils été formés aux procédures correctes de manipulation et de stockage des vaccins ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Raisons/Commentaires",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR",
+        "message": "Formation sur l'application pour les superviseurs",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q1",
+        "message": "1. Avez-vous reçu une formation complète sur l’utilisation de l’application pour gérer la campagne de vaccination ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Raisons/Commentaires",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q2",
+        "message": "2. Vous sentez-vous capable de naviguer dans toutes les fonctionnalités de l'application nécessaires au suivi des livraisons de vaccins ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Raisons/Commentaires",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q3",
+        "message": "3. Existe-t-il un canal d'assistance désigné que vous pouvez contacter si vous rencontrez des problèmes avec l'application pendant la campagne ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
         "message": "Raisons/Commentaires",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
@@ -1933,7 +1813,7 @@
     },
     {
         "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
-        "message": "Effet secondaire du cycle en cours",
+        "message": "Effet secondaire du cycle/passage en cours",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1969,7 +1849,7 @@
     },
     {
         "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
-        "message": "Effet secondaire du cycle précédent",
+        "message": "Effet secondaire du cycle/passage précédent",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -2113,7 +1993,7 @@
     },
     {
         "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
-        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle",
+        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle/passage",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -2359,7 +2239,7 @@
     },
     {
         "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
-        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle",
+        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle/passage",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -2552,366 +2432,6 @@
     {
         "code": "SS3_REGEX",
         "message": "Veuillez entrer jusqu'à 150",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
-        "message": "Enfant évalué pour effet indésirable pour SP et AQ ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
-        "message": "La Pharmacovigilance nationale a-t-elle été remplie ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
-        "message": "Enfant évalué pour effet indésirable pour SP et AQ ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
-        "message": "La Pharmacovigilance nationale a-t-elle été remplie ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
-        "message": "L'enfant a-t-il été testé pour le paludisme ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
-        "message": "Résultat du test de diagnostic du paludisme",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
-        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital le plus proche en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
-        "message": "Enfant avec un test de paludisme positif traité avec un antipaludique",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
-        "message": "Enfant évalué pour déterminer la cause de la maladie.",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
-        "message": "Saisissez des commentaires pour le diagnostic.",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
-        "message": "L'enfant a-t-il été soigné ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
-        "message": "Nom et dose du médicament",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital le plus proche en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - H.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
-        "message": "Enfant évalué pour effet indésirable pour SP et AQ ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
-        "message": "La Pharmacovigilance nationale a-t-elle été remplie ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
-        "message": "Enfant évalué pour effet indésirable pour SP et AQ ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
-        "message": "La Pharmacovigilance nationale a-t-elle été remplie ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
-        "message": "L'enfant a-t-il été testé pour le paludisme ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
-        "message": "Résultat du test de diagnostic du paludisme",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
-        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital le plus proche en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
-        "message": "Enfant avec un test de paludisme positif traité avec un antipaludique",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
-        "message": "Enfant évalué pour déterminer la cause de la maladie.",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
-        "message": "Saisissez des commentaires pour le diagnostic.",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
-        "message": "L'enfant a-t-il été soigné ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
-        "message": "Nom et dose du médicament",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
-        "message": "L'enfant a-t-il été admis/transféré à l'hôpital le plus proche en raison d'une maladie grave ?",
-        "module": "hcm-checklist",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "Test Project - I.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
-        "message": "Ceci est un champ obligatoire",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     }

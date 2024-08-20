@@ -1,7 +1,55 @@
 [
     {
+        "code": "LOGIN_ACTION",
+        "message": "Iniciar Sessão",
+        "module": "hcm-login",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "LOGIN_ACTION_LABEL",
         "message": "Conecte-se",
+        "module": "hcm-login",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOGIN_FAILURE_MESSAGE",
+        "message": "Iniciar Sessão falhou. Por favor, tente novamente mais tarde.",
+        "module": "hcm-login",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOGIN_FORGOT_PASSWORD",
+        "message": "Esqueceu-se da palavra-passe?",
+        "module": "hcm-login",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOGIN_HEADER",
+        "message": "Iniciar Sessão",
+        "module": "hcm-login",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOGIN_PASSWORD_LABEL",
+        "message": "Palavra-passe",
+        "module": "hcm-login",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOGIN_SUCCESS_MESSAGE",
+        "message": "Iniciou Sessão com sucesso.",
+        "module": "hcm-login",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOGIN_USERNAME_LABEL",
+        "message": "Nome de utilizador",
+        "module": "hcm-login",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOGIN_VALIDATION_ERROR",
+        "message": "Por favor, introduza um nome de utilizador e palavra-passe válidos.",
         "module": "hcm-login",
         "locale": "pt_MZ"
     },

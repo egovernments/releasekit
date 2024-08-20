@@ -18,6 +18,48 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "ENTER_MANUAL_CODE",
+        "message": "Introduzir código manualmente",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAC_F-2024-01-29-000009",
+        "message": "Moz Project Facility 9",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAC_F-2024-01-29-000010",
+        "message": "Instalação do Projeto Moz 10",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAC_F-2024-01-29-000011",
+        "message": "Instalação do Projeto Moz 11",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAC_F-2024-01-29-000012",
+        "message": "Instalação do Projeto Moz 12",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAC_F-2024-04-19-000078",
+        "message": "Mecanismo de Projeto 78",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAC_F-2024-04-19-000079",
+        "message": "Mecanismo de Projeto 79",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "FAC_F_2024-05-30-001260",
         "message": "Instalação do Projeto 1",
         "module": "hcm-stock",
@@ -44,6 +86,12 @@
     {
         "code": "FAC_F_2024-05-30-001264",
         "message": "Mecanismo de Projeto 5",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "INVALID_RESOURCE_CODE",
+        "message": "Código de barras inválido",
         "module": "hcm-stock",
         "locale": "pt_MZ"
     },
@@ -144,6 +192,66 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "PJ_FAC_PF-2024-01-24-000010",
+        "message": "Instalação do Projeto Moz 10",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-01-29-000011",
+        "message": "Instalação de projeto Moz 11",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-01-29-000012",
+        "message": "Instalação do Projeto Moz 12",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-01-29-000013",
+        "message": "Instalação do Projeto Moz 13",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-01-29-000014",
+        "message": "Instalação do Projeto Moz 14",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-02-05-000015",
+        "message": "Moz Project Facility 15",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-02-08-000018",
+        "message": "Moz Project Facility 18",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-02-13-000058",
+        "message": "Moz Project Facility 58",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-03-04-000065",
+        "message": "Moz Project Facility 65",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PJ_FAC_PF-2024-03-04-000066",
+        "message": "Instalação do Projeto Moz 66",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "PJ_FAC_PF-2024-05-30-000957",
         "message": "Mecanismo de Projeto 57",
         "module": "hcm-stock",
@@ -240,13 +348,13 @@
         "locale": "pt_MZ"
     },
     {
-        "code": "RESOURCE_ALREADY_SCANNED",
+        "code": "RESOURCES_ALREADY_SCANNED",
         "message": "Recurso já verificado",
         "module": "hcm-stock",
         "locale": "pt_MZ"
     },
     {
-        "code": "RESOURCES_ALREADY_SCANNED",
+        "code": "RESOURCE_ALREADY_SCANNED",
         "message": "Recurso já verificado",
         "module": "hcm-stock",
         "locale": "pt_MZ"
@@ -534,6 +642,18 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "STOCK_TEAM_CODE_LABEL",
+        "message": "Código da equipa",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TRANSACTION_DETAILS_LABEL",
+        "message": "Detalhes da transação",
+        "module": "hcm-stock",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "TRANSPORT_TYPE_1",
         "message": "Ônibus",
         "module": "hcm-stock",
@@ -578,18 +698,6 @@
     {
         "code": "WAREHOUSE_DETAILS_WAREHOUSE_NAME_ID",
         "message": "Nome/ID do armazém",
-        "module": "hcm-stock",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "FAC_F-2024-04-19-000078",
-        "message": "Mecanismo de Projeto 78",
-        "module": "hcm-stock",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "FAC_F-2024-04-19-000079",
-        "message": "Mecanismo de Projeto 79",
         "module": "hcm-stock",
         "locale": "pt_MZ"
     }
