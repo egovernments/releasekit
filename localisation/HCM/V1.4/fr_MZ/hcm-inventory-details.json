@@ -1,7 +1,7 @@
 [
     {
         "code": "INVENTORY_REPORT_DETAILS_BACK_TO_HOME_BUTTON_LABEL",
-        "message": "De retour à la maison",
+        "message": "Retour à l'accueil",
         "module": "hcm-inventory-details",
         "locale": "fr_MZ"
     },
@@ -18,6 +18,12 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "INVENTORY_REPORT_DETAILS_DAMAGED_TRANSACTING_PARTY...",
+        "message": "Endommagé à",
+        "module": "hcm-inventory-details",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "INVENTORY_REPORT_DETAILS_DAMAGED_TRANSACTING_PARTY_LABEL",
         "message": "Endommagé à",
         "module": "hcm-inventory-details",
@@ -25,7 +31,7 @@
     },
     {
         "code": "INVENTORY_REPORT_DETAILS_DAMAGE_REPORT_TITLE",
-        "message": "Crosse endommagée",
+        "message": "Stock endommagée",
         "module": "hcm-inventory-details",
         "locale": "fr_MZ"
     },
@@ -37,7 +43,7 @@
     },
     {
         "code": "INVENTORY_REPORT_DETAILS_DISPATCHED_COUNT_LABEL",
-        "message": "Actions émises",
+        "message": "Stock émis",
         "module": "hcm-inventory-details",
         "locale": "fr_MZ"
     },
@@ -49,7 +55,13 @@
     },
     {
         "code": "INVENTORY_REPORT_DETAILS_DISPATCH_REPORT_TITLE",
-        "message": "Actions émises",
+        "message": "Stock émis",
+        "module": "hcm-inventory-details",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "INVENTORY_REPORT_DETAILS_DISPATCH_TRANSACTING_PART...",
+        "message": "Envoyer à",
         "module": "hcm-inventory-details",
         "locale": "fr_MZ"
     },
@@ -72,6 +84,12 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "INVENTORY_REPORT_DETAILS_LOSS_TRANSACTING_PARTY_LA...",
+        "message": "Perdu à",
+        "module": "hcm-inventory-details",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "INVENTORY_REPORT_DETAILS_LOSS_TRANSACTING_PARTY_LABEL",
         "message": "Perdu à",
         "module": "hcm-inventory-details",
@@ -85,7 +103,7 @@
     },
     {
         "code": "INVENTORY_REPORT_DETAILS_MANUAL_COUNT_LABEL",
-        "message": "Le stock disponible",
+        "message": "Stock disponible",
         "module": "hcm-inventory-details",
         "locale": "fr_MZ"
     },
@@ -114,6 +132,12 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "INVENTORY_REPORT_DETAILS_RECEIPT_TRANSACTING_PARTY...",
+        "message": "Reçu de",
+        "module": "hcm-inventory-details",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "INVENTORY_REPORT_DETAILS_RECEIPT_TRANSACTING_PARTY_LABEL",
         "message": "Reçu de",
         "module": "hcm-inventory-details",
@@ -126,8 +150,14 @@
         "locale": "fr_MZ"
     },
     {
-        "code": "INVENTORY_REPORT_DETAILS_RECONCILIATION_REPORT_TITLE",
+        "code": "INVENTORY_REPORT_DETAILS_RECONCILIATION_REPORT_TIT...",
         "message": "Rapprochement des stocks",
+        "module": "hcm-inventory-details",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "INVENTORY_REPORT_DETAILS_RECONCILIATION_REPORT_TITLE",
+        "message": "Réconciliation des stocks",
         "module": "hcm-inventory-details",
         "locale": "fr_MZ"
     },
@@ -150,8 +180,14 @@
         "locale": "fr_MZ"
     },
     {
-        "code": "INVENTORY_REPORT_DETAILS_RETURNED_TRANSACTING_PARTY_LABEL",
+        "code": "INVENTORY_REPORT_DETAILS_RETURNED_TRANSACTING_PART...",
         "message": "Retour de",
+        "module": "hcm-inventory-details",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "INVENTORY_REPORT_DETAILS_RETURNED_TRANSACTING_PARTY_LABEL",
+        "message": "Retourné par",
         "module": "hcm-inventory-details",
         "locale": "fr_MZ"
     },

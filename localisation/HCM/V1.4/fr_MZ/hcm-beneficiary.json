@@ -6,6 +6,12 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "12<=ageandage<=60",
+        "message": "12 à 60 mois",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "12<=ageandage<=64",
         "message": "12 - 64 mois",
         "module": "hcm-beneficiary",
@@ -25,13 +31,19 @@
     },
     {
         "code": "ADMINISTERED_SUCCESS",
-        "message": "Succès administré",
+        "message": "administré avec succès ",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "ADMINISTRATION_UNIT_FORM_LABEL",
         "message": "Unité administrative",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "APPLY_FILTER",
+        "message": "Appliquer",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -61,7 +73,7 @@
     },
     {
         "code": "BENEFICIARY_DETAILS_CYCLE",
-        "message": "Faire du vélo",
+        "message": "Passage",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -133,7 +145,7 @@
     },
     {
         "code": "BENEFICIARY_DETAILS_RECORD_CYCLE",
-        "message": "Cycle d'enregistrement",
+        "message": "Passage d'enregistrement",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -156,8 +168,20 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "BENEFICIARY_HOUSEHOLD_MEMBER",
+        "message": "Membre du ménage",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "BENEFICIARY_HOUSEHOLD_MEMBERS",
+        "message": "Membres du ménage",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "BENEFICIARY_INDIVIDUAL_SEARCH_HINT_TEXT",
-        "message": "Rechercher par le nom de la personne",
+        "message": "Recherche par le nom de la personne",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -169,7 +193,7 @@
     },
     {
         "code": "BENEFICIARY_INFO_TITLE",
-        "message": "Correspondance non trouvée !",
+        "message": "Aucune Correspondance non trouvée !",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -181,7 +205,7 @@
     },
     {
         "code": "BENEFICIARY_REFUSED",
-        "message": "Bénéficiaire refusé",
+        "message": "Bénéficiaire ayant refusé",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -205,7 +229,13 @@
     },
     {
         "code": "BOUNDARY",
-        "message": "Frontière",
+        "message": "délimitation/lieu",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "CLEAR_FILTER",
+        "message": "Effacer",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -217,7 +247,7 @@
     },
     {
         "code": "CORE_COMMON_DOWNLOAD_FAILED",
-        "message": "Échec du téléchargement!",
+        "message": "Le téléchargement a échoué !",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -259,7 +289,7 @@
     },
     {
         "code": "DEATH",
-        "message": "La mort",
+        "message": "Décès",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -331,43 +361,43 @@
     },
     {
         "code": "DRUG_SE_CC",
-        "message": "Effet secondaire du médicament du cycle actuel",
+        "message": "Effet secondaire du médicament pour le Passage actuel",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "DRUG_SE_PC",
-        "message": "Effet secondaire du médicament du cycle précédent",
+        "message": "Effet secondaire du médicament pour le passage précédent",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "DRUG_SIDE_EFFECT_FRM_CC",
-        "message": "Effet secondaire du médicament du cycle actuel",
+        "message": "Effet secondaire du médicament pour le passage actuel",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "DRUG_SIDE_EFFECT_FRM_PC",
-        "message": "Effet secondaire du médicament du cycle précédent",
+        "message": "Effet secondaire du médicament pour le passage précédent",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "DRUG_SIDE_EFFECT_FROM_CURRENT_CYCLE",
-        "message": "Effet secondaire du médicament du cycle en cours",
+        "message": "Effet secondaire du médicament pour le passage en cours",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "DRUG_SIDE_EFFECT_FROM_NEXT_CYCLE",
-        "message": "Effet secondaire du médicament lors du prochain cycle",
+        "message": "Effet secondaire du médicament lors du prochain passage",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "DRUG_SIDE_EFFECT_FROM_PREV_CYCLE",
-        "message": "Effet secondaire du médicament du cycle précédent",
+        "message": "Effet secondaire du médicament pour le passage précédent",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -397,13 +427,13 @@
     },
     {
         "code": "EVALUATION_FACILITY_LABEL",
-        "message": "Établissement de santé pour évaluation",
+        "message": "Centre de santé pour évaluation",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "FACILITY_DETAILS_HEADER",
-        "message": "Détails de l'établissement de santé",
+        "message": "Détails de la structure de santé",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -426,6 +456,12 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "FILTER_LABEL",
+        "message": "Filtre",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "FLASH_OFF",
         "message": "Flash désactivé",
         "module": "hcm-beneficiary",
@@ -439,13 +475,19 @@
     },
     {
         "code": "FROM_CURRENT_LOCATION",
-        "message": "de l'emplacement actuel",
+        "message": "A partir de l'emplacement actuel",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "HEAD_OF_HOUSEHOLD_LABEL_TEXT",
         "message": "Chef de ménage",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQU...",
+        "message": "Ceci est un champ obligatoire",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -559,7 +601,7 @@
     },
     {
         "code": "INDIVIDUAL_NO_OF_HOUSEHOLDS_REGISTERED",
-        "message": "Nombre de personnes inscrites",
+        "message": "Nombre de personnes recensés",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -571,7 +613,7 @@
     },
     {
         "code": "INDIVIDUAL_OVER_VIEW_DELIVERED_ICON_LABEL",
-        "message": "A visité",
+        "message": "Visité",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -583,7 +625,7 @@
     },
     {
         "code": "INSUFFICIENT_STORAGE_WARNING",
-        "message": "Espace insuffisant",
+        "message": "Stockage insuffisant",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -595,13 +637,253 @@
     },
     {
         "code": "LINK_VOUCHER_TO_INDIVIDUAL",
-        "message": "Lier le bon à un particulier",
+        "message": "Lier le bon/coupon à un particulier",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
+        "message": "Référence en raison d'un effet indésirable d'un médicament",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Enfant évalué pour un effet indésirable pour SP et AQ ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "Le formulaire national de pharmacovigilance a-t-il été rempli ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "L'enfant a-t-il été admis / transféré à l'hôpital en raison d'une maladie grave ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Ce champ est obligatoire.",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
+        "message": "Référence en raison d'une réaction indésirable à un médicament",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "L'enfant a été évalué pour une réaction indésirable à la SP et à l'AQ ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire.",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "Le formulaire national de pharmacovigilance a-t-il été rempli ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "L'enfant a-t-il été admis / transféré à l'hôpital en raison d'une maladie grave ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Référé pour cause de fièvre",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SEPC_Q2_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "L'enfant a fait l'objet d'une évaluation des effets indésirables de la SP et de l'AQ ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "Le formulaire national de pharmacovigilance a-t-il été rempli ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "L'enfant a-t-il été admis / transféré à l'hôpital en raison d'une maladie grave ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "L'enfant a-t-il subi un test de dépistage du paludisme ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Résultat du test de diagnostic du paludisme ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "L'enfant a-t-il été admis / transféré à l'hôpital en raison d'une maladie grave ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "L'enfant dont le test de dépistage du paludisme s'est révélé positif a-t-il été traité avec un antipaludéen ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
+        "message": "Nom et dose de l'antipaludéen",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "Le nom et la dose de l'antipaludéen sont requis.",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Renvoi pour cause de maladie",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "L'enfant est évalué pour déterminer la cause de la maladie",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Entrer des commentaires pour le diagnostic",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Commentaires est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "L'enfant a-t-il été traité ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nom et dose du médicament",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Le nom et la dose du médicament sont obligatoires",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "L'enfant a-t-il été admis / transféré à l'hôpital en raison d'une maladie grave ?",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Ce champ est obligatoire",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "LLIN Massamba.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
-        "message": "Référence en raison d’une réaction indésirable à un médicament",
+        "message": "Référence due à une réaction indésirable à un médicament",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -673,7 +955,7 @@
     },
     {
         "code": "LLIN Massamba.HF_RF_FEVER.HEALTH_FACILITY_WORKER",
-        "message": "Orientation pour cause de fièvre",
+        "message": "Référence pour cause de fièvre",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -847,7 +1129,7 @@
     },
     {
         "code": "LLIN-Massamba.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
-        "message": "Orientation pour cause de fièvre",
+        "message": "référence pour cause de fièvre",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -949,7 +1231,7 @@
     },
     {
         "code": "LLIN-Massamba.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER",
-        "message": "Orientation pour cause de maladie",
+        "message": "référence pour cause de maladie",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1057,7 +1339,13 @@
     },
     {
         "code": "NAME_OF_HF_COORDINATOR_LABEL",
-        "message": "Nom du coordonnateur de l’établissement de santé",
+        "message": "Nom du coordonnateur de l'établissement de santé",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "NOT_REGISTERED",
+        "message": "Non enregistré",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1075,13 +1363,13 @@
     },
     {
         "code": "NO_DATA_FOUND",
-        "message": "Aucune donnée disponible!",
+        "message": "Aucune donnée trouvée !",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "NO_DATA_FOUND_CONTENT",
-        "message": "Il n'y a aucun nouvel enregistrement trouvé pour la limite sélectionnée",
+        "message": "Il n'y a aucun nouvel enregistrement trouvé pour la zone sélectionnée",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1153,7 +1441,7 @@
     },
     {
         "code": "PLEASE_ENTER_VALID_FACILITY",
-        "message": "Veuillez saisir une pièce d'identité valide",
+        "message": "Veuillez saisir un ID valide",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1183,7 +1471,7 @@
     },
     {
         "code": "REASON_FOR_REFERRAL",
-        "message": "Motif du renvoi",
+        "message": "Raison de la référence",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1207,7 +1495,7 @@
     },
     {
         "code": "REFERRAL_CODE_LABEL",
-        "message": "Code de Parrainage",
+        "message": "Code de référence",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1224,32 +1512,44 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "REFERRAL_INFO_DESCRIPTION",
+        "message": "Cliquez sur le bouton Créer une nouvelle référence pour créer une référence",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "REFERRAL_NAME_OF_CHILD_LABEL",
         "message": "Nom de l'enfant",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
+        "code": "REFERRAL_SEARCH_HINT_TEXT",
+        "message": "Entrez le nom de la référence",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "REFERRAL_SELECT_CYCLE",
-        "message": "Sélectionner un cycle",
+        "message": "Sélectionner un passage",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "REFERRED_BY_FORM_LABEL",
-        "message": "Référé à",
+        "message": "référé au",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "REFERRED_BY_TEAM_CODE_LABEL",
-        "message": "Référé par (code d'équipe CDD)",
+        "message": "Référé par (code équipe CDD)",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "REFERRED_TO_FORM_LABEL",
-        "message": "Référencé par",
+        "message": "Référé par",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1266,8 +1566,14 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "REGISTERED",
+        "message": "Enregistré",
+        "module": "hcm-beneficiary",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "RESOURCES_SCANNED",
-        "message": "Ressources analysées",
+        "message": "Ressources scannées",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1285,7 +1591,7 @@
     },
     {
         "code": "RESOURCE_ALREADY_SCANNED",
-        "message": "Ressource déjà analysée",
+        "message": "Ressource déjà scannées",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1297,25 +1603,25 @@
     },
     {
         "code": "SCANNED_RESOURCE_COUNT_MISMATCH",
-        "message": "Mauvaise correspondance du nombre de ressources analysées",
+        "message": "Incohérence du nombre de ressources scannées",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "SCANNER_DIALOG_CONTENT",
-        "message": "Le nombre de ressources analysées est inférieur à la quantité saisie de {quantité}.",
+        "message": "Le nombre de ressources scannées est inférieur à la quantité saisie de {quantité}.",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "SCANNER_DIALOG_PRIMARY_ACTION",
-        "message": "Continuez à numériser",
+        "message": "Continuez à scanner",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "SCANNER_DIALOG_SECONDARY_ACTION",
-        "message": "Sauver et fermer",
+        "message": "Enregistrer et fermer",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1333,7 +1639,7 @@
     },
     {
         "code": "SCAN_VALID_RESOURCE",
-        "message": "Analyser une ressource valide",
+        "message": "Scanner une ressource valide",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1585,7 +1891,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.DISTRIBUTOR",
-        "message": "Orientation pour cause de fièvre",
+        "message": "référence pour cause de fièvre",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1687,7 +1993,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER",
-        "message": "Orientation pour cause de fièvre",
+        "message": "référence pour cause de fièvre",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1789,7 +2095,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.WAREHOUSE_MANAGER",
-        "message": "Orientation pour cause de fièvre",
+        "message": "référence pour cause de fièvre",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1891,7 +2197,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_SICK.DISTRIBUTOR",
-        "message": "Orientation pour cause de maladie",
+        "message": "référence pour cause de maladie",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -1957,7 +2263,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER",
-        "message": "Orientation pour cause de maladie",
+        "message": "référence pour cause de maladie",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -2023,7 +2329,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_SICK.WAREHOUSE_MANAGER",
-        "message": "Orientation pour cause de maladie",
+        "message": "référence pour cause de maladie",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
@@ -2107,67 +2413,43 @@
     },
     {
         "code": "UNABLE_TO_SCAN",
-        "message": "Impossible de numériser",
+        "message": "Impossible de scanner",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "VOUCHAR_CODE",
-        "message": "Code du bon d'achat",
+        "message": "Code du bon/coupon",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "VOUCHER_CODE",
-        "message": "Code du bon d'achat",
+        "message": "Code du bon/coupon",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "YEARS_ABBR",
-        "message": "oui",
+        "message": "y",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "YEAR_ABBR",
-        "message": "oui",
+        "message": "y",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "delivered",
-        "message": "A visité",
+        "message": "Visité",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     },
     {
         "code": "visited",
-        "message": "A visité",
-        "module": "hcm-beneficiary",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "REFERRAL_SEARCH_HINT_TEXT",
-        "message": "Entrez le nom de la référence",
-        "module": "hcm-beneficiary",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "REFERRAL_INFO_DESCRIPTION",
-        "message": "Cliquez sur le bouton Créer une nouvelle référence pour créer une référence",
-        "module": "hcm-beneficiary",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "BENEFICIARY_HOUSEHOLD_MEMBER",
-        "message": "Membre du ménage",
-        "module": "hcm-beneficiary",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "BENEFICIARY_HOUSEHOLD_MEMBERS",
-        "message": "Membres du foyer",
+        "message": "Visité",
         "module": "hcm-beneficiary",
         "locale": "fr_MZ"
     }

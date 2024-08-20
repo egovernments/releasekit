@@ -19,19 +19,25 @@
     },
     {
         "code": "BENEFICIARY_DETAILS_CURRENT_CYCLE_LABEL",
-        "message": "Cycle actuel",
+        "message": "Passage actuel",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
     {
         "code": "BENEFICIARY_DETAILS_CYCLE",
-        "message": "Faire du vélo",
+        "message": "Passage",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
     {
         "code": "BENEFICIARY_REFUSED",
         "message": "Bénéficiaire refusé",
+        "module": "hcm-delivery",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "CHECK_FOR_PRODUCT_VARIANTS_CONFIG",
+        "message": "Veuillez consulter la configuration pour les variantes de produits et les cycles.",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -43,19 +49,19 @@
     },
     {
         "code": "DELIVERY_CYCLE",
-        "message": "Faire du vélo",
+        "message": "Passage",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
     {
         "code": "DELIVER_INTERVENTION_CURRENT_CYCLE",
-        "message": "Cycle actuel",
+        "message": "Passage actuel",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
     {
         "code": "DELIVER_INTERVENTION_DATE_OF_REGISTRATION_LABEL",
-        "message": "Date d'enregistrement",
+        "message": "Date d'enregistrements",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -103,7 +109,7 @@
     },
     {
         "code": "DELIVER_INTERVENTION_HIDE_PAST_CYCLES",
-        "message": "Masquer les cycles passés",
+        "message": "Masquer les passages passés",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -198,6 +204,12 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "DELIVER_INTERVENTION_RESOURCE_DELETE_PRIMARY_ACTION_LABEL",
+        "message": "Supprimer",
+        "module": "hcm-delivery",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "DELIVER_INTERVENTION_RESOURCE_DELETE_RESOURCE",
         "message": "Supprimer la ressource",
         "module": "hcm-delivery",
@@ -205,7 +217,7 @@
     },
     {
         "code": "DELIVER_INTERVENTION_RESOURCE_DELIVERED_ERROR",
-        "message": "Champ requis",
+        "message": "Le champ est obligatoire",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -229,7 +241,7 @@
     },
     {
         "code": "DELIVER_INTERVENTION_VIEW_PAST_CYCLES",
-        "message": "Afficher les cycles passés",
+        "message": "Afficher les passages passés",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -277,7 +289,7 @@
     },
     {
         "code": "MEMBER_CARD_BENEFICIARY_REFUSED_LABEL",
-        "message": "Bénéficiaire refusé",
+        "message": "Bénéficiaire ayant refusé",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -288,8 +300,14 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "MEMBER_CARD_REFER_BENEFICIARY_LABEL",
+        "message": "Référer le bénéficiaire",
+        "module": "hcm-delivery",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "MEMBER_CARD_UNABLE_TO_DELIVER_LABEL",
-        "message": "Impossible à livrer ?",
+        "message": "Impossible de livrer ?",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -301,7 +319,7 @@
     },
     {
         "code": "NOT_DELIVERED",
-        "message": "Non livrés",
+        "message": "Non livré",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -320,6 +338,12 @@
     {
         "code": "PARTIALLY_DELIVERED",
         "message": "Partiellement livré",
+        "module": "hcm-delivery",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "QUANTITY_DISTRIBUTION_VALIDATION",
+        "message": "Pour {totalMembers} la quantité qui peut être distribuée est {quantité}",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -373,7 +397,7 @@
     },
     {
         "code": "TO_ADMINISTER",
-        "message": "Administrer",
+        "message": "Pour administrer",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },
@@ -385,7 +409,7 @@
     },
     {
         "code": "VISITED",
-        "message": "A visité",
+        "message": "Visité",
         "module": "hcm-delivery",
         "locale": "fr_MZ"
     },

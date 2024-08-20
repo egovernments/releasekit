@@ -156,6 +156,18 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "BENEFICIARY_HOUSEHOLD_MEMBER",
+        "message": "Membro da família",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "BENEFICIARY_HOUSEHOLD_MEMBERS",
+        "message": "Membros da família",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "BENEFICIARY_INDIVIDUAL_SEARCH_HINT_TEXT",
         "message": "Pesquise pelo nome da pessoa",
         "module": "hcm-beneficiary",
@@ -596,6 +608,246 @@
     {
         "code": "LINK_VOUCHER_TO_INDIVIDUAL",
         "message": "Vincular voucher a pessoa física",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a reação adversa a medicamentos",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Criança avaliada por reação adversa a SP e AQ ?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a reação adversa a medicamentos",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada por reação adversa a SP e AQ?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento devido a febre",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SEPC_Q2_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "A criança foi avaliada quanto a reacções adversas à SP e à AQ?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Este é um campo obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "A farmacovigilância nacional foi preenchida?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "A criança foi testada para a malária?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Resultado do teste de diagnóstico da malária ?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "A criança foi admitida / transferida para o hospital devido a doença grave?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Criança com teste de malária positivo tratada com antipalúdico",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
+        "message": "Nome e dose do antipalúdico",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "O nome e a dose do antipalúdico são obrigatórios",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Encaminhamento por motivo de doença",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Criança avaliada para determinar a causa da doença",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Introduzir comentários para o diagnóstico",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Os comentários são obrigatórios",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "A criança foi tratada?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nome e dose do medicamento",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "O nome e a dose do medicamento são obrigatórios",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Este campo é obrigatório",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "A criança foi internada / transferida para o hospital devido a doença grave?",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Este campo é obrigatório",
         "module": "hcm-beneficiary",
         "locale": "pt_MZ"
     },
@@ -1224,8 +1476,20 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "REFERRAL_INFO_DESCRIPTION",
+        "message": "Clique no botão criar nova referência para criar uma referência",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "REFERRAL_NAME_OF_CHILD_LABEL",
         "message": "Nome da criança",
+        "module": "hcm-beneficiary",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REFERRAL_SEARCH_HINT_TEXT",
+        "message": "Digite o nome da referência",
         "module": "hcm-beneficiary",
         "locale": "pt_MZ"
     },
@@ -2144,30 +2408,6 @@
     {
         "code": "visited",
         "message": "Visitado",
-        "module": "hcm-beneficiary",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "REFERRAL_SEARCH_HINT_TEXT",
-        "message": "Digite o nome da referência",
-        "module": "hcm-beneficiary",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "REFERRAL_INFO_DESCRIPTION",
-        "message": "Clique no botão criar nova referência para criar uma referência",
-        "module": "hcm-beneficiary",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "BENEFICIARY_HOUSEHOLD_MEMBER",
-        "message": "Membro da família",
-        "module": "hcm-beneficiary",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "BENEFICIARY_HOUSEHOLD_MEMBERS",
-        "message": "Membros da família",
         "module": "hcm-beneficiary",
         "locale": "pt_MZ"
     }
