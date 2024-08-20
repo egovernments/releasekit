@@ -1,0 +1,1718 @@
+[
+    {
+        "code": "CAMPAIGN_ADD_PRODUCT_MANDATORY_ERROR",
+        "message": "Veuillez remplir tous les champs obligatoires.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_BOUNDARY_DATA",
+        "message": "Données de limite",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_NAME",
+        "message": "Nom de la personne (obligatoire)",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_PLEASE_WAIT_LOADING_BOUNDARY",
+        "message": "S'il vous plaît, attendez",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ACTION_TEST_CAMPAIGN_MANAGER",
+        "message": "Gestionnaire de campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ACTION_TEST_CREATECAMPAIGN",
+        "message": "Ma campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ACTION_TEST_DISTRICT",
+        "message": "District",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL",
+        "message": "National",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ACTION_TEST_PROVINCIAL",
+        "message": "Provincial",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "BACK",
+        "message": "Dos",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "BOUNDARY_README_HEADER_3_DESC_2",
+        "message": "Les validations concernent uniquement la colonne Code de limite et la colonne Cible au niveau de limite sélectionnée.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMAPAIGN_DELIVERY_TAB_TEXT",
+        "message": "Livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ADD_MORE_ATTRIBUTE_TEXT",
+        "message": "Ajouter plus d'attributs",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ADD_MORE_DELIVERY_BUTTON",
+        "message": "Ajouter plus de conditions de livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ADD_MORE_PRODUCT_BUTTON",
+        "message": "Ajouter une ressource",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ADD_PRODUCTS_BUTTON_TEXT",
+        "message": "Ajouter des ressources à livrer",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ADD_PRODUCTS_LABEL",
+        "message": "Ressources à livrer",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ADD_PRODUCT_MANDATORY_ERROR",
+        "message": "Veuillez remplir les champs obligatoires.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ATTRIBUTE_AGE",
+        "message": "Âge (en mois)",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ATTRIBUTE_CAMPAIGN_BEDNET_HOUSEHOLD_LABEL",
+        "message": "Nombre de moustiquaires par ménage",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ATTRIBUTE_CAMPAIGN_BEDNET_INDIVIDUAL_LABEL",
+        "message": "Nombre de personnes par moustiquaire",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ATTRIBUTE_GENDER",
+        "message": "Sexe (homme ou femme)",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ATTRIBUTE_HEIGHT",
+        "message": "Hauteur (en cm)",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ATTRIBUTE_LABEL",
+        "message": "Attribut",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ATTRIBUTE_WEIGHT",
+        "message": "Poids (en Kgs)",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_BEDNET_HOUSEHOLD_LABEL",
+        "message": "Nombre de moustiquaires par ménage",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_BEDNET_INDIVIDUAL_LABEL",
+        "message": "Nombre de personnes par moustiquaire",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_BENEFICIARY_TYPE",
+        "message": "Type de bénéficiaire",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_COMPLETED",
+        "message": "Complété",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_COUNT_LABEL",
+        "message": "Compter",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_CONFIGURE_HEADING",
+        "message": "Le nombre de cycles et de livraisons dans chaque cycle sont préchargés pour la campagne SMC",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_CONFIGURE_HEADING_LLIN-MZ",
+        "message": "Configuration pour la campagne MILDA",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_CONFIGURE_HEADING_MR-DN",
+        "message": "Configuration pour une campagne à plusieurs tours",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_TAB_TEXT",
+        "message": "Faire du vélo",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_DELETE_CONDITION_LABEL",
+        "message": "Supprimer la condition",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_DELETE_ROW_TEXT",
+        "message": "Supprimer",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_DELIVERY",
+        "message": "Livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_DELIVERY_DETAILS",
+        "message": "Détails de livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_DELIVERY_RULE_LABEL",
+        "message": "État de livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_DETAILS",
+        "message": "Détails de la campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_DOWNLOAD_USER_CRED",
+        "message": "Télécharger les informations d'identification de l'utilisateur",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_DRAFTS",
+        "message": "Brouillons",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_EDIT",
+        "message": "Modifier",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_END_DATE",
+        "message": "Date de fin de campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_FAILED",
+        "message": "Échoué",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_HOME",
+        "message": "Maison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_NAME",
+        "message": "Nom de la campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_NAME_ERROR",
+        "message": "Ce nom de campagne existe déjà ! Essayez avec un autre nom valide.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_NAME_MISSING_TYPE_ERROR",
+        "message": "Veuillez saisir un nom de campagne !",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_NEW_PRODUCT_TEXT",
+        "message": "Vous ne trouvez pas votre produit dans la liste des ressources ?",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_NO_OF_CYCLE",
+        "message": "Nombre de cycles",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_NO_OF_CYCLES",
+        "message": "Nombre de cycles",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_NO_OF_DELIVERIES",
+        "message": "Nombre de livraisons",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_NO_OF_DELIVERY",
+        "message": "Nombre de livraisons",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_ONGOING",
+        "message": "En cours",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_OPERATOR_LABEL",
+        "message": "Opérateur",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PRODUCTS_MODAL_HEADER_TEXT",
+        "message": "Configurer les ressources",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PRODUCTS_MODAL_SECONDARY_ACTION",
+        "message": "Ajouter des ressources",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PRODUCTS_MODAL_SUBMIT_TEXT",
+        "message": "Confirmer les ressources",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PRODUCT_MISSING_ERROR",
+        "message": "Merci de remplir les ressources à livrer.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PRODUCT_NAME_ERROR",
+        "message": "Les champs obligatoires doivent comporter entre 2 et 100 caractères seulement.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PRODUCT_VARIANT_ERROR",
+        "message": "Les champs obligatoires doivent comporter entre 2 et 100 caractères seulement.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_DEFAULT1",
+        "message": "Configuration pour le type par défaut",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_LLIN-MZ",
+        "message": "Configuration pour la campagne MILDA",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_LLIN_MOZ",
+        "message": "Configuration spécifique au Mozambique pour les campagnes MILD",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_LLIN_MZ",
+        "message": "Configuration pour la campagne MILDA",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_MR-DN",
+        "message": "Configuration pour une campagne à plusieurs tours",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_MR_DN",
+        "message": "Configuration pour une campagne à plusieurs tours",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_SMC",
+        "message": "SMC",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_RESOURCE",
+        "message": "Ressource",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SEARCH_NAME",
+        "message": "Nom de la campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SEARCH_TITLE",
+        "message": "Ma campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SEARCH_TYPE",
+        "message": "Type de campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SELECT_BOUNDARIES_DESCRIPTION",
+        "message": "Les limites sont les zones administratives définies dans lesquelles vous souhaitez lancer une campagne. Commencez à sélectionner les limites à partir du premier niveau afin que les limites disponibles au niveau suivant puissent être sélectionnées.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SELECT_BOUNDARY",
+        "message": "Sélectionnez les limites où vous souhaitez lancer la campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SELECT_HIERARCHY",
+        "message": "Sélectionnez la hiérarchie",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_START_DATE",
+        "message": "Date de début de la campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_STATUS_CREATING_MESSAGE",
+        "message": "La campagne est en cours. Veuillez vérifier plus tard.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SUMMARY_NA",
+        "message": "A mettre à jour",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TAB_SUB_TEXT",
+        "message": "Les conditions de livraison que vous configurez à cette étape détermineront les critères d'éligibilité de vos bénéficiaires. Vous pouvez configurer plusieurs conditions de livraison en fonction des différents critères d'éligibilité suivis dans la campagne. Chaque critère d'éligibilité doit être créé en tant que condition de livraison distincte. Chaque condition pour un type de bénéficiaire individuel peut être créée en utilisant 4 attributs, à savoir l'âge",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TAB_SUB_TEXT_LLIN-MZ",
+        "message": "Configuration pour la campagne MILDA",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TAB_SUB_TEXT_MR-DN",
+        "message": "Configuration pour une campagne à plusieurs tours",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TAB_TEXT",
+        "message": "Configurer les conditions de livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TYPE",
+        "message": "Type de campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TYPE_HOUSEHOLD",
+        "message": "Ménage",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TYPE_INDIVIDUAL",
+        "message": "Individuel",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_UPCOMING",
+        "message": "Prochain",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_USER_GENERATION_SUCCESS",
+        "message": "Identifiant utilisateur généré avec succès. Veuillez télécharger.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_VALUE_LABEL",
+        "message": "Valeur",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_VALUE_ZERO_ERROR",
+        "message": "La valeur ne peut pas être nulle pour les conditions de livraison.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CMN_NOOPTION",
+        "message": "Aucune option disponible",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CREATE_NEW_CAMPAIGN",
+        "message": "Campagne de configuration",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CYCLE",
+        "message": "Faire du vélo",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "Campaign_name_missing_type_error",
+        "message": "Veuillez remplir le champ obligatoire pour continuer.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "DELIVERY_CYCLE_DATE_ERROR",
+        "message": "Les dates de début et de fin des cycles de livraison sont vides. Veuillez remplir les valeurs.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "DELIVERY_CYCLE_DETAILS",
+        "message": "Détails de livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "DELIVERY_CYCLE_EMPTY_ERROR",
+        "message": "Le nombre de cycles et de livraisons est vide. Veuillez remplir les valeurs.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "DELIVERY_CYCLE_MISMATCH_LENGTH_ERROR",
+        "message": "Les dates de début et de fin des cycles de livraison sont vides. Veuillez remplir les valeurs.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "DELIVERY_NUMBER",
+        "message": "Nombre de livraisons par cycle",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "DELIVERY_RULES_ERROR",
+        "message": "Veuillez remplir toutes les valeurs dans les conditions de livraison ainsi que les ressources à livrer.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "END_DATE",
+        "message": "Date de fin",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "EQUAL_TO",
+        "message": "Égal à",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ERROR_WHILE_DOWNLOADING",
+        "message": "Un problème a été détecté lors du téléchargement du modèle. Veuillez réessayer plus tard.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ERR_HRMS_INVALID_CITY",
+        "message": "Veuillez sélectionner un nom de ville valide.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_ADD_PRODUCT_BUTTON",
+        "message": "Confirmer l'ajout de ressources",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_ADD_PRODUCT_LINK",
+        "message": "Ajouter de nouvelles ressources",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_CREATE_SUCCESS_RESPONSE",
+        "message": "Données de campagne soumises avec succès !",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_CREATE_SUCCESS_RESPONSE_TEXT",
+        "message": "Les données de la campagne ont été capturées avec succès par la console d'administration HCM et la création de la campagne prendra quelques minutes. Une fois la campagne créée, vous pouvez télécharger les informations d'identification de l'utilisateur et d'autres données de campagne à partir de l'écran « Mes campagnes ».",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_RESPONSE_ACTION",
+        "message": "Rentrer à la maison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_SUCCESS_INFO_TEXT",
+        "message": "ID de campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_COMMON_PLEASE_ENTER_ALL_MANDATORY_FIELDS",
+        "message": "Veuillez saisir un nom de campagne valide pour passer à l'étape suivante.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_PRODUCT_CREATE_SUCCESS_RESPONSE",
+        "message": "Ressource ajoutée avec succès !",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_PRODUCT_CREATE_SUCCESS_RESPONSE_BOLD_TEXT",
+        "message": "Ressource à livrer",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_PRODUCT_CREATE_SUCCESS_RESPONSE_POST_TEXT",
+        "message": "liste déroulante dans la fenêtre contextuelle de configuration des ressources.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_PRODUCT_CREATE_SUCCESS_RESPONSE_PRE_TEXT",
+        "message": "Les ressources nouvellement créées seront renseignées dans le",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_PRODUCT_CREATE_SUCCESS_RESPONSE_TEXT",
+        "message": "Les ressources nouvellement créées seront renseignées dans la liste déroulante « Ressources à livrer » dans la fenêtre contextuelle de configuration des ressources.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_PRODUCT_RESPONSE_ACTION",
+        "message": "Retourner",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_TQM_SUMMARY_HEADING",
+        "message": "Résumé",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "End Date",
+        "message": "Date de fin",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "FACILITY_DETAILS",
+        "message": "Détails de l'installation",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "FACILITY_DETAILS_ERROR",
+        "message": "Veuillez ajouter le fichier Excel des détails de l'installation.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "FEMALE",
+        "message": "Femelle",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "GREATER_THAN",
+        "message": "Plus grand que",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "GREATER_THAN_EQUAL_TO",
+        "message": "Supérieur ou égal à",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_AVAILABLE_FACILITIES",
+        "message": "Installations disponibles",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+        "message": "Code des limites",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_CAPACITY",
+        "message": "Capacité (Unités : Balles pour moustiquaires/Blister SPAQ pour SMC)",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_CODE",
+        "message": "Code de l'établissement",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_NAME",
+        "message": "Nom de l'établissement",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_STATUS",
+        "message": "Statut de l'établissement",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_TYPE",
+        "message": "Type d'établissement",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET_AT_THE_SELECTED_BOUNDARY_LEVEL",
+        "message": "Cible au niveau de la limite sélectionnée",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE",
+        "message": "Type d'emploi (obligatoire)",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_LIST",
+        "message": "Créer une liste d'utilisateurs",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER",
+        "message": "Numéro de téléphone (obligatoire)",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_ROLE",
+        "message": "Rôle (obligatoire)",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_BACK",
+        "message": "Dos",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_BENEFICIARY_TYPE",
+        "message": "Type de bénéficiaire",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_BOUNDARY_DETAILS",
+        "message": "Détails des limites",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_BOUNDARY_INFO",
+        "message": "Si vous ne trouvez pas votre hiérarchie de limites, veuillez contacter l'équipe L1 au",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_BOUNDARY_MESSAGE",
+        "message": "Veuillez remplir le modèle téléchargé avec les données cibles et télécharger la feuille Excel.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_ADD_NEW_PRODUCT_DESCRIPTION",
+        "message": "Veuillez ajouter vos nouvelles ressources. Les ressources nouvellement créées seront renseignées dans la liste déroulante « Ressources à livrer » dans la fenêtre contextuelle de configuration des ressources.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_ADD_NEW_PRODUCT_DESCRIPTION_BOLD_TEXT",
+        "message": "Ressources à livrer",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_ADD_NEW_PRODUCT_DESCRIPTION_POST_TEXT",
+        "message": "liste déroulante dans la fenêtre contextuelle de configuration des ressources.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_ADD_NEW_PRODUCT_DESCRIPTION_PRE_TEXT",
+        "message": "Veuillez ajouter vos nouvelles ressources. Les ressources nouvellement créées seront renseignées dans le",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_ADD_NEW_PRODUCT_HEADER",
+        "message": "Ajouter de nouvelles ressources",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_ALL_THE_LEVELS_ARE_MANDATORY",
+        "message": "Veuillez remplir tous les champs obligatoires.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_CHILD_NOT_PRESENT",
+        "message": "les limites des niveaux inférieurs sont manquantes. Veuillez sélectionner les limites jusqu'au niveau le plus bas.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_DATES",
+        "message": "Dates de campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_DATES_HEADER",
+        "message": "Quelle est la date de début et de fin de la campagne ?",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_DATE_MISSING",
+        "message": "Veuillez saisir la date de début et de fin de la campagne !",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_END_DATE_BEFORE_START_DATE",
+        "message": "La date de début de la campagne ne peut pas être postérieure à la date de fin de la campagne.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_END_DATE_EQUAL_START_DATE",
+        "message": "Les dates de début et de fin d'une campagne ne peuvent pas être les mêmes.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_FOR",
+        "message": "Pour",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_NAME",
+        "message": "Nom de la campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_NAME_DESCRIPTION",
+        "message": "Veuillez nommer votre campagne. Votre nom peut inclure la zone géographique dans laquelle la campagne est diffusée",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_NAME_HEADER",
+        "message": "Quel est le nom de votre campagne ?",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_SETUP_DETAILS",
+        "message": "Campagne de configuration",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_SUCCESS_RESPONSE_ACTION",
+        "message": "Détails de la campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_TYPE",
+        "message": "Type de campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_TYPE_DESCRIPTION",
+        "message": "Le type de campagne déterminera le type de bénéficiaire de votre campagne. Vos règles de livraison seront préchargées en fonction du type de campagne que vous sélectionnez.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_TYPE_HEADER",
+        "message": "Quel type de campagne souhaitez-vous lancer ?",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CHECK_FILE_AGAIN",
+        "message": "Il y a quelques erreurs dans la feuille. Veuillez vérifier à nouveau le fichier.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_DELIVERY_DETAILS",
+        "message": "Détails de livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_EMPTY_SHEET",
+        "message": "La feuille téléchargée ne doit pas être vide.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_END_DATE",
+        "message": "Date de fin",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_FACILITY_DETAILS",
+        "message": "Détails de l'installation",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_FACILITY_MESSAGE",
+        "message": "Veuillez remplir le modèle téléchargé avec les données de l'établissement et télécharger la feuille Excel.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_FILE_VALIDATION",
+        "message": "La validation du fichier a échoué. Veuillez télécharger le fichier de données correct.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_FILE_VALIDATION_ERROR",
+        "message": "La validation du fichier a échoué. Veuillez télécharger le fichier de données correct.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_HIERARCHY_TYPE",
+        "message": "Type de hiérarchie",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_INVALID_BOUNDARY_SHEET",
+        "message": "L'une des feuilles du fichier téléchargé semble porter un nom incorrect. Veuillez télécharger à nouveau le modèle et le télécharger avec les données correctes.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_INVALID_FACILITY_SHEET",
+        "message": "L'une des feuilles du fichier téléchargé semble porter un nom incorrect. Veuillez télécharger à nouveau le modèle et le télécharger avec les données correctes.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_INVALID_USER_SHEET",
+        "message": "L'une des feuilles du fichier téléchargé semble porter un nom incorrect. Veuillez télécharger à nouveau le modèle et le télécharger avec les données correctes.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_MISSING_HEADERS",
+        "message": "Une ou plusieurs colonnes ou en-têtes sont manquants dans le fichier téléchargé et ne correspondent pas au modèle. Veuillez télécharger à nouveau le modèle et télécharger le modèle correct avec les données.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_MISSING_TARGET",
+        "message": "Les valeurs de la colonne cible sont manquantes ou incorrectes. Veuillez remplir les valeurs de 1 à 100 000 uniquement.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_NEXT",
+        "message": "Suivant",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_PLEASE_WAIT",
+        "message": "S'il vous plaît, attendez",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_PLEASE_WAIT_LOADING_BOUNDARY",
+        "message": "Veuillez patienter un moment.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_PRODUCT_NAME",
+        "message": "Nom de la ressource",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_PRODUCT_TYPE",
+        "message": "Type de ressource",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_PRODUCT_VARIANT",
+        "message": "Variante de ressource",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_REVIEW_DETAILS",
+        "message": "Résumé",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_START_DATE",
+        "message": "Date de début",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_TARGETS",
+        "message": "Détails de la cible",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_TARGET_VALIDATION_ERROR",
+        "message": "Les valeurs cibles doivent être supérieures à 0 et inférieures à 100 000.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_UPLOAD_BOUNDARY",
+        "message": "Gérer les limites",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_USER_DETAILS",
+        "message": "Détails de l'utilisateur",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_USER_MESSAGE",
+        "message": "Veuillez remplir le modèle téléchargé avec les données utilisateur et télécharger la feuille Excel.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_VALIDATION_COMPLETED",
+        "message": "La validation du fichier est terminée et réussie.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_VALIDATION_FAILED",
+        "message": "Le processus de validation du fichier a échoué.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_VALIDATION_IN_PROGRESS",
+        "message": "Validation en cours",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HOUSEHOLD",
+        "message": "Ménage",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "INDIVIDUAL",
+        "message": "Individuel",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "IN_BETWEEN",
+        "message": "Entre",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "LESSER_THAN_EQUAL_TO",
+        "message": "Inférieur ou égal à",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "LESS_THAN",
+        "message": "Moins que",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "LESS_THAN_EQUAL_TO",
+        "message": "Inférieur ou égal à",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "LLIN-mz",
+        "message": "Configuration pour la campagne MILDA",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "MALE",
+        "message": "Mâle",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "MY_CAMPAIGN",
+        "message": "Ma campagne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "NO_DOCUMENTS_AVAILABLE",
+        "message": "Aucun document disponible pour les informations d'identification.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "Number of Individuals per bed net",
+        "message": "Nombre de personnes par moustiquaire",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "OTHERS",
+        "message": "Autres",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "PROJECT_TYPE_UNDEFINED_ERROR",
+        "message": "Veuillez sélectionner un type de campagne pour passer à l'étape suivante.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "START_DATE",
+        "message": "Date de début",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "Start Date",
+        "message": "Date de début",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "TARGET_DETAILS",
+        "message": "Détails de la cible",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "TARGET_DETAILS_ERROR",
+        "message": "Veuillez ajouter le fichier Excel des détails de la cible.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "TO_DATE",
+        "message": "Date de fin",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "TRANSGENDER",
+        "message": "Transgenre",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "USER_DETAILS",
+        "message": "Détails de l'utilisateur",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "USER_DETAILS_ERROR",
+        "message": "Veuillez ajouter le fichier Excel des détails de l'utilisateur.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "USER_GENERATE_DETAILS",
+        "message": "Détails des informations d'identification de l'utilisateur",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_BULK_BROWSE_FILES",
+        "message": "Naviguer dans mes fichiers",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_CAMPAIGN_CREATED",
+        "message": "Fichier téléchargé avec succès.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_CREATE_HIERARCHY",
+        "message": "Créer une hiérarchie",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_DELETE",
+        "message": "Supprimer",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_DOWLOAD_TEMPLATE",
+        "message": "Télécharger le modèle",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_DOWNLOAD",
+        "message": "Télécharger",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_DOWNLOAD_TEMPLATE",
+        "message": "Télécharger le modèle",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_DRAG_DROP",
+        "message": "Faites glisser et déposez votre feuille Excel remplie ou",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_HIERARCHY_DETAILS",
+        "message": "Détails de la hiérarchie",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_HIERARCHY_NAME",
+        "message": "Nom de la hiérarchie",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_HIERARCHY_TYPE",
+        "message": "Sélectionnez le type de hiérarchie",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_LOC_BULK_UPLOAD_XLS",
+        "message": "Limites du téléchargement groupé",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_UNABLE_TO_FIND_HIERARCHY_TYPE",
+        "message": "Créer un nouveau type de hiérarchie",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_UPLOAD_BOUNDARY",
+        "message": "Limite de téléchargement",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_UPLOAD_FACILITY",
+        "message": "Télécharger les données de l'établissement",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "WBH_UPLOAD_USER",
+        "message": "Télécharger les données utilisateur",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_NAME_EXAMPLE",
+        "message": "Exemple de nom : CampaignType_Boundary_Dates",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_FIELD_MANDATORY",
+        "message": "Champ obligatoire !",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_FIELD_ERROR_MANDATORY",
+        "message": "Champ obligatoire !",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_BOUNDARY_PLEASE_WAIT",
+        "message": "Veuillez patienter un moment.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_END_DATE_SAME_ERROR",
+        "message": "Les données de début et la date de fin ne peuvent pas être identiques.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_END_DATE_BEFORE_ERROR",
+        "message": "La date de début ne peut pas être postérieure à la date de fin.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_INFO_MR-DN",
+        "message": "Veuillez noter que le nombre de cycles et d'accouchements dans chaque cycle indiqué ci-dessous sont configurés conformément aux directives fournies par l'OMS pour les campagnes de « chimioprévention du paludisme saisonnier ». Si vous souhaitez modifier le nombre de cycles ou de livraisons dans chaque cycle, vous pouvez le faire en appuyant sur les icônes « + » ou « - » des cycles et livraisons selon vos préférences.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TAB_INFO_TEXT_MR-DN",
+        "message": "Veuillez noter que les conditions énumérées ci-dessous sont configurées conformément aux directives fournies par l'OMS pour les campagnes de « chimioprévention du paludisme saisonnier ». Si vous souhaitez modifier des conditions spécifiques ou des ressources à livrer, vous pouvez le faire en modifiant les règles de livraison selon vos préférences.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_DELIVERY_TYPE",
+        "message": "Type de livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "DIRECT",
+        "message": "Livraison directe",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "INDIRECT",
+        "message": "Livraison indirecte",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_FROM_LABEL",
+        "message": "Depuis",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TO_LABEL",
+        "message": "À",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPLOAD_BOUNDARY_DATA_MODAL_HEADER",
+        "message": "Télécharger le modèle Excel pour la cible",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPLOAD_BOUNDARY_DATA_MODAL_TEXT",
+        "message": "Téléchargez le modèle Excel contenant les données de limites sélectionnées. Une fois téléchargé, veuillez remplir le modèle avec les données cibles correctes et télécharger la feuille.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_UPLOAD_CANCEL",
+        "message": "Annuler",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_CAMPAIGN_DOWNLOAD_TEMPLATE",
+        "message": "Télécharger le modèle",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_VALIDATION_INPROGRESS",
+        "message": "S'il vous plaît, attendez. La validation est en cours.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPLOAD_FACILITY_DATA_MODAL_HEADER",
+        "message": "Télécharger le modèle Excel pour les données des installations",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPLOAD_FACILITY_DATA_TEXT",
+        "message": "Téléchargez le modèle Excel qui contient la liste des installations permanentes et la liste des données de limites sélectionnées. Une fois téléchargé, veuillez remplir le modèle avec les données correctes de l'établissement et télécharger la feuille.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPLOAD_USER_DATA_MODAL_HEADER",
+        "message": "Téléchargez le modèle Excel pour les détails de l'utilisateur",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPLOAD_USER_DATA_MODAL_TEXT",
+        "message": "Téléchargez le modèle Excel contenant les données de limites sélectionnées. Une fois téléchargé, veuillez remplir le modèle avec les données utilisateur correctes et télécharger la feuille.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_FACILITY_USAGE",
+        "message": "Utilisation des installations",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_NO_DOCUMENTS_AVAILABLE",
+        "message": "Veuillez télécharger une feuille Excel valide.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "TARGET_FILE_MISSING",
+        "message": "La feuille cible est manquante",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "FACILITY_FILE_MISSING",
+        "message": "La fiche d'établissement est manquante",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "USER_FILE_MISSING",
+        "message": "La fiche utilisateur est manquante",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SUMMARY_DATE_MISSING_ERROR",
+        "message": "Il manque des dates dans le cycle {CYCLE_NO}",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SUMMARY_ADD_DATE_ACTION",
+        "message": "Ajouter une date",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SUMMARY_DELIVERY_TYPE_MISSING_ERROR",
+        "message": "Type de livraison manquant dans le cycle {CYCLE_NO}, livraison {DELIVERY_NO} pour la condition de livraison {CONDITION_NO}",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SUMMARY_ADD_DELIVERY_TYPE_ACTION",
+        "message": "Ajouter un type de livraison",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SUMMARY_PRODUCT_MISSING_ERROR",
+        "message": "Des ressources sont manquantes dans le cycle {CYCLE_NO} de livraison {DELIVERY_NO} pour la condition de livraison {CONDITION_NO}.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SUMMARY_ADD_PRODUCT_ACTION",
+        "message": "Ajouter une ressource",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SUMMARY_ATTRIBUTES_MISSING_ERROR",
+        "message": "Des attributs manquent dans le cycle {CYCLE_NO} de livraison {DELIVERY_NO} pour la condition de livraison {CONDITION_NO}.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_SUMMARY_ADD_ATTRIBUTES_ACTION",
+        "message": "Ajouter des attributs",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_TAB_INFO_TEXT_LLIN-MZ",
+        "message": "La valeur de 1,8 pour le paramètre « Nombre de bénéficiaires par moustiquaire » est basée sur les directives de l'OMS. L'utilisateur peut choisir de modifier cette valeur si cela ne fonctionne pas pour le cas d'utilisation de son pays.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_INFO_LLIN-MZ",
+        "message": "Selon les directives de l'OMS, les MILDA doivent être distribuées tous les trois ans. Cette recommandation est basée sur la durée de vie moyenne des MILD. Sur la base de cette directive, le nombre de cycles et de livraisons est fixé à 1 chacun.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPDATE_BOUNDARY_MODAL_HEADER",
+        "message": "Êtes-vous sûr de vouloir mettre à jour les limites de votre campagne ?",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPDATE_BOUNDARY_MODAL_TEXT",
+        "message": "Si vous modifiez les données de limite de campagne à cette étape, le(s) fichier(s) téléchargé(s) pour les étapes suivantes seront supprimés.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_BOUNDARY_MODAL_BACK",
+        "message": "Oui",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_BOUNDARY_MODAL_SUBMIT",
+        "message": "Non",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPDATE_TYPE_MODAL_HEADER",
+        "message": "Êtes-vous sûr de vouloir mettre à jour le type de campagne ?",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPDATE_TYPE_MODAL_TEXT",
+        "message": "Si vous modifiez le type de campagne à cette étape, toutes les données seront supprimées.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_DATA_AT_ROW",
+        "message": "Données à la ligne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_IN_COLUMN",
+        "message": "en colonne",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_LEVEL",
+        "message": "Niveau",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_DATA_SHOULD_NOT_BE_EMPTY",
+        "message": "ne devrait pas être vide",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_DATA_ALLOWED_VALUES_ARE",
+        "message": ". Les valeurs autorisées sont :",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "HCM_IS_INVALID",
+        "message": "est invalide.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_CAMPAIGN_UPLOAD_FACILITY_DATA_MODAL_TEXT",
+        "message": "Téléchargez le modèle Excel qui contient la liste des installations permanentes et la liste des données de limites sélectionnées. Une fois téléchargé, veuillez remplir le modèle avec les données correctes de l'établissement et télécharger la feuille.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_COMMON_CLEAR_SEARCH",
+        "message": "Clair",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "COMMON_NO_RESULTS_FOUND",
+        "message": "Aucun résultat trouvé pour les critères de recherche donnés.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "COMMON_NO_RESULTS_FOUND",
+        "message": "Aucun résultat trouvé pour les critères de recherche donnés.",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "ES_ADD_PRODUCT_TITLE",
+        "message": "Ressource",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_CONDITION",
+        "message": "Condition",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    },
+    {
+        "code": "CAMPAIGN_COUNT_LABEL",
+        "message": "Compter",
+        "module": "rainmaker-campaignmanager",
+        "locale": "fr_IN"
+    }
+]
