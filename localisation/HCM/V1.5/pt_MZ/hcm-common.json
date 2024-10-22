@@ -642,6 +642,12 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "CORE_COMMON_FAILED_TO_FETCH",
+        "message": "Falha ao buscar",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "CORE_COMMON_FEMALE",
         "message": "Fêmea",
         "module": "hcm-common",
@@ -678,6 +684,12 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "CORE_COMMON_LOADING_TEXT",
+        "message": "Carregando...",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "CORE_COMMON_LOADING_TEXT'",
         "message": "Carregando...",
         "module": "hcm-common",
@@ -697,6 +709,12 @@
     },
     {
         "code": "CORE_COMMON_METER",
+        "message": "metros",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_METERS",
         "message": "metros",
         "module": "hcm-common",
         "locale": "pt_MZ"
@@ -794,6 +812,12 @@
     {
         "code": "CORE_COMMON_REQUIRED_ITEMS",
         "message": "Pelo menos um item precisa ser selecionado",
+        "module": "hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_RETRY",
+        "message": "Tentar novamente",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
@@ -1021,7 +1045,7 @@
     },
     {
         "code": "INDIVIDUAL_DETAILS_MOBILE_NUMBER_LENGTH",
-        "message": "O número do celular deve ter 10 dígitos",
+        "message": "O número de telemóvel tem de ter 9 ou 10 dígitos",
         "module": "hcm-common",
         "locale": "pt_MZ"
     },
