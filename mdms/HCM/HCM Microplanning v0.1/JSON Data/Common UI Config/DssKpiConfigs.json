@@ -1,0 +1,220 @@
+[
+  {
+    "module": "MICROPLAN-FACILITY",
+    "kpiConfig": [
+      {
+        "charts": [
+          {
+            "order": 1,
+            "active": true,
+            "localeKey": "TOTAL_FACILITIES_WITH_MAPPED_VILLAGES",
+            "moduleLevel": "MICROPLAN-FACILITY",
+            "concateChars": "/",
+            "concatenateKey": "microplanTotalFacilityCount",
+            "visualizationCode": "totalFacilitiesWithMappedVillages",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 2,
+            "active": true,
+            "localeKey": "TOTAL_VILLAGES_WITH_FACILITY_ASSIGNED",
+            "moduleLevel": "MICROPLAN-FACILITY",
+            "concateChars": "/",
+            "concatenateKey": "microplanTotalVillageCount",
+            "visualizationCode": "totalVillagesWithFacilityAssigned",
+            "visualizationType": "METRIC"
+          }
+        ],
+        "campaignType": "MR-DN"
+      },
+      {
+        "charts": [
+          {
+            "order": 1,
+            "active": true,
+            "localeKey": "TOTAL_FACILITIES_WITH_MAPPED_VILLAGES",
+            "moduleLevel": "MICROPLAN-FACILITY",
+            "concateChars": "/",
+            "concatenateKey": "microplanTotalFacilityCount",
+            "visualizationCode": "totalFacilitiesWithMappedVillages",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 2,
+            "active": true,
+            "localeKey": "TOTAL_VILLAGES_WITH_FACILITY_ASSIGNED",
+            "moduleLevel": "MICROPLAN-FACILITY",
+            "concateChars": "/",
+            "concatenateKey": "microplanTotalVillageCount",
+            "visualizationCode": "totalVillagesWithFacilityAssigned",
+            "visualizationType": "METRIC"
+          }
+        ],
+        "campaignType": "LLIN-mz"
+      }
+    ]
+  },
+  {
+    "module": "MICROPLAN",
+    "kpiConfig": [
+      {
+        "charts": [
+          {
+            "order": 1,
+            "localeKey": "MICROPLAN_SUM_TOTAL_TARGET_POPULATION",
+            "moduleLevel": "MICROPLAN",
+            "visualizationCode": "microplanSumTotalTargetPopulation",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 2,
+            "localeKey": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "moduleLevel": "MICROPLAN",
+            "visualizationCode": "totalSpaq1ForAge3To11Months",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 3,
+            "localeKey": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "moduleLevel": "MICROPLAN",
+            "visualizationCode": "totalSpaq1ForAge3To11MonthsWithBuffer",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 4,
+            "localeKey": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "moduleLevel": "MICROPLAN",
+            "visualizationCode": "totalSpaq2ForAge12To59Months",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 5,
+            "localeKey": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER",
+            "moduleLevel": "MICROPLAN",
+            "visualizationCode": "totalSpaq2ForAge12To59MonthsWithBuffer",
+            "visualizationType": "METRIC"
+          }
+        ],
+        "campaignType": "MR-DN"
+      },
+      {
+        "charts": [
+          {
+            "order": 1,
+            "localeKey": "MICROPLAN_SUM_TOTAL_TARGET_POPULATION",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusConfirmedTargetPopulation",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 2,
+            "localeKey": "MICROPLAN_NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "moduleLevel": "MICROPLAN",
+            "visualizationCode": "microplanNoOfHouseholdsPerBoundary",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 3,
+            "localeKey": "MICROPLAN_NO_OF_BEDNETS_PER_BOUNDARY",
+            "moduleLevel": "MICROPLAN",
+            "visualizationCode": "microplanNoOfBednetsPerBoundary",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 4,
+            "localeKey": "MICROPLAN_NO_OF_BALES_PER_BOUNDARY",
+            "moduleLevel": "MICROPLAN",
+            "visualizationCode": "microplanNoOfBalesPerBoundary",
+            "visualizationType": "METRIC"
+          }
+        ],
+        "campaignType": "LLIN-mz"
+      }
+    ]
+  },
+  {
+    "module": "CENSUS",
+    "kpiConfig": [
+      {
+        "charts": [
+          {
+            "order": 6,
+            "localeKey": "CENSUS_CONFIRMED_TOTAL_POPULATION",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusConfirmedTotalPopulation",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 5,
+            "localeKey": "CENSUS_UPLOADED_TOTAL_POPULATION",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusUploadedTotalPopulation",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 2,
+            "localeKey": "CENSUS_CONFIRMED_TARGET_POPULATION_AGE_3_TO_11",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusConfirmedTargetPopulationAge3To11",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 1,
+            "localeKey": "CENSUS_UPLOADED_TARGET_POPULATION_AGE_3_TO_11",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusUploadedTargetPopulationAge3To11",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 4,
+            "localeKey": "CENSUS_CONFIRMED_TARGET_POPULATION_AGE_12_TO_59",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusConfirmedTargetPopulationAge12To59",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 3,
+            "localeKey": "CENSUS_UPLOADED_TARGET_POPULATION_AGE_12_TO_59",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusUploadedTargetPopulationAge12To59",
+            "visualizationType": "METRIC"
+          }
+        ],
+        "campaignType": "MR-DN"
+      },
+      {
+        "charts": [
+          {
+            "order": 2,
+            "localeKey": "CENSUS_CONFIRMED_TARGET_POPULATION",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusConfirmedTargetPopulation",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 1,
+            "localeKey": "CENSUS_UPLOADED_TARGET_POPULATION",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusUploadedTargetPopulation",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 4,
+            "localeKey": "CENSUS_CONFIRMED_TOTAL_POPULATION",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusConfirmedTotalPopulation",
+            "visualizationType": "METRIC"
+          },
+          {
+            "order": 3,
+            "localeKey": "CENSUS_UPLOADED_TOTAL_POPULATION",
+            "moduleLevel": "CENSUS",
+            "visualizationCode": "censusUploadedTotalPopulation",
+            "visualizationType": "METRIC"
+          }
+        ],
+        "campaignType": "LLIN-mz"
+      }
+    ]
+  }
+]

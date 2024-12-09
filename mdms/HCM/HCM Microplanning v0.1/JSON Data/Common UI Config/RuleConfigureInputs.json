@@ -1,0 +1,555 @@
+[
+  {
+    "campaignType": "MR-DN",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "HOUSEHOLD_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "HOUSEHOLD_DISTRIBUTION"
+      },
+      {
+        "order": 4,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "FIXED_POST_REGISTRATION"
+      },
+      {
+        "order": 5,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "FIXED_POST_DISTRIBUTION"
+      },
+      {
+        "order": 6,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "HOUSEHOLD_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "HOUSEHOLD_DISTRIBUTION"
+      },
+      {
+        "order": 4,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "FIXED_POST_REGISTRATION"
+      },
+      {
+        "order": 5,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "FIXED_POST_DISTRIBUTION"
+      },
+      {
+        "order": 6,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "FIXED_POST",
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "HOUSEHOLD_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "HOUSEHOLD_DISTRIBUTION"
+      },
+      {
+        "order": 4,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "FIXED_POST_REGISTRATION"
+      },
+      {
+        "order": 5,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "FIXED_POST_DISTRIBUTION"
+      },
+      {
+        "order": 6,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "FIXED_POST",
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "HOUSEHOLD_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "HOUSEHOLD_DISTRIBUTION"
+      },
+      {
+        "order": 4,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "FIXED_POST_REGISTRATION"
+      },
+      {
+        "order": 5,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "FIXED_POST_DISTRIBUTION"
+      },
+      {
+        "order": 6,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "FIXED_POST_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "FIXED_POST_DISTRIBUTION"
+      },
+      {
+        "order": 4,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "FIXED_POST",
+    "resourceDistributionStrategyCode": "FIXED_POST",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "FIXED_POST_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "FIXED_POST_DISTRIBUTION"
+      },
+      {
+        "order": 4,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "FIXED_POST",
+    "resourceDistributionStrategyCode": "FIXED_POST",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "FIXED_POST_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "FIXED_POST",
+    "resourceDistributionStrategyCode": "FIXED_POST",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "TOGETHER"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "FIXED_POST_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "FIXED_POST",
+    "resourceDistributionStrategyCode": "FIXED_POST",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "TOGETHER"
+  },
+  {
+    "campaignType": "MR-DN",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "HOUSEHOLD_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "HOUSEHOLD_DISTRIBUTION"
+      },
+      {
+        "order": 4,
+        "inputs": [
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+          "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "resourceDistributionStrategyCode": "HOUSE_TO_HOUSE",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "HOUSEHOLD_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "HOUSEHOLD_DISTRIBUTION"
+      },
+      {
+        "order": 4,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "resourceDistributionStrategyCode": "HOUSE_TO_HOUSE",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "HOUSEHOLD_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "resourceDistributionStrategyCode": "HOUSE_TO_HOUSE",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "TOGETHER"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "inputCategories": [
+      {
+        "order": 1,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "GENERAL_ESTIMATION"
+      },
+      {
+        "order": 2,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "HOUSEHOLD_REGISTRATION"
+      },
+      {
+        "order": 3,
+        "inputs": [
+          "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+          "HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+        ],
+        "category": "CAMPAIGN_COMMODITIES"
+      }
+    ],
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "resourceDistributionStrategyCode": "HOUSE_TO_HOUSE",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "TOGETHER"
+  }
+]
