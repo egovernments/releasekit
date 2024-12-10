@@ -1,0 +1,34 @@
+[
+  {
+  "id": 2030,
+  "url": "/project-factory/v1/project-type/getProcessTrack",
+  "name": "Project Type progress track",
+  "enabled": true,
+  "leftIcon": "dynamic:ContractIcon",
+  "displayName": "Project Type progress track",
+  "orderNumber": -1,
+  "serviceCode": "project-factory"
+},
+
+{
+  "id": 2031,
+  "url": "/health-project/v1/_search",
+  "name": "HEALTH PROJECT SEARCH",
+  "enabled": true,
+  "leftIcon": "dynamic:ContractIcon",
+  "displayName": "HEALTH PROJECT SEARCH",
+  "orderNumber": 0,
+  "serviceCode": "project"
+},
+
+{
+  "id": 2032,
+  "url": "/health-project/v1/_update",
+  "name": "Health Project Update",
+  "enabled": true,
+  "leftIcon": "dynamic:ContractIcon",
+  "displayName": "Health Project Update",
+  "orderNumber": 0,
+  "serviceCode": "project"
+}
+]
