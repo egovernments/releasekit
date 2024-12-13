@@ -56,18 +56,6 @@
     "navigationURL": "/workbench-ui/employee/campaign/boundary/home?type=campaign"
   },
   {
-    "id": 1734,
-    "url": "/localization/messages/v1/_upsert",
-    "code": "null",
-    "name": "LocalizationMessagesUpsert",
-    "path": "",
-    "enabled": false,
-    "displayName": "Localization Messages Upsert",
-    "orderNumber": 1,
-    "serviceCode": "filestore url",
-    "parentModule": ""
-  },
-  {
     "id": 1965,
     "url": "/project-factory/v1/data/_create",
     "code": "null ",
@@ -85,16 +73,6 @@
     "enabled": true,
     "leftIcon": "dynamic:ContractIcon",
     "displayName": "Template download",
-    "serviceCode": "mdms"
-  },
-  {
-    "id": 1969,
-    "url": "/project-factory/v1/data/_generate",
-    "code": "null",
-    "name": "Template Generate",
-    "enabled": true,
-    "leftIcon": "dynamic:ContractIcon",
-    "displayName": "Template Generate",
     "serviceCode": "mdms"
   },
   {
@@ -319,19 +297,6 @@
     "serviceCode": "mdms"
   },
   {
-    "id": 2015,
-    "url": "url",
-    "name": "CreateCampaign",
-    "path": "Campaign.Createcampaign",
-    "enabled": true,
-    "leftIcon": "Engineering",
-    "displayName": "Create Campaign",
-    "orderNumber": 2,
-    "serviceCode": "workbench",
-    "parentModule": "workbench",
-    "navigationURL": "/workbench-ui/employee/campaign/setup-campaign"
-  },
-  {
     "id": 2014,
     "url": "url",
     "name": "MyCampaign",
@@ -533,16 +498,6 @@
     "enabled": true,
     "leftIcon": "dynamic:ContractIcon",
     "displayName": "Template download",
-    "serviceCode": "mdms"
-  },
-  {
-    "id": 1969,
-    "url": "/project-factory/v1/data/_generate",
-    "code": "null",
-    "name": "Template Generate",
-    "enabled": true,
-    "leftIcon": "dynamic:ContractIcon",
-    "displayName": "Template Generate",
     "serviceCode": "mdms"
   },
   {
