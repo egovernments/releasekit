@@ -1,0 +1,54 @@
+[
+    {
+        "type": "microplan",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "MICROPLAN",
+        "department": [],
+        "lowestHierarchy": "VILLAGE",
+        "highestHierarchy": "COUNTRY",
+        "splitBoundariesOn": "DISTRICT"
+    },
+    {
+        "type": "microplan",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "MICROPLAN",
+        "department": [],
+        "lowestHierarchy": "VILLAGE",
+        "highestHierarchy": "COUNTRY",
+        "splitBoundariesOn": "DISTRICT"
+    },
+    {
+        "type": "campaign",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "NEWTEST061",
+        "department": [],
+        "lowestHierarchy": "ADMINISTRATIVEPOST",
+        "splitBoundariesOn": "DISTRICT"
+    },
+    {
+        "type": "default",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "DEFAULTBOUNDARYNEWONE",
+        "department": [],
+        "lowestlevel": "ADMINISTRATIVEPOST",
+        "splitBasedOn": "DISTRICT"
+    },
+    {
+        "type": "console",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "ADMIN",
+        "department": [],
+        "lowestHierarchy": "Posto Administrativo",
+        "splitBoundariesOn": "Provincia"
+    }
+]

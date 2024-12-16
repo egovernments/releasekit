@@ -1,0 +1,495 @@
+{
+	"info": {
+		"_postman_id": "0b6dc4fe-79f1-4a70-9b6e-c7814e589113",
+		"name": "Schema",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37543423"
+	},
+	"item": [
+		{
+			"name": "schema",
+			"item": [
+				{
+					"name": "hierarchyConfig",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"395de97a-cbcf-4784-aff9-9507b564cb82\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.hierarchyConfig\",\n            \"description\": \"Hierarchy schema\",\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"hierarchy\",\n                    \"lowestHierarchy\"\n                ],\n                \"x-unique\": [\n                    \"hierarchy\"\n                ],\n                \"properties\": {\n                    \"hierarchy\": {\n                        \"type\": \"string\"\n                    },\n                    \"lowestHierarchy\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"21fed2bc-6a73-41b2-b9ae-0996f5b5ede5\",\n                \"lastModifiedBy\": \"21fed2bc-6a73-41b2-b9ae-0996f5b5ede5\",\n                \"createdTime\": 1716876078760,\n                \"lastModifiedTime\": 1716876078760\n            }\n        }\n\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "adminSchema",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"395de97a-cbcf-4784-aff9-9507b564cb82\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.hierarchyConfig\",\n            \"description\": \"Hierarchy schema\",\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"hierarchy\",\n                    \"lowestHierarchy\"\n                ],\n                \"x-unique\": [\n                    \"hierarchy\"\n                ],\n                \"properties\": {\n                    \"hierarchy\": {\n                        \"type\": \"string\"\n                    },\n                    \"lowestHierarchy\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"21fed2bc-6a73-41b2-b9ae-0996f5b5ede5\",\n                \"lastModifiedBy\": \"21fed2bc-6a73-41b2-b9ae-0996f5b5ede5\",\n                \"createdTime\": 1716876078760,\n                \"lastModifiedTime\": 1716876078760\n            }\n        }\n\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "attributeConfig",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"3afeeaaf-aadd-49f6-977a-79360425bd0a\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.attributeConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\",\n                    \"i18nKey\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    },\n                    \"i18nKey\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715249902641,\n                \"lastModifiedTime\": 1715249902641\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "baseTimeOut",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"d4de5be6-669d-48a0-990e-76442e670fc0\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.baseTimeOut\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"baseTimeOut\",\n                    \"maxTime\",\n                    \"timelineRefetch\"\n                ],\n                \"x-unique\": [\n                    \"baseTimeOut\",\n                    \"maxTime\",\n                    \"timelineRefetch\"\n                ],\n                \"properties\": {\n                    \"maxTime\": {\n                        \"type\": \"number\"\n                    },\n                    \"baseTimeOut\": {\n                        \"type\": \"number\"\n                    },\n                    \"timelineRefetch\": {\n                        \"type\": \"number\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"d7867ef2-d046-4361-9a82-94c35c98416e\",\n                \"lastModifiedBy\": \"d7867ef2-d046-4361-9a82-94c35c98416e\",\n                \"createdTime\": 1723187678674,\n                \"lastModifiedTime\": 1723187678674\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deliveryTypeConfig",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"c2f395ee-fd4f-4367-8e79-5a77ae94bddd\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.deliveryTypeConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n                \"lastModifiedBy\": \"38b4a9ca-09d8-4503-ba16-0fd5f4ea7512\",\n                \"createdTime\": 1718789308426,\n                \"lastModifiedTime\": 1718789308426\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "mailConfig",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n       {\n            \"id\": \"15edb3cc-16a7-4011-a940-8d43d1887910\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.mailConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"mailId\"\n                ],\n                \"x-unique\": [\n                    \"mailId\"\n                ],\n                \"properties\": {\n                    \"mailId\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256666207,\n                \"lastModifiedTime\": 1715256666207\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "operatorConfig",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"20fc3e80-5f98-43a0-9e48-931700ce904b\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.operatorConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715256786787,\n                \"lastModifiedTime\": 1715256786787\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "productType",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"c1836af4-e893-4e5a-91ee-881039e77185\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.productType\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"key\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"lastModifiedBy\": \"40dceade-992d-4a8f-8243-19dda76a4171\",\n                \"createdTime\": 1715257024748,\n                \"lastModifiedTime\": 1715257024748\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ReadMeConfig",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n         {\n            \"id\": \"7115481e-47d2-4919-b647-80b7219f403f\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.ReadMeConfig\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"type\"\n                ],\n                \"x-unique\": [\n                    \"type\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"texts\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"object\",\n                            \"required\": [\n                                \"header\",\n                                \"isHeaderBold\",\n                                \"inSheet\",\n                                \"inUiInfo\",\n                                \"descriptions\"\n                            ],\n                            \"properties\": {\n                                \"header\": {\n                                    \"type\": \"string\"\n                                },\n                                \"inSheet\": {\n                                    \"type\": \"boolean\"\n                                },\n                                \"inUiInfo\": {\n                                    \"type\": \"boolean\"\n                                },\n                                \"descriptions\": {\n                                    \"type\": \"array\",\n                                    \"items\": {\n                                        \"type\": \"object\",\n                                        \"required\": [\n                                            \"text\",\n                                            \"isStepRequired\"\n                                        ],\n                                        \"properties\": {\n                                            \"text\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"isStepRequired\": {\n                                                \"type\": \"boolean\"\n                                            }\n                                        }\n                                    }\n                                },\n                                \"isHeaderBold\": {\n                                    \"type\": \"boolean\"\n                                }\n                            }\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"d7867ef2-d046-4361-9a82-94c35c98416e\",\n                \"lastModifiedBy\": \"d7867ef2-d046-4361-9a82-94c35c98416e\",\n                \"createdTime\": 1723006361149,\n                \"lastModifiedTime\": 1723006361149\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "rolesForChecklist",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"2d5ff130-94d0-4b73-88a1-38d1a53ffca5\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.rolesForChecklist\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"code\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\",\n                \"lastModifiedBy\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\",\n                \"createdTime\": 1731651760802,\n                \"lastModifiedTime\": 1731651760802\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ChecklistTemplates",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"889e87b7-3e30-4ed3-86ed-79288f5e0a44\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.ChecklistTemplates\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"campaignType\",\n                    \"role\",\n                    \"checklistType\",\n                    \"data\"\n                ],\n                \"x-unique\": [\n                    \"campaignType\",\n                    \"role\",\n                    \"checklistType\"\n                ],\n                \"properties\": {\n                    \"data\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"object\",\n                            \"required\": [\n                                \"id\",\n                                \"level\",\n                                \"key\",\n                                \"title\",\n                                \"type\",\n                                \"value\",\n                                \"isRequired\",\n                                \"options\"\n                            ],\n                            \"properties\": {\n                                \"id\": {\n                                    \"type\": \"string\"\n                                },\n                                \"key\": {\n                                    \"type\": \"number\"\n                                },\n                                \"type\": {\n                                    \"type\": \"object\",\n                                    \"required\": [\n                                        \"code\"\n                                    ],\n                                    \"properties\": {\n                                        \"code\": {\n                                            \"type\": \"string\"\n                                        }\n                                    }\n                                },\n                                \"level\": {\n                                    \"type\": \"number\"\n                                },\n                                \"title\": {\n                                    \"type\": \"string\"\n                                },\n                                \"value\": {},\n                                \"options\": {\n                                    \"type\": \"array\",\n                                    \"items\": {\n                                        \"type\": \"object\",\n                                        \"required\": [\n                                            \"id\",\n                                            \"key\",\n                                            \"parentQuestionId\",\n                                            \"label\",\n                                            \"optionDependency\"\n                                        ],\n                                        \"properties\": {\n                                            \"id\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"key\": {\n                                                \"type\": \"number\"\n                                            },\n                                            \"label\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"comment\": {\n                                                \"type\": \"string\"\n                                            },\n                                            \"optionComment\": {\n                                                \"type\": \"boolean\"\n                                            },\n                                            \"optionDependency\": {\n                                                \"type\": \"boolean\"\n                                            },\n                                            \"parentQuestionId\": {\n                                                \"type\": \"string\"\n                                            }\n                                        }\n                                    }\n                                },\n                                \"parentId\": {},\n                                \"isRequired\": {\n                                    \"type\": \"boolean\"\n                                }\n                            }\n                        }\n                    },\n                    \"role\": {\n                        \"type\": \"string\"\n                    },\n                    \"campaignType\": {\n                        \"type\": \"string\"\n                    },\n                    \"checklistType\": {\n                        \"type\": \"string\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\",\n                \"lastModifiedBy\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\",\n                \"createdTime\": 1731651787124,\n                \"lastModifiedTime\": 1731651787124\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "appFieldTypes",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n      {\n            \"id\": \"28741a28-9dd0-463a-bfae-f4246f9448b4\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.appFieldTypes\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"type\",\n                    \"code\"\n                ],\n                \"x-unique\": [\n                    \"code\"\n                ],\n                \"properties\": {\n                    \"code\": {\n                        \"type\": \"string\"\n                    },\n                    \"type\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\",\n                \"lastModifiedBy\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\",\n                \"createdTime\": 1732000150716,\n                \"lastModifiedTime\": 1732000150716\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "HierarchySchema",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"41bc5de2-a03e-456b-9c37-c67f30a4782a\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.HierarchySchema\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Hierarchy Configuration Schema\",\n                \"$schema\": \"http://json-schema.org/draft-09/schema#\",\n                \"required\": [\n                    \"hierarchy\",\n                    \"type\"\n                ],\n                \"x-unique\": [\n                    \"type\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"enum\": [\n                            \"default\",\n                            \"microplan\",\n                            \"campaign\",\n                            \"console\"\n                        ],\n                        \"type\": \"string\",\n                        \"description\": \"Specifies the type of hierarchy configuration.\"\n                    },\n                    \"group\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        },\n                        \"description\": \"An array of disease groups from the project type master.\"\n                    },\n                    \"hierarchy\": {\n                        \"type\": \"string\",\n                        \"unique\": true,\n                        \"description\": \"The type of hierarchy, must be a unique string.\"\n                    },\n                    \"department\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        },\n                        \"description\": \"An array of departments from the department master.\"\n                    },\n                    \"lowestHierarchy\": {\n                        \"type\": \"string\",\n                        \"description\": \"The lowest administrative level in the hierarchy.\"\n                    },\n                    \"highestHierarchy\": {\n                        \"type\": \"string\",\n                        \"description\": \"The highest administrative level in the hierarchy.\"\n                    },\n                    \"splitBoundariesOn\": {\n                        \"type\": \"string\",\n                        \"description\": \"The level on which boundaries are split.\"\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"lastModifiedBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"createdTime\": 1733211297995,\n                \"lastModifiedTime\": 1733211297995\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "microplanIntegration",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n        {\n            \"id\": \"e76314da-767a-4599-a659-a56bb7f85b57\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.microplanIntegration\",\n            \"description\": \"HCM-ADMIN-CONSOLE.microplanIntegration\",\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"HCM-ADMIN-CONSOLE.microplanIntegration\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"isActive\": true,\n                \"required\": [\n                    \"type\",\n                    \"mappings\"\n                ],\n                \"x-unique\": [\n                    \"type\"\n                ],\n                \"properties\": {\n                    \"type\": {\n                        \"type\": \"string\"\n                    },\n                    \"mappings\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"object\",\n                            \"properties\": {\n                                \"to\": {\n                                    \"type\": \"string\"\n                                },\n                                \"from\": {\n                                    \"type\": \"array\",\n                                    \"items\": {\n                                        \"type\": \"string\"\n                                    }\n                                },\n                                \"filter\": {\n                                    \"enum\": [\n                                        \"includes\",\n                                        \"equal\"\n                                    ],\n                                    \"type\": \"string\",\n                                    \"default\": \"includes\"\n                                }\n                            }\n                        },\n                        \"minItems\": 1\n                    }\n                },\n                \"auditDetails\": {\n                    \"createdBy\": null,\n                    \"createdTime\": 1697098069220,\n                    \"lastModifiedBy\": null,\n                    \"lastModifiedTime\": 1697098069220\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"lastModifiedBy\": \"8b110055-330f-4e7b-b4c0-f618f29b9d47\",\n                \"createdTime\": 1733479192222,\n                \"lastModifiedTime\": 1733479192222\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "roleactions",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n      {\n            \"id\": \"09822cfc-1f8a-47f0-80a1-241dd5f5a45d\",\n            \"tenantId\": \"mz\",\n            \"code\": \"ACCESSCONTROL-ROLEACTIONS.roleactions\",\n            \"description\": \"Access Control of roles\",\n            \"definition\": {\n                \"type\": \"object\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"actionid\",\n                    \"rolecode\"\n                ],\n                \"x-unique\": [\n                    \"actionid\",\n                    \"rolecode\"\n                ],\n                \"properties\": {\n                    \"actionid\": {\n                        \"type\": \"string\"\n                    },\n                    \"rolecode\": {\n                        \"type\": \"string\"\n                    },\n                    \"tenantid\": {\n                        \"type\": \"string\"\n                    },\n                    \"actioncode\": {\n                        \"type\": \"string\"\n                    }\n                },\n                \"x-ref-schema\": [\n                    {\n                        \"fieldPath\": \"actionid\",\n                        \"schemaCode\": \"ACCESSCONTROL-ACTIONS-TEST.actions-test\"\n                    },\n                    {\n                        \"fieldPath\": \"rolecode\",\n                        \"schemaCode\": \"ACCESSCONTROL-ROLES.roles\"\n                    }\n                ]\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"0da6b089-265e-44ef-bf7f-9e0d3ef47bf9\",\n                \"lastModifiedBy\": \"0da6b089-265e-44ef-bf7f-9e0d3ef47bf9\",\n                \"createdTime\": 1700718549988,\n                \"lastModifiedTime\": 1700718549988\n            }\n        }\n}"
+						},
+						"url": {
+							"raw": "https://unified-uat.digit.org/egov-mdms-service/schema/v1/_create",
+							"protocol": "https",
+							"host": [
+								"unified-uat",
+								"digit",
+								"org"
+							],
+							"path": [
+								"egov-mdms-service",
+								"schema",
+								"v1",
+								"_create"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
