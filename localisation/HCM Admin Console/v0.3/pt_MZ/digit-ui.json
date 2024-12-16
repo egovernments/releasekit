@@ -1,0 +1,104 @@
+[
+    {
+        "code": "ERR_HRMS_INVALID_CITY",
+        "message": "Selecione 'País/Estado/Cidade' válido.",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_SEARCH",
+        "message": "Procurar",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_PRIVACY_POLICY",
+        "message": "política de Privacidade",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_1_DESC_1",
+        "message": "Você adicionou uma coluna ou campo com o nome da característica aos shapefiles para os quais deseja carregar formas. Se estiver usando características compostas, você adicionou diversas colunas. Mais informações: Preparando Shapefiles",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2",
+        "message": "Procedimento",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_1",
+        "message": "1. Você está na aba Clientes BI na tela de edição de características nas ferramentas de modelagem do BW. Você escolheu Formas ou Formas e dados de pontos como tipo geográfico.",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_2",
+        "message": "2. Escolha Carregar Shapefiles em Ações. Escolha Ir. O back-end do BW/4 é aberto.",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_3",
+        "message": "3. Selecione seus shapefiles. Você precisa dos três shapefiles a seguir: .dbf, . shp, .shx. Os shapefiles devem estar na Referência Espacial ID 4326 e devem ter todos o mesmo nome antes do final.",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_4",
+        "message": "4. Escolha Atualizar tabela geográfica em Ações. Escolha Ir. Você pode escolher Atualização Delta ou Atualização Completa.",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_2_DESC_5",
+        "message": "5. As formas carregadas são transformadas e armazenadas no SRID (Spatial Reference ID) 3857.",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DIGIT_I_ACCEPT",
+        "message": "Aceito",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DIGIT_I_DO_NOT_ACCEPT",
+        "message": "Eu não aceito",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_1",
+        "message": "Pré-requisitos",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PRIVACY_HEADER_2_SUB_1_DESC_2",
+        "message": "Para atualizar a tabela geográfica com formas que são carregadas no Business Document Server, você precisa do SAP HANA 2.0 Rev 45",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_BY_CLICKING",
+        "message": "Ao clicar, aceito o",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ERR_USERNAME_REQUIRED",
+        "message": "Campo Obrigatorio",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ERR_PASSWORD_REQUIRED",
+        "message": "Campo Obrigatorio",
+        "module": "digit-ui",
+        "locale": "pt_MZ"
+    }
+]
