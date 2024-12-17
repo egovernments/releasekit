@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Facilities",
+    "code": "FACILITIES",
+    "iconName": "Facilities",
+    "required": false,
+    "UploadFileTypes": [
+      {
+        "id": "Excel",
+        "code": "EXCEL",
+        "iconName": "Excel",
+        "fileExtension": [
+          "xlsx",
+          "xls"
+        ],
+        "namingConvention": "^([Ff][Aa][Cc][Ii][Ll][Ii][Tt][Ii][Ee][Ss])$"
+      },
+      {
+        "id": "Shapefile",
+        "code": "SHAPE_FILES",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "zip"
+        ],
+        "namingConvention": "^([Ff][Aa][Cc][Ii][Ll][Ii][Tt][Ii][Ee][Ss])$"
+      },
+      {
+        "id": "GeoJSON",
+        "code": "GEOJSON",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "geojson"
+        ],
+        "namingConvention": "^([Ff][Aa][Cc][Ii][Ll][Ii][Tt][Ii][Ee][Ss])$"
+      }
+    ]
+  }
+]
