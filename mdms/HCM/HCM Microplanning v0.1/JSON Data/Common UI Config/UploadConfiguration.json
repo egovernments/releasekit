@@ -34,5 +34,41 @@
         "namingConvention": "^([Ff][Aa][Cc][Ii][Ll][Ii][Tt][Ii][Ee][Ss])$"
       }
     ]
+  },
+  {
+    "id": "Population",
+    "code": "POPULATION",
+    "iconName": "Population",
+    "required": true,
+    "UploadFileTypes": [
+      {
+        "id": "Excel",
+        "code": "EXCEL",
+        "iconName": "Excel",
+        "fileExtension": [
+          "xlsx",
+          "xls"
+        ],
+        "namingConvention": "^([Pp][Oo][Pp][Uu][Ll][Aa][Tt][Ii][Oo][Nn])$"
+      },
+      {
+        "id": "Shapefile",
+        "code": "SHAPE_FILES",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "zip"
+        ],
+        "namingConvention": "^([Pp][Oo][Pp][Uu][Ll][Aa][Tt][Ii][Oo][Nn])$"
+      },
+      {
+        "id": "GeoJSON",
+        "code": "GEOJSON",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "geojson"
+        ],
+        "namingConvention": "^([Pp][Oo][Pp][Uu][Ll][Aa][Tt][Ii][Oo][Nn])$"
+      }
+    ]
   }
 ]
