@@ -1,5 +1,11 @@
 [
     {
+        "code": "11<=ageandage<59",
+        "message": "11-59 months",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
         "code": "12<=ageandage<=59",
         "message": "12 - 59 months",
         "module": "hcm-beneficiary",
@@ -18,6 +24,12 @@
         "locale": "en_MZ"
     },
     {
+        "code": "3<=ageandage<11",
+        "message": "3-11 months",
+        "module": "hcm-beneficiary",
+        "locale": "en_MZ"
+    },
+    {
         "code": "3<=ageandage<=11",
         "message": "3 - 11 months",
         "module": "hcm-beneficiary",
@@ -26,12 +38,6 @@
     {
         "code": "AADHAAR",
         "message": "Aadhaar",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "ADMINISTERED_FAILED",
-        "message": "Administration Failed",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -223,7 +229,7 @@
     },
     {
         "code": "BENEFICIARY_REFUSED",
-        "message": "Refused",
+        "message": "Beneficiary Refused",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -253,13 +259,7 @@
     },
     {
         "code": "CLEAR_FILTER",
-        "message": "Clear Filter",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "CLOSED",
-        "message": "Closed",
+        "message": "Clear",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -668,36 +668,6 @@
     {
         "code": "INSUFFICIENT_STORAGE_WARNING_CONTENT",
         "message": "Your device does not have enough storage to download the data. Please clear some space and try again.",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "IRS_ADMINISTERED_SUCCESS",
-        "message": "Sprayed",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "IRS_ADMINISTRATION_SUCCESS",
-        "message": "Sprayed",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "IRS_DELIVER_INTERVENTION_DELIVERY_DETAILS_LABEL_ADMINISTERED_FAILED",
-        "message": "Did not sparay ?",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "IRS_DELIVER_INTERVENTION_DELIVERY_DETAILS_LABEL_ADMINISTERED_SUCCESS",
-        "message": "Spray Details",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "IRS_DELIVER_INTERVENTION_DELIVERY_DETAILS_LABEL_DELIVERED",
-        "message": "Spray Details",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1356,18 +1326,6 @@
         "locale": "en_MZ"
     },
     {
-        "code": "LLIN_ADMINISTERED_SUCCESS",
-        "message": "Administered success",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "LLIN_ADMINISTRATION_SUCCESS",
-        "message": "Administration success",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
         "code": "MALE",
         "message": "Male",
         "module": "hcm-beneficiary",
@@ -1430,12 +1388,6 @@
     {
         "code": "NOT_ADMINISTERED",
         "message": "Not Administered",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "NOT_DELIVERED",
-        "message": "Not Delivered",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -1748,30 +1700,6 @@
     {
         "code": "SICK",
         "message": "Sick",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "SMC CAMPAIGN_ADMINISTERED_SUCCESS",
-        "message": "Administered success",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "SMC CAMPAIGN_ADMINISTRATION_SUCCESS",
-        "message": "Administration success",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "SMC CAMPAIGN_DELIVER_INTERVENTION_DELIVERY_DETAILS_LABEL_ADMINISTERED_SUCCESS",
-        "message": "Doses administered details",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "SMC CAMPAIGN_DELIVER_INTERVENTION_DELIVERY_DETAILS_LABEL_DELIVERED",
-        "message": "Doses administered details",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },
@@ -2528,12 +2456,6 @@
     {
         "code": "TOTAL_RECORD_DOWNLOAD",
         "message": "Records Downloaded",
-        "module": "hcm-beneficiary",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "TYPE_OF_STRUCTURE",
-        "message": "Type of structure",
         "module": "hcm-beneficiary",
         "locale": "en_MZ"
     },

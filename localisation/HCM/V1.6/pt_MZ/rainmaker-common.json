@@ -114,6 +114,12 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "ACTION_TEST_OPEN_MICROPLAN",
+        "message": "Microplano aberto",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "ACTION_TEST_ROLEACTIONS",
         "message": "Ação de função",
         "module": "rainmaker-common",
@@ -132,6 +138,12 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "ACTION_TEST_SETUP_MICROPLAN",
+        "message": "Configurar Microplano",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "ACTION_TEST_TENANT",
         "message": "Inquilino",
         "module": "rainmaker-common",
@@ -140,6 +152,12 @@
     {
         "code": "ACTION_TEST_UPLOAD_BOUNDARY",
         "message": "Gerenciar limites",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACTION_TEST_USER_MANAGEMENT",
+        "message": "Gerenciamento de usuários",
         "module": "rainmaker-common",
         "locale": "pt_MZ"
     },
@@ -200,6 +218,12 @@
     {
         "code": "CORE_COMMON_LOGOUT",
         "message": "Sair",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_NAME",
+        "message": "Nome",
         "module": "rainmaker-common",
         "locale": "pt_MZ"
     },
@@ -300,8 +324,26 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "CREATE_NEW_MICROPLAN",
+        "message": "Criar novo microplano",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_ROWS_PER_PAGE",
+        "message": "Linhas por página",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "CS_EMAIL_NOT_CONFIGURED",
         "message": "O e-mail não está configurado",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_INBOX_SEARCH",
+        "message": "Procurar",
         "module": "rainmaker-common",
         "locale": "pt_MZ"
     },
@@ -354,6 +396,12 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "DSS_HEALTH_OVERVIEW_HOUSEHOLDS_SPRAYED_OVER_DATERANGE",
+        "message": "Famílias pulverizadas",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "EDIT_PROFILE",
         "message": "Editar Perfil",
         "module": "rainmaker-common",
@@ -362,6 +410,18 @@
     {
         "code": "EGOV_HRMS_EMPLOYEETYPE_OTHERS",
         "message": "Outros",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ENGLISH",
+        "message": "English",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ERROR_WHILE_CENSUSSEARCH",
+        "message": "Houve algum problema. Atualize e tente novamente mais tarde.",
         "module": "rainmaker-common",
         "locale": "pt_MZ"
     },
@@ -384,6 +444,18 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "ES_COMMON_MIN_SEARCH_CRITERIA_MSG",
+        "message": "Insira ou atualize um critério para pesquisar",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_NA",
+        "message": "NA",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "ES_COMMON_PAGE_1",
         "message": "Editar Perfil",
         "module": "rainmaker-common",
@@ -398,6 +470,12 @@
     {
         "code": "ES_PRIVACY_POLICY",
         "message": " política de Privacidade",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FRENCH",
+        "message": "French",
         "module": "rainmaker-common",
         "locale": "pt_MZ"
     },
@@ -440,6 +518,66 @@
     {
         "code": "HR_UPDATE_PASSWORD_SUCCESS_MESSAGE",
         "message": "Senha do funcionário atualizada com sucesso",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "IRS-mz_NDSS_DASHBOARD",
+        "message": "PIDOM das Terras Altas de Mbezi",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MBAZI HIGHLANDS",
+        "message": "Mbazi highlands",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MICROPLAN_MODULE_PROCESS",
+        "message": "Processo Microplano",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MICROPLAN_MODULE_SETUP",
+        "message": "Configuração do microplano",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MONTANHAS DE MBAZI",
+        "message": "Montahas de mazi",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MY_MICROPLANS",
+        "message": "Meus Microplanos",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "OPEN_SAVED_MICROPLANS",
+        "message": "Abrir microplanos salvos",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PLAN_ACTIONS_SEND_BACK_FOR_CORRECTION",
+        "message": "Enviar de vuelta para corrección",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PLAN_ACTIONS_VALIDATE",
+        "message": "Validado",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PORTUGUÊS",
+        "message": "Portuguese",
         "module": "rainmaker-common",
         "locale": "pt_MZ"
     },
@@ -498,6 +636,18 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "SAVED_MICROPLANS",
+        "message": "Abrir microplanos salvos",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SEARCH_MICROPLANS",
+        "message": "Microplanos abertos",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "SERVICEDEFS.DATAISSUES",
         "message": "Problema de dados",
         "module": "rainmaker-common",
@@ -546,6 +696,24 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "SETUP_MICROPLAN",
+        "message": "Configurar Microplano",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Clique na fatia para detalhar a Unidade Organizacional",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_TOTAL_HOUSEHOLDS_REFUSED",
+        "message": "Número de casas recusadas",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "TENANT_TENANTS_MZ",
         "message": "MONTANHAS DE MBAZI",
         "module": "rainmaker-common",
@@ -566,6 +734,24 @@
     {
         "code": "TOTAL_EMPLOYEES",
         "message": "Total de funcionários",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ULBGRADE KC1",
+        "message": "Ulbgrade KC1",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ULBGRADE_KC1",
+        "message": "Ulbgrade KC1",
+        "module": "rainmaker-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USER_MANAGEMENT",
+        "message": "Gerenciamento de usuários",
         "module": "rainmaker-common",
         "locale": "pt_MZ"
     },

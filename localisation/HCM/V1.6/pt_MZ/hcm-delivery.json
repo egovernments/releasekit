@@ -145,7 +145,7 @@
     },
     {
         "code": "DELIVER_INTERVENTION_MEMBER_COUNT_TEXT",
-        "message": "Contagem de membro",
+        "message": "Número de membros",
         "module": "hcm-delivery",
         "locale": "pt_MZ"
     },
@@ -193,7 +193,7 @@
     },
     {
         "code": "DELIVER_INTERVENTION_QUANTITY_DISTRIBUTED_LABEL",
-        "message": "Quantidade real entregue",
+        "message": "Quantidade distribuída",
         "module": "hcm-delivery",
         "locale": "pt_MZ"
     },
@@ -306,18 +306,6 @@
         "locale": "pt_MZ"
     },
     {
-        "code": "IRS_DELIVER_INTERVENTION_DELIVERY_DETAILS_LABEL_ADMINISTERED_FAILED",
-        "message": "Detalhes da pulverização",
-        "module": "hcm-delivery",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "IRS_DELIVER_INTERVENTION_DELIVERY_DETAILS_LABEL_ADMINISTERED_SUCCESS",
-        "message": "Detalhes da pulverização",
-        "module": "hcm-delivery",
-        "locale": "pt_MZ"
-    },
-    {
         "code": "IRS_DELIVER_INTERVENTION_DELIVERY_DETAILS_LABEL_ADMINISTRATION_FAILED",
         "message": "Detalhes da pulverização",
         "module": "hcm-delivery",
@@ -402,6 +390,12 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "REASON_BENEFICIARY_REFUSED",
+        "message": "Recusado",
+        "module": "hcm-delivery",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "REASON_FOR_REFUSAL_COMMENT_LABEL",
         "message": "Comentários",
         "module": "hcm-delivery",
@@ -428,12 +422,6 @@
     {
         "code": "REASON_SICK",
         "message": "Doença",
-        "module": "hcm-delivery",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "REFUSED",
-        "message": "Recusado",
         "module": "hcm-delivery",
         "locale": "pt_MZ"
     },
@@ -488,12 +476,6 @@
     {
         "code": "SELECT_SYMPTOMS_LABEL",
         "message": "Selecione os sintomas",
-        "module": "hcm-delivery",
-        "locale": "pt_MZ"
-    },
-    {
-        "code": "SICK",
-        "message": "Doença",
         "module": "hcm-delivery",
         "locale": "pt_MZ"
     },

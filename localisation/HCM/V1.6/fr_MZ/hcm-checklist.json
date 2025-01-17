@@ -55,7 +55,7 @@
     },
     {
         "code": "CHECKLIST_DIALOG_LABEL",
-        "message": "Prêt à soumettre une liste de contrôle ?",
+        "message": "Prêt à soumettre une liste de contrôle ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -253,19 +253,19 @@
     },
     {
         "code": "CORE_COMMON_SS4.OP1",
-        "message": "Cette structure/centre répond à la totalité ou à la plupart des exigences du personnel",
+        "message": "Cette installation répond à la totalité ou à la plupart des exigences du personnel",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "CORE_COMMON_SS4.OP2",
-        "message": "Cette structure/centre répond uniquement aux exigences de base du personnel",
+        "message": "Cette installation répond uniquement aux exigences de base du personnel",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "CORE_COMMON_SS4.OP3",
-        "message": "Cette structure/centre ne répond même pas aux exigences de base du personnel",
+        "message": "Cette installation ne répond même pas aux exigences de base du personnel",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -517,7 +517,7 @@
     },
     {
         "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
-        "message": "Référence pour cause de fièvre",
+        "message": "Orientation pour cause de fièvre",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -679,7 +679,7 @@
     },
     {
         "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRIBUTOR",
-        "message": "Formation pour les distributeurs sur l'application",
+        "message": "Formation aux applications pour les distributeurs",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -691,7 +691,7 @@
     },
     {
         "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q1",
-        "message": "1. La fonction de présence de l'application est-elle conviviale et accessible à tous les superviseurs ?",
+        "message": "1. La fonction de présence de l'application est-elle conviviale et accessible à tous les superviseurs ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -703,7 +703,7 @@
     },
     {
         "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q2",
-        "message": "2. Tous les distributeurs ont-ils systématiquement marqué leur présence par l'intermédiaire des superviseurs aux heures désignées ?",
+        "message": "2. Tous les distributeurs ont-ils systématiquement marqué leur présence par l'intermédiaire des superviseurs aux heures désignées ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -715,7 +715,7 @@
     },
     {
         "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q3",
-        "message": "3. Êtes-vous capable de générer et de consulter quotidiennement des rapports de présence à partir de l'application ?",
+        "message": "3. Êtes-vous capable de générer et de consulter quotidiennement des rapports de présence à partir de l'application ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -811,7 +811,7 @@
     },
     {
         "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER.MR1",
-        "message": "1. Effectuez-vous régulièrement des audits d’inventaire pour garantir l’exactitude et la conformité des stocks ?",
+        "message": "1. Effectuez-vous régulièrement des audits d’inventaire pour garantir l’exactitude et la conformité des stocks ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -835,7 +835,7 @@
     },
     {
         "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER.MR3",
-        "message": "3. Existe-t-il un système fiable pour enregistrer et suivre tous les stocks entrants et sortants ?",
+        "message": "3. Existe-t-il un système fiable pour enregistrer et suivre tous les stocks entrants et sortants ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -847,13 +847,13 @@
     },
     {
         "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER/MR2",
-        "message": "2. Disposez-vous d’une capacité de stockage suffisante pour gérer les niveaux de stocks actuels ?",
+        "message": "2. Disposez-vous d’une capacité de stockage suffisante pour gérer les niveaux de stocks actuels ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "LLIN BednetTRAINING_SUPERVISION.DISTRIBUTOR",
-        "message": "Formation des distributeurs sur l'applications",
+        "message": "Formation aux applications pour les distributeurs",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -961,7 +961,7 @@
     },
     {
         "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
-        "message": "Référence pour cause de fièvre",
+        "message": "Orientation pour cause de fièvre",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1057,7 +1057,7 @@
     },
     {
         "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER",
-        "message": "Référence pour cause de maladie",
+        "message": "Orientation pour cause de maladie",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1122,6 +1122,798 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS1",
+        "message": "Nom de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11",
+        "message": "Le centre/structure dispose-t-elle d'un branchement électrique ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11.YES.CS12",
+        "message": "Y a-t-il eu une coupure de courant à un moment donné lors de votre visite ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS13",
+        "message": "Quelles ont été vos observations sur l’état dans lequel le centre/structure était entretenue ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS14",
+        "message": "Y a-t-il d’autres observations issues de votre visite dans cet établissement que vous aimeriez partager ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS2",
+        "message": "Coordonnées de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS8",
+        "message": "Nombre de ventilateurs en marche",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9",
+        "message": "Y a-t-il des logements pour le personnel ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9.YES.CS10",
+        "message": "Nombre d'employés qui semblent vivre dans les quartiers",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR",
+        "message": "Feuille de couverture – Formulaire de saisie",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS1",
+        "message": "Nom de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11",
+        "message": "L'installation dispose-t-elle d'un branchement électrique ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11.YES.CS12",
+        "message": "Y a-t-il eu une coupure de courant à un moment donné lors de votre visite ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS13",
+        "message": "Quelles ont été vos observations sur l’état dans lequel l’installation était entretenue ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS14",
+        "message": "Y a-t-il d’autres observations issues de votre visite dans cet établissement que vous aimeriez partager ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS2",
+        "message": "Coordonnées de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS8",
+        "message": "Nombre de ventilateurs en marche",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9",
+        "message": "Y a-t-il des logements pour le personnel ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9.YES.CS10",
+        "message": "Nombre d'employés qui semblent vivre dans les quartiers",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR",
+        "message": "Feuille de couverture – Formulaire de sortie",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE1",
+        "message": "Nom de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE11",
+        "message": "L'installation dispose-t-elle d'un branchement électrique ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE11.YES.CSE12",
+        "message": "Y a-t-il eu une coupure de courant à un moment donné lors de votre visite ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE13",
+        "message": "Quelles ont été vos observations sur l’état dans lequel l’installation était entretenue ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE14",
+        "message": "Y a-t-il d’autres observations issues de votre visite dans cet établissement que vous aimeriez partager ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE2",
+        "message": "Coordonnées de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO2.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR",
+        "message": "Feuille de couverture – Formulaire d'entrée",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS1",
+        "message": "Nom de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11",
+        "message": "L'installation dispose-t-elle d'un branchement électrique ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11.YES.CS12",
+        "message": "Y a-t-il eu une coupure de courant à un moment donné lors de votre visite ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS13",
+        "message": "Quelles ont été vos observations sur l’état dans lequel l’installation était entretenue ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS14",
+        "message": "Y a-t-il d’autres observations issues de votre visite dans cet établissement que vous aimeriez partager ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS2",
+        "message": "Coordonnées de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS8",
+        "message": "Nombre de ventilateurs en marche",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9",
+        "message": "Y a-t-il des logements pour le personnel ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9.YES.CS10",
+        "message": "Nombre d'employés qui semblent vivre dans les quartiers",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR",
+        "message": "Feuille de couverture – Formulaire de sortie",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE1",
+        "message": "Nom de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE11",
+        "message": "L'installation dispose-t-elle d'un branchement électrique ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE11.YES.CSE12",
+        "message": "Y a-t-il eu une coupure de courant à un moment donné lors de votre visite ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE13",
+        "message": "Quelles ont été vos observations sur l’état dans lequel l’installation était entretenue ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE14",
+        "message": "Y a-t-il d’autres observations issues de votre visite dans cet établissement que vous aimeriez partager ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE2",
+        "message": "Coordonnées de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO3.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR",
+        "message": "Feuille de couverture – Formulaire de saisie",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS8",
+        "message": "Nombre de ventilateurs en marche",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9",
+        "message": "Y a-t-il des logements pour le personnel ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9.YES.CS10",
+        "message": "Nombre d'employés qui semblent vivre dans les quartiers",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR",
+        "message": "Feuille de couverture – Formulaire de sortie",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE1",
+        "message": "Nom de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE11",
+        "message": "L'installation dispose-t-elle d'un branchement électrique ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE11.YES.CSE12",
+        "message": "Y a-t-il eu une coupure de courant à un moment donné lors de votre visite ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE13",
+        "message": "Quelles ont été vos observations sur l’état dans lequel l’installation était entretenue ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE14",
+        "message": "Y a-t-il d’autres observations issues de votre visite dans cet établissement que vous aimeriez partager ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE2",
+        "message": "Coordonnées de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO4.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR",
+        "message": "Feuille de couverture – Formulaire d'entrée",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS1",
+        "message": "Nom de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11",
+        "message": "L'installation dispose-t-elle d'un branchement électrique ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11.YES.CS12",
+        "message": "Y a-t-il eu une coupure de courant à un moment donné lors de votre visite ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS13",
+        "message": "Quelles ont été vos observations sur l’état dans lequel l’installation était entretenue ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS14",
+        "message": "Y a-t-il d’autres observations issues de votre visite dans cet établissement que vous aimeriez partager ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS2",
+        "message": "Coordonnées de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS8",
+        "message": "Nombre de ventilateurs en marche",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO5.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR",
+        "message": "Feuille de couverture – Formulaire d’entrée",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS1",
+        "message": "Nom de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11",
+        "message": "CS11' : L'installation dispose-t-elle d'un raccordement électrique ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11.YES.CS12",
+        "message": "CS12' : Y a-t-il eu une coupure de courant à un moment donné lors de votre visite ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS13",
+        "message": "CS13' : Quelles ont été vos observations sur l'état dans lequel l'installation était entretenue ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS14",
+        "message": "CS14' : Y a-t-il d'autres observations issues de votre visite dans cet établissement que vous aimeriez partager ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS2",
+        "message": "Coordonnées de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS7",
+        "message": "CS7' : Nombre de ventilateurs observés lors de leurs déplacements dans l'établissement",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS8",
+        "message": "CS8' : Nombre de ventilateurs en marche",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9",
+        "message": "CS9' : Y a-t-il des logements pour le personnel ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO7.COVER_SHEET_EXIT.DISTRICT_SUPERVISOR.CSE7",
+        "message": "Nombre de ventilateurs observés en se promenant dans le Centre",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR",
+        "message": "Feuille de couverture – Formulaire d’entrée",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS1",
+        "message": "Nom de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11",
+        "message": "CS11' : L'installation dispose-t-elle d'un raccordement électrique ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS11.YES.CS12",
+        "message": "CS12' : Y a-t-il eu une coupure de courant à un moment donné lors de votre visite ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS13",
+        "message": "CS13' : Quelles ont été vos observations sur l'état dans lequel l'installation était entretenue ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS14",
+        "message": "CS14' : Y a-t-il d'autres observations issues de votre visite dans cet établissement que vous aimeriez partager ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS2",
+        "message": "Coordonnées de l'enquêteur",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS7",
+        "message": "CS7' : Nombre de ventilateurs observés lors de leurs déplacements dans l'établissement",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS8",
+        "message": "CS8' : Nombre de ventilateurs en marche",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SELCO9.COVER_SHEET_ENTRY.DISTRICT_SUPERVISOR.CS9",
+        "message": "CS9' : Y a-t-il des logements pour le personnel ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "L'enfant a-t-il été évalué pour les effets indésirables de la SP et de l'AQ ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "Le formulaire national de pharmacovigilance a-t-il été rempli ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "L'enfant a-t-il été admis / transféré à l'hôpital en raison d'une maladie grave ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "L'enfant a fait l'objet d'une évaluation des effets indésirables de la SP et de l'AQ ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "Le rapport national de pharmacovigilance a-t-il été rempli ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "L'enfant a-t-il été admis / transféré à l'hôpital en raison d'une maladie grave ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "L'enfant a fait l'objet d'une évaluation des effets indésirables de la SP et de l'AQ ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "Le rapport national de pharmacovigilance a-t-il été rempli ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "L'enfant a-t-il été admis / transféré à l'hôpital en raison d'une maladie grave ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "L'enfant a fait l'objet d'une évaluation des effets indésirables de la SP et de l'AQ ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "Le rapport national de pharmacovigilance a-t-il été rempli ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "L'enfant a-t-il été admis / transféré à l'hôpital en raison d'une maladie grave ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "L'enfant a-t-il subi un test de dépistage du paludisme ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Résultat du test de diagnostic du paludisme",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce Passage",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "L'enfant a-t-il été admis/transféré à l'hôpital le plus proche en raison d'une maladie grave ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "L'enfant dont le test de dépistage du paludisme s'est révélé positif a été traité avec un antipaludéen.",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Enfant évalué pour déterminer la cause de la maladie.",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Entrez des commentaires pour le diagnostic.",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "L'enfant a-t-il été traité ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Nom et dose du médicament",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "L'enfant a-t-il été admis/transféré à l'hôpital le plus proche en raison d'une maladie grave ?",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "SMC - Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "Ce champ est obligatoire",
+        "module": "hcm-checklist",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "SMC Camapign.WAREHOUSE.WAREHOUSE_MANAGER.MR2",
         "message": "2. Existe-t-il un système en place pour vérifier régulièrement et supprimer les doses de vaccin périmées de l’inventaire ?",
         "module": "hcm-checklist",
@@ -1135,7 +1927,7 @@
     },
     {
         "code": "SMC Camapign.WAREHOUSE.WAREHOUSE_MANAGER.MR4",
-        "message": "2. Avez-vous mis en place des procédures pour gérer et documenter les stocks endommagés ou compromis ?",
+        "message": "2. Avez-vous mis en place des procédures pour gérer et documenter les stocks endommagés ou compromis ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1147,25 +1939,25 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
-        "message": "Effet secondaire du cycle/passage en cours",
+        "message": "Effet secondaire du cycle en cours",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_01.ADDITIONAL_FIELD",
-        "message": "Commentaires",
+        "message": "commentaires",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_02.ADDITIONAL_FIELD",
-        "message": "Commentaires",
+        "message": "commentaires",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_03.ADDITIONAL_FIELD",
-        "message": "Commentaires",
+        "message": "commentaires",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1201,7 +1993,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
-        "message": "Effet secondaire du cycle/passage précédent",
+        "message": "Effet secondaire du cycle précédent",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1345,7 +2137,7 @@
     },
     {
         "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
-        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle/passage",
+        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1459,7 +2251,7 @@
     },
     {
         "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRIBUTOR",
-        "message": "Formation des distributeurs sur l'application",
+        "message": "Formation aux applications pour les distributeurs",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1507,7 +2299,7 @@
     },
     {
         "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q1",
-        "message": "1. La fonction de présence de l'application est-elle conviviale et accessible à tous les superviseurs ?",
+        "message": "1. La fonction de présence de l'application est-elle conviviale et accessible à tous les superviseurs ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1519,7 +2311,7 @@
     },
     {
         "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q2",
-        "message": "2. Tous les distributeurs ont-ils systématiquement marqué leur présence par l'intermédiaire des superviseurs aux heures désignées ?",
+        "message": "2. Tous les distributeurs ont-ils systématiquement marqué leur présence par l'intermédiaire des superviseurs aux heures désignées ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1531,7 +2323,7 @@
     },
     {
         "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q3",
-        "message": "3. Êtes-vous capable de générer et de consulter quotidiennement des rapports de présence à partir de l'application ?",
+        "message": "3. Êtes-vous capable de générer et de consulter quotidiennement des rapports de présence à partir de l'application ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1639,7 +2431,7 @@
     },
     {
         "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q2",
-        "message": "2. Vous sentez-vous capable de naviguer dans toutes les fonctionnalités de l'application nécessaires au suivi des livraisons de vaccins ?",
+        "message": "2. Vous sentez-vous capable de naviguer dans toutes les fonctionnalités de l'application nécessaires au suivi des livraisons de vaccins ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1651,7 +2443,7 @@
     },
     {
         "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q3",
-        "message": "3. Existe-t-il un canal d'assistance désigné que vous pouvez contacter si vous rencontrez des problèmes avec l'application pendant la campagne ?",
+        "message": "3. Existe-t-il un canal d'assistance désigné que vous pouvez contacter si vous rencontrez des problèmes avec l'application pendant la campagne ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1747,7 +2539,7 @@
     },
     {
         "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR1",
-        "message": "1. Effectuez-vous régulièrement des audits d’inventaire pour garantir l’exactitude et la conformité des stocks ?",
+        "message": "1. Effectuez-vous régulièrement des audits d’inventaire pour garantir l’exactitude et la conformité des stocks ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1771,7 +2563,7 @@
     },
     {
         "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR3",
-        "message": "3. Existe-t-il un système fiable pour enregistrer et suivre tous les stocks entrants et sortants ?",
+        "message": "3. Existe-t-il un système fiable pour enregistrer et suivre tous les stocks entrants et sortants ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1783,7 +2575,7 @@
     },
     {
         "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR4",
-        "message": "2. Avez-vous mis en place des procédures pour gérer et documenter les stocks endommagés ou compromis ?",
+        "message": "2. Avez-vous mis en place des procédures pour gérer et documenter les stocks endommagés ou compromis ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1795,7 +2587,7 @@
     },
     {
         "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER/MR2",
-        "message": "2. Disposez-vous d’une capacité de stockage suffisante pour gérer les niveaux de stocks actuels ?",
+        "message": "2. Disposez-vous d’une capacité de stockage suffisante pour gérer les niveaux de stocks actuels ?",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1813,7 +2605,7 @@
     },
     {
         "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
-        "message": "Effet secondaire du cycle/passage en cours",
+        "message": "Effet secondaire du cycle en cours",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1849,7 +2641,7 @@
     },
     {
         "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
-        "message": "Effet secondaire du cycle/passage précédent",
+        "message": "Effet secondaire du cycle précédent",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -1993,7 +2785,7 @@
     },
     {
         "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
-        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle/passage",
+        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },
@@ -2239,7 +3031,7 @@
     },
     {
         "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
-        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle/passage",
+        "message": "Un enfant avec un test de paludisme négatif a reçu SPAQ au cours de ce cycle",
         "module": "hcm-checklist",
         "locale": "fr_MZ"
     },

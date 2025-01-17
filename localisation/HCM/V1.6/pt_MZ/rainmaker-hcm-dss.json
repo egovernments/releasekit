@@ -1,200 +1,962 @@
 [
-  {
-      "code": "ACTION_TEST_DISTRICT_ABOUT",
-      "message": "Sobre",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "ACTION_TEST_DISTRICT_FAQ",
-      "message": "Perguntas frequentes",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "ACTION_TEST_NATIONAL_ABOUT",
-      "message": "Sobre",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "ACTION_TEST_NATIONAL_FAQ",
-      "message": "Perguntas frequentes",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "ACTION_TEST_PROVINCIAL_ABOUT",
-      "message": "Sobre",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "ACTION_TEST_PROVINCIAL_FAQ",
-      "message": "Perguntas frequentes",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "AS_MONITORING",
-      "message": "Monitorização AS",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DISTRICT_MONITOR_TRAINING",
-      "message": "Formação de monitores distritais",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_HEADER_BEDNETS_TARGETED_FOR_DATE_RANGE",
-      "message": "Mosquiteiros visados",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_HEADER_HOUSEHOLDS_TARGETED_FOR_DATE_RANGE",
-      "message": "Famílias visadas",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_HEADER_INVENTORY_SUMMARY_BY_WAREHOUSE",
-      "message": "Resumo do inventário",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_HEADER_OVERALL_TARGET_TO_RECEIVE",
-      "message": "Objetivo geral a receber",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_HEADER_POPULATION_TARGETED_FOR_DATE_RANGE",
-      "message": "População visada",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGEND_DATAISSUES",
-      "message": "Problemas de dados",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGEND_INSUFICIÊNCIA_DE_REDES",
-      "message": "Insuficiência De Redes",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGEND_NUMBER_OF_HOUSEHOLDS_VISITED",
-      "message": "Insuficiência De Redes",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGEND_ORIENTAÇÃO_NACIONAL",
-      "message": "Orientação nacional",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGEND_PERFORMANCEISSUE",
-      "message": "Problemas de desempenho",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGEND_SECURITYISSUES",
-      "message": "Problemas de segurança",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGEND_TECHNICALISSUES",
-      "message": "Problemas técnicas",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGEND_TOTAL_POPULATION_COVERED",
-      "message": "Insuficiência De Redes",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGEND_USERACCOUNTISSUES",
-      "message": "Problemas de contas de utilizador",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_LEGRAND_DATAISSUES 1",
-      "message": "Insuficiência De Redes",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DSS_NO_RESULTS",
-      "message": "Sem resultados",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "LOCAL_MONITOR_TRAINING",
-      "message": "Formação de monitores locais",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "REGISTRATION_BASIC",
-      "message": "Registo Básico",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "REGISTRATION_TEAM_TRAINING",
-      "message": "Formação da equipa de registo",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "SOCIAL_MOBILIZATION",
-      "message": "Mobilização Social",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "TIP_DSS_HEADER_BEDNETS_TARGETED_FOR_DATE_RANGE",
-      "message": "Mosquiteiros visados para o intervalo de datas selecionado",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "TIP_DSS_HEADER_HOUSEHOLDS_TARGETED_FOR_DATE_RANGE",
-      "message": "Agregados familiares visados para o intervalo de datas selecionado",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "TIP_DSS_HEADER_INVENTORY_SUMMARY_BY_WAREHOUSE",
-      "message": "Resumo do inventário por armazém",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "TIP_DSS_HEADER_OVERALL_TARGET_TO_RECEIVE",
-      "message": "Meta global a receber",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "TIP_DSS_HEADER_POPULATION_TARGETED_FOR_DATE_RANGE",
-      "message": "População visada para o intervalo de datas selecionado",
-      "module": "rainmaker-hcm-dss",
-      "locale": "pt_MZ"
-  }
+    {
+        "code": "ACTION_TEST_DISTRICT_ABOUT",
+        "message": "Sobre",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACTION_TEST_DISTRICT_FAQ",
+        "message": "Perguntas frequentes",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_ABOUT",
+        "message": "Sobre",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_FAQ",
+        "message": "Perguntas frequentes",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACTION_TEST_PROVINCIAL_ABOUT",
+        "message": "Sobre",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACTION_TEST_PROVINCIAL_FAQ",
+        "message": "Perguntas frequentes",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "AS_MONITORING",
+        "message": "Monitorização AS",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUIRELE",
+        "message": "MUIRELE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUIRIMIA",
+        "message": "MUIRIMIA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUIROCHERIA",
+        "message": "MUIROCHERIA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUIROTA",
+        "message": "MUIROTA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUITACOTO",
+        "message": "MUITACOTO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUITE",
+        "message": "MUITE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUITE B",
+        "message": "MUITE B",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUITE- SEDE",
+        "message": "MUITE- SEDE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUITHAMETHO YARUPA",
+        "message": "MUITHAMETHO YARUPA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUITHO",
+        "message": "MUITO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUITHUA ALDEIA",
+        "message": "MUITHUA ALDEIA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUITIUA",
+        "message": "MUITIUA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUJOJONE",
+        "message": "MUJOJONE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUJOUMERA",
+        "message": "MUJOUMERA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUJU",
+        "message": "MUJU",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUKUANZE",
+        "message": "MUKUANZE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUKUNLE",
+        "message": "MUKUNLE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULA",
+        "message": "MULA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULAENTA",
+        "message": "MULAENTA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULALA",
+        "message": "MULALA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULAMCHAHA",
+        "message": "MULAMCHAHA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULANE",
+        "message": "MULANO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULANZINE",
+        "message": "MULANZINA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULAPANA",
+        "message": "MULAPANA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULAPANE",
+        "message": "MULAPANE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULAPANE 2",
+        "message": "MULAPANO 2",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MULAPANE NAMICONHA",
+        "message": "MULAPANE NAMICONHA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUTOMOTE",
+        "message": "MUTOMOTE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUTOMOTE A E B",
+        "message": "MUTOMOTE A E B",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUTOMOTE BAIRRO DE NAMUTEQUELIUA",
+        "message": "MUTOMOTE BAIRRO DE NAMUTEQUELIUA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_MUTOMOTE1",
+        "message": "MUTOMOTE1",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_NAMARAL",
+        "message": "NAMARAL",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_EMAIL_INVALID",
+        "message": "por favor digite um email válido",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_NAME_INVALID",
+        "message": "Por favor, indique um nome válido",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_PASSWORD_INVALID",
+        "message": "Senha inválida",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_ROWS_PER_PAGE",
+        "message": "Linhas",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DISTRICT_MONITOR_TRAINING",
+        "message": "Formação de monitores distritais",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT",
+        "message": "Sobre",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_ACCESS_CONTROL",
+        "message": "Controle de acesso: o acesso ao painel é limitado ...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_ANALYZE_PERFORMANCE",
+        "message": "Analise os dados de desempenho da campanha detalha...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_ANS_DASHBOARD_USECASE_A",
+        "message": "Um painel é uma representação visual de métricas d...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_ANS_DASHBOARD_USECASE_B",
+        "message": "O dashboard também permite a análise do desempenho...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_ANS_DATA_SECURITY",
+        "message": "Para garantir a segurança dos dados no dashboard, ...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_ANS_GET_ALTERNATIVE",
+        "message": "Alternativamente, o país pode ter desenvolvido os ...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_ANS_GET_CAMPAIGN",
+        "message": "Na campanha de cuidados de saúde, os Trabalhadores...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_ANS_GET_CAMPAIGN_FLW",
+        "message": "Os PDAs partilham estes dados ao mesmo tempo que p...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_ANS_WHAT_CAN_DASHBOARD_VIEWER_SEE_AND_DO",
+        "message": "O painel permite ao usuário visualizar:",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_AREA_BOUNDARY",
+        "message": "Métricas de desempenho apresentadas com base nos l...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_BOUNDARIES_DATA",
+        "message": "Dados de Limites - Referem-se às informações recol...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_CLARITY_ON_DASHBOARD",
+        "message": "Para esclarecer certos termos usados ​​no painel:",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ABOUT_COMPARE_PERFORMANCE",
+        "message": "Compare o desempenho da campanha de diferentes dis...",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_BEDNETS_TARGETED_FOR_DATE_RANGE",
+        "message": "Mosquiteiros visados",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_TARGETED_FOR_DATE_RANGE",
+        "message": "Famílias visadas",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_INVENTORY_SUMMARY_BY_WAREHOUSE",
+        "message": "Resumo do inventário",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OVERALL_TARGET_TO_RECEIVE",
+        "message": "Objetivo geral a receber",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_POPULATION_TARGETED_FOR_DATE_RANGE",
+        "message": "População visada",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_DATAISSUES",
+        "message": "Problemas de dados",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_INSUFICIÊNCIA_DE_REDES",
+        "message": "Insuficiência De Redes",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_NUMBER_OF_HOUSEHOLDS_VISITED",
+        "message": "Insuficiência De Redes",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_ORIENTAÇÃO_NACIONAL",
+        "message": "Orientação nacional",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_PERFORMANCEISSUE",
+        "message": "Problemas de desempenho",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_SECURITYISSUES",
+        "message": "Problemas de segurança",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TECHNICALISSUES",
+        "message": "Problemas técnicas",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TOTAL_POPULATION_COVERED",
+        "message": "Insuficiência De Redes",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_USERACCOUNTISSUES",
+        "message": "Problemas de contas de utilizador",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGRAND_DATAISSUES 1",
+        "message": "Insuficiência De Redes",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_NO_RESULTS",
+        "message": "Sem resultados",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_IVALANE B",
+        "message": "IVALANE B",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_IVALANE C",
+        "message": "IVALANE C",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_IVATE",
+        "message": "IVATE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_IZIA",
+        "message": "IZIA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JACOCO",
+        "message": "JACOCO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JACOKHO",
+        "message": "JACOKHO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JACOKHO-SEDE",
+        "message": "JACOKHO-SEDE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JACOMUA",
+        "message": "JACOMUA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JACOTTO",
+        "message": "JACOTO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAGAIA",
+        "message": "JAGAIA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAGAIA PLANTAÇAO",
+        "message": "JAGAIA PLANTAÇAO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAGOMA",
+        "message": "JAGOMA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAGOMA SEDE",
+        "message": "JAGOMA SEDE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAJANE",
+        "message": "JAJANE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAMARORO B",
+        "message": "JAMARORO B",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAMAROROA",
+        "message": "JAMAROROA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAMARUPE",
+        "message": "JAMARUPE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAMBIR",
+        "message": "JAMBIR",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JANGA I",
+        "message": "JANGA I",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JANGA II",
+        "message": "JANGA II",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAPARO",
+        "message": "JAPÃO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAPIR",
+        "message": "JAPIR",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAPIR SEDE",
+        "message": "JAPIR SEDE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JARDIM",
+        "message": "JARDIM",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JARDIM BAIRRO DE MUAHIVIRE",
+        "message": "JARDIM BAIRRO DE MUAHIVIRE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JATONE A",
+        "message": "JATONE A",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAURANE",
+        "message": "JAURANE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JAVANO",
+        "message": "JAVANO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JEMBESSE",
+        "message": "JEMBESSE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JIPUI",
+        "message": "JIPUI",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOAO",
+        "message": "JOÃO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOAQUIM CHISSANO",
+        "message": "JOAQUIM CHISSANO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOAQUIM FILIPE",
+        "message": "JOAQUIM FILIPE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOHAR",
+        "message": "JOHAR",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOHAR A",
+        "message": "JOHAR A",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOHAR B",
+        "message": "JOHAR B",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOHAR C",
+        "message": "JOHAR C",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOHAR D",
+        "message": "JOHAR D",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOJO",
+        "message": "JOJO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JORGE",
+        "message": "JORGE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOSINA MACHEL",
+        "message": "JOSINA MACHEL",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOSINA MACHEL BAIRRO DE NAMICOPO",
+        "message": "JOSINA MACHEL BAIRRO DE NAMICOPO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOSINA MACHEL BAIRRO DE NAPIPINE",
+        "message": "JOSINA MACHEL BAIRRO DE NAPIPINE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOSINA MACHEL BAIRRO DE NATIKIRI",
+        "message": "JOSINA MACHEL BAIRRO DE NATIKIRI",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JOTENE B",
+        "message": "JOTENE B",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JUCA",
+        "message": "JUCA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JUJURO",
+        "message": "JUJURO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JUKO",
+        "message": "JUKO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JULIOS NHERERE BAIRRO DE MURRAPANIUA",
+        "message": "JULIOS NHERERE BAIRRO DE MURRAPANIUA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JUNTA",
+        "message": "JUNTA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JURUPANE",
+        "message": "JURUPÂNE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_JUTOLO",
+        "message": "JUTOLO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KACA",
+        "message": "KACA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KAKA",
+        "message": "KAKÁ",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KAMOCO",
+        "message": "KAMOCO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KAVULA",
+        "message": "CAVULA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KAVULA SEDE",
+        "message": "KÁVULA SEDE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KAZULA",
+        "message": "DSS_TB_KAZULA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KAZULA_L2",
+        "message": "DSS_TB_KAZULA_L2",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KEREWERE",
+        "message": "KEREWERE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KHACANE",
+        "message": "KHACANE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KHAKULO",
+        "message": "KHAKULO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KHAUCALA",
+        "message": "KHAUCALA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KHAVO",
+        "message": "KHAVO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KHUPULA",
+        "message": "KHUPULA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KHUTUNE",
+        "message": "KHUTUNE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KINAMBONE",
+        "message": "KINAMBONE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KM 6",
+        "message": "km 6",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KM-20",
+        "message": "KM-20",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KOCHIEQUE",
+        "message": "KOCHIEQUE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KRU",
+        "message": "KRU",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KTHULE",
+        "message": "KTHULE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KUAKUACHIANE",
+        "message": "KUAKUACHIANE",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KUMANIMO",
+        "message": "KUMANIMO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KUTUA",
+        "message": "KUTUA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KUTUCA",
+        "message": "KUTUCA",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_KUVULO",
+        "message": "KUVULO",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOCAL_MONITOR_TRAINING",
+        "message": "Formação de monitores locais",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTRATION_BASIC",
+        "message": "Registo Básico",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTRATION_TEAM_TRAINING",
+        "message": "Formação da equipa de registo",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SOCIAL_MOBILIZATION",
+        "message": "Mobilização Social",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_BEDNETS_TARGETED_FOR_DATE_RANGE",
+        "message": "Mosquiteiros visados para o intervalo de datas selecionado",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_TARGETED_FOR_DATE_RANGE",
+        "message": "Agregados familiares visados para o intervalo de datas selecionado",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_INVENTORY_SUMMARY_BY_WAREHOUSE",
+        "message": "Resumo do inventário por armazém",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_OVERALL_TARGET_TO_RECEIVE",
+        "message": "Meta global a receber",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_POPULATION_TARGETED_FOR_DATE_RANGE",
+        "message": "População visada para o intervalo de datas selecionado",
+        "module": "rainmaker-hcm-dss",
+        "locale": "pt_MZ"
+    }
 ]

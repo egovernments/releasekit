@@ -31,7 +31,7 @@
     },
     {
         "code": "CAPTURING_LOCATION",
-        "message": "Capture de l'emplacement en cours",
+        "message": "Capture en cours de l'emplacement ",
         "module": "hcm-common",
         "locale": "fr_MZ"
     },
@@ -642,6 +642,12 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "CORE_COMMON_FAILED_TO_FETCH",
+        "message": "Récupération  échouée",
+        "module": "hcm-common",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "CORE_COMMON_FEMALE",
         "message": "Femelle",
         "module": "hcm-common",
@@ -678,6 +684,12 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "CORE_COMMON_LOADING_TEXT",
+        "message": "Chargement...",
+        "module": "hcm-common",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "CORE_COMMON_LOADING_TEXT'",
         "message": "Chargement...",
         "module": "hcm-common",
@@ -702,6 +714,12 @@
         "locale": "fr_MZ"
     },
     {
+        "code": "CORE_COMMON_METERS",
+        "message": "mètres",
+        "module": "hcm-common",
+        "locale": "fr_MZ"
+    },
+    {
         "code": "CORE_COMMON_MOBILE_NUMBER",
         "message": "Numéro de portable",
         "module": "hcm-common",
@@ -709,7 +727,7 @@
     },
     {
         "code": "CORE_COMMON_NA",
-        "message": "N / A",
+        "message": "NA",
         "module": "hcm-common",
         "locale": "fr_MZ"
     },
@@ -794,6 +812,12 @@
     {
         "code": "CORE_COMMON_REQUIRED_ITEMS",
         "message": "Au moins un élément doit être sélectionné",
+        "module": "hcm-common",
+        "locale": "fr_MZ"
+    },
+    {
+        "code": "CORE_COMMON_RETRY",
+        "message": "Réessayer",
         "module": "hcm-common",
         "locale": "fr_MZ"
     },
@@ -1021,7 +1045,7 @@
     },
     {
         "code": "INDIVIDUAL_DETAILS_MOBILE_NUMBER_LENGTH",
-        "message": "Le numéro de portable doit comporter 10 chiffres",
+        "message": "Le numéro de téléphone mobile doit comporter 9 ou 10 chiffres.",
         "module": "hcm-common",
         "locale": "fr_MZ"
     },
@@ -1388,12 +1412,6 @@
     {
         "code": "SUPERVISOR_HOME_SHOWCASE_MY_CHECKLIST",
         "message": "Cliquez sur ce bouton pour remplir les listes de contrôle assignées",
-        "module": "hcm-common",
-        "locale": "fr_MZ"
-    },
-    {
-        "code": "SUPERVISOR_HOME_SHOWCASE_PROGRESS_BAR",
-        "message": " ",
         "module": "hcm-common",
         "locale": "fr_MZ"
     },

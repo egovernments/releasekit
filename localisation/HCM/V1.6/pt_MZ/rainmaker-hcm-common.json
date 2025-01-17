@@ -1,716 +1,728 @@
 [
-  {
-      "code": "ACTION_TEST_HRMS",
-      "message": "SGRH",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "ACTION_TEST_SEARCH",
-      "message": "Procurar",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "ASSIGNED_TO_ALL",
-      "message": "Atribuído a outros",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "ASSIGNED_TO_ME",
-      "message": "Atribuído a mim",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CMN_NOOPTION",
-      "message": "Nenhuma opção disponível",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "COMMON_BOTTOM_NAVIGATION_HOME",
-      "message": "Lar",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "COMMON_MASTERS_CLOSED",
-      "message": "Fechado",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "COMMON_MASTERS_DEPARTMENT_ADM",
-      "message": "Administrador",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "COMMON_MASTERS_DEPARTMENT_TECH",
-      "message": "Tecnologia",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "COMMON_MASTERS_DEPARTMENT_WAREHOUSE",
-      "message": "Armazém",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "COMMON_MASTERS_REJECTED",
-      "message": "Rejeitado",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "COMMON_MASTERS_RELOCATED",
-      "message": "Realocado",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_CHANGE_PASSWORD",
-      "message": "Alterar a senha",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_CITY",
-      "message": "Cidade",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_CONTINUE",
-      "message": "Continuar",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_FORGOT_PASSWORD",
-      "message": "Esqueceu sua senha?",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_GO_TO_HOME",
-      "message": "Vá para casa",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_LOGIN",
-      "message": "Conecte-se",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_LOGOUT",
-      "message": "Sair",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_MOBILE_ERROR",
-      "message": "Forneça um número de celular válido",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_CITY",
-      "message": "Cidade",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_CONFIRM_PASSWORD",
-      "message": "Confirme a nova senha:",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_CURRENT_PASSWORD",
-      "message": "Senha atual:",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_EMAIL",
-      "message": "E-mail",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_GENDER",
-      "message": "Gênero",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_MOBILE_NUMBER",
-      "message": "Celular não.",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_MOBILE_NUMBER_INVALID",
-      "message": "Por favor insira um número de telemóvel válido",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_NAME",
-      "message": "Nome",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_NAME_ERROR_MESSAGE",
-      "message": "Por favor, indique um nome válido",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_NAME_INVALID",
-      "message": "Nome do perfil inválido",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_PROFILE_NEW_PASSWORD",
-      "message": "Nova Senha:",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_REQUIRED_ERRMSG",
-      "message": "Obrigatório",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_COMMON_SAVE",
-      "message": "Salvar",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_LOGIN_PASSWORD",
-      "message": "Senha",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_LOGIN_USERNAME",
-      "message": "Nome de usuário",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_LOGOUT_CANCEL",
-      "message": "Cancelar",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_LOGOUT_MESSAGE",
-      "message": "sair ?",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_LOGOUT_MOBILE_CONFIRMATION_MESSAGE",
-      "message": "Tem certeza que deseja sair?",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_LOGOUT_MOBILE_CONFIRMATION_MESSAGE ",
-      "message": "Tem certeza que deseja sair?",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_LOGOUT_WEB_CONFIRMATION_MESSAGE",
-      "message": "Você tem certeza que quer ",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_LOGOUT_WEB_HEADER",
-      "message": "Sair",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CORE_LOGOUT_WEB_YES",
-      "message": "Sim",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ACTION_ASSIGN",
-      "message": "Atribuir reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ACTION_ASSIGN_TEXT",
-      "message": "Reclamação atribuída com sucesso",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ACTION_CANCEL",
-      "message": "Cancelar",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ACTION_REJECT",
-      "message": "Rejeitar reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ACTION_REJECT_TEXT",
-      "message": "Reclamação rejeitada com sucesso",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ACTION_RESOLVE",
-      "message": "Resolver reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ACTION_RESOLVE_TEXT",
-      "message": "Reclamação resolvida com sucesso",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ACTION_SUPPORTING_DOCUMENTS",
-      "message": "Documentos de suporte",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ADDCOMPLAINT_ADDITIONAL_DETAILS_SUBMIT_COMPLAINT",
-      "message": "Enviar inscrição",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ADDCOMPLAINT_COMPLAINT_SUB_TYPE",
-      "message": "Subtipo de reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ADDCOMPLAINT_COMPLAINT_TYPE",
-      "message": "Tipo de queixa",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_ADDCOMPLAINT_NAME_ERROR",
-      "message": "O nome do reclamante não é válido",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_ASSIGN",
-      "message": "Atribuir",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_CANCEL",
-      "message": "Cancelar",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_CANCELLED",
-      "message": "Cancelado",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_CHOOSE_FILE",
-      "message": "Escolher arquivo",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_COMPLAINT_FILED",
-      "message": "Criada",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_COMPLAINT_NO",
-      "message": "Número da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_COMPLAINT_SUBMITTED",
-      "message": "Reclamação enviada",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_EMPLOYEE_COMMENTS",
-      "message": "Comentários",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_EMPLOYEE_NAME",
-      "message": "Atribuir a",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_HELPLINE",
-      "message": "Linha de apoio",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_HOME",
-      "message": "Lar",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_INBOX",
-      "message": "Caixa de entrada",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_MOBILE_NO",
-      "message": "Número de telemóvel",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_PENDING_ASSIGNMENT",
-      "message": "Tarefa pendente",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_REJECT",
-      "message": "Rejeitar",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_REJECTED",
-      "message": "Rejeitado",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_RESOLVE",
-      "message": "Resolver",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_RESOLVED",
-      "message": "Resolvido",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_SEARCH_BY",
-      "message": "Procurar por",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMMON_TRACK_COMPLAINT_TEXT",
-      "message": "A notificação juntamente com o número da sua reclamação é enviada para o número de telemóvel do seu reclamante. O reclamante pode acompanhar o status da reclamação usando um aplicativo móvel ou da web.",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_ADDTIONAL_DETAILS",
-      "message": "Descrição da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_ADDITIONAL_DETAILS",
-      "message": "detalhes adicionais",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_ADDITIONAL_DETAILS_DESCRIPTION",
-      "message": "Descrição da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_ADDRESS_1_DETAILS",
-      "message": "Endereço Linha 1",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_ADDRESS_2_DETAILS",
-      "message": "Endereço linha 2",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_APPLICATION_STATUS",
-      "message": "Status",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_AREA",
-      "message": "Área",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_COMPLAINT_DATE",
-      "message": "Data da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_COMPLAINT_DETAILS",
-      "message": "Detalhes da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_COMPLAINT_NO",
-      "message": "Reclamação não",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_COMPLAINT_SUBTYPE",
-      "message": "Tipo de queixa",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_COMPLAINT_TIMELINE",
-      "message": "Cronograma de reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_COMPLAINT_TYPE",
-      "message": "Tipo de queixa",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_DETAILS_CURRENT_STATUS",
-      "message": "Status",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_FILED_DATE",
-      "message": "Data da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_LANDMARK__DETAILS",
-      "message": "Marco",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_LOCATION_ALDEIA",
-      "message": "Vila",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_LOCATION_DETAILS",
-      "message": "Local da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_LOCATION_DISTRITO",
-      "message": "Distrito",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_LOCATION_LOCALIDADE",
-      "message": "Localidade",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_LOCATION_POSTO_ADMINISTRATIVO",
-      "message": "Posto administrativo",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_LOCATION_PROVINCIA",
-      "message": "Província",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_COMPLAINT_POSTALCODE__DETAILS",
-      "message": "Código postal",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_CREATECOMPLAINT_LANDMARK",
-      "message": "Marco",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_HEADER_COMPLAINT_SUMMARY",
-      "message": "Detalhes da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_MANDATORY_ASSIGNED_EMPLOYEE",
-      "message": "O campo funcionário é obrigatório",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_MANDATORY_REJECTION_REASON",
-      "message": "O motivo da rejeição é obrigatório",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_MYCOMPLAINTS_NO_COMPLAINTS_EMPLOYEE",
-      "message": "Sem reclamações",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_PGR_COMPLAINT_DETAILS",
-      "message": "Detalhes da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_PGR_COMPLAINT_NUMBER",
-      "message": "Número da reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_PGR_CREATE_COMPLAINT",
-      "message": "Criar reclamação",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_PGR_LOCALITY",
-      "message": "Localidade",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_REJECTION_REASON1",
-      "message": "Reclamação inválida",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_REJECT_COMPLAINT",
-      "message": "Motivo da rejeição",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "CS_UPLOAD_RESTRICTIONS",
-      "message": "*Restrições de upload",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A01BBpgR4xa",
-      "message": "NOMEREZA",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A08q5iv9N39",
-      "message": "NOVERA",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A0CTg34QpT9",
-      "message": "MUCUACUKA",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A0XM9zN2T7K",
-      "message": "IRICO",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A1uoGgoM34u",
-      "message": "NAMAVE",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A23gSdRmupZ",
-      "message": "MUICURIANE",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A2iIC6Fyrzw",
-      "message": "MUTITICOMA",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A2kzAZ0ukXG",
-      "message": "NAMPUECHA",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A35U5Jzu5gP",
-      "message": "BAIRRO UNIDADE 18",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  },
-  {
-      "code": "DEFAULT_ADMIN_A3pjiDT9qEn",
-      "message": "INVETHONE",
-      "module": "rainmaker-hcm-common",
-      "locale": "pt_MZ"
-  }
+    {
+        "code": "ACTION_TEST_HRMS",
+        "message": "SGRH",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACTION_TEST_SEARCH",
+        "message": "Procurar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ASSIGNED_TO_ALL",
+        "message": "Atribuído a outros",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ASSIGNED_TO_ME",
+        "message": "Atribuído a mim",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_START_DATE_ERROR",
+        "message": "Procurar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CMN_NOOPTION",
+        "message": "Nenhuma opção disponível",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_BOTTOM_NAVIGATION_HOME",
+        "message": "Lar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_CLOSED",
+        "message": "Fechado",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPARTMENT_ADM",
+        "message": "Administrador",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPARTMENT_TECH",
+        "message": "Tecnologia",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_DEPARTMENT_WAREHOUSE",
+        "message": "Armazém",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_REJECTED",
+        "message": "Rejeitado",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COMMON_MASTERS_RELOCATED",
+        "message": "Realocado",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_CHANGE_PASSWORD",
+        "message": "Alterar a senha",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_CITY",
+        "message": "Cidade",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_CONTINUE",
+        "message": "Continuar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_FORGOT_PASSWORD",
+        "message": "Esqueceu sua senha?",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_GO_TO_HOME",
+        "message": "Vá para casa",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_LOGIN",
+        "message": "Conecte-se",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_LOGOUT",
+        "message": "Sair",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_MOBILE_ERROR",
+        "message": "Forneça um número de celular válido",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_CITY",
+        "message": "Cidade",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_CONFIRM_PASSWORD",
+        "message": "Confirme a nova senha:",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_CURRENT_PASSWORD",
+        "message": "Senha atual:",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_EMAIL",
+        "message": "E-mail",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_GENDER",
+        "message": "Gênero",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_MOBILE_NUMBER",
+        "message": "Celular não.",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_MOBILE_NUMBER_INVALID",
+        "message": "Por favor insira um número de telemóvel válido",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_NAME",
+        "message": "Nome",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_NAME_ERROR_MESSAGE",
+        "message": "Por favor, indique um nome válido",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_NAME_INVALID",
+        "message": "Nome do perfil inválido",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_PROFILE_NEW_PASSWORD",
+        "message": "Nova Senha:",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_REQUIRED_ERRMSG",
+        "message": "Obrigatório",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SAVE",
+        "message": "Salvar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_LOGIN_PASSWORD",
+        "message": "Senha",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_LOGIN_USERNAME",
+        "message": "Nome de usuário",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_LOGOUT_CANCEL",
+        "message": "Cancelar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_LOGOUT_MESSAGE",
+        "message": "sair ?",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_LOGOUT_MOBILE_CONFIRMATION_MESSAGE",
+        "message": "Tem certeza que deseja sair?",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_LOGOUT_MOBILE_CONFIRMATION_MESSAGE ",
+        "message": "Tem certeza que deseja sair?",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_LOGOUT_WEB_CONFIRMATION_MESSAGE",
+        "message": "Você tem certeza que quer ",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_LOGOUT_WEB_HEADER",
+        "message": "Sair",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_LOGOUT_WEB_YES",
+        "message": "Sim",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ACTION_ASSIGN",
+        "message": "Atribuir reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ACTION_ASSIGN_TEXT",
+        "message": "Reclamação atribuída com sucesso",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ACTION_CANCEL",
+        "message": "Cancelar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ACTION_REJECT",
+        "message": "Rejeitar reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ACTION_REJECT_TEXT",
+        "message": "Reclamação rejeitada com sucesso",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ACTION_RESOLVE",
+        "message": "Resolver reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ACTION_RESOLVE_TEXT",
+        "message": "Reclamação resolvida com sucesso",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ACTION_SUPPORTING_DOCUMENTS",
+        "message": "Documentos de suporte",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_ADDITIONAL_DETAILS_SUBMIT_COMPLAINT",
+        "message": "Enviar inscrição",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_COMPLAINT_SUB_TYPE",
+        "message": "Subtipo de reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_COMPLAINT_TYPE",
+        "message": "Tipo de queixa",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_ADDCOMPLAINT_NAME_ERROR",
+        "message": "O nome do reclamante não é válido",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_ASSIGN",
+        "message": "Atribuir",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_CANCEL",
+        "message": "Cancelar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_CANCELLED",
+        "message": "Cancelado",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_CHOOSE_FILE",
+        "message": "Escolher arquivo",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_COMPLAINT_FILED",
+        "message": "Criada",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_COMPLAINT_NO",
+        "message": "Número da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_COMPLAINT_SUBMITTED",
+        "message": "Reclamação enviada",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_EMPLOYEE_COMMENTS",
+        "message": "Comentários",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_EMPLOYEE_NAME",
+        "message": "Atribuir a",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_HELPLINE",
+        "message": "Linha de apoio",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_HOME",
+        "message": "Lar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_INBOX",
+        "message": "Caixa de entrada",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_MOBILE_NO",
+        "message": "Número de telemóvel",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_PENDING_ASSIGNMENT",
+        "message": "Tarefa pendente",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_REJECT",
+        "message": "Rejeitar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_REJECTED",
+        "message": "Rejeitado",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_RESOLVE",
+        "message": "Resolver",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_RESOLVED",
+        "message": "Resolvido",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_SEARCH_BY",
+        "message": "Procurar por",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_TRACK_COMPLAINT_TEXT",
+        "message": "A notificação juntamente com o número da sua reclamação é enviada para o número de telemóvel do seu reclamante. O reclamante pode acompanhar o status da reclamação usando um aplicativo móvel ou da web.",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_ADDTIONAL_DETAILS",
+        "message": "Descrição da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_ADDITIONAL_DETAILS",
+        "message": "detalhes adicionais",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_ADDITIONAL_DETAILS_DESCRIPTION",
+        "message": "Descrição da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_ADDRESS_1_DETAILS",
+        "message": "Endereço Linha 1",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_ADDRESS_2_DETAILS",
+        "message": "Endereço linha 2",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_APPLICATION_STATUS",
+        "message": "Status",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_AREA",
+        "message": "Área",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_COMPLAINT_DATE",
+        "message": "Data da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_COMPLAINT_DETAILS",
+        "message": "Detalhes da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_COMPLAINT_NO",
+        "message": "Reclamação não",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_COMPLAINT_SUBTYPE",
+        "message": "Tipo de queixa",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_COMPLAINT_TIMELINE",
+        "message": "Cronograma de reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_COMPLAINT_TYPE",
+        "message": "Tipo de queixa",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_DETAILS_CURRENT_STATUS",
+        "message": "Status",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_FILED_DATE",
+        "message": "Data da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_LANDMARK__DETAILS",
+        "message": "Marco",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_LOCATION_ALDEIA",
+        "message": "Vila",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_LOCATION_DETAILS",
+        "message": "Local da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_LOCATION_DISTRITO",
+        "message": "Distrito",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_LOCATION_LOCALIDADE",
+        "message": "Localidade",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_LOCATION_POSTO_ADMINISTRATIVO",
+        "message": "Posto administrativo",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_LOCATION_PROVINCIA",
+        "message": "Província",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMPLAINT_POSTALCODE__DETAILS",
+        "message": "Código postal",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_CREATECOMPLAINT_LANDMARK",
+        "message": "Marco",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_HEADER_COMPLAINT_SUMMARY",
+        "message": "Detalhes da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_MANDATORY_ASSIGNED_EMPLOYEE",
+        "message": "O campo funcionário é obrigatório",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_MANDATORY_REJECTION_REASON",
+        "message": "O motivo da rejeição é obrigatório",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_MYCOMPLAINTS_NO_COMPLAINTS_EMPLOYEE",
+        "message": "Sem reclamações",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_PGR_COMPLAINT_DETAILS",
+        "message": "Detalhes da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_PGR_COMPLAINT_NUMBER",
+        "message": "Número da reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_PGR_CREATE_COMPLAINT",
+        "message": "Criar reclamação",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_PGR_LOCALITY",
+        "message": "Localidade",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_REJECTION_REASON1",
+        "message": "Reclamação inválida",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_REJECT_COMPLAINT",
+        "message": "Motivo da rejeição",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_UPLOAD_RESTRICTIONS",
+        "message": "*Restrições de upload",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A01BBpgR4xa",
+        "message": "NOMEREZA",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A08q5iv9N39",
+        "message": "NOVERA",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A0CTg34QpT9",
+        "message": "MUCUACUKA",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A0XM9zN2T7K",
+        "message": "IRICO",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A1uoGgoM34u",
+        "message": "NAMAVE",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A23gSdRmupZ",
+        "message": "MUICURIANE",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A2iIC6Fyrzw",
+        "message": "MUTITICOMA",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A2kzAZ0ukXG",
+        "message": "NAMPUECHA",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A35U5Jzu5gP",
+        "message": "BAIRRO UNIDADE 18",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT_ADMIN_A3pjiDT9qEn",
+        "message": "INVETHONE",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_SEARCH",
+        "message": "Procurar",
+        "module": "rainmaker-hcm-common",
+        "locale": "pt_MZ"
+    }
 ]

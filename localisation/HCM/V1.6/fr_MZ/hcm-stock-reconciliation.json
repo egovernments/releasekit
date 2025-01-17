@@ -1,11 +1,5 @@
 [
     {
-        "code": "DELIVER_INTERVENTION_NO_OF_RESOURCES_FOR_DELIVERY_...",
-        "message": "Nombre de moustiquaires à livrer",
-        "module": "hcm-stock-reconciliation",
-        "locale": "fr_MZ"
-    },
-    {
         "code": "DELIVER_INTERVENTION_NO_OF_RESOURCES_FOR_DELIVERY_HOUSEHOLD",
         "message": "Nombre de moustiquaires à livrer",
         "module": "hcm-stock-reconciliation",
@@ -13,7 +7,7 @@
     },
     {
         "code": "STOCK_RECONCILIATION_COMMENTS_LABEL",
-        "message": "Commentaires",
+        "message": "commentaires",
         "module": "hcm-stock-reconciliation",
         "locale": "fr_MZ"
     },
@@ -25,13 +19,13 @@
     },
     {
         "code": "STOCK_RECONCILIATION_COUNT_EXCEEDED_MAX",
-        "message": "Le nombre doit être inférieur à 10 000",
+        "message": "Le nombre doit être inférieur à 10 000",
         "module": "hcm-stock-reconciliation",
         "locale": "fr_MZ"
     },
     {
         "code": "STOCK_RECONCILIATION_COUNT_EXCEED_MAX",
-        "message": "Le nombre doit être inférieur à 10 000",
+        "message": "Le nombre doit être inférieur à 10 000",
         "module": "hcm-stock-reconciliation",
         "locale": "fr_MZ"
     },
@@ -49,7 +43,7 @@
     },
     {
         "code": "STOCK_RECONCILIATION_DATE",
-        "message": "Date de reconciliation",
+        "message": "Date de rapprochement",
         "module": "hcm-stock-reconciliation",
         "locale": "fr_MZ"
     },
@@ -73,7 +67,7 @@
     },
     {
         "code": "STOCK_RECONCILIATION_FILED_REQUIRED",
-        "message": "Le champ est obligatoire",
+        "message": "Champ requis",
         "module": "hcm-stock-reconciliation",
         "locale": "fr_MZ"
     },
@@ -85,7 +79,7 @@
     },
     {
         "code": "STOCK_RECONCILIATION_INFO_CARD_TITLE",
-        "message": "Informations",
+        "message": "Info",
         "module": "hcm-stock-reconciliation",
         "locale": "fr_MZ"
     },
@@ -97,7 +91,7 @@
     },
     {
         "code": "STOCK_RECONCILIATION_PAGE_TITLE",
-        "message": "Reconciliation des stocks",
+        "message": "Rapprochement des stocks",
         "module": "hcm-stock-reconciliation",
         "locale": "fr_MZ"
     },
@@ -115,7 +109,7 @@
     },
     {
         "code": "STOCK_RECONCILIATION_STOCK_ISSUED",
-        "message": "Stock émis/sortis",
+        "message": "Actions émises",
         "module": "hcm-stock-reconciliation",
         "locale": "fr_MZ"
     },
@@ -127,7 +121,7 @@
     },
     {
         "code": "STOCK_RECONCILIATION_STOCK_ON_HAND",
-        "message": "Stock disponible",
+        "message": "Le stock disponible",
         "module": "hcm-stock-reconciliation",
         "locale": "fr_MZ"
     },

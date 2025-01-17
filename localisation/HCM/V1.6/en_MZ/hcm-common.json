@@ -1,5 +1,11 @@
 [
     {
+        "code": " STOCK_RECONCILIATION_COUNT_EXPECTS_NUMBER",
+        "message": "Count should be numeric",
+        "module": "hcm-common",
+        "locale": "en_MZ"
+    },
+    {
         "code": "ACTION_TEST_",
         "message": "Action Test",
         "module": "hcm-common",
@@ -24,18 +30,6 @@
         "locale": "en_MZ"
     },
     {
-        "code": "BENEFICIARY_HOUSEHOLD_MEMBER",
-        "message": "Household member",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "BENEFICIARY_HOUSEHOLD_MEMBERS",
-        "message": "Household members",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
         "code": "BENEFICIARY_REFERRED",
         "message": "Beneficiary Referred",
         "module": "hcm-common",
@@ -43,13 +37,7 @@
     },
     {
         "code": "BENEFICIARY_REFUSED",
-        "message": "Refused",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "BUS",
-        "message": "Bus",
+        "message": "Beneficiary Refused",
         "module": "hcm-common",
         "locale": "en_MZ"
     },
@@ -936,12 +924,6 @@
         "locale": "en_MZ"
     },
     {
-        "code": "DATA_DOWNLOAD_IN_PROGRESS",
-        "message": "Data is being downloaded",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
         "code": "DATA_ISSUES",
         "message": "Data issue",
         "module": "hcm-common",
@@ -1081,7 +1063,7 @@
     },
     {
         "code": "INDIVIDUAL_DETAILS_MOBILE_NUMBER_LENGTH",
-        "message": "Mobile number must be 10 digits",
+        "message": "Mobile number must be 9 or 10 digits",
         "module": "hcm-common",
         "locale": "en_MZ"
     },
@@ -1200,6 +1182,12 @@
         "locale": "en_MZ"
     },
     {
+        "code": "NO_WATER",
+        "message": "No water",
+        "module": "hcm-common",
+        "locale": "en_MZ"
+    },
+    {
         "code": "Not Delivered",
         "message": "Not Visited",
         "module": "hcm-common",
@@ -1290,12 +1278,6 @@
         "locale": "en_MZ"
     },
     {
-        "code": "PROCEED",
-        "message": "Proceed",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
         "code": "PROFILE_UPDATE_SUCCESS",
         "message": "Profile updated succesfully",
         "module": "hcm-common",
@@ -1380,20 +1362,8 @@
         "locale": "en_MZ"
     },
     {
-        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
-        "message": "Any additional symptoms",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
         "code": "STOCK_DETAILS_NO_PRODUCTS_FOUND",
         "message": "No products found for this stock.",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "STOCK_DETAILS_QUANTITY_RECEIVED_MAX_ERROR",
-        "message": "Quantity can be from 0 to 10000 only.",
         "module": "hcm-common",
         "locale": "en_MZ"
     },
@@ -1494,12 +1464,6 @@
         "locale": "en_MZ"
     },
     {
-        "code": "SUPERVISOR_HOME_SHOWCASE_PROGRESS_BAR",
-        "message": " ",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
         "code": "SUPERVISOR_HOME_SHOWCASE_SYNC_DATA",
         "message": "Click on this button to sync records manually",
         "module": "hcm-common",
@@ -1578,20 +1542,8 @@
         "locale": "en_MZ"
     },
     {
-        "code": "TRAIN",
-        "message": "Train",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
         "code": "TRANSACTION_DETAILS_LABEL",
         "message": "Transaction details",
-        "module": "hcm-common",
-        "locale": "en_MZ"
-    },
-    {
-        "code": "TRANSPORT_TYPE_3",
-        "message": "Ship",
         "module": "hcm-common",
         "locale": "en_MZ"
     },
