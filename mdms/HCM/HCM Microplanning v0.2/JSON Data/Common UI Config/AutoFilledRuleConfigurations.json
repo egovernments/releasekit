@@ -1,0 +1,1888 @@
+[
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "FIXED_POST",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_REQUIRED",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "output": "TOTAL_SPAQ_REQUIRED_WITH_BUFFER",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_TARGET_POPULATION",
+            "operatorName": "ADDITION",
+            "assumptionValue": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_CATERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_FIXED_POST_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_REQUIRED",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "output": "TOTAL_SPAQ_REQUIRED_WITH_BUFFER",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_TARGET_POPULATION",
+            "operatorName": "ADDITION",
+            "assumptionValue": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_CATERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "MIXED",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_REQUIRED",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "output": "TOTAL_SPAQ_REQUIRED_WITH_BUFFER",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_TARGET_POPULATION",
+            "operatorName": "ADDITION",
+            "assumptionValue": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_CATERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_FIXED_POST_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          }
+        ]
+      },
+      {
+        "order": 7,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "MIXED",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_REQUIRED",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "output": "TOTAL_SPAQ_REQUIRED_WITH_BUFFER",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_TARGET_POPULATION",
+            "operatorName": "ADDITION",
+            "assumptionValue": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_CATERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_FIXED_POST_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "MIXED",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_CYCLES_OF_SMC"
+          },
+          {
+            "input": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS",
+            "output": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "TOTAL_BUFFER_MULTIPLIER"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS",
+            "output": "TOTAL_SPAQ_REQUIRED",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS"
+          },
+          {
+            "input": "TOTAL_SPAQ_1_FOR_AGE_3_TO_11_MONTHS_WITH_BUFFER",
+            "output": "TOTAL_SPAQ_REQUIRED_WITH_BUFFER",
+            "operatorName": "ADDITION",
+            "assumptionValue": "TOTAL_SPAQ_2_FOR_AGE_12_TO_59_MONTHS_WITH_BUFFER"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11",
+            "output": "TOTAL_TARGET_POPULATION",
+            "operatorName": "ADDITION",
+            "assumptionValue": "HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_FIXED_POST_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "TOTAL_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_FIXED_POST_REGISTRATION_TEAM",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "FIXED_POST",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+            "output": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "AVERAGE_PEOPLE_IN_A_HOUSEHOLD"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_PEOPLE_PER_BEDNET"
+          },
+          {
+            "input": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "output": "NO_OF_BALES_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BEDNETS_PER_BALE"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR"
+          },
+          {
+            "input": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_BEDNETS_TO_BE_DISTRIBUTED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NUMBER_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_DAYS_FOR_FIXED_POST_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NUMBER_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "output": "NO_OF_STICKERS_ROLLS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+            "output": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "AVERAGE_PEOPLE_IN_A_HOUSEHOLD"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_PEOPLE_PER_BEDNET"
+          },
+          {
+            "input": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "output": "NO_OF_BALES_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BEDNETS_PER_BALE"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR"
+          },
+          {
+            "input": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_BEDNETS_TO_BE_DISTRIBUTED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NUMBER_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR"
+          },
+          {
+            "input": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "output": "NO_OF_STICKERS_ROLLS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "MIXED",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+            "output": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "AVERAGE_PEOPLE_IN_A_HOUSEHOLD"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_PEOPLE_PER_BEDNET"
+          },
+          {
+            "input": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "output": "NO_OF_BALES_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BEDNETS_PER_BALE"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR"
+          },
+          {
+            "input": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_BEDNETS_TO_BE_DISTRIBUTED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NUMBER_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR"
+          },
+          {
+            "input": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "FIXED_POST_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_DAYS_FOR_FIXED_POST_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NUMBER_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "output": "NO_OF_STICKERS_ROLLS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+          }
+        ]
+      },
+      {
+        "order": 7,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "MIXED",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+            "output": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "AVERAGE_PEOPLE_IN_A_HOUSEHOLD"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_PEOPLE_PER_BEDNET"
+          },
+          {
+            "input": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "output": "NO_OF_BALES_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BEDNETS_PER_BALE"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_BEDNETS_TO_BE_DISTRIBUTED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NUMBER_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_DISTRIBUTION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_DAYS_FOR_FIXED_POST_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NUMBER_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR"
+          },
+          {
+            "input": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "output": "NO_OF_STICKERS_ROLLS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "MIXED",
+    "ruleConfigurationCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TOTAL_POPULATION",
+            "output": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "AVERAGE_PEOPLE_IN_A_HOUSEHOLD"
+          },
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_PEOPLE_PER_BEDNET"
+          },
+          {
+            "input": "NO_OF_BEDNETS_PER_BOUNDARY",
+            "output": "NO_OF_BALES_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BEDNETS_PER_BALE"
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR"
+          },
+          {
+            "input": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION"
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "category": "FIXED_POST_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_DAYS_FOR_FIXED_POST_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NUMBER_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_FIXED_POST_REGISTRATION_TEAM_SUPERVISORS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NUMBER_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "ruleConfigurations": [
+          {
+            "input": "HCM_ADMIN_CONSOLE_TARGET_POPULATION",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+            "operatorName": "MULTIPLIED_BY",
+            "assumptionValue": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM"
+          },
+          {
+            "input": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+            "output": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR"
+          },
+          {
+            "input": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "output": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION"
+          }
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "ruleConfigurations": [
+          {
+            "input": "NO_OF_HOUSEHOLDS_PER_BOUNDARY",
+            "output": "NO_OF_STICKERS_ROLLS_PER_BOUNDARY",
+            "operatorName": "DIVIDED_BY",
+            "assumptionValue": "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "ruleConfigurations": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  }
+]

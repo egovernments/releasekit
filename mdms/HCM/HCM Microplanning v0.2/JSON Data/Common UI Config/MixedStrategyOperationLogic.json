@@ -1,0 +1,120 @@
+[
+  {
+    "isFixedPost": true,
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "CategoriesNotAllowed": [
+      "HOUSEHOLD_DISTRIBUTION"
+    ]
+  },
+  {
+    "isFixedPost": false,
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "CategoriesNotAllowed": [
+      "FIXED_POST_DISTRIBUTION"
+    ]
+  },
+  {
+    "isFixedPost": true,
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "MIXED",
+    "CategoriesNotAllowed": [
+      "HOUSEHOLD_REGISTRATION"
+    ]
+  },
+  {
+    "isFixedPost": false,
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "MIXED",
+    "CategoriesNotAllowed": [
+      "FIXED_POST_REGISTRATION"
+    ]
+  },
+  {
+    "isFixedPost": true,
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "FIXED_POST",
+    "CategoriesNotAllowed": [
+      "HOUSEHOLD_DISTRIBUTION"
+    ]
+  },
+  {
+    "isFixedPost": false,
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "FIXED_POST",
+    "CategoriesNotAllowed": [
+      "FIXED_POST_DISTRIBUTION"
+    ]
+  },
+  {
+    "isFixedPost": true,
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "MIXED",
+    "CategoriesNotAllowed": [
+      "HOUSEHOLD_REGISTRATION"
+    ]
+  },
+  {
+    "isFixedPost": false,
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "MIXED",
+    "CategoriesNotAllowed": [
+      "FIXED_POST_REGISTRATION"
+    ]
+  },
+  {
+    "isFixedPost": true,
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "FIXED_POST",
+    "CategoriesNotAllowed": [
+      "HOUSEHOLD_REGISTRATION",
+      "FIXED_POST_DISTRIBUTION"
+    ]
+  },
+  {
+    "isFixedPost": false,
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "FIXED_POST",
+    "CategoriesNotAllowed": [
+      "HOUSEHOLD_REGISTRATION",
+      "FIXED_POST_DISTRIBUTION"
+    ]
+  },
+  {
+    "isFixedPost": true,
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "CategoriesNotAllowed": [
+      "HOUSEHOLD_DISTRIBUTION",
+      "FIXED_POST_REGISTRATION"
+    ]
+  },
+  {
+    "isFixedPost": false,
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "CategoriesNotAllowed": [
+      "HOUSEHOLD_DISTRIBUTION",
+      "FIXED_POST_REGISTRATION"
+    ]
+  },
+  {
+    "isFixedPost": true,
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "MIXED",
+    "CategoriesNotAllowed": [
+      "HOUSEHOLD_REGISTRATION",
+      "HOUSEHOLD_DISTRIBUTION"
+    ]
+  },
+  {
+    "isFixedPost": false,
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "MIXED",
+    "CategoriesNotAllowed": [
+      "FIXED_POST_REGISTRATION",
+      "FIXED_POST_DISTRIBUTION"
+    ]
+  }
+]

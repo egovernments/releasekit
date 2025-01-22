@@ -1,0 +1,668 @@
+[
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "FIXED_POST",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "TOTAL_CYCLES_OF_SMC",
+          "TOTAL_BUFFER_MULTIPLIER"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_FIXED_POST_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NO_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION",
+          "NO_OF_BENEFICIARIES_TO_BE_CATERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NO_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "MIXED",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "TOTAL_CYCLES_OF_SMC",
+          "TOTAL_BUFFER_MULTIPLIER"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_FIXED_POST_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NO_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION",
+          "NO_OF_BENEFICIARIES_TO_BE_CATERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NO_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+        ]
+      },
+      {
+        "order": 7,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "TOTAL_CYCLES_OF_SMC",
+          "TOTAL_BUFFER_MULTIPLIER"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION",
+          "NO_OF_BENEFICIARIES_TO_BE_CATERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NO_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "MIXED",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "TOTAL_CYCLES_OF_SMC",
+          "TOTAL_BUFFER_MULTIPLIER"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_FIXED_POST_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NO_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION",
+          "NO_OF_BENEFICIARIES_TO_BE_CATERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NO_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_DISTRIBUTION_TEAM"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "MR-DN",
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "MIXED",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "TOTAL_CYCLES_OF_SMC",
+          "TOTAL_BUFFER_MULTIPLIER"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_FIXED_POST_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NO_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_PENS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_CHALKS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_BAGS_PER_TEAM_PER_CYCLE_FOR_FIXED_POST_REGISTRATION_TEAM"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "FIXED_POST",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "AVERAGE_PEOPLE_IN_A_HOUSEHOLD",
+          "NO_OF_BEDNETS_PER_BALE",
+          "NO_OF_PEOPLE_PER_BEDNET"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_REGISTRATION",
+        "assumptions": [
+          "NUMBER_OF_DAYS_FOR_FIXED_POST_REGISTRATION",
+          "NUMBER_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NUMBER_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM",
+          "NUMBER_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY",
+          "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR",
+          "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "assumptions": [
+          "NUMBER_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION",
+          "NUMBER_OF_BEDNETS_TO_BE_DISTRIBUTED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NUMBER_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM",
+          "NUMBER_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "HOUSE_TO_HOUSE",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "AVERAGE_PEOPLE_IN_A_HOUSEHOLD",
+          "NO_OF_BEDNETS_PER_BALE",
+          "NO_OF_PEOPLE_PER_BEDNET"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR",
+          "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY",
+          "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR",
+          "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "assumptions": [
+          "NUMBER_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION",
+          "NUMBER_OF_BEDNETS_TO_BE_DISTRIBUTED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NUMBER_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM",
+          "NUMBER_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "MIXED",
+    "RegistrationProcess": "MIXED",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "AVERAGE_PEOPLE_IN_A_HOUSEHOLD",
+          "NO_OF_BEDNETS_PER_BALE",
+          "NO_OF_PEOPLE_PER_BEDNET"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_REGISTRATION",
+        "assumptions": [
+          "NUMBER_OF_DAYS_FOR_FIXED_POST_REGISTRATION",
+          "NUMBER_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NUMBER_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM",
+          "NUMBER_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR",
+          "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "assumptions": [
+          "NUMBER_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION",
+          "NUMBER_OF_BEDNETS_TO_BE_DISTRIBUTED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NUMBER_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM",
+          "NUMBER_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM",
+          "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR",
+          "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+        ]
+      },
+      {
+        "order": 7,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "FIXED_POST",
+    "RegistrationProcess": "MIXED",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "AVERAGE_PEOPLE_IN_A_HOUSEHOLD",
+          "NO_OF_BEDNETS_PER_BALE",
+          "NO_OF_PEOPLE_PER_BEDNET"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_REGISTRATION",
+        "assumptions": [
+          "NUMBER_OF_DAYS_FOR_FIXED_POST_REGISTRATION",
+          "NUMBER_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NUMBER_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM",
+          "NUMBER_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR",
+          "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "FIXED_POST_DISTRIBUTION",
+        "assumptions": [
+          "NUMBER_OF_DAYS_FOR_FIXED_POST_DISTRIBUTION",
+          "NUMBER_OF_BEDNETS_TO_BE_DISTRIBUTED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NUMBER_OF_MEMBERS_PER_FIXED_POST_DISTRIBUTION_TEAM",
+          "NUMBER_OF_FIXED_POST_DISTRIBUTION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  },
+  {
+    "campaignType": "LLIN-mz",
+    "DistributionProcess": "HOUSE_TO_HOUSE",
+    "RegistrationProcess": "MIXED",
+    "assumptionCategories": [
+      {
+        "order": 1,
+        "category": "GENERAL_ESTIMATION",
+        "assumptions": [
+          "AVERAGE_PEOPLE_IN_A_HOUSEHOLD",
+          "NO_OF_BEDNETS_PER_BALE",
+          "NO_OF_PEOPLE_PER_BEDNET"
+        ]
+      },
+      {
+        "order": 2,
+        "category": "FIXED_POST_REGISTRATION",
+        "assumptions": [
+          "NUMBER_OF_DAYS_FOR_FIXED_POST_REGISTRATION",
+          "NUMBER_OF_BENEFICIARIES_TO_BE_REGISTERED_PER_TEAM_PER_DAY_AT_THE_FIXED_POST_DISTRIBUTION_POINT",
+          "NUMBER_OF_MEMBERS_PER_FIXED_POST_REGISTRATION_TEAM",
+          "NUMBER_OF_FIXED_POST_REGISTRATION_TEAMS_PER_SUPERVISOR"
+        ]
+      },
+      {
+        "order": 3,
+        "category": "HOUSEHOLD_REGISTRATION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+          "NO_OF_BENEFICIARIES_TO_BE_REGISTERED_BY_A_HOUSEHOLD_REGISTRATION_TEAM_PER_DAY",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+          "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR",
+          "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION"
+        ]
+      },
+      {
+        "order": 4,
+        "category": "HOUSEHOLD_DISTRIBUTION",
+        "assumptions": [
+          "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY",
+          "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR",
+          "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION",
+          "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM"
+        ]
+      },
+      {
+        "order": 5,
+        "category": "CAMPAIGN_COMMODITIES",
+        "assumptions": [
+          "NO_OF_HOUSEHOLDS_PER_STICKER_ROLL"
+        ]
+      },
+      {
+        "order": 6,
+        "category": "CAMPAIGN_VEHICLES",
+        "assumptions": []
+      }
+    ],
+    "resourceDistributionStrategyCode": "MIXED",
+    "isRegistrationAndDistributionHappeningTogetherOrSeparately": "SEPARATELY"
+  }
+]
