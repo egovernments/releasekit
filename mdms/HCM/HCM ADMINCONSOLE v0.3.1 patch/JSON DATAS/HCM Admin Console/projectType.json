@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ea1bb2e7-06d8-4fe4-ba1e-f4a6363a23re",
+    "code": "DEFAULT",
+    "name": "configuration for Co-Delivery Campaign",
+    "type": "multiround",
+    "group": "MALARIA",
+    "cycles": [],
+    "resources": [],
+    "beneficiaryType": "INDIVIDUAL",
+    "dashboardUrls": {
+      "DISTRICT_SUPERVISOR": "/health-ui/employee/dss/dashboard/district-health-dashboard",
+      "NATIONAL_SUPERVISOR": "/health-ui/employee/dss/landing/national-health-dashboard",
+      "PROVINCIAL_SUPERVISOR": "/health-ui/employee/dss/dashboard/provincial-health-dashboard"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+{
+    "id": "192a20d1-0edd-4108-925a-f37bf544d6c4",
+    "code": "IRS-mz",
+    "name": "Project type configuration for IRS - Campaigns",
+    "group": "MALARIA",
+    "cycles": [
+        {
+            "id": 1,
+            "endDate": 1715279400000,
+            "startDate": 1714329000000,
+            "deliveries": [
+                {
+                    "id": 1,
+                    "doseCriteria": [
+                        {
+                            "condition": "type_of_structure==CEMENTortype_of_structure==CLAYortype_of_structure==REEDS",
+                            "ProductVariants": [
+                                {
+                                    "name": "Sumishield - 1litre",
+                                    "productVariantId": "PVAR-2024-11-18-000207"
+                                },
+                                {
+                                    "name": "Fludora - 1litre",
+                                    "productVariantId": "PVAR-2024-11-18-000208"
+                                },
+                                {
+                                    "name": "Delt - 1litre",
+                                    "productVariantId": "PVAR-2024-11-18-000209"
+                                },
+                                {
+                                    "name": "Acetellic - 1litre",
+                                    "productVariantId": "PVAR-2024-11-18-000210"
+                                },
+                                {
+                                    "name": "DOT - 1litre",
+                                    "productVariantId": "PVAR-2024-11-18-000211"
+                                },
+                                {
+                                    "name": "Bendiocarb - 1litre",
+                                    "productVariantId": "PVAR-2024-11-18-000212"
+                                }
+                            ]
+                        }
+                    ],
+                    "deliveryStrategy": "DIRECT",
+                    "mandatoryWaitSinceLastDeliveryInDays": null
+                }
+            ],
+            "mandatoryWaitSinceLastCycleInDays": null
+        }
+    ],
+    "resources": [
+        {
+            "name": "Sumishield - 1litre",
+            "productVariantId": "PVAR-2024-11-18-000207",
+            "isBaseUnitVariant": true
+        },
+        {
+            "name": "Fludora - 1litre",
+            "productVariantId": "PVAR-2024-11-18-000208",
+            "isBaseUnitVariant": true
+        },
+        {
+            "name": "Delt - 1litre",
+            "productVariantId": "PVAR-2024-11-18-000209",
+            "isBaseUnitVariant": true
+        },
+        {
+            "name": "Acetellic - 1litre",
+            "productVariantId": "PVAR-2024-11-18-000210",
+            "isBaseUnitVariant": true
+        },
+        {
+            "name": "DOT - 1litre",
+            "productVariantId": "PVAR-2024-11-18-000211",
+            "isBaseUnitVariant": true
+        },
+        {
+            "name": "Bendiocarb - 1litre",
+            "productVariantId": "PVAR-2024-11-18-000212",
+            "isBaseUnitVariant": true
+        }
+    ],
+    "dashboardUrls": {
+        "DISTRICT_SUPERVISOR": "/health-ui/employee/dss/dashboard/district-health-dashboard",
+        "NATIONAL_SUPERVISOR": "/health-ui/employee/dss/landing/national-health-dashboard",
+        "PROVINCIAL_SUPERVISOR": "/health-ui/employee/dss/dashboard/provincial-health-dashboard"
+    },
+    "taskProcedure": [
+        "1 DDT is to be distributed per house.",
+        "1 Malathion is to be distributed per house.",
+        "1 Pyrethroid is to be distributed per house."
+    ],
+    "beneficiaryType": "HOUSEHOLD",
+    "eligibilityCriteria": [
+        "All households are eligible."
+    ]
+}

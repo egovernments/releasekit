@@ -1,0 +1,369 @@
+[
+    {
+        "title": "boundary",
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "properties": {
+            "numberProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_INDIVIDUAL",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Target Individual",
+                    "orderNumber": 2
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_HOUSEHOLD",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Target Household",
+                    "orderNumber": 3
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_PRODUCT",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Target Product",
+                    "orderNumber": 4
+                }
+            ],
+            "stringProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+                    "type": "string",
+                    "isRequired": true,
+                    "description": "Boundary Code",
+                    "orderNumber": 1,
+                    "freezeColumn": true
+                }
+            ]
+        },
+        "campaignType": "DEFAULT"
+    },
+    {
+        "title": "boundaryWithTarget",
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "properties": {
+            "numberProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_INDIVIDUAL",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Target Individual",
+                    "orderNumber": 2
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_HOUSEHOLD",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Target Household",
+                    "orderNumber": 3
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_PRODUCT",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Target Product",
+                    "orderNumber": 4
+                }
+            ],
+            "stringProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+                    "type": "string",
+                    "isRequired": true,
+                    "description": "Boundary Code",
+                    "orderNumber": 1,
+                    "freezeColumn": true
+                }
+            ]
+        },
+        "campaignType": "DEFAULT"
+    },
+    {
+        "title": "boundary",
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "properties": {
+            "numberProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_TOTAL_ROOM",
+                    "type": "number",
+                    "isRequired": true,
+                    "description": "Target at the Selected Boundary Level",
+                    "orderNumber": 2
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_TOTAL_HOUSEHOLD",
+                    "type": "number",
+                    "isRequired": true,
+                    "description": "Target at the Selected Boundary Level",
+                    "orderNumber": 3
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_NUMBER_OF_BOTTLE",
+                    "type": "number",
+                    "isRequired": true,
+                    "description": "Number of Spray Bottles (Mandatory)",
+                    "orderNumber": 4
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_TOTAL_POPULATION",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Target Population",
+                    "orderNumber": 5
+                }
+            ],
+            "stringProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+                    "type": "string",
+                    "isRequired": true,
+                    "description": "Boundary Code",
+                    "orderNumber": 1,
+                    "freezeColumn": true
+                }
+            ]
+        },
+        "campaignType": "IRS-mz"
+    },
+    {
+        "title": "boundaryWithTarget",
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "properties": {
+            "numberProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_TOTAL_ROOM",
+                    "type": "number",
+                    "isRequired": true,
+                    "description": "Target at the Selected Boundary Level",
+                    "orderNumber": 2
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_TOTAL_HOUSEHOLD",
+                    "type": "number",
+                    "isRequired": true,
+                    "description": "Target at the Selected Boundary Level",
+                    "orderNumber": 3
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_NUMBER_OF_BOTTLE",
+                    "type": "number",
+                    "isRequired": true,
+                    "description": "Number of Spray Bottles (Mandatory)",
+                    "orderNumber": 4
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_TOTAL_POPULATION",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Target Population",
+                    "orderNumber": 5
+                }
+            ],
+            "stringProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+                    "type": "string",
+                    "isRequired": true,
+                    "description": "Boundary Code",
+                    "orderNumber": 1,
+                    "freezeColumn": true
+                }
+            ]
+        },
+        "campaignType": "IRS-mz"
+    },
+    {
+        "title": "boundary",
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "properties": {
+            "numberProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_3_TO_11",
+                    "type": "number",
+                    "isRequired": true,
+                    "description": "Target at village level - Age 3 to 11 Months (Mandatory and to be entered by the user)",
+                    "orderNumber": 2
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_12_TO_59",
+                    "type": "number",
+                    "isRequired": true,
+                    "description": "Target at village level - Age 12 to 59 Months (Mandatory and to be entered by the user)",
+                    "orderNumber": 3
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_TOTAL_HOUSEHOLD",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Total Households",
+                    "orderNumber": 4
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_NUMBER_OF_TABLETS",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Number of Tablets",
+                    "orderNumber": 5
+                }
+            ],
+            "stringProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+                    "type": "string",
+                    "isRequired": true,
+                    "description": "Boundary Code",
+                    "orderNumber": 1,
+                    "freezeColumn": true
+                }
+            ]
+        },
+        "campaignType": "MR-DN"
+    },
+    {
+        "title": "boundaryWithTarget",
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "properties": {
+            "numberProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_3_TO_11",
+                    "type": "number",
+                    "maximum": 100000000,
+                    "minimum": 0,
+                    "isRequired": true,
+                    "multipleOf": 1,
+                    "description": "Target at village level - Age 3 to 11 Months (Mandatory and to be entered by the user)",
+                    "orderNumber": 2
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_12_TO_59",
+                    "type": "number",
+                    "maximum": 100000000,
+                    "minimum": 0,
+                    "isRequired": true,
+                    "multipleOf": 1,
+                    "description": "Target at village level - Age 12 to 59 Months (Mandatory and to be entered by the user)",
+                    "orderNumber": 3
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_TOTAL_HOUSEHOLD",
+                    "type": "number",
+                    "maximum": 100000000,
+                    "minimum": 0,
+                    "isRequired": false,
+                    "multipleOf": 1,
+                    "description": "Total Households",
+                    "orderNumber": 4
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_NUMBER_OF_TABLETS",
+                    "type": "number",
+                    "maximum": 100000000,
+                    "minimum": 0,
+                    "isRequired": false,
+                    "multipleOf": 1,
+                    "description": "Number of Tablets",
+                    "orderNumber": 5
+                }
+            ],
+            "stringProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+                    "type": "string",
+                    "isRequired": true,
+                    "description": "Boundary Code",
+                    "orderNumber": 1,
+                    "freezeColumn": true
+                }
+            ]
+        },
+        "campaignType": "MR-DN"
+    },
+    {
+        "title": "boundary",
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "properties": {
+            "numberProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_LLIN",
+                    "type": "number",
+                    "isRequired": true,
+                    "description": "Target at the Selected Boundary Level",
+                    "orderNumber": 2
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_LLIN_TARGET_POPULATION",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Target Population",
+                    "orderNumber": 3
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_LLIN_BEDNET",
+                    "type": "number",
+                    "isRequired": false,
+                    "description": "Number of Bednets to be Distributed",
+                    "orderNumber": 4
+                }
+            ],
+            "stringProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+                    "type": "string",
+                    "isRequired": true,
+                    "description": "Boundary Code",
+                    "orderNumber": 1,
+                    "freezeColumn": true
+                }
+            ]
+        },
+        "campaignType": "LLIN-mz"
+    },
+    {
+        "title": "boundaryWithTarget",
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "properties": {
+            "numberProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET",
+                    "type": "number",
+                    "maximum": 100000000,
+                    "minimum": 1,
+                    "isRequired": true,
+                    "multipleOf": 1,
+                    "description": "Target at the Selected Boundary Level",
+                    "orderNumber": 1
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_LLIN_TARGET_POPULATION",
+                    "type": "number",
+                    "maximum": 100000000,
+                    "minimum": 1,
+                    "isRequired": false,
+                    "description": "Target Population",
+                    "orderNumber": 2
+                },
+                {
+                    "name": "HCM_ADMIN_CONSOLE_TARGET_LLIN_BEDNET",
+                    "type": "number",
+                    "maximum": 100000000,
+                    "minimum": 1,
+                    "isRequired": false,
+                    "description": "Number of Bednets to be Distributed",
+                    "orderNumber": 3
+                }
+            ],
+            "stringProperties": [
+                {
+                    "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+                    "type": "string",
+                    "isRequired": true,
+                    "description": "Boundary Code",
+                    "orderNumber": 1,
+                    "freezeColumn": true
+                }
+            ]
+        },
+        "campaignType": "LLIN-mz"
+    }
+]

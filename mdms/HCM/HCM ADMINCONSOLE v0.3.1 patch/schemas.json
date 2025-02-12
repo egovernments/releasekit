@@ -1,0 +1,110 @@
+{
+	"info": {
+		"_postman_id": "f1cbc120-af25-45fa-b306-ddc98311e7c4",
+		"name": "Schemas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37543423"
+	},
+	"item": [
+		{
+			"name": "allAttributes",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"//Validating Statues code",
+							"-pm.test(\"Response is successful\", () =>",
+							"    pm.expect(pm.response.to.have.status(202))",
+							");",
+							"",
+							"//Validating the statues as success",
+							"pm.test(\"Statues validation\", function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData.ResponseInfo.status).to.eql('successful');",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": \n   {\n            \"id\": \"49c30b2a-9814-44dd-a5fd-e0b752b4f0af\",\n            \"tenantId\": \"mz\",\n            \"code\": \"HCM-ADMIN-CONSOLE.allAttributes\",\n            \"description\": null,\n            \"definition\": {\n                \"type\": \"object\",\n                \"title\": \"Generated schema for Root\",\n                \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n                \"required\": [\n                    \"key\",\n                    \"code\",\n                    \"i18nKey\"\n                ],\n                \"x-unique\": [\n                    \"code\"\n                ],\n                \"properties\": {\n                    \"key\": {\n                        \"type\": \"number\"\n                    },\n                    \"code\": {\n                        \"type\": \"string\"\n                    },\n                    \"i18nKey\": {\n                        \"type\": \"string\"\n                    },\n                    \"projectTypes\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    },\n                    \"valuesSchema\": {\n                        \"type\": \"string\"\n                    },\n                    \"allowedOperators\": {\n                        \"type\": \"array\",\n                        \"items\": {\n                            \"type\": \"string\"\n                        }\n                    }\n                }\n            },\n            \"isActive\": true,\n            \"auditDetails\": {\n                \"createdBy\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\",\n                \"lastModifiedBy\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\",\n                \"createdTime\": 1734956059720,\n                \"lastModifiedTime\": 1734956059720\n            }\n        }\n\n}"
+				},
+				"url": {
+					"raw": "{{URL}}/egov-mdms-service/schema/v1/_create",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"egov-mdms-service",
+						"schema",
+						"v1",
+						"_create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "targetConfigs",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"//Validating Statues code",
+							"-pm.test(\"Response is successful\", () =>",
+							"    pm.expect(pm.response.to.have.status(202))",
+							");",
+							"",
+							"//Validating the statues as success",
+							"pm.test(\"Statues validation\", function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData.ResponseInfo.status).to.eql('successful');",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"RequestInfo\": {\n        \"apiId\": \"asset-services\",\n        \"ver\": null,\n        \"ts\": null,\n        \"action\": null,\n        \"did\": null,\n        \"key\": null,\n        \"msgId\": null,\n        \"authToken\": \"{{authToken}}\",\n        \"correlationId\": null,\n        \"userInfo\": {\n            \"id\": \"1\",\n            \"userName\": null,\n            \"name\": null,\n            \"type\": null,\n            \"mobileNumber\": null,\n            \"emailId\": null,\n            \"roles\": null,\n            \"uuid\": \"2f5ff063-7d48-419d-9d9d-2c30ef66d199\"\n        }\n    },\n    \"SchemaDefinition\": {\n        \"id\": \"63d427f7-3b12-4174-a4dc-470134ee533b\",\n        \"tenantId\": \"dev\",\n        \"code\": \"HCM-ADMIN-CONSOLE.targetConfigs\",\n        \"description\": null,\n        \"definition\": {\n            \"type\": \"object\",\n            \"title\": \"Generated schema for Root\",\n            \"$schema\": \"http://json-schema.org/draft-07/schema#\",\n            \"required\": [\n                \"campaignType\",\n                \"beneficiaries\"\n            ],\n            \"x-unique\": [\n                \"campaignType\"\n            ],\n            \"properties\": {\n                \"campaignType\": {\n                    \"type\": \"string\"\n                },\n                \"beneficiaries\": {\n                    \"type\": \"array\",\n                    \"items\": {\n                        \"type\": \"object\",\n                        \"required\": [\n                            \"beneficiaryType\",\n                            \"columns\"\n                        ],\n                        \"properties\": {\n                            \"columns\": {\n                                \"type\": \"array\",\n                                \"items\": {\n                                    \"type\": \"string\"\n                                }\n                            },\n                            \"beneficiaryType\": {\n                                \"type\": \"string\"\n                            }\n                        }\n                    }\n                }\n            }\n        },\n        \"isActive\": true,\n        \"auditDetails\": {\n            \"createdBy\": \"63a21269-d40d-4c26-878f-4f4486b1f44b\",\n            \"lastModifiedBy\": \"63a21269-d40d-4c26-878f-4f4486b1f44b\",\n            \"createdTime\": 1735275849622,\n            \"lastModifiedTime\": 1735275849622\n        }\n    }\n}"
+				},
+				"url": {
+					"raw": "{{URL}}/egov-mdms-service/schema/v1/_create",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"egov-mdms-service",
+						"schema",
+						"v1",
+						"_create"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
