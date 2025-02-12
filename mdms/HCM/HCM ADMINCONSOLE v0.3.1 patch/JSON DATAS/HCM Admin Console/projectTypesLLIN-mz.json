@@ -1,0 +1,59 @@
+{
+    "id": "dbd45c31-de9e-4e62-a9b6-abb818928fd1",
+    "code": "LLIN-mz",
+    "name": "mz project type configuration for LLIN Campaigns",
+    "group": "MALARIA",
+    "cycles": [
+        {
+            "id": 1,
+            "endDate": 1715279400000,
+            "startDate": 1714329000000,
+            "deliveries": [
+                {
+                    "id": 1,
+                    "doseCriteria": [
+                        {
+                            "condition": "memberCount>=1",
+                            "ProductVariants": [
+                                {
+                                    "name": "Bednet - Grade - 1",
+                                    "quantity": 1,
+                                    "productVariantId": "PVAR-2024-11-18-000217"
+                                }
+                            ]
+                        }
+                    ],
+                    "deliveryStrategy": "DIRECT",
+                    "mandatoryWaitSinceLastDeliveryInDays": null
+                }
+            ],
+            "mandatoryWaitSinceLastCycleInDays": null
+        }
+    ],
+    "resources": [
+        {
+            "name": "Bednet - Grade - 1",
+            "productVariantId": "PVAR-2024-11-18-000217",
+            "isBaseUnitVariant": false
+        }
+    ],
+    "dashboardUrls": {
+        "DISTRICT_SUPERVISOR": "/digit-ui/employee/dss/dashboard/district-health-dashboard",
+        "NATIONAL_SUPERVISOR": "/digit-ui/employee/dss/landing/national-health-dashboard",
+        "PROVINCIAL_SUPERVISOR": "/digit-ui/employee/dss/dashboard/provincial-health-dashboard"
+    },
+    "taskProcedure": [
+        "1 bednet is to be distributed per 2 household members.",
+        "If there are 4 household members, 2 bednets should be distributed.",
+        "If there are 5 household members, 3 bednets should be distributed."
+    ],
+    "IsCycleDisable": true,
+    "attrAddDisable": true,
+    "beneficiaryType": "HOUSEHOLD",
+    "productCountHide": true,
+    "deliveryAddDisable": true,
+    "eligibilityCriteria": [
+        "All households are eligible.",
+        "Prison inmates are eligible."
+    ]
+}
