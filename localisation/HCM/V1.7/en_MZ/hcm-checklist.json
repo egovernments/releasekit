@@ -1,0 +1,2528 @@
+[
+    {
+        "code": "CHECKLIST",
+        "message": "Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_BACK_DIALOG_DESCRITPTION",
+        "message": "If you go back, you will lose your data",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_BACK_DIALOG_LABEL",
+        "message": "WARNING",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_BACK_DIALOG_PRIMARY_ACTION",
+        "message": "Yes",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_BACK_DIALOG_SECONDARY_ACTION",
+        "message": "No",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_CREATE_ACTION_LABEL",
+        "message": "Create Checklist",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DATE",
+        "message": "Date",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DETAILS_LABEL",
+        "message": "Checklist Details",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_DESCRITPTION",
+        "message": "Make sure the details entered are correct.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_LABEL",
+        "message": "Ready to submit checklist?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_PRIMARY_ACTION",
+        "message": "Submit",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_DIALOG_SECONDARY_ACTION",
+        "message": "Go Back",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_LABEL",
+        "message": "My Checklists",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_REASON_REQUIRED_ERROR",
+        "message": "Reason cannot be empty",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CHECKLIST_VIEW_ACTION_LABEL",
+        "message": "View Submitted Checklists",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_OP1",
+        "message": "Frequently (at least once a day)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_OP2",
+        "message": "Often (at least once a week)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_OP3",
+        "message": "Sometimes (at least once a month)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_OP4",
+        "message": "Rarely (less than once a month)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_OP5",
+        "message": "Never",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_OP6",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS03.OP1",
+        "message": "Woman",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS03.OP2",
+        "message": "Man",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS03.OP3",
+        "message": "Other",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS03.OP4",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS04.OP1",
+        "message": "18–28 years",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS04.OP2",
+        "message": "29–39 years",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS04.OP3",
+        "message": "40–50 years",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS04.OP4",
+        "message": "51-61 years",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS04.OP5",
+        "message": "62-72 years",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS04.OP6",
+        "message": "Above 72 years",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS04.OP7",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS12.OP1",
+        "message": "There was no lighting",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS12.OP2",
+        "message": "The lighting was less than adequate",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS12.OP3",
+        "message": "The lighting was adequate",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS12.OP4",
+        "message": "The lighting was more than adequate",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS12.OP5",
+        "message": "The facility was brightly lit",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS12.OP6",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS13.OP1",
+        "message": "I was very concerned about my safety",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS13.OP2",
+        "message": "I was a little concerned about my safety",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS13.OP3",
+        "message": "I was not at all concerned about my safety",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS11.YES.SS13.OP4",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS4.OP1",
+        "message": "This facility meets all or most of the requirements of the staff",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS4.OP2",
+        "message": "This facility meets only the basic requirements of the staff",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS4.OP3",
+        "message": "This facility does not even meet the basic requirements of the staff",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS4.OP4",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS5.OP1",
+        "message": "In this facility, I feel motivated all or most of the time",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS5.OP2",
+        "message": "In this facility, even though I try I only feel motivated some of the time",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS5.OP3",
+        "message": "In this facility, even though I try I rarely or never feel motivated",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS5.OP4",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS6.OP1",
+        "message": "Always",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS6.OP2",
+        "message": "Mostly",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS6.OP3",
+        "message": "Sometimes",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS6.OP4",
+        "message": "Rarely",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS6.OP5",
+        "message": "Never",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS6.OP6",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS7.OP1",
+        "message": "Really comfortable",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS7.OP2",
+        "message": "Comfortable",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS7.OP3",
+        "message": "Ok",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS7.OP4",
+        "message": "Uncomfortable",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS7.OP5",
+        "message": "Really uncomfortable",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS7.OP6",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS8.OP1",
+        "message": "Very hot",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS8.OP2",
+        "message": "Somewhat hot",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS8.OP3",
+        "message": "Pleasant",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS8.OP4",
+        "message": "Somewhat cold",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS8.OP5",
+        "message": "Very cold",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CORE_COMMON_SS8.OP6",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CS13_REQUIRED",
+        "message": "Required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CS14_REQUIRED",
+        "message": "Required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CS1_REGEX",
+        "message": "Please enter only alphabetic and space characters",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CS1_REQUIRED",
+        "message": "Required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CS2_REGEX",
+        "message": "Please enter a 10-digit mobile number",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CS7_REGEX",
+        "message": "Please enter up to 1000",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CS8_REGEX",
+        "message": "Please enter up to 1000",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CS9.YES.CS10_REGEX",
+        "message": "Please enter up to 100",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CSE13_REQUIRED",
+        "message": "Required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CSE14_REQUIRED",
+        "message": "Required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CSE1_REGEX",
+        "message": "Please enter only alphabetic and space characters",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CSE1_REQUIRED",
+        "message": "Required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CSE2_REGEX",
+        "message": "Please enter a 10-digit mobile number",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CSE7_REGEX",
+        "message": "Please enter up to 1000",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CSE8_REGEX",
+        "message": "Please enter up to 1000",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "CSE9.YES.CSE10_REGEX",
+        "message": "Please enter up to 100",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_CC.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to adverse drug reaction",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_PC.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to adverse drug reaction",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to fever",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Child with positive malaria test treated with anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
+        "message": "Name and dose of anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "Name and dose of the anti malarial is required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to sickness",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Child evaluated to determine cause of illness",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Enter comments for Diagnosis",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Comments is mandatory",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "Was the child treated ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Name and dose of the drug",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Name and dose of the drug is required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRIBUTOR",
+        "message": "App training for distributors",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR",
+        "message": "App training for attendance tracking",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q1",
+        "message": "1. Is the app's attendance feature user-friendly and accessible for all supervisors?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q2",
+        "message": "2. Have all distributors consistently marked their attendance through the supervisors at the designated times?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q3",
+        "message": "3. Are you able to generate and review attendance reports from the app on a daily basis?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER",
+        "message": "App training for inventory management of bednet campaign",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q1",
+        "message": "1. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q2",
+        "message": "2. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q3",
+        "message": "3. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q1",
+        "message": "1. Do you currently have sufficient stock of bednets for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Resons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q2",
+        "message": "2. Is there a system in place to regularly check and remove damaged bednets from the inventory?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Resons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q3",
+        "message": "3. Have all staff members been trained on the correct handling and storage procedures for the bednets?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Resons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER",
+        "message": "Warehouse survey for warehouse managers",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER.MR1",
+        "message": "1. Do you conduct regular inventory audits to ensure stock accuracy and compliance?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER.MR1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER.MR2",
+        "message": "2. Is there a system in place to regularly check and remove damaged bednets from the inventory?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER.MR2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER.MR3",
+        "message": "3. Is there a reliable system for recording and tracking all incoming and outgoing inventory?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER.MR3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Bednet.WAREHOUSE.WAREHOUSE_MANAGER/MR2",
+        "message": "2. Do you have enough storage capacity to handle the current inventory levels?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.DISTRIBUTOR",
+        "message": "App training for distributors",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q1",
+        "message": "1. Are there any current logistical challenges that are preventing you from delivering vaccines to beneficiaries on time?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q2",
+        "message": "2. Have all distributors received training on how to handle vaccines safely during transport and delivery?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q3",
+        "message": "3. Is there a process in place to verify beneficiary information and accurately record the administration of each vaccine dose?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.DISTRICT_SUPERVISOR",
+        "message": "App training for attendance tracking",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.WAREHOUSE_MANAGER",
+        "message": "App training for inventory management",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q1",
+        "message": "1. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q2",
+        "message": "2. Is there a system in place to regularly check and remove expired vaccine doses from the inventory?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q3",
+        "message": "3. Have all staff members been trained on the correct handling and storage procedures for the vaccines?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN BednetTRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "LLIN Massamba.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_CC.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to adverse drug reaction",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_DRUG_SIDE_EFFECT_FRM_PC.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to adverse drug reaction",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to fever",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SIDE_EFFECT_FRM_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Child with positive malaria test treated with anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
+        "message": "Name and dose of anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "Name and dose of the anti malarial is required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Referral due to sickness",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Child evaluated to determine cause of illness",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Enter comments for Diagnosis",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "Comments is mandatory",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "Was the child treated ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Name and dose of the drug",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "Name and dose of the drug is required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MR-DN.HF_REFERRAL_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "MY_CHECK_LIST_LABEL",
+        "message": "My Checklists",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Camapign.WAREHOUSE.WAREHOUSE_MANAGER.MR2",
+        "message": "2. Is there a system in place to regularly check and remove expired vaccination doses from the inventory?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Camapign.WAREHOUSE.WAREHOUSE_MANAGER.MR2.ADDITIONAL_FIELD",
+        "message": "Resons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Camapign.WAREHOUSE.WAREHOUSE_MANAGER.MR4",
+        "message": "2. Do you have procedures in place to handle and document damaged or compromised stock?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Camapign.WAREHOUSE.WAREHOUSE_MANAGER.MR4.ADDITIONAL_FIELD",
+        "message": "Resons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
+        "message": "Side effect from current cycle",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_01.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_02.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_03.ADDITIONAL_FIELD",
+        "message": "Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
+        "message": "Side effect from previous cycle",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Fever",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "Child with negative malaria test received SPAQ in this cycle",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Child with positive malaria test treated with anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Sick",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Child evaluated to determine the cause of illness.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Enter comments for diagnosis.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "Was the child treated ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Name and dose of the drug",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRIBUTOR",
+        "message": "App training for distributors",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q1",
+        "message": "1. Are there any current logistical challenges that are preventing you from delivering vaccines to beneficiaries on time?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q2",
+        "message": "2. Have all distributors received training on how to handle vaccines safely during transport and delivery?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q3",
+        "message": "3. Is there a process in place to verify beneficiary information and accurately record the administration of each vaccine dose?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRIBUTOR.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR",
+        "message": "App training for attendance tracking",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q1",
+        "message": "1. Is the app's attendance feature user-friendly and accessible for all supervisors?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q2",
+        "message": "2. Have all distributors consistently marked their attendance through the supervisors at the designated times?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q3",
+        "message": "3. Are you able to generate and review attendance reports from the app on a daily basis?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.DISTRICT_SUPERVISOR.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER",
+        "message": "App training for inventory management of vaccination campaign",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q1",
+        "message": "1. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q2",
+        "message": "2. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q3",
+        "message": "3. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q1",
+        "message": "1. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q2",
+        "message": "2. Is there a system in place to regularly check and remove expired vaccine doses from the inventory?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q3",
+        "message": "3. Have all staff members been trained on the correct handling and storage procedures for the vaccines?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.HEALTH_FACILITY_WORKER.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR",
+        "message": "App training for Supervisors",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q1",
+        "message": "1. Have you received comprehensive training on using the app for managing the vaccination campaign?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q2",
+        "message": "2. Do you feel confident in navigating all the features of the app required for tracking vaccination deliveries?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q3",
+        "message": "3. Is there a designated support channel you can contact if you encounter issues with the app during the campaign?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.SUPERVISOR.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER",
+        "message": "App training for inventory management of vaccination campaign",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q1",
+        "message": "1. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q2",
+        "message": "2. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q3",
+        "message": "3. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q1",
+        "message": "1. Do you currently have sufficient stock of each type of vaccine to meet the anticipated demand for the next two weeks?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q2",
+        "message": "2. Is there a system in place to regularly check and remove expired vaccine doses from the inventory?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q2.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q3",
+        "message": "3. Have all staff members been trained on the correct handling and storage procedures for the vaccines?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.TRAINING_SUPERVISION.WAREHOUSE_MANAGER.TRAINING_SUPERVISION_Q3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER",
+        "message": "Warehouse survey for warehouse managers",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR1",
+        "message": "1. Do you conduct regular inventory audits to ensure stock accuracy and compliance?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR1.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR2",
+        "message": "2. Is there a system in place to regularly check and remove expired vaccination doses from the inventory?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR2.ADDITIONAL_FIELD",
+        "message": "Resons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR3",
+        "message": "3. Is there a reliable system for recording and tracking all incoming and outgoing inventory?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR3.ADDITIONAL_FIELD",
+        "message": "Reasons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR4",
+        "message": "2. Do you have procedures in place to handle and document damaged or compromised stock?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER.MR4.ADDITIONAL_FIELD",
+        "message": "Resons/Comments",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.WAREHOUSE.WAREHOUSE_MANAGER/MR2",
+        "message": "2. Do you have enough storage capacity to handle the current inventory levels?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1",
+        "message": "Name and dose of anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_REFERRAL_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2.YES.Q1_REQUIRED",
+        "message": "Name and dose of the anti malarial is required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER",
+        "message": "Side effect from current cycle",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_CC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER",
+        "message": "Side effect from previous cycle",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER",
+        "message": "Fever",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "Child with negative malaria test received SPAQ in this cycle",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Child with positive malaria test treated with anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER",
+        "message": "Sick",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Child evaluated to determine the cause of illness.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Enter comments for diagnosis.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "Was the child treated ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Name and dose of the drug",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaigns.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_DRUG_SE_PC.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_CC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1",
+        "message": "Child evaluated for adverse reaction for SP and AQ ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q2",
+        "message": "The national Pharmacovigilance has been filled out ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3",
+        "message": "Was the child admitted / transferred to the hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_DRUG_SE_PC_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1",
+        "message": "Was the child tested for malaria ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1",
+        "message": "Result of malaria diagnostic test",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1",
+        "message": "Child with negative malaria test received SPAQ in this cycle",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.NEGATIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2",
+        "message": "Child with positive malaria test treated with anti malarial",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1.POSITIVE.FQ2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1.YES.F1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_FEVER.HEALTH_FACILITY_WORKER.HF_REASON_FEVER_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1",
+        "message": "Child evaluated to determine the cause of illness.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1",
+        "message": "Enter comments for diagnosis.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1.YES.COM1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q1_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2",
+        "message": "Was the child treated ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2",
+        "message": "Name and dose of the drug",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2.YES.COM2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q2_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3",
+        "message": "Was the child admitted/transferred to the nearest hospital due to serious illness ?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC-Campaign.HF_RF_SICK.HEALTH_FACILITY_WORKER.HF_REASON_SICK_Q3_REQUIRED",
+        "message": "This is a required field",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS01_REGEX",
+        "message": "Please enter only alphabetic and space characters",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS01_REQUIRED",
+        "message": "Required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS02_REQUIRED",
+        "message": "Required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS10OP1",
+        "message": "Our work is more difficult (e.g. conducting deliveries with poor lighting, moving vaccines to other facilities)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS10OP2",
+        "message": "Our work takes longer (e.g. data entry)",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS10OP3",
+        "message": "No",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS14_REQUIRED",
+        "message": "Required",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS1OP1",
+        "message": "Delivery",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS1OP2",
+        "message": "Emergency care",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS1OP3",
+        "message": "Outpatient care",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS1OP4",
+        "message": "Inpatient care",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS1OP5",
+        "message": "Immunization",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS1OP6",
+        "message": "Refuse to Answer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS2_REGEX",
+        "message": "Please enter up to 150",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SS3_REGEX",
+        "message": "Please enter up to 150",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.SMC1",
+        "message": "Is the child sick?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.SMC1.HELP",
+        "message": "Ask the caregiver if the child is experiencing any general illness or discomfort, such as weakness, diarrhea, vomiting, difficulty breathing, or other health concerns.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.SMC1.YES.SM1",
+        "message": "Is the child having fever?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.SMC1.YES.HELP",
+        "message": "Check if the child currently feels unusually hot to the touch or if the caregiver has measured a high temperature in the last 24 hours. If possible, measure the child’s temperature with a thermometer.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.SMC2",
+        "message": "Is there any side effect to SPAQ  which was administered last cycle?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.SMC2.HELP",
+        "message": "Ask the caregiver if the child experienced any unusual symptoms after taking SPAQ during the previous cycle, such as rash, vomiting, diarrhea, or any signs of allergic reactions.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.SMC3",
+        "message": "Child has taken SP or CTX containing drugs in the past 28 days?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.SMC3.HELP",
+        "message": "Confirm whether the child has been given any medication containing Sulfadoxine-Pyrimethamine (SP) or Cotrimoxazole (CTX) in the last 28 days, either for prevention or treatment of illnesses.",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.YES",
+        "message": "Yes",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR.NO",
+        "message": "No",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "TO_ADMINISTER",
+        "message": "To administer",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "BENEFICIARY_REFUSED",
+        "message": "Beneficiary refused",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "BENEFICIARY_REFERRED",
+        "message": "Beneficiary referred",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "BENEFICIARY_CHECKLIST_DIALOG_DESCRIPTION",
+        "message": "Based on the responses you are redirected to '{}'. Are you sure you want to proceed?",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    },
+    {
+        "code": "SMC Campaign.ELIGIBILITY.DISTRIBUTOR",
+        "message": "Eligibility",
+        "module": "hcm-checklist",
+        "locale": "en_MZ"
+    }
+]
