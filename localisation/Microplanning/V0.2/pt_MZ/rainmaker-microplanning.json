@@ -1,0 +1,416 @@
+[
+  {
+    "code": "MP_VILLAGE_ROAD_CONDITION",
+    "message": "Estado da estrada da aldeia",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "MP_VILLAGE_TERRAIN",
+    "message": "Terreno da aldeia",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "MP_FILTER_FACILITY",
+    "message": "Nome da instalação",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "MP_SECURITY_QUESTION 1",
+    "message": "A sua aldeia é propensa a distúrbios civis, como protestos violentos, motins, etc.? ",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "MP_SECURITY_QUESTION 2",
+    "message": "Com que frequência as forças de segurança patrulham a aldeia?",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "ALL_THE_TIME",
+    "message": "O tempo todo (pelo menos uma vez por mês)",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "OFTEN",
+    "message": "Frequentemente (pelo menos uma vez por ano)",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "RARELY",
+    "message": "Raramente (uma vez a cada 2-3 anos)",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NEVER",
+    "message": "Nunca",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "EVERYDAY1",
+    "message": "Diariamente",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "OFTEN1",
+    "message": "Frequentemente (pelo menos uma vez por semana)",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "RARELY1",
+    "message": "Raramente (uma vez por mês)",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NEVER1",
+    "message": "Nunca",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "ERR_PLAN_UPDATE_FAILED",
+    "message": "Houve algum erro. Por favor, tente novamente.",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "ERR_EMPLOYEE_UPDATE_FAILED",
+    "message": "Houve algum erro. Por favor, tente novamente.",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "ERR_BOUNDARY_UPDATE",
+    "message": "Houve algum erro. Por favor, tente novamente.",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FIXED_POST_REGISTRATION",
+    "message": "Suposições pós-registro fixas",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FIXED_POST_REGISTRATIONS",
+    "message": "Suposições pós-registro fixas",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "HOUSEHOLD_REGISTRATION",
+    "message": "Pressupostos do Registo Domiciliário",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FIXED_POST_DISTRIBUTION",
+    "message": "Suposições de pós-distribuição fixa",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "HOUSEHOLD_DISTRIBUTION",
+    "message": "Pressupostos de distribuição domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FORMULA_FIXED_POST_DISTRIBUTION",
+    "message": "Estimativas de pós-distribuição fixa",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FORMULA_HEADER_FIXED_POST_DISTRIBUTION",
+    "message": "Estimativas de pós-distribuição fixa",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FORMULA_HEADER_HOUSEHOLD_DISTRIBUTION",
+    "message": "Estimativas de distribuição domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FORMULA_HOUSEHOLD_DISTRIBUTION",
+    "message": "Estimativas de distribuição domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FORMULA_HEADER_HOUSEHOLD_REGISTRATION",
+    "message": "Estimativas de registro domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FORMULA_HOUSEHOLD_REGISTRATION",
+    "message": "Estimativas de registro domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FORMULA_FIXED_POST_REGISTRATION",
+    "message": "Estimativas fixas de pós-registro",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "FORMULA_HEADER_FIXED_POST_REGISTRATION",
+    "message": "Estimativas fixas de pós-registro",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "ERROR_REGISTRATION_AND_DISTRIBUTION_ARE_SAME",
+    "message": "O processo de distribuição e registo só pode ser o mesmo para 'Correio Fixo e Casa-a-Casa'",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+    "message": "Número de dias para registro de domicílio",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Número de membros por equipe de registro de domicílio",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NUMBER_OF_REGISTRATION_TEAMS_PER_MONITOR",
+    "message": "Número de equipes de cadastramento de domicílios por monitor",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION",
+    "message": "Número de monitores por supervisor para cadastramento de domicílio",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+    "message": "Número de dias para distribuição domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY",
+    "message": "Número de mosquiteiros a serem distribuídos por uma equipe de distribuição domiciliar por dia",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM",
+    "message": "Número de membros por equipe de distribuição domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR",
+    "message": "Número de equipes de distribuição domiciliar por monitor",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION",
+    "message": "Número de monitores por supervisor para distribuição domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+    "message": "Número total de equipes de registro de domicílios por fronteira durante 1 dia",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+    "message": "Número total de equipes de registro de domicílios por limite para a campanha",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+    "message": "Número total de membros da equipe de registro de domicílios por limite para a campanha",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+    "message": "Número total de monitores da equipe de registro de domicílios por limite",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+    "message": "Número total de equipes de distribuição domiciliar por fronteira durante 1 dia",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+    "message": "Número total de membros da equipe de distribuição domiciliar por limite da campanha",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+    "message": "Número total de equipes de distribuição domiciliar por limite para a campanha",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+    "message": "Número total de monitores da equipe de distribuição domiciliar por limite",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+    "message": "Número total de supervisores da equipe de distribuição domiciliar por fronteira",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR",
+    "message": "Número de equipes de cadastramento de domicílios por monitor",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+    "message": "Número total de supervisores da equipe de registro de domicílios por limite",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE",
+    "message": "Número de beneficiários a serem atendidos pela equipe de distribuição domiciliar por dia e por ciclo",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR",
+    "message": "Número de equipes de distribuição domiciliar por supervisor",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Número total de baias necessárias por limite para a equipe de registro de domicílios",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "RESOURCE_TYPE_TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Número total de gizes necessários por limite para a equipe de registro de domicílios",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Número total de malas necessárias por limite para a equipe de registro domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+    "message": "Total não. de currais necessários por limite para a equipe de distribuição domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+    "message": "Total não. de giz necessários por limite para a equipe de distribuição domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+    "message": "Total não. de sacolas necessárias por limite para a equipe de distribuição domiciliar",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Número total de gizes necessários por limite para a equipe de registro de domicílios",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "SETUP_MICROPLAN",
+    "message": "Configurar Microplano",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "HEADING_DOWNLOAD_EXCEL_TEMPLATE_FOR_FACILITIES_EXCEL",
+    "message": "Baixe o modelo Excel para instalação",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "ERROR_MANDATORY_FIELDS_FOR_SUBMIT",
+    "message": "Não há nenhuma planilha Excel carregada. Faça o upload e clique no botão 'Enviar'.",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "ERROR_VALID_MANDATORY_FILES",
+    "message": "Faça upload de um arquivo Excel válido para prosseguir.",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "HEADING_DOWNLOAD_TEMPLATE_FOR_POPULATION_EXCEL",
+    "message": "Baixe o modelo Excel para população",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "INSTRUCTIONS_UPLOAD_EXCEL",
+    "message": "Arraste e solte sua planilha Excel preenchida ou",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "MICROPLAN_NAMING_CONVENTION_1",
+    "message": "O nome deve ter de 3 a 64 caracteres",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "MICROPLAN_NAMING_CONVENTION_2",
+    "message": "Somente números não são permitidos",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "MICROPLAN_NAMING_CONVENTION_3",
+    "message": "Caracteres especiais permitidos: -, _, (, ), &",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  },
+  {
+    "code": "ADMINPOST",
+    "message": "Pós Administrativo",
+    "module": "rainmaker-microplanning",
+    "locale": "pt_MZ"
+  }
+]

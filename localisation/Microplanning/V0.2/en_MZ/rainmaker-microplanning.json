@@ -1,0 +1,417 @@
+[
+  {
+    "code": "MP_VILLAGE_ROAD_CONDITION",
+    "message": "Village road condition",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "MP_VILLAGE_TERRAIN",
+    "message": "Village terrain",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "MP_FILTER_FACILITY",
+    "message": "Facility name",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "MP_SECURITY_QUESTION 1",
+    "message": "Is your village prone to civil unrest like violent protests, riots, etc.? ",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "MP_SECURITY_QUESTION 2",
+    "message": "How often do the security forces patrol the village?",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "ALL_THE_TIME",
+    "message": "All the time (Atleast once a month)",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "OFTEN",
+    "message": "Often (Atleast once a year)",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "RARELY",
+    "message": "Rarely (Once in 2-3 years)",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NEVER",
+    "message": "Never",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "EVERYDAY1",
+    "message": "Everyday",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "OFTEN1",
+    "message": "Often (Atleast once a week)",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "RARELY1",
+    "message": "Rarely (Once in a month)",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NEVER1",
+    "message": "Never",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "ERR_PLAN_UPDATE_FAILED",
+    "message": "There was some error. Please try again.",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "ERR_EMPLOYEE_UPDATE_FAILED",
+    "message": "There was some error. Please try again.",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "ERR_BOUNDARY_UPDATE",
+    "message": "There was some error. Please try again.",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FIXED_POST_REGISTRATION",
+    "message": "Fixed post Registration assumptions",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FIXED_POST_REGISTRATIONS",
+    "message": "Fixed post Registration assumptions",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "HOUSEHOLD_REGISTRATION",
+    "message": "Household Registration assumptions",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FIXED_POST_DISTRIBUTION",
+    "message": "Fixed post Distribution assumptions",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "HOUSEHOLD_DISTRIBUTION",
+    "message": "Household Distribution assumptions",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FORMULA_FIXED_POST_DISTRIBUTION",
+    "message": "Fixed post Distribution estimations",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FORMULA_HEADER_FIXED_POST_DISTRIBUTION",
+    "message": "Fixed post Distribution estimations",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FORMULA_HEADER_HOUSEHOLD_DISTRIBUTION",
+    "message": "Household Distribution estimations",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FORMULA_HOUSEHOLD_DISTRIBUTION",
+    "message": "Household Distribution estimations",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FORMULA_HEADER_HOUSEHOLD_REGISTRATION",
+    "message": "Household Registration estimations",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FORMULA_HOUSEHOLD_REGISTRATION",
+    "message": "Household Registration estimations",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FORMULA_FIXED_POST_REGISTRATION",
+    "message": "Fixed post Registration estimations",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "FORMULA_HEADER_FIXED_POST_REGISTRATION",
+    "message": "Fixed post Registration estimations",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "ERROR_REGISTRATION_AND_DISTRIBUTION_ARE_SAME",
+    "message": "The distribution and registration process can only be same for 'Fixed Post & House-to-House'",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_DAYS_FOR_HOUSEHOLD_REGISTRATION",
+    "message": "Number of days for household registration",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_MEMBERS_PER_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Number of members per household registration team",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NUMBER_OF_REGISTRATION_TEAMS_PER_MONITOR",
+    "message": "Number of household registration teams per monitor",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_REGISTRATION",
+    "message": "Number of monitors per supervisor for household registration",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_DAYS_FOR_HOUSEHOLD_DISTRIBUTION",
+    "message": "Number of days for household distribution",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_BEDNETS_TO_BE_DISTRIBUTED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY",
+    "message": "Number of bednets to be distributed by a household distribution team per day",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_MEMBERS_PER_HOUSEHOLD_DISTRIBUTION_TEAM",
+    "message": "Number of members per household distribution team",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_MONITOR",
+    "message": "Number of household distribution teams per monitor",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_MONITORS_PER_SUPERVISOR_FOR_HOUSEHOLD_DISTRIBUTION",
+    "message": "Number of monitors per supervisor for household distribution",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+    "message": "Total number of household registration teams per boundary for 1 day",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+    "message": "Total number of household registration teams per boundary for the campaign",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_REGISTRATION_TEAM_MEMBERS_PER_BOUNDARY",
+    "message": "Total number of household registration team members per boundary for the campaign",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_MONITORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+    "message": "Total number of monitors for household registration team per boundary",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_ONE_DAY",
+    "message": "Total number of household distribution teams per boundary for 1 day",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAM_MEMBERS_PER_BOUNDARY",
+    "message": "Total number of household distribution team members per boundary for the campaign",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_BOUNDARY_FOR_THE_CAMPAIGN",
+    "message": "Total number of household distribution teams per boundary for the campaign",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_MONITORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+    "message": "Total number of monitors for household distribution team per boundary",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_DISTRIBUTION_TEAM_PER_BOUNDARY",
+    "message": "Total number of supervisors for  household distribution team per boundary",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_REGISTRATION_TEAMS_PER_MONITOR",
+    "message": "Number of household registration teams per monitor",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_SUPERVISORS_FOR_HOUSEHOLD_REGISTRATION_TEAM_PER_BOUNDARY",
+    "message": "Total number of supervisors for household registration team per boundary",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_BENEFICIARIES_TO_BE_CATERED_BY_A_HOUSEHOLD_DISTRIBUTION_TEAM_PER_DAY_PER_CYCLE",
+    "message": "Number beneficiaries to be catered by household distribution team per day per cycle",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "NO_OF_HOUSEHOLD_DISTRIBUTION_TEAMS_PER_SUPERVISOR",
+    "message": "Number of household distribution teams per supervisors",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Total number of pens required per boundary for household registration team",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "RESOURCE_TYPE_TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Total number of chalks required per boundary for household registration team",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Total number of bags required per boundary for household registration team",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_PENS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+    "message": "Total no. of pens required per boundary for household distribution team",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+    "message": "Total no. of chalks required per boundary for household distribution team",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_BAGS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_DISTRIBUTION_TEAM",
+    "message": "Total no. of bags required per boundary for household distribution team",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "TOTAL_NO_OF_CHALKS_REQUIRED_PER_BOUNDARY_FOR_HOUSEHOLD_REGISTRATION_TEAM",
+    "message": "Total number of chalks required per boundary for household registration team",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "SETUP_MICROPLAN",
+    "message": "Setup Microplan",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "HEADING_DOWNLOAD_EXCEL_TEMPLATE_FOR_FACILITIES_EXCEL",
+    "message": "Download Excel Template for Facility",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+
+  {
+    "code": "ERROR_MANDATORY_FIELDS_FOR_SUBMIT",
+    "message": "There is no Excel sheet uploaded. Please upload and then click on 'Submit' button.",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "ERROR_VALID_MANDATORY_FILES",
+    "message": "Please upload valid Excel file to move ahead.",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "HEADING_DOWNLOAD_TEMPLATE_FOR_POPULATION_EXCEL",
+    "message": "Download Excel template for population",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "INSTRUCTIONS_UPLOAD_EXCEL",
+    "message": "Drag and drop your filled Excel sheet or",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "MICROPLAN_NAMING_CONVENTION_1",
+    "message": "The name must be 3 to 64 characters",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "MICROPLAN_NAMING_CONVENTION_2",
+    "message": "Numbers alone are not allowed",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "MICROPLAN_NAMING_CONVENTION_3",
+    "message": "Allowed special characters: -, _, (, ), &",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  },
+  {
+    "code": "ADMINPOST",
+    "message": "Administrative Post",
+    "module": "rainmaker-microplanning",
+    "locale": "en_MZ"
+  }
+]
