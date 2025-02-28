@@ -1,0 +1,68 @@
+[
+    {
+        "type": "user",
+        "mappings": [
+            {
+                "to": "Supervisor",
+                "from": [
+                    "PER_BOUNDARY_FOR_THE_CAMPAIGN",
+                    "PER_BOUNDARY",
+                    "TEAM",
+                    "SUPERVISORS"
+                ],
+                "filter": "includes"
+            },
+            {
+                "to": "Registrar",
+                "from": [
+                    "PER_BOUNDARY_FOR_THE_CAMPAIGN",
+                    "PER_BOUNDARY",
+                    "TEAM",
+                    "REGISTRATION"
+                ],
+                "filter": "includes"
+            },
+            {
+                "to": "Distributor",
+                "from": [
+                    "PER_BOUNDARY_FOR_THE_CAMPAIGN",
+                    "PER_BOUNDARY",
+                    "TEAM",
+                    "DISTRIBUTION"
+                ],
+                "filter": "includes"
+            }
+        ]
+    },
+    {
+        "type": "Target-LLIN-mz",
+        "mappings": [
+            {
+                "to": "HCM_ADMIN_CONSOLE_TARGET",
+                "from": [
+                    "CONFIRMED_HCM_ADMIN_CONSOLE_TARGET_POPULATION"
+                ],
+                "filter": "equal"
+            }
+        ]
+    },
+    {
+        "type": "Target-MR-DN",
+        "mappings": [
+            {
+                "to": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_3_TO_11",
+                "from": [
+                    "CONFIRMED_HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_3TO11"
+                ],
+                "filter": "equal"
+            },
+            {
+                "to": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_12_TO_59",
+                "from": [
+                    "CONFIRMED_HCM_ADMIN_CONSOLE_TARGET_POPULATION_AGE_12TO59"
+                ],
+                "filter": "equal"
+            }
+        ]
+    }
+]
