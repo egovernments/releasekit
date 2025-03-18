@@ -1,0 +1,122 @@
+[
+    {
+        "type": "microplan",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "MICROPLAN",
+        "department": [],
+        "lowestHierarchy": "VILLAGE",
+        "highestHierarchy": "COUNTRY",
+        "splitBoundariesOn": "DISTRICT",
+        "consolidateUsersAt": "LOCALITY"
+    },
+    {
+        "type": "boundary",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "MICROPLAN",
+        "department": [],
+        "lowestHierarchy": "VILLAGE",
+        "highestHierarchy": "COUNTRY",
+        "splitBoundariesOn": "DISTRICT",
+        "consolidateUsersAt": "LOCALITY"
+    },
+    {
+        "type": "campaign",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "NEWTEST0002",
+        "department": [],
+        "lowestHierarchy": "ADMINISTRATIVEPOST",
+        "splitBoundariesOn": "DISTRICT",
+        "consolidateUsersAt": "LOCALITY",
+        "highestHierarchy": "COUNTRY"
+    },
+    {
+        "type": "default",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "DEFAULTBOUNDARYNEWONE",
+        "department": [],
+        "lowestlevel": "ADMINISTRATIVEPOST",
+        "splitBasedOn": "DISTRICT",
+        "consolidateUsersAt": "LOCALITY",
+        "highestHierarchy": "COUNTRY"
+    },
+    {
+        "type": "console",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "ADMIN",
+        "department": [],
+        "lowestHierarchy": "Posto Administrativo",
+        "splitBoundariesOn": "Distrito",
+        "consolidateUsersAt": "LOCALITY",
+        "highestHierarchy": "COUNTRY"
+    },
+    {
+        "type": "microplan",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "MICROPLAN",
+        "department": [],
+        "lowestHierarchy": "VILLAGE",
+        "highestHierarchy": "COUNTRY",
+        "splitBoundariesOn": "DISTRICT",
+        "consolidateUsersAt": "LOCALITY"
+    },
+    {
+        "type": "boundary",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "MICROPLAN",
+        "department": [],
+        "lowestHierarchy": "VILLAGE",
+        "highestHierarchy": "COUNTRY",
+        "splitBoundariesOn": "DISTRICT",
+        "consolidateUsersAt": "LOCALITY"
+    },
+    {
+        "type": "campaign",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "NEWTEST0002",
+        "department": [],
+        "lowestHierarchy": "ADMINISTRATIVEPOST",
+        "splitBoundariesOn": "DISTRICT",
+        "consolidateUsersAt": "LOCALITY",
+        "highestHierarchy": "COUNTRY"
+    },
+    {
+        "type": "default",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "DEFAULTBOUNDARYNEWONE",
+        "department": [],
+        "lowestlevel": "ADMINISTRATIVEPOST",
+        "splitBasedOn": "DISTRICT",
+        "consolidateUsersAt": "LOCALITY",
+        "highestHierarchy": "COUNTRY"
+    },
+    {
+        "type": "console",
+        "group": [
+            "MALARIA"
+        ],
+        "hierarchy": "ADMIN",
+        "department": [],
+        "lowestHierarchy": "Posto Administrativo",
+        "splitBoundariesOn": "Distrito",
+        "consolidateUsersAt": "LOCALITY",
+        "highestHierarchy": "COUNTRY"
+    }
+]

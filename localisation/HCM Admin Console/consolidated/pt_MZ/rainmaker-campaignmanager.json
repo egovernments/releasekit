@@ -1,5 +1,665 @@
 [
     {
+        "code": "UPLOAD_DATA_MAPPING",
+        "message": "Carregar mapeamento de dados",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NAME_OF_PERSON",
+        "message": "Nome da Pessoa",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PHONE_NUMBER",
+        "message": "Número de telefone",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ROLE",
+        "message": "Papel",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FACILITY_MAPPING_POP_HEADER_TITLE",
+        "message": "Mapeamento de instalações",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_IN"
+    },
+    {
+        "code": "EMPLOYEMENT_TYPE",
+        "message": "Tipo de emprego",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACTIVE_STATUS",
+        "message": "Status Ativo",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FACILITY_NAME",
+        "message": "Nome da instalação",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FACILITY_TYPE",
+        "message": "Tipo de instalação",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FACILITY_STATUS",
+        "message": "Status da instalação",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FACILITY_USAGE",
+        "message": "Uso das instalações",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_MORE",
+        "message": "Mais",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHANGE_BOUNDARY",
+        "message": "Alterar limite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FILTER_BY_ACTIVE_STATUS",
+        "message": "Filtrar por status ativo",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FACILITY_MAPPING_POP_HEADER",
+        "message": "Mapeamento de instalações",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "YES",
+        "message": "Sim",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO",
+        "message": "Não",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_BOUNDARY_SELECTED_FOR_ACTIVE_USER",
+        "message": "Nenhum limite está selecionado para o usuário ativo",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_BOUNDARY_SELECTED_FOR_ACTIVE_FACILITY",
+        "message": "Nenhum limite foi selecionado para instalação ativa",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_RESULTS_FOUND",
+        "message": "Nenhum resultado encontrado",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_UPLOAD_FACILITY_MAPPING",
+        "message": "Mapeamento de instalações",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_UPLOAD_USER_MAPPING",
+        "message": "Mapeamento de usuário",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PLEASE_WAIT_WHILE_UPDATING",
+        "message": "Atualizando! Por favor, aguarde",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_RESULTS_FOR_ACTIVE_FILTER_HCM_UPLOAD_FACILITY_MAPPING",
+        "message": "Nenhum resultado encontrado",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_RESULTS_FOR_MAPPING_HCM_UPLOAD_FACILITY_MAPPING",
+        "message": "Não há dados da instalação disponíveis",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_RESULTS_FOR_ACTIVE_FILTER_HCM_UPLOAD_USER_MAPPING",
+        "message": "Nenhum resultado encontrado",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_RESULTS_FOR_MAPPING_HCM_UPLOAD_USER_MAPPING",
+        "message": "Nenhum usuário da instalação disponível",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "INVALID_LOGIN_CREDENTIALS",
+        "message": "Credenciais de login inválidas",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_SUPERVISORS_ASSIGNED",
+        "message": "Supervisores atribuídos",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_NAME",
+        "message": "Nome",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_MOBILE_NUMBER",
+        "message": "Número de telemóvel",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_USER_TYPE",
+        "message": "Tipo de usuário",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_ASSIGNED_SUPERVISOR",
+        "message": "Supervisor Designado",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_SUPERVISOR_NOT_ASSIGNED",
+        "message": "Supervisor não atribuído",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_ACTIONS",
+        "message": "Ação",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_UNASSIGN",
+        "message": "Cancelar atribuição",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_ASSIGN",
+        "message": "Atribuir",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_USER_NAME",
+        "message": "Nome de usuário",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SEARCH_BY_NAME",
+        "message": "Pesquisar por nome",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_NO_RECORDS_FOUND",
+        "message": "Nenhum registro encontrado",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_ASSIGNED_USERS",
+        "message": "Usuários atribuídos",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USERS_ASSIGNED",
+        "message": "Usuários atribuídos",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_NA",
+        "message": "N / D",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NA",
+        "message": "N / D",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_EMAIL",
+        "message": "E-mail",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_CONTACT_NUMBER",
+        "message": "Número de contato",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_USERS_ASSIGNED",
+        "message": "Usuários atribuídos",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_USERS_NOT_ASSIGNED",
+        "message": "Não atribuído",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_ACTION",
+        "message": "Ação",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_REGISTER_FORM_CONFIGURATION",
+        "message": "Configuração de formulário",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_REGISTER_ELIGIBILITY_ CHECKLIST_CONFIGURATION",
+        "message": "Configuração da lista de verificação de elegibilidade",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_REGISTER_CHECKLISTS",
+        "message": "Listas de verificação",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_REGISTER_ATTENDANCE_MANAGEMENT",
+        "message": "Gestão de Presença",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_SUPERVISORS_AND_TEAM_MEMBERS",
+        "message": "Supervisor e Membros da Equipe",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_SUPERVISOR_BODY_TEXT",
+        "message": "Corpo do texto",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_SEARCH_BY_SUPERVISOR_NAME",
+        "message": "Pesquisar por nome do Supervisor",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_ASSIGN_USERS_TO_SUPERVISOR",
+        "message": "Atribuir usuários ao Supervisor",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REGISTER_CLOSE",
+        "message": "Fechar",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACTION_LABEL_CONFIGURE_REGISTER",
+        "message": "Configurar registro",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_DELIVERY_TAB_SUB_TEXT_DEFAULT",
+        "message": "Configurar condição de entrega para campanha de co-entrega",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_DEFAULT",
+        "message": "Co-entrega",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DEFAULT",
+        "message": "Co-entrega",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_UNDER_MAINTENANCE",
+        "message": "O núcleo está em manutenção. Clique em 'Home' ou tente novamente mais tarde. ",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_CO-DELIVERY",
+        "message": "Co-entrega",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Co-delivery",
+        "message": "Configuração para entrega conjunta",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_CONFIGURE_HEADING_CO-DELIVERY",
+        "message": "Configuração para campanha de co-entrega",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET_PRODUCT",
+        "message": "Produto alvo",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_LAST_UPDATE",
+        "message": "Última atualização",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_CONFIGURE_HEADING_DEFAULT",
+        "message": "Configuração para campanha de co-entrega",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_CHECKLIST_TYPE__TRAINING_SUPERVISION",
+        "message": "Supervisão de Treinamento",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_LAST_UPDATE",
+        "message": "Listas de verificação atualizadas pela última vez",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ADD _BOUNDARY",
+        "message": "Adicionar limite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USER_MAPPING_POP_HEADER_TITLE",
+        "message": "Mapeamento de usuário",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USER_MAPPING_POP_HEADER",
+        "message": "Selecione para mapeamento de usuário",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "POP_ADMINISTRATIVE_AREA_HCM_UPLOAD_FACILITY_MAPPING",
+        "message": "Limites adicionados",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MAPPING_ADD_DATA",
+        "message": "Adicionar dados",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHOOSE_BOUNDARY_LEVEL",
+        "message": "Selecione o nível de limite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHOOSE_BOUNDAR",
+        "message": "Selecione o limite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ADD_DATA_MAPPING",
+        "message": "Enviar",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_MAPPING_ADDED",
+        "message": "Dados adicionados com sucesso",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MAPPING_EDIT",
+        "message": "Editar",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MAPPING_DELETE",
+        "message": "Excluir",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "EDIT_DATA_MAPPING",
+        "message": "Confirmar",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "BOUNDARY",
+        "message": "Limite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "POP_ADMINISTRATIVE_AREA_HCM_UPLOAD_USER_MAPPING",
+        "message": "Limites adicionados",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "VILLAGE",
+        "message": "Aldeia",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_MAPPING_NO_BOUNDARY_ERROR",
+        "message": "Adicione limite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "MAPPING_EDIT_DATA",
+        "message": "Editar dados",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_HELP_TEXT",
+        "message": "Texto de ajuda",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CHECKLIST_HELP_TEXT_PALCEHOLDER",
+        "message": "Adicione um texto de ajuda",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_UPDATE_CAMPAIGN_TYPE_INFO",
+        "message": "Configure uma campanha respeitada ",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "COUNTRY",
+        "message": "País",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PROVINCE",
+        "message": "Província",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ADMINISTRATIVEPOST",
+        "message": "Postagem administrativa",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOCALITY",
+        "message": "Localidade",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LOCALIZATION_FAILED_PLEASE_TRY_AGAIN",
+        "message": "Tente novamente ",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "UPLOAD_FILE",
+        "message": "Carregar arquivo ",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "BUTTON_FILTER_BY_BOUNDARY",
+        "message": "Ajustar por limite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "BOUNDARY_GEOJSON",
+        "message": "GeoJson",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CURRENT_HIERARCHY_TYPE_IS",
+        "message": "O tipo de hierarquia atual é ",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HIERARCHY_CREATED_ON",
+        "message": "Hierarquia criada em",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HIERARCHY_LAST_MODIFIED_ON",
+        "message": "Hierarca modificado pela última vez em",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "BOUNDARY_EXCEL",
+        "message": "Excel",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_POLIO",
+        "message": "Configurar poliomielite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_CONFIGURE_HEADING_POLIO",
+        "message": "Configuração para campanha contra a poliomielite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_DELIVERY_TAB_SUB_TEXT_POLIO",
+        "message": "Configurar condição de entrega para Campanha contra a Poliomielite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_CYCLE_CONFIGURE_HEADING_LLIN",
+        "message": "Configuração para campanha LLIN",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CAMPAIGN_PROJECT_LLIN",
+        "message": "Configuração para campanha LLIN",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN",
+        "message": "Configurar LLIN ",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "POLIO",
+        "message": "Configurar poliomielite",
+        "module": "hcm-campaignmanager",
+        "locale": "pt_MZ"
+    },
+    {
         "code": " HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
         "message": "Código de limite",
         "module": "rainmaker-campaignmanager",
