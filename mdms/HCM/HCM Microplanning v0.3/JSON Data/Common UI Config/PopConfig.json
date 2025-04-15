@@ -1,0 +1,99 @@
+[
+  {
+    "roles": [
+      "POPULATION_DATA_APPROVER",
+      "ROOT_POPULATION_DATA_APPROVER"
+    ],
+    "tenantId": "mz",
+    "tabConfig": {
+      "tabOptions": [
+        {
+          "code": "ASSIGNED_TO_ME",
+          "name": "ASSIGNED_TO_ME"
+        },
+        {
+          "code": "ASSIGNED_TO_ALL",
+          "name": "MP_POP_ASSIGNED_TO_ALL"
+        }
+      ],
+      "defaultActiveTab": {
+        "code": "ASSIGNED_TO_ME",
+        "name": "ASSIGNED_TO_ME"
+      },
+      "disabledTabStatus": "VALIDATED"
+    },
+    "tableConfig": {
+      "initialCurrentPage": 1,
+      "initialRowsPerPage": 50,
+      "paginationRowsPerPageOptions": [
+        10,
+        20,
+        50,
+        100
+      ]
+    },
+    "filterConfig": {
+      "filterOptions": [
+        {
+          "order": 1,
+          "status": "PENDING_FOR_VALIDATION"
+        },
+        {
+          "order": 2,
+          "status": "PENDING_FOR_APPROVAL"
+        },
+        {
+          "order": 3,
+          "status": "VALIDATED"
+        }
+      ],
+      "defaultActiveFilter": {
+        "order": 1,
+        "status": "PENDING_FOR_VALIDATION"
+      }
+    },
+    "actionsConfig": {
+      "actionIconMap": {
+        "APPROVE": {
+          "icon": "CheckCircle",
+          "isSuffix": false
+        },
+        "VALIDATE": {
+          "icon": "CheckCircle"
+        },
+        "ROOT_APPROVE": {
+          "icon": "CheckCircle"
+        },
+        "SEND_BACK_FOR_CORRECTION": {
+          "icon": "ArrowForward"
+        }
+      },
+      "actionsToHide": [
+        "EDIT_AND_SEND_FOR_APPROVAL",
+        "EDIT_AND_VALIDATE"
+      ],
+      "primaryButtonStates": [
+        {
+          "status": "PENDING_FOR_VALIDATION",
+          "actions": [
+            "VALIDATE"
+          ]
+        },
+        {
+          "status": "PENDING_FOR_APPROVAL",
+          "actions": [
+            "APPROVE",
+            "ROOT_APPROVE"
+          ]
+        },
+        {
+          "status": "VALIDATED",
+          "actions": [
+            "SEND_BACK_FOR_CORRECTION"
+          ]
+        }
+      ]
+    },
+    "disableInstanceAction": "APPROVE_CENSUS_DATA"
+  }
+]
