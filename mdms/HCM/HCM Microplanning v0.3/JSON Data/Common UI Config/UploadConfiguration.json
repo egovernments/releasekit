@@ -1,0 +1,146 @@
+[
+  {
+    "id": "EstimationsInprogress",
+    "code": "ESTIMATIONS-INPROGRESS",
+    "iconName": "EstimationsInprogress",
+    "required": false,
+    "UploadFileTypes": [
+      {
+        "id": "Excel",
+        "code": "EXCEL",
+        "iconName": "Excel",
+        "fileExtension": [
+          "xlsx",
+          "xls"
+        ],
+        "namingConvention": "^([Ee][Ss][Tt][Ii][Mm][Aa][Tt][Ii][Oo][Nn][Ss][Ii][Nn][Pp][Rr][Oo][Gg][Rr][Ee][Ss][Ss])$"
+      },
+      {
+        "id": "Shapefile",
+        "code": "SHAPE_FILES",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "zip"
+        ],
+        "namingConvention": "^([Ee][Ss][Tt][Ii][Mm][Aa][Tt][Ii][Oo][Nn][Ss][Ii][Nn][Pp][Rr][Oo][Gg][Rr][Ee][Ss][Ss])$"
+      },
+      {
+        "id": "GeoJSON",
+        "code": "GEOJSON",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "geojson"
+        ],
+        "namingConvention": "^([Ee][Ss][Tt][Ii][Mm][Aa][Tt][Ii][Oo][Nn][Ss][Ii][Nn][Pp][Rr][Oo][Gg][Rr][Ee][Ss][Ss])$"
+      }
+    ]
+  },
+  {
+    "id": "DraftComplete",
+    "code": "DRAFT-COMPLETE",
+    "iconName": "DraftComplete",
+    "required": false,
+    "UploadFileTypes": [
+      {
+        "id": "Excel",
+        "code": "EXCEL",
+        "iconName": "Excel",
+        "fileExtension": [
+          "xlsx",
+          "xls"
+        ],
+        "namingConvention": "^([Dd][Rr][Aa][Ff][Tt][Cc][Oo][Mm][Pp][Ll][Ee][Tt][Ee])$"
+      },
+      {
+        "id": "Shapefile",
+        "code": "SHAPE_FILES",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "zip"
+        ],
+        "namingConvention": "^([Dd][Rr][Aa][Ff][Tt][Cc][Oo][Mm][Pp][Ll][Ee][Tt][Ee])$"
+      },
+      {
+        "id": "GeoJSON",
+        "code": "GEOJSON",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "geojson"
+        ],
+        "namingConvention": "^([Dd][Rr][Aa][Ff][Tt][Cc][Oo][Mm][Pp][Ll][Ee][Tt][Ee])$"
+      }
+    ]
+  },
+  {
+    "id": "DraftInprogress",
+    "code": "DRAFT-INPROGRESS",
+    "iconName": "DraftInprogress",
+    "required": false,
+    "UploadFileTypes": [
+      {
+        "id": "Excel",
+        "code": "EXCEL",
+        "iconName": "Excel",
+        "fileExtension": [
+          "xlsx",
+          "xls"
+        ],
+        "namingConvention": "^([Dd][Rr][Aa][Ff][Tt][Ii][Nn][Pp][Rr][Oo][Gg][Rr][Ee][Ss][Ss])$"
+      },
+      {
+        "id": "Shapefile",
+        "code": "SHAPE_FILES",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "zip"
+        ],
+        "namingConvention": "^([Dd][Rr][Aa][Ff][Tt][Ii][Nn][Pp][Rr][Oo][Gg][Rr][Ee][Ss][Ss])$"
+      },
+      {
+        "id": "GeoJSON",
+        "code": "GEOJSON",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "geojson"
+        ],
+        "namingConvention": "^([Dd][Rr][Aa][Ff][Tt][Ii][Nn][Pp][Rr][Oo][Gg][Rr][Ee][Ss][Ss])$"
+      }
+    ]
+  },
+  {
+    "id": "Estimations",
+    "code": "ESTIMATIONS",
+    "iconName": "Estimations",
+    "required": false,
+    "UploadFileTypes": [
+      {
+        "id": "Excel",
+        "code": "EXCEL",
+        "iconName": "Excel",
+        "fileExtension": [
+          "xlsx",
+          "xls"
+        ],
+        "namingConvention": "^([Ee][Ss][Tt][Ii][Mm][Aa][Tt][Ii][Oo][Nn][Ss])$"
+      },
+      {
+        "id": "Shapefile",
+        "code": "SHAPE_FILES",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "zip"
+        ],
+        "namingConvention": "^([Ee][Ss][Tt][Ii][Mm][Aa][Tt][Ii][Oo][Nn][Ss])$"
+      },
+      {
+        "id": "GeoJSON",
+        "code": "GEOJSON",
+        "iconName": "SpatialDocument",
+        "fileExtension": [
+          "geojson"
+        ],
+        "namingConvention": "^([Ee][Ss][Tt][Ii][Mm][Aa][Tt][Ii][Oo][Nn][Ss])$"
+      }
+    ]
+  }
+]
