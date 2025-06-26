@@ -1,0 +1,314 @@
+[
+  {
+    "type": "resourceCard",
+    "order": 17,
+    "metadata": {
+      "type": "dynamic",
+      "format": "custom"
+    },
+    "fieldType": "custom",
+    "attributeToRename": {}
+  },
+  {
+    "type": "Table",
+    "metadata": {
+      "type": "template",
+      "format": "Table"
+    },
+    "fieldType": "Table",
+    "attributeToRename": {}
+  },
+  {
+    "type": "DetailsCard",
+    "metadata": {
+      "type": "template",
+      "format": "DetailsCard"
+    },
+    "fieldType": "DetailsCard",
+    "attributeToRename": {}
+  },
+  {
+    "type": "idPopulator",
+    "order": 16,
+    "metadata": {
+      "type": "string",
+      "format": "idPopulator"
+    },
+    "fieldType": "dropdown",
+    "attributeToRename": {
+      "schemaCode": "schemaCode"
+    }
+  },
+  {
+    "type": "searchBar",
+    "metadata": {
+      "type": "template",
+      "format": "searchBar"
+    },
+    "fieldType": "searchBar",
+    "attributeToRename": {}
+  },
+  {
+    "type": "searchByProximity",
+    "metadata": {
+      "type": "template",
+      "format": "searchByProximity"
+    },
+    "fieldType": "searchByProximity",
+    "attributeToRename": {}
+  },
+  {
+    "type": "filter",
+    "metadata": {
+      "type": "template",
+      "format": "filter"
+    },
+    "fieldType": "filter",
+    "attributeToRename": {}
+  },
+  {
+    "type": "radio",
+    "order": 13,
+    "metadata": {
+      "type": "string",
+      "format": "radio"
+    },
+    "fieldType": "radio",
+    "attributeToRename": {
+      "helpText": "helpText",
+      "schemaCode": "schemaCode",
+      "dropDownOptions": "enums"
+    }
+  },
+  {
+    "type": "administrativeArea",
+    "order": 12,
+    "metadata": {
+      "type": "string",
+      "format": "locality"
+    },
+    "fieldType": "textInput",
+    "attributeToRename": {
+      "appAdministrativeArea": "administrativeArea"
+    }
+  },
+  {
+    "type": "latLng",
+    "order": 11,
+    "metadata": {
+      "type": "string",
+      "format": "latLng"
+    },
+    "fieldType": "textInput",
+    "attributeToRename": {
+      "helpText": "helpText"
+    }
+  },
+  {
+    "type": "text",
+    "order": 1,
+    "metadata": {
+      "type": "string",
+      "format": "text"
+    },
+    "fieldType": "textInput",
+    "attributeToRename": {
+      "helpText": "helpText"
+    }
+  },
+  {
+    "type": "number",
+    "order": 2,
+    "metadata": {
+      "type": "integer",
+      "format": "text"
+    },
+    "fieldType": "number",
+    "attributeToRename": {
+      "helpText": "helpText"
+    }
+  },
+  {
+    "type": "mobileNumber",
+    "order": 10,
+    "metadata": {
+      "type": "integer",
+      "format": "mobileNumber"
+    },
+    "fieldType": "mobileNumber",
+    "attributeToRename": {
+      "helpText": "helpText"
+    }
+  },
+  {
+    "type": "dropdown",
+    "order": 9,
+    "metadata": {
+      "type": "string",
+      "format": "dropdown"
+    },
+    "fieldType": "dropdown",
+    "attributeToRename": {
+      "schemaCode": "schemaCode",
+      "isMultiSelect": "isMultiSelect",
+      "dropDownOptions": "enums"
+    }
+  },
+  {
+    "type": "select",
+    "order": 8,
+    "metadata": {
+      "type": "string",
+      "format": "select"
+    },
+    "fieldType": "selection",
+    "attributeToRename": {
+      "helpText": "helpText",
+      "schemaCode": "schemaCode",
+      "dropDownOptions": "enums"
+    }
+  },
+  {
+    "type": "date",
+    "order": 3,
+    "metadata": {
+      "type": "integer",
+      "format": "date"
+    },
+    "fieldType": "datePicker",
+    "attributeToRename": {
+      "endDate": "endDate",
+      "helpText": "helpText",
+      "startDate": "startDate"
+    }
+  },
+  {
+    "type": "dob",
+    "order": 4,
+    "metadata": {
+      "type": "string",
+      "format": "dob"
+    },
+    "fieldType": "datePicker",
+    "attributeToRename": {
+      "endDate": "endDate",
+      "helpText": "helpText",
+      "startDate": "startDate"
+    }
+  },
+  {
+    "type": "scanner",
+    "order": 7,
+    "metadata": {
+      "type": "string",
+      "format": "scanner"
+    },
+    "fieldType": "button",
+    "attributeToRename": {}
+  },
+  {
+    "type": "numeric",
+    "order": 5,
+    "metadata": {
+      "type": "integer",
+      "format": "numeric"
+    },
+    "fieldType": "numeric",
+    "attributeToRename": {
+      "helpText": "helpText"
+    }
+  },
+  {
+    "type": "checkbox",
+    "order": 6,
+    "metadata": {
+      "type": "boolean",
+      "format": "checkbox"
+    },
+    "fieldType": "checkbox",
+    "attributeToRename": {
+      "helpText": "helpText"
+    }
+  },
+  {
+    "type": "PrimaryButton",
+    "metadata": {
+      "type": "template",
+      "format": "PrimaryButton"
+    },
+    "fieldType": "PrimaryButton",
+    "attributeToRename": {}
+  },
+  {
+    "type": "SecondaryButton",
+    "metadata": {
+      "type": "template",
+      "format": "SecondaryButton"
+    },
+    "fieldType": "SecondaryButton",
+    "attributeToRename": {}
+  },
+  {
+    "type": "AcknowledgementDescription",
+    "metadata": {
+      "type": "template",
+      "format": "AcknowledgementDescription"
+    },
+    "fieldType": "AcknowledgementDescription",
+    "attributeToRename": {}
+  },
+  {
+    "type": "AcknowledgementTitle",
+    "metadata": {
+      "type": "template",
+      "format": "AcknowledgementTitle"
+    },
+    "fieldType": "AcknowledgementTitle",
+    "attributeToRename": {}
+  },
+  {
+    "type": "IndividualDeliveryPrimaryButton",
+    "metadata": {
+      "type": "template",
+      "format": "IndividualDeliveryPrimaryButton"
+    },
+    "fieldType": "IndividualDeliveryPrimaryButton",
+    "attributeToRename": {}
+  },
+  {
+    "type": "IndividualDeliverySecondaryButton",
+    "metadata": {
+      "type": "template",
+      "format": "IndividualDeliverySecondaryButton"
+    },
+    "fieldType": "IndividualDeliverySecondaryButton",
+    "attributeToRename": {}
+  },
+  {
+    "type": "addMember",
+    "metadata": {
+      "type": "template",
+      "format": "addMember"
+    },
+    "fieldType": "addMember",
+    "attributeToRename": {}
+  },
+  {
+    "type": "editIndividual",
+    "metadata": {
+      "type": "template",
+      "format": "editIndividual"
+    },
+    "fieldType": "editIndividual",
+    "attributeToRename": {}
+  },
+  {
+    "type": "editHousehold",
+    "metadata": {
+      "type": "template",
+      "format": "editHousehold"
+    },
+    "fieldType": "editHousehold",
+    "attributeToRename": {}
+  }
+]
