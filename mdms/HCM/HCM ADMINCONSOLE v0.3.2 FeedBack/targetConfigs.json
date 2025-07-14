@@ -1,0 +1,31 @@
+[
+    {
+        "campaignType": "MR-DN",
+        "beneficiaries": [
+            {
+                "columns": [
+                    "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_3_TO_11"
+                ],
+                "beneficiaryType": "INDIVIDUAL_SMC_3_TO_11"
+            },
+            {
+                "columns": [
+                    "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_12_TO_59"
+                ],
+                "beneficiaryType": "INDIVIDUAL_SMC_12_TO_59"
+            },
+            {
+                "columns": [
+                    "HCM_ADMIN_CONSOLE_TARGET_SMC_COLUUM_HOUSEHOLD"
+                ],
+                "beneficiaryType": "HOUSEHOLD"
+            },
+            {
+                "columns": [
+                    "HCM_ADMIN_CONSOLE_TARGET_SMC_COLUUM_PRODUCT"
+                ],
+                "beneficiaryType": "PRODUCT"
+            }
+        ]
+    }
+]
