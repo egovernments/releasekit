@@ -1,0 +1,194 @@
+[
+    {
+        "code": "CONNECTED_TO",
+        "message": "Conectado a",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CORE_COMMON_GO_HOME",
+        "message": "Ir para casa",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DATA_RECEIVED_FOR_BOUNDARIES",
+        "message": "Dados recebidos para os seguintes limites",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DATA_SHARING_LABEL",
+        "message": "Enviar ou receber dados?",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DATA_TRANSFER_COMPLETED",
+        "message": "Dados enviados com sucesso!",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DATA_UN_SYNCED_DESCRIPTION",
+        "message": "Seus dados não foram completamente baixados. Tem certeza de que deseja enviar os dados parciais?",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAILED_TO_RECEIVE",
+        "message": "A transferência de dados falhou!",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAILED_TO_RECEIVE_DESCRIPTION",
+        "message": "Ocorreu um erro. Tente novamente mais tarde.",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAILED_TO_TRANSFER",
+        "message": "A transferência de dados falhou!",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FAILED_TO_TRANSFER_DESCRIPTION",
+        "message": "Ocorreu um erro. Tente novamente mais tarde.",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FILE_NOT_FOUND_ERROR",
+        "message": "Arquivo não encontrado",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "INVALID_FILE_FORMAT_ERROR",
+        "message": "Formato de arquivo inválido, não é possível ler o arquivo.",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_BOUNDARIES_MATCHED_ERROR_DESCRIPTION",
+        "message": "Nenhum limite correspondente recebido do remetente",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_BOUNDARIES_MATCHED_ERROR_TITLE",
+        "message": "Nenhum limite correspondente encontrado",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NO_DEVICES_CONNECTED",
+        "message": "Nenhum dispositivo conectado",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "PROJECT_MISMATCH_ERROR",
+        "message": "Erro de incompatibilidade de projeto",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "RECEIVED_SUCCESS_MESSAGE",
+        "message": "Dados recebidos com sucesso!",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "RECEIVER",
+        "message": "Receptor",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "RECEIVER_DIALOG_DESCRIPTION",
+        "message": "Tem certeza de que deseja receber dados de {}? Após receber os dados, seu aplicativo será preenchido com os registros compartilhados pelo remetente.",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "RECEIVER_DIALOG_TITLE",
+        "message": "{} quer compartilhar dados",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "RECEIVE_ACTION",
+        "message": "Receber dados",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "RECEIVE_ACTION_DESCRIPTION",
+        "message": "Receba registros de beneficiários para os limites atribuídos a você",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "RECEIVE_ACTION_MESSAGE",
+        "message": "Esperando que alguém compartilhe dados",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "RECEIVING_ACTION_MESSAGE",
+        "message": "Recebendo dados",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SELECT_RECIPIENTS",
+        "message": "Selecione seus destinatários",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SENDER",
+        "message": "Remetente",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SENDER_DIALOG_DESCRIPTION",
+        "message": "Os dados, uma vez compartilhados, substituirão e preencherão o banco de dados local do destinatário. Certifique-se de ter selecionado o conjunto correto de usuários para compartilhar os dados.",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SENDER_DIALOG_TITLE",
+        "message": "Tem certeza de que deseja compartilhar dados?",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SENDING_ACTION_MESSAGE",
+        "message": "Enviando dados ao destinatário",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SEND_ACTION",
+        "message": "Enviar dados",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SEND_ACTION_DESCRIPTION",
+        "message": "Enviar registros de beneficiários para os limites atribuídos a você",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SEND_ACTION_MESSAGE",
+        "message": "Procurando receptores perto de você",
+        "module": "hcm-peer-to-peer",
+        "locale": "pt_MZ"
+    }
+]
