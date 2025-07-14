@@ -1,0 +1,4646 @@
+[
+    {
+        "code": "ABDOMINAL_PAIN",
+        "message": "Dor Abdominal",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_BOUNDARY_MANAGER",
+        "message": "Gerenciador de limites",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_CAMPAIGN_SUPERVISOR",
+        "message": "Supervisor de campanha",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_COMMUNITY_CREATOR",
+        "message": "Criador de Comunidade",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_FACILITY_CATCHMENT_MAPPER",
+        "message": "mapeador de captação de instalações",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MICROPLAN_CAMPAIGN_INTEGRATOR",
+        "message": "Integrador de campanha Microplan",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_MICROPLAN_VIEWER",
+        "message": "Visualizador de microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_PLAN_ESTIMATION_APPROVER",
+        "message": "aprovador de estimativas de planos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_POPULATION_DATA_APPROVER",
+        "message": "Aprovador de Dados Populacionais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_PROXIMITY_SUPERVISOR",
+        "message": "Supervisor de Proximidade",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_ROOT_FACILITY_CATCHMENT_MAPPER",
+        "message": "Mapeador de captação de instalações de raiz",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_ROOT_PLAN_ESTIMATION_APPROVER",
+        "message": "Aprovador de estimativa de plano de raiz",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_ROOT_POPULATION_DATA_APPROVER",
+        "message": "Aprovador de dados da população raiz",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ACCESSCONTROL_ROLES_ROLES_TEAM_SUPERVISOR",
+        "message": "Líder de equipe",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ADVERSE_EVENTS",
+        "message": "Efeitos colaterais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "AVERAGE_NO_OF_CHILDREN_ADMINISTERED",
+        "message": "Número médio de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "AVERAGE_NO_OF_HOUSES_SPRAYED",
+        "message": "Número Médio de Casas Pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Adverse_events",
+        "message": "Efeitos colaterais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "BENEFICIARY_REFUSED",
+        "message": "Recusas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CEMENT",
+        "message": "Cimento",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CLAY",
+        "message": "Argila",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CLOSED_HOUSEHOLD",
+        "message": "Fechado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CS_COMMON_ROWS_PER_PAGE",
+        "message": "Linhas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE",
+        "message": "Ciclo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE_1",
+        "message": "Ciclo 1",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE_1+CYCLE_2",
+        "message": "Ciclo 1 e Ciclo 2",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE_1+CYCLE_2+CYCLE_3",
+        "message": "Todos os ciclos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE_1+CYCLE_3",
+        "message": "Ciclo 1 e 3",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE_2",
+        "message": "Ciclo 2",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE_2+CYCLE_3",
+        "message": "Ciclo 2 e Ciclo 3",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE_3",
+        "message": "Ciclo 3",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE_3+CYCLE_1",
+        "message": "Ciclo 3 e Ciclo 1",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CYCLE_4",
+        "message": "Ciclo 4",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Cycle_01",
+        "message": "Ciclo 1",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Cycle_02",
+        "message": "Ciclo 2",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Cycle_03",
+        "message": "Ciclo 3",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DASHBOARD_ADMINISTRATION_SUCCESSFUL",
+        "message": "Administração bem sucedida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DASHBOARD_ADMINISTRATION_UNSUCCESSFUL",
+        "message": "Administração malsucedida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DASHBOARD_CHECKLISTS_FILL",
+        "message": "Listas de verificação preenchidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DASHBOARD_DELIVERY_SUCCESSFUL",
+        "message": "Entrega bem sucedida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DASHBOARD_SPRAY_SUCCESSFUL",
+        "message": "Pulverização bem sucedida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DASHBOARD_SPRAY_UNSUCCESSFUL",
+        "message": "Pulverização sem sucesso",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DDS_TAB_CHILDREN",
+        "message": "Crianças",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DIARRHOEA",
+        "message": "Diarréia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DISTRICT_DASHBOARD",
+        "message": "Reclamações",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_ADMINISTRATION_COVERAGE",
+        "message": "Cobertura Administrativa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_CMN_TABLE_INFO",
+        "message": "Informações",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_COVERAGE_BY_PROVINCE",
+        "message": "Cobertura por província",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_CUMULATIVE",
+        "message": "Cumulativo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_CUSTOM_DATE_RANGE",
+        "message": "Intervalo de datas personalizado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_FILTERS_APPLIED",
+        "message": "Filtros Aplicados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_%_CHILDREN_PRESENT_AT_HEALTH_FACILITY",
+        "message": "% de crianças apresentadas em unidades de saúde",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_%_OF_CHILDREN_TESTED_+VE_FOR_MALARIA",
+        "message": "% de crianças testadas +ve para malária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_ABDOMINAL_PAIN",
+        "message": "Dor Abdominal",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_ADMINISTRATION_COVERAGE_RATIO",
+        "message": "Taxa de cobertura administrativa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_ADMINISTRATIVEPROVINCE",
+        "message": "Posto Administrativo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_ADMINISTRATIVE_AREA",
+        "message": "Área Administrativa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_APS",
+        "message": "Posto Administrativo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_ATTENDANCE_PERCENT",
+        "message": "% de presença",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_CHILDREN_ADMINISTERED",
+        "message": "Crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_CHILDREN_INELIGIBLE",
+        "message": "Totalmente inelegível",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_CHILDREN_NON_DELIVERY_ADVERSE_EVENTS",
+        "message": "Não Entrega (Eventos Adversos)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_CHILDREN_NON_DELIVERY_REFERRAL",
+        "message": "Não Entrega (Referência)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_CHILDREN_NON_DELIVERY_REFUSED",
+        "message": "Não entrega (recusada)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_CHILDREN_PRESENT_AT_HEALTH_FACILITY",
+        "message": "Crianças apresentadas em unidade de saúde",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_CHILDREN_RECORDED_WITH_SIDE_EFFECTS",
+        "message": "Total de crianças registradas com efeitos colaterais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_CHILDREN_REFERRED",
+        "message": "Crianças encaminhadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_COMPLAINANT_PHONE_NUMBER",
+        "message": "Número de telefone",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_COMPLAINT_ID",
+        "message": "ID da reclamação",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_COMPLAINT_STATUS",
+        "message": "Estado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_COMPLAINT_TYPE",
+        "message": "Tipo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_COVERAGE_CHILDREN_U5",
+        "message": "Cobertura de Crianças menores de 5 anos protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_COVERAGE_PREGNANT_WOMEN",
+        "message": "Cobertura de Gestantes protegida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_CREATED_TIME",
+        "message": "Hora de criação",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_DAILY_COUNT",
+        "message": "Datas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_DETAILS",
+        "message": "Detalhes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_DIARRHOEA",
+        "message": "Diarréia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_DISTRIBUTORS",
+        "message": "Distribuidores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_DISTRICT",
+        "message": "Distrito",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_DISTRICTS",
+        "message": "Distritos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_DISTRICT_SUPERVISORS_CHECKLIST_FILL_RATE",
+        "message": "Contagem de listas de verificação dos supervisores distritais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_DRUG_ADMINISTERED",
+        "message": "Medicamento administrado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_FACILITY",
+        "message": "Instalação",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_FEVER",
+        "message": "Febre",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_GEO_COORDINATES_NOT_ENABLED",
+        "message": "Coordenadas não capturadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_CLOSED",
+        "message": "Casas fechadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_FUNERAL",
+        "message": "Casas funerárias",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_INCOMPATIBLE",
+        "message": "Casas incompatíveis",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_OTHER_REASON",
+        "message": "Outra razão para não pulverizar ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_REFUSED",
+        "message": "Casas recusadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_SICK",
+        "message": "Casas Doentes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_NOT_SPRAYED",
+        "message": "Total de casas não pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_SPRAYED",
+        "message": "Casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLDS_VISITED",
+        "message": "Total de casas visitadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLD_REQUIRED_SECONDARY_SPRAYING",
+        "message": "Total de casas que precisam de pulverização secundária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLD_WITH_MORE_THAN_10_ROOMS_COUNT",
+        "message": "Domicílios com mais de 10 quartos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLD_WITH_MORE_THAN_20_MEMBERS_COUNT",
+        "message": "Domicílios com mais de 20 membros",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSEHOLD_WITH_MORE_THAN_2_BOTTLES_USED_COUNT",
+        "message": "Mais de 2 recargas usadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSES_COVERAGE_RATIO",
+        "message": "Taxa de cobertura da casa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_HOUSES_VISITED_COVERAGE",
+        "message": "Cobertura das Casas Visitadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_INCOMING_STOCK",
+        "message": "Inseticida recebido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_INCOMPLETE_HOUSES",
+        "message": "Nº de registros incompletos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_INCOMPLETE_RECORDS",
+        "message": "Registros incompletos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_INSECTICIDES_SPRAYED",
+        "message": "Inseticida usado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_INSECTICIDE_USAGE_EFFICIENCY",
+        "message": "Eficiência no uso de inseticidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_LOCALITY",
+        "message": "Localidade",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_NATIONAL_SUPERVISORS_CHECKLIST_FILL_RATE",
+        "message": "Contagem de listas de verificação dos supervisores nacionais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_NON_DELIVERY_HH_REFUSED",
+        "message": "Não entrega (recusada)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_NOT_PROTECTED_CHILDREN_U5",
+        "message": "Total de crianças menores de 5 anos não protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_NOT_PROTECTED_POPULATION",
+        "message": "População total não protegida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_NOT_PROTECTED_PREGNANT_WOMEN",
+        "message": "Total de gestantes não protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN",
+        "message": "Abrir",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_COMPLAINTS_AP",
+        "message": "Posto Administrativo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_COMPLAINTS_DISTRICT",
+        "message": "Distritos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_COMPLAINTS_LOCALITY",
+        "message": "Localidade",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_COMPLAINTS_VILLAGE",
+        "message": "Aldeia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_FOR_MORE_THAN_48H",
+        "message": "Aberto desde > 48 horas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_SINCE_12H_24H",
+        "message": "Aberto desde > 12 horas e < 24 horas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_SINCE_24H_48H",
+        "message": "Aberto desde > 24 horas e < 48 horas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_SINCE_6H",
+        "message": "Aberto desde < 6 horas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OPEN_SINCE_6H_12H",
+        "message": "Aberto desde > 6 horas e < 12 horas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OTHERS",
+        "message": "Outros",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_OUTGOING_STOCK",
+        "message": "Inseticida usado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_PRODUCT_TARGET_TO_RECEIVE",
+        "message": "Inseticida para receber conforme microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_PROTECTED_CHILDREN_U5",
+        "message": "Total de crianças menores de 5 anos protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_PROTECTED_PREGNANT_WOMEN",
+        "message": "Total de gestantes protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_PROVINCE",
+        "message": "Província",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_PROVINCIAL_SUPERVISORS_CHECKLIST_FILL_RATE",
+        "message": "Contagem de listas de verificação dos supervisores provinciais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_REFERRED_FOR_FEVER",
+        "message": "Encaminhado com febre",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_REGISTERED",
+        "message": "Registrado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_REJECTED",
+        "message": "Rejeitado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_RESOLVED",
+        "message": "Resolvido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_RETURNED_STOCK",
+        "message": "Inseticida devolvido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_SKIN_REACTION",
+        "message": "Reação cutânea",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_SPRAY_OPERATORS_ATTENDANCE_COUNT",
+        "message": "Presença",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_STOCK_LEFT",
+        "message": "Inseticida em estoque",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_STOCK_TARGET_TO_RECEIVE",
+        "message": "Estoque a receber conforme microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_SUMMARY_DAYWISE",
+        "message": "Datas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_SUMMARY_DISTRIBUTOR",
+        "message": "Nome de usuário do distribuidor",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_SUPERVISOR_CONTACT_NUMBER",
+        "message": "Número de contato do supervisor",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_SUSPECTED_FRAUDS",
+        "message": "Suspeitas de Fraudes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_S_N_",
+        "message": "#",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TARGET_ACHIEVEMENT_CHILDREN_ADMINISTERED",
+        "message": "Alcance da meta - % de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TARGET_ACHIEVEMENT_HOUSEHOLD",
+        "message": "Alcance da meta - % de casas pulverizadas ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TARGET_ACHIEVEMENT_HOUSEHOLD_VISITED",
+        "message": "Alcance da meta - % de casas visitadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TEAM_SUPERVISORS_CHECKLIST_FILL_RATE",
+        "message": "Contagem de listas de verificação dos supervisores da equipe",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TESTED_+VE_FOR_MALARIA",
+        "message": "Testado +ve para malária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_CHILDREN_ADMINISTERED",
+        "message": "Total de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_HOUSES_SPRAYED",
+        "message": "Total de casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_HOUSES_SPRAYED_COUNT",
+        "message": "Total de casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_INCOMING_STOCK",
+        "message": "Estoque recebido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_OUTGOING_STOCK",
+        "message": "Ações emitidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_POPULATION_PROTECTED",
+        "message": "População Total Protegida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_RETURNED_STOCK",
+        "message": "Estoque devolvido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_ROOMS_SPRAYED",
+        "message": "Total de salas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_ROOMS_SPRAYED_COUNT",
+        "message": "Total de salas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_SPRAY_OPERATORS",
+        "message": "Rociadores total",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_STOCK_BALANCE",
+        "message": "Saldo de estoque",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_TOTAL_USERS_SPRAYED_MORE_THAN_15",
+        "message": "Mais de 15 casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_USERS_SPRAYED_MORE_THAN_15_TIMES",
+        "message": "Suspeitas de Fraudes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_VILLAGE",
+        "message": "Aldeia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_VILLAGES",
+        "message": "Aldeia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_VOMITTING",
+        "message": "Vômito",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_WEAKNESS",
+        "message": "Fraqueza",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_WM_STOCK_ENTRIES",
+        "message": "Contagem de entradas do gerente de armazém",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEADER_WM_STOCK_ENTRIES_COUNT",
+        "message": "Contagem de entradas do fiel de Armazem",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_ACTUAL_VS_PLANNED_LINE_GRAPH",
+        "message": "Progresso planejado versus real da campanha",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_ADMINISTERED_BY_AGE_GROUP",
+        "message": "Administração por Idade",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_ADMINISTERED_BY_GENDER",
+        "message": "Administração por gênero",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_ADMINISTRATION_COVERAGE",
+        "message": "Cobertura Administrativa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_ADMINISTRATION_COVERAGE_HEATMAP",
+        "message": "Cobertura Administrativa (%)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_ALL_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Sincronização de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_ATTENDANCE_DISTRIBUTOR",
+        "message": "Atendimento - Distribuidor",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_ATTENDANCE_SPRAY_OPERATOR",
+        "message": "Atendimento - Rociadores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_BED_NETS_DISTRIBUTED",
+        "message": "Redes mosquiteiras distribuídas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_CHILDREN_ADMINISTERED",
+        "message": "Crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_CHILDREN_COVERAGE",
+        "message": "Taxa de cobertura administrativa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_CHILDREN_COVERAGE_RANKING",
+        "message": "Classificação de cobertura de administração infantil",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_CHILDREN_NOT_ADMINISTERED",
+        "message": "Crianças não administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_CHILDREN_NOT_ADMINISTERED_BY_REASON",
+        "message": "Crianças não administradas pela razão",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_COMPLAINTS",
+        "message": "Reclamações",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_COMPLAINTS_AVG_TIME_BY_PROVINCE",
+        "message": "Tempo médio de resolução de reclamações (horas)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_COMPLAINTS_BREAKDOWN_PROVINCIAL",
+        "message": "Reclamações por status",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_COMPLAINTS_BY_AP",
+        "message": "Tempo médio de resolução de reclamações (horas)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_COMPLAINTS_BY_DISTRICT",
+        "message": "Reclamações por Unidade Organizacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_COMPLAINTS_BY_TYPE_BREAKDOWN_PROVINCIAL",
+        "message": "Reclamações por tipo e Unidade Organizacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_COMPLAINTS_COMPLAINTS_BY_BOUNDARY",
+        "message": "Unidade Organizacional de parcela de reclamações",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_COMPLAINTS_OPEN_SUMMARY",
+        "message": "Relatório resumido (reclamações abertas)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_COMPLAINTS_SUMMARY",
+        "message": "Relatório resumido (total de reclamações)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_DATA_QUALITY",
+        "message": "Qualidade de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_DATA_QUALITY_EXCESS_SUMMARY",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_DATA_QUALITY_RECORDS_SUMMARY",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_DAYS_INVENTORY_CAN_LAST",
+        "message": "Status do inventário",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_DELIVERY_SUMMARY_BY_DISTRICT",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_DIDE_EFFECTS_BY_TYPE",
+        "message": "Efeitos colaterais por tipo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_DRUGS_ADMINISTERED",
+        "message": "Medicamentos administrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_DRUG_USED",
+        "message": "Medicamentos administrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_ENTRIES_DONE_BY_WMS",
+        "message": "Nº de entradas por gerentes de armazém",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_HOUSEHOLDS",
+        "message": "Famílias",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_HOUSEHOLDS_COVERAGE_HEATMAP",
+        "message": "Cobertura domiciliar (%)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_HOUSEHOLDS_COVERAGE_HEATMAP_PROVINCE",
+        "message": "Alcance da meta",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Casas não pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_HOUSEHOLD_COVERAGE_RANKING",
+        "message": "Classificação de cobertura de agregados familiares",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_HOUSEHOLD_SPRAYED_WITH_VULNERABLE_POPULATION",
+        "message": "Agregados familiares pulverizados com população vulnerável",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_HOUSE_COVERAGE",
+        "message": "Taxa de Cobertura da Casa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_HOUSE_STRUCTURE_TYPES_COVERAGE",
+        "message": "Cobertura por Tipo de Estrutura",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_IECS_NOT_VISITED",
+        "message": "Mobilizadores não visitados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_INCOMPATIBLE_HOUSES",
+        "message": "Não PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_INCOMPATIBLE_HOUSES_STRUCTURE_TYPES",
+        "message": "Casas não PIDOM por % e número absoluto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_INCOMPLETE_RECORDS",
+        "message": "Registros incompletos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_INCOMPLETE_RECORDS_CHILDREN",
+        "message": "Registros incompletos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_INSECTICIDE_BOTTLES_USED",
+        "message": "Frascos de inseticida usados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_INSECTICIDE_USAGE_EFFICIENCY",
+        "message": "Eficiência no uso de inseticidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_INVENTORY",
+        "message": "Inventário",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_INVENTORY_STOCK_IN_HAND",
+        "message": "Estoque em mãos hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_INVENTORY_SUMMARY",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_KIBANA_MAPS",
+        "message": "Mapas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_KIBANA_SCREEN",
+        "message": " ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_LOCATION_NOT_ENABLED",
+        "message": "Coordenadas geográficas não ativadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_MORE_THAN_TWO_BOTTLES_USED",
+        "message": "Estruturas onde foram utilizados mais de 2 frascos de inseticidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_BED_NETS_DISTRIBUTED_TODAY",
+        "message": "Redes mosquiteiras distribuídas hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_BED_NETS_DISTRIBUTED_TOTAL",
+        "message": "Total de mosquiteiros distribuídos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_CHILDREN_ADMINISTERED_TODAY",
+        "message": "Crianças administradas hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_DASHBOARD_IRS_HEADING",
+        "message": "Painel Nacional do PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_DASHBOARD_LLIN_HEADING",
+        "message": "Campanha AZI HIGHLANDS contra a malária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_DASHBOARD_SMC_HEADING",
+        "message": "Painel Nacional SMC",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_DISTRIBUTIONS_DATE_RANGE",
+        "message": "Recargas usadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_DISTRIBUTION_COVERAGE",
+        "message": "Cobertura de recargas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_DISTRIBUTION_COVERAGE_DISTRICT",
+        "message": "Cobertura de recargas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_DISTRIBUTION_TARGET_DISTRICT",
+        "message": "Meta de Recargas ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_DISTRIBUTION_TARGET_PROVINCE",
+        "message": "Meta de Recargas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_HOUSEHOLDS_REGISTERED",
+        "message": "Domicílios visitados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_HOUSEHOLDS_REGISTERED_TODAY",
+        "message": "Domicílios visitados hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_HOUSEHOLDS_SPRAYED",
+        "message": "Casas Pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_HOUSEHOLDS_SPRAYED_TODAY",
+        "message": "Casas pulverizadas hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_HOUSEHOLDS_VISITED_TODAY",
+        "message": "Domicílios visitados hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_POPULATION_COVERED_TODAY",
+        "message": "População coberta hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TODAY_DRUGS_USED_QUANTITY",
+        "message": "Medicamentos administrados hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TODAY_USED_QUANTITY",
+        "message": "Recargas usadas hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_CHILDREN_ADMINISTERED_NATIONAL",
+        "message": "Total de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_DISTRIBUTED_TILL_TODAY",
+        "message": "Total de recargas usadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_DRUDS_USED_QUANTITY",
+        "message": "Total de medicamentos administrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Casas não pulverizadas pela razão",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_REGISTERED_NATIONAL",
+        "message": "Total de domicílios visitados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_SPRAYED",
+        "message": "Total de casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_SPRAYED_NATIONAL",
+        "message": "Total de casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_VISITED",
+        "message": "Total de domicílios visitados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_VISITS",
+        "message": "Total de visitas domiciliares",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_POPULATION_COVERED",
+        "message": "População total coberta",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_NATIONAL_TOTAL_USED_QUANTITY",
+        "message": "Total de recargas usadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW",
+        "message": "Visão geral",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem geral de conclusão de listas de verificação",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_CHILDREN_ADMINISTERED",
+        "message": "Crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_CHILDREN_ADMINISTERED_ACHIEVED",
+        "message": "Cobertura administrativa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_CHILDREN_TARGETED",
+        "message": "Crianças direcionadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_DASHBOARD_IRS_HEADING",
+        "message": "Painel de campanha do PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_DASHBOARD_SMC_HEADING",
+        "message": "Painel de campanha SMC",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTIONS_DATE_RANGE",
+        "message": "Medicamentos administrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTION_COVERAGE",
+        "message": "Utilização de drogas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTION_TARGET",
+        "message": "Drogas direcionadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_DRUG_USED",
+        "message": "Medicamentos administrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_HOUSEHOLDS_SPRAYED_OVER_DATERANGE",
+        "message": "Famílias pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_POPULATION_COVERAGE_ACHIEVED",
+        "message": "Cobertura populacional até hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_POPULATION_COVERAGE_ACHIEVED_DISTRICT",
+        "message": "Cobertura populacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_POPULATION_COVERED",
+        "message": "População Abrangida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_POPULATION_TARGETED",
+        "message": "População-alvo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_POPULATION_TARGETED_DISTRICT",
+        "message": "Meta População",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_SPRAYED_DISTRICT",
+        "message": "Meta de agregados familiares",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_SPRAYED_PROVINCE",
+        "message": "Famílias segmentadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_VISITED",
+        "message": "Famílias segmentadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_VISITED_PROVINCE",
+        "message": "Famílias segmentadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_CHILDREN_ADMINISTERED",
+        "message": "Total de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_COMPLAINTS",
+        "message": "Reclamações por status",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_COMPLAINTS_BY_TYPE",
+        "message": "Reclamações por tipo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_SPRAYED_PROVINCE",
+        "message": "Cobertura Domiciliar",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_VISITED",
+        "message": "Cobertura Domiciliar",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_VISITED_PROVINCE",
+        "message": "Cobertura de famílias",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_VISITS_DISTRICT",
+        "message": "Total de domicílios pulverizados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_DRUG_DISTRIBUTED_TILL_TODAY",
+        "message": "Total de medicamentos administrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_HOUSEHOLD_VISITED",
+        "message": "Total de domicílios visitados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_OVERVIEW_TOTAL_POPULATION_COVERED",
+        "message": "População total coberta até hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_POPULATION_COVERAGE_HEATMAP",
+        "message": "Cobertura populacional (%)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_POPULATION_COVERED",
+        "message": "População Abrangida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_PRODUCT_RETURNED",
+        "message": "% de frascos de inseticida devolvidos por Rociadores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_REFERRAL_AND_SIDE_EFFECTS",
+        "message": "Referência e efeitos colaterais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_REFERRAL_SUMMARY",
+        "message": "Resumo de referência",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_REGISTRATION_ADMINISTRATION",
+        "message": "Registro e Administração",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_REGISTRATION_DELIVERY",
+        "message": "Registro e pulverização",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_REGISTRATION_SPRAY",
+        "message": "Registro e pulverização",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SECONDARY_SPRAYING_HOUSES",
+        "message": "Pulverização secundária necessária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SIDE_EFFECTS_SUMMARY",
+        "message": "Resumo dos efeitos colaterais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SPRAY_COVERAGE",
+        "message": "Cobertura de pulverização",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_STOCK_TRANSACTIONS",
+        "message": "Transações de ações",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUCCESS_ADMINISTRATION_ACROSS_CYCLES",
+        "message": "Administração bem-sucedida entre ciclos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUMMARY_OF_REFERRED_CHILDREN",
+        "message": "Resumo das crianças encaminhadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUMMARY_OF_SIDE_EFFECTS",
+        "message": "Resumo dos efeitos colaterais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUMMARY_TEAM_PERFORMANCE",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUPERVISION",
+        "message": "Supervisão",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUPERVISION_DISTRICT_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem de conclusão das listas de verificação dos supervisores distritais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUPERVISION_NATIONAL_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem de conclusão das listas de verificação dos supervisores nacionais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUPERVISION_PROVINCIAL_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem de conclusão das listas de verificação dos supervisores provinciais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUPERVISION_SUMMARY",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUPERVISION_SUPERVISOR_USER_SYNC_RATE",
+        "message": "Sincronização de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUPERVISION_TEAM_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem de conclusão de listas de verificação de supervisores de equipe",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUPERVISION_TEAM_SUPERVISOR_USER_SYNC_RATE",
+        "message": "Sincronização de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUSPECTED_FRAUDS",
+        "message": "Suspeitas de Fraudes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_SUSPECTED_FRAUDS_CHILDREN",
+        "message": "Suspeitas de Fraudes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_TEAM_PERFORMANCE",
+        "message": "Desempenho da equipe",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_THEORETICAL_VS_MANUAL_STOCK",
+        "message": "Contagem de estoque teórico versus manual",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_TOTAL_CHILDREN_NOT_ADMINISTERED_BY_REASON_OVERVIEW",
+        "message": "Crianças não administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_TOTAL_CHILDREN_REFUSED",
+        "message": "Número de crianças recusadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Casas não pulverizadas pela razão",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON_OVERVIEW",
+        "message": "Casas não pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_TOTAL_HOUSEHOLDS_REFUSED",
+        "message": "Número de casas recusadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_TOTAL_HOUSEHOLDS_REFUSED_PROVINCE",
+        "message": "Total de famílias recusadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_TOTAL_INCOMPATIBLE_HOUSES",
+        "message": "Total de famílias em casas nao PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_TOTAL_INCOMPATIBLE_HOUSES_PROVINCE",
+        "message": "Total de famílias em casas nao PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_USER_SYNC_SUMMARY",
+        "message": "Sincronização de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_VULNERABLE_POPULATION_COVERAGE_CHILDREN_U5",
+        "message": "Cobertura de crianças com menos de 5 anos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_VULNERABLE_POPULATION_COVERAGE_PREGNANT_WOMEN",
+        "message": "Cobertura populacional de mulheres grávidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_WAREHOUSE_MANAGER_USER_SYNC_RATE",
+        "message": "Sincronização de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HEALTH_WH_DISTRIBUTION_LATLONG",
+        "message": "Distribuição de armazém",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HOUSEHOLD_COVERAGE",
+        "message": "Cobertura doméstica",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HOUSE_WITH_MORE_THAN_TEN_ROOMS",
+        "message": "Domicílios com mais de 10 quartos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_HOUSE_WITH_MORE_THAN_TWENTY_MEMBERS",
+        "message": "Domicílios com mais de 20 membros",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_KIBANA_MAPS",
+        "message": "Mapas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_12_TO_59_MONTHS",
+        "message": "12-59 meses",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_12_TO_59_MONTHS_ADMINISTERED",
+        "message": "12-59 meses",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_3_TO_11_MONTHS",
+        "message": "3-11 meses",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_3_TO_11_MONTHS_ADMINISTERED",
+        "message": "3-11 meses",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_3_TO_59_MONTHS",
+        "message": "3-59 meses",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_ABDOMINAL_PAIN",
+        "message": "Dor Abdominal",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_ADMINISTERED_FEMALE",
+        "message": "Fêmea",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_ADMINISTERED_MALE",
+        "message": "Macho",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_ADVERSE_EVENTS",
+        "message": "Efeitos colaterais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_AP_NAME",
+        "message": "Província Administrativa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_AVG_DISTRIBUTED_BENEFICIARIES",
+        "message": "Administrado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_BENEFICIARIES_REFUSED",
+        "message": "Recusas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_BENEFICIARY_REFUSED",
+        "message": "Recusas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_CHILDRENREFERREDBYHF_COUNT",
+        "message": "Crianças apresentadas em unidade de saúde",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_CHILDRENREFERREDWITHFEVER_COUNT",
+        "message": "Encaminhado com febre",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_CHILDRENREFERRED_COUNT",
+        "message": "Crianças encaminhadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_CHILDREN_COVERAGE_RANKING",
+        "message": "Classificação de cobertura de administração infantil",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_CHILDREN_NOT_ADMINISTERED",
+        "message": "Não administrado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_CHILDREN_U5",
+        "message": "Crianças",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_CHILDREN_U5_PERCENT",
+        "message": "Porcentagem de crianças com menos de 5 anos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_DATAISSUES",
+        "message": "Problemas de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_DIARRHOEA",
+        "message": "Diarréia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_DISTRICT_NAME",
+        "message": "Distritos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_FEMALE_ADMINISTERED",
+        "message": "Fêmea",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_FEVER",
+        "message": "Febre",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_HOUSEHOLDS_NOT_SPRAYED",
+        "message": "Casas não pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_HOUSEHOLDS_REFUSED",
+        "message": "Famílias recusaram",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_HOUSEHOLD_WITH_MORE_THAN_10_ROOMS",
+        "message": "Domicílios com mais de 10 quartos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_HOUSEHOLD_WITH_MORE_THAN_20_MEMBERS",
+        "message": "Domicílios com mais de 20 membros",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_IECS_NOT_VISITED",
+        "message": "Mobilizadores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_INCOMPLETE_HOUSES",
+        "message": "Registros incompletos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_INCOMPLETE_RECORDS",
+        "message": "Registros incompletos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_INDIVIDUAL_COVERAGE_RATIO",
+        "message": "Taxa de cobertura",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_MALE_ADMINISTERED",
+        "message": "Macho",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_MANUAL_STOCK",
+        "message": "Manual",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_MORE_THAN_2_BOTTLES_USED",
+        "message": "Domicílios onde foram utilizadas mais de 2 recargas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_NON_VULNERABLE_HOUSES",
+        "message": "Casas sem população vulneráveis",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_NOTENOUGHSTOCK",
+        "message": "Estoque insuficiente",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_NO__OF_INCOMPATIBLE_HOUSES",
+        "message": "Nº de casas nao PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_OTHER",
+        "message": "Outro",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_OTHERS",
+        "message": "Outros",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_PENDING_ASSIGNMENT",
+        "message": "Tarefa pendente",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_PERCENTAGE_OF_HOUSES_REQUIRED_SECONDARY_SPRAYING",
+        "message": "Percentagem de casas que necessitam de pulverização secundária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_PERCENTAGE_OF_INCOMPATIBLE_HOUSES",
+        "message": "Percentagem de casas nao PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_PERFORMANCEISSUE",
+        "message": "Problemas de desempenho",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_PREGNANT_WOMEN",
+        "message": "Mulheres grávidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_PREGNANT_WOMEN_PERCENT",
+        "message": "Porcentagem de mulheres grávidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_REJECTED",
+        "message": "Rejeitado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_RESOLVED",
+        "message": "Resolvido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_RETURNED_STOCK",
+        "message": "Porcentagem de frascos de inseticida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_SECURITYISSUES",
+        "message": "Questões de segurança",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_SKIN_REACTION",
+        "message": "Reação cutânea",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_SPRAY_OPERATORS_MARKED_PRESENT",
+        "message": "Rociadores marcados como presentes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_STOCKDAMAGED",
+        "message": "Estoque danificado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_STOCKISSUED",
+        "message": "Ações emitidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_STOCKLOST",
+        "message": "Estoque perdido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_STOCKRECEIVED",
+        "message": "Estoque recebido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_STOCKRETURNED",
+        "message": "Estoque devolvido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_STOCK_IN_HAND",
+        "message": "Estoque em mãos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_SUPERVISORS_SYNCED_AT_LEAST_ONCE",
+        "message": "Taxa de sincronização",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_SUSPECTED_FRAUDS",
+        "message": "Suspeitas de Fraudes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_SYNCNOTWORKING",
+        "message": "A sincronização não funciona",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TECHNICALISSUES",
+        "message": "Problemas técnicos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TESTEDPOSITIVEFORMALARIA_COUNT",
+        "message": "Testado +ve para malária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_THEORETICAL_STOCK",
+        "message": "Teórico",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TOTAL_CHILDREN_ADMINISTERED",
+        "message": "Total de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TOTAL_HOUSES_ADMINISTERED",
+        "message": "Crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TOTAL_HOUSES_SPRAYED",
+        "message": "Total de casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TOTAL_NO__OF_BEDNETS_DISTRIBUTED",
+        "message": "Nº de mosquiteiros distribuídos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TOTAL_NO__OF_HOUSES_REQUIRED_SECONDARY_SPRAYING",
+        "message": "Nº de casas que necessitam de pulverização secundária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_TOTAL_ROOMS_SPRAYED",
+        "message": "Total de salas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_USERACCOUNTISSUES",
+        "message": "Problemas de conta de usuário",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_VOMITTING",
+        "message": "Vômito",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_VULNERABLE_HOUSES",
+        "message": "Casas com população vulneráveis",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_WEAKNESS",
+        "message": "Fraqueza",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_LEGEND_WM_STOCK_ENTRIES",
+        "message": "Número de entradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_MAP_RECENTRE",
+        "message": "Recente",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_NO_CHANGE_FROM_YESTERDAY",
+        "message": "Nenhuma mudança em relação a ontem",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_NO_DATA",
+        "message": "Sem dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_POPULATION_COVERAGE",
+        "message": "Cobertura populacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_SEARCH",
+        "message": "Procurar",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TAB_BOUNDARY",
+        "message": "Unidade Organizacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TAB_CHILDREN",
+        "message": "Crianças",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TAB_DAYWISE",
+        "message": "Dia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TAB_HOUSEHOLD",
+        "message": "Famílias",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TAB_NUMBER",
+        "message": "#",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TAB_PERCENT",
+        "message": "%",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TAB_POPULATION",
+        "message": "População",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_DATAISSUES",
+        "message": "Problemas de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_NOTENOUGHSTOCK",
+        "message": "Estoque insuficiente",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_OTHER",
+        "message": "Outro",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_PERFORMANCEISSUE",
+        "message": "Problemas de desempenho",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_PERFORMANCEISSUES",
+        "message": "Problemas de desempenho",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_SECURITYISSUES",
+        "message": "Problemas de segurança",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_SYNCNOTWORKING",
+        "message": "A sincronização não funciona",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_TECHNICALISSUES",
+        "message": "Problemas técnicos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TB_USERACCOUNTISSUES",
+        "message": "Problemas de conta de usuário",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TODAY",
+        "message": "Hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL",
+        "message": "Total",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_CHILDREN_ADMINISTERED_CUMULATIVE",
+        "message": "Total de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_CHILDREN_ADMINISTERED_TODAY",
+        "message": "Total de crianças administradas hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_DISTRIBUTORS",
+        "message": "Total de Distribuidores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_SPRAY_OPERATORS",
+        "message": "Rociadores total",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_SUPERVISORS",
+        "message": "Total de Supervisores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_SUPERVISORS_SYNCED_AT_LEAST_ONCE",
+        "message": "Total de supervisores sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_TEAM_LEADS",
+        "message": "Total de Supervisores de Equipe",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_TEAM_LEADS_SYNCED_AT_LEAST_ONCE",
+        "message": "Total de supervisores da equipe sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_WMS",
+        "message": "Total de fiel de armazém",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_TOTAL_WMS_SYNCED_AT_LEAST_ONCE",
+        "message": "Total de fiel de armazém sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_UNIQUE_DISTRIBUTORS_SYNCED",
+        "message": "Total de Distribuidores sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DSS_UNIQUE_SPRAY_OPERATORS_SYNCED",
+        "message": "Total de Rociadores sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Dataissues",
+        "message": "Problemas de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_DSS_DISTRICT_HEALTH_DASHBOARD_IRS",
+        "message": "Painel do distrito",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_HEALTH_DASHBOARD",
+        "message": "Painel",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_HEALTH_DASHBOARD_IRS",
+        "message": "Painel",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_DSS_NATIONAL_HEALTH_DASHBOARD_SMC",
+        "message": "Painel Nacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_DSS_PROVINCIAL_HEALTH_DASHBOARD",
+        "message": "Painel Provincial",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_DSS_PROVINCIAL_HEALTH_DASHBOARD_IRS",
+        "message": "Painel Provincial",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_COMMON_DSS_PROVINCIAL_HEALTH_DASHBOARD_SMC",
+        "message": "Painel Provincial",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_DSS_DATE_RANGE",
+        "message": "Período",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_DSS_DOWNLOAD",
+        "message": "Download",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_DSS_SHARE",
+        "message": "Compartilhar",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_DSS_SHARE_IMAGE",
+        "message": "Compartilhar",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "ES_DSS_SHARE_PDF",
+        "message": "PDF",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FEVER",
+        "message": "Febre",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FILTER_BY_CYCLE",
+        "message": "Filtrar por ciclo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "FUNERAL",
+        "message": "Funeral",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "GLASS",
+        "message": "Vidro",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HF_ASMT",
+        "message": "Asmt HF",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "INCOMPATIBLE",
+        "message": "Não PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "IRS-mz_NDSS_DASHBOARD",
+        "message": "Receita Federal das Terras Altas de Mbezi",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "METAL",
+        "message": "Metal",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NATIONAL_DASHBOARD",
+        "message": "SMC Mbezi Highlands",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "NotEnoughStock",
+        "message": "Estoque insuficiente",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Notenoughstock",
+        "message": "Estoque insuficiente",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Pending_assignment",
+        "message": "Tarefa pendente",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Performanceissue",
+        "message": "Problema de desempenho",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "REEDS",
+        "message": "Caniço",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SERVICEDEFS.NOWATER",
+        "message": "Sem água",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SICK",
+        "message": "Doente",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SKIN_REACTION",
+        "message": "Reação cutânea",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_AVERAGE_NO_OF_CHILDREN_ADMINISTERED",
+        "message": "Número médio de crianças administradas por dia por limite em todos os distribuidores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_AVERAGE_NO_OF_HOUSES_SPRAYED",
+        "message": "Número Médio de Casas Pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_COVERAGE_BY_PROVINCE",
+        "message": "Clique em 'Visualizar painel' para visualizar o painel em nível de província",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_ACTUAL_VS_PLANNED_LINE_GRAPH",
+        "message": "Exibe a progressão da campanha para a data planejada versus real e esperada para atingir a meta",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_ADMINISTERED_BY_AGE_GROUP",
+        "message": "Total de crianças administradas para cada faixa etária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_ADMINISTERED_BY_GENDER",
+        "message": "Total de crianças administradas categorizadas por sexo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_ADMINISTRATION_COVERAGE",
+        "message": "Total de crianças administradas (Cobertura) por % e por número absoluto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_ADMINISTRATION_COVERAGE_HEATMAP",
+        "message": "Clique em cada província para detalhar até o nível distrital",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_ALL_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "% de taxa de sincronização entre limites (total de usuários sincronizados/total de usuários criados)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_ATTENDANCE_SPRAY_OPERATOR",
+        "message": "Operadores de pulverização presentes (#) e % de presença de operadores de pulverização por dia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_CHILDREN_COVERAGE",
+        "message": "Total de crianças atendidas / Total de crianças cadastradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_CHILDREN_COVERAGE_RANKING",
+        "message": "Cobertura administrativa dos limites classificados do mais alto para o mais baixo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_CHILDREN_NOT_ADMINISTERED",
+        "message": "Número total de crianças não administradas devido a recusas, eventos adversos, encaminhamentos, inelegíveis",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_CHILDREN_NOT_ADMINISTERED_BY_REASON",
+        "message": "Número total de crianças não administradas por motivo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_COMPLAINTS_OPEN_SUMMARY",
+        "message": " ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_COMPLAINTS_SUMMARY",
+        "message": " ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_DATA_QUALITY_RECORDS_SUMMARY",
+        "message": " ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_DIDE_EFFECTS_BY_TYPE",
+        "message": "Clique na fatia para detalhar por faixa etária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_ENTRIES_DONE_BY_WMS",
+        "message": "Número de entradas feitas pelos gerentes de armazém em um dia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Número total de casas não pulverizadas por seguintes motivos Funeral, Doença, Recusa, casa fechada ou Não PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_HOUSEHOLD_SPRAYED_WITH_VULNERABLE_POPULATION",
+        "message": "Nº de casas com e sem população vulnerável",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_HOUSE_COVERAGE",
+        "message": "Total de casas pulverizadas/Total de casas visitadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_HOUSE_STRUCTURE_TYPES_COVERAGE",
+        "message": "Mostra a cobertura por tipo de estrutura em uma Unidade Organizacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_IECS_NOT_VISITED",
+        "message": "Mobilizadores não visitados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_INCOMPATIBLE_HOUSES",
+        "message": "Número total de casas não PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_INCOMPATIBLE_HOUSES_STRUCTURE_TYPES",
+        "message": "Clique na fatia para detalhar por Unidade Organizacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_INCOMPLETE_RECORDS",
+        "message": "Número de casas onde a pulverização não foi feita",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_INCOMPLETE_RECORDS_CHILDREN",
+        "message": "Número de crianças elegíveis que não foram administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_INSECTICIDE_USAGE_EFFICIENCY",
+        "message": "Total de salas pulverizadas / Total de recargas usadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_LOCATION_NOT_ENABLED",
+        "message": "Número de domicílios que não possuem coordenadas geográficas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_MORE_THAN_TWO_BOTTLES_USED",
+        "message": "Número de casas/estruturas onde foram utilizados mais de 2 frascos de inseticidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Clique na fatia para detalhar a Unidade Organizacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_CHILDREN_ADMINISTERED",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_CHILDREN_ADMINISTERED_ACHIEVED",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_CHILDREN_TARGETED",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTIONS_DATE_RANGE",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTION_COVERAGE",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTION_TARGET",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_VISITED",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_TOTAL_CHILDREN_ADMINISTERED",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_VISITED",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_TOTAL_DRUG_DISTRIBUTED_TILL_TODAY",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_OVERVIEW_TOTAL_HOUSEHOLD_VISITED",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_PRODUCT_RETURNED",
+        "message": "% de frascos de inseticida devolvidos por Rociadores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_REFERRAL_SUMMARY",
+        "message": "Resumo dos detalhes de encaminhamento para as crianças",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_SECONDARY_SPRAYING_HOUSES",
+        "message": "Casas que requerem pulverização secundária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_SPRAY_COVERAGE",
+        "message": "Total de casas pulverizadas (Cobertura) por % e por número absoluto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_STOCK_TRANSACTIONS",
+        "message": "Transações de estoque agregadas dentro de cada limite de acordo com os últimos dados atualizados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_SUCCESS_ADMINISTRATION_ACROSS_CYCLES",
+        "message": "Número de crianças administradas em todos os ciclos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_SUMMARY_OF_REFERRED_CHILDREN",
+        "message": " ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_SUMMARY_OF_SIDE_EFFECTS",
+        "message": " ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_SUPERVISION_SUPERVISOR_USER_SYNC_RATE",
+        "message": "Dados sincronizados de ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_SUPERVISION_TEAM_SUPERVISOR_USER_SYNC_RATE",
+        "message": "Dados sincronizados de ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_SUSPECTED_FRAUDS",
+        "message": "Número de Rociadores que pulverizaram mais de 15 casas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_SUSPECTED_FRAUDS_CHILDREN",
+        "message": "Número de distribuidores que administraram mais de 3 crianças em 1 minuto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_THEORETICAL_VS_MANUAL_STOCK",
+        "message": "Contagem de estoque calculada pelo sistema versus contagem de reconciliação manual",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_TOTAL_CHILDREN_REFUSED",
+        "message": "Número de crianças cuja administração foi recusada",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Clique na fatia para detalhar por Unidade Organizacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_TOTAL_HOUSEHOLDS_REFUSED",
+        "message": "Número de casas recusadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_USER_SYNC_SUMMARY",
+        "message": "Dados sincronizados de",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_VULNERABLE_POPULATION_COVERAGE_CHILDREN_U5",
+        "message": "Cobertura da populaçao crianças com menos de 5 anos por % e número absoluto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_VULNERABLE_POPULATION_COVERAGE_PREGNANT_WOMEN",
+        "message": "Cobertura populacional de mulheres grávidas por % e número absoluto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_WAREHOUSE_MANAGER_USER_SYNC_RATE",
+        "message": "Dados sincronizados de ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HEALTH_WH_DISTRIBUTION_LATLONG",
+        "message": "Coordenadas geográficas dos armazéns e seus estados de estoque",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HOUSE_WITH_MORE_THAN_TEN_ROOMS",
+        "message": "Número de domicílios com mais de 10 cômodos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_DSS_HOUSE_WITH_MORE_THAN_TWENTY_MEMBERS",
+        "message": "Número de domicílios com mais de 20 membros",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_DISTRIBUTIONS_DATE_RANGE",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_DISTRIBUTION_COVERAGE",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_DISTRIBUTION_COVERAGE_DISTRICT",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_DISTRIBUTION_TARGET_DISTRICT",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_DISTRIBUTION_TARGET_PROVINCE",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_TOTAL_DISTRIBUTED_TILL_TODAY",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Clique na fatia para detalhar o limite",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_SPRAYED",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_SPRAYED_NATIONAL",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_NATIONAL_TOTAL_USED_QUANTITY",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_CHECKLISTS_COMPLETION_RATE",
+        "message": "Porcentagem de todas as listas de verificação disponíveis preenchidas e enviadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_CHILDREN_ADMINISTERED",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_CHILDREN_ADMINISTERED_ACHIEVED",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_CHILDREN_TARGETED",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTIONS_DATE_RANGE",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTION_COVERAGE",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTION_TARGET",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_HOUSEHOLDS_SPRAYED_OVER_DATERANGE",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_POPULATION_COVERAGE_ACHIEVED_DISTRICT",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_POPULATION_TARGETED_DISTRICT",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_SPRAYED_DISTRICT",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_SPRAYED_PROVINCE",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_VISITED",
+        "message": "(Para o período selecionado)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_TOTAL_CHILDREN_ADMINISTERED",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_SPRAYED_PROVINCE",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_VISITED",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_VISITS_DISTRICT",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_TOTAL_DRUG_DISTRIBUTED_TILL_TODAY",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_OVERVIEW_TOTAL_HOUSEHOLD_VISITED",
+        "message": "(Cumulativo)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_SIDE_EFFECTS_SUMMARY",
+        "message": "Resumo dos efeitos colaterais registrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SUB_TEXT_DSS_HEALTH_TOTAL_HOUSEHOLDS_REFUSED",
+        "message": "Número de casas recusadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Syncnotworking",
+        "message": "Problema de sincronização",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TEAM_FORMATION",
+        "message": "Formação de Equipe",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_AVERAGE_NO_OF_CHILDREN_ADMINISTERED",
+        "message": "Número médio de crianças administradas por dia por limite em todos os distribuidores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_AVERAGE_NO_OF_HOUSES_SPRAYED",
+        "message": "Número Médio de Casas Pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_%_CHILDREN_PRESENT_AT_HEALTH_FACILITY",
+        "message": "% de crianças apresentadas em unidades de saúde",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_%_OF_CHILDREN_TESTED_+VE_FOR_MALARIA",
+        "message": "% de crianças testadas +ve para malária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ABDOMINAL_PAIN",
+        "message": "Número total de crianças registradas com dor abdominal",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ADMINISTRATION_COVERAGE_RATIO",
+        "message": "Taxa de cobertura administrativa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ADMINISTRATIVE_AREA",
+        "message": "Área Administrativa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_ATTENDANCE_PERCENT",
+        "message": "Porcentagem de participação no período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CHILDREN_ADMINISTERED",
+        "message": "Total de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CHILDREN_INELIGIBLE",
+        "message": "Número total de crianças marcadas como inelegíveis",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CHILDREN_NON_DELIVERY_ADVERSE_EVENTS",
+        "message": "Número total de crianças não administradas devido a Eventos Adversos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CHILDREN_NON_DELIVERY_REFERRAL",
+        "message": "Número total de crianças não administradas devido a encaminhamentos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CHILDREN_NON_DELIVERY_REFUSED",
+        "message": "Número total de crianças não atendidas por recusas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CHILDREN_PRESENT_AT_HEALTH_FACILITY",
+        "message": "Número total de crianças que se apresentam na unidade de saúde",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CHILDREN_RECORDED_WITH_SIDE_EFFECTS",
+        "message": "Número total de crianças registradas com efeitos colaterais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CHILDREN_REFERRED",
+        "message": "Número total de crianças encaminhadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_COMPLAINANT_PHONE_NUMBER",
+        "message": "Número de telefone",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_COMPLAINT_ID",
+        "message": "ID da reclamação",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_COMPLAINT_STATUS",
+        "message": "Estado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_COMPLAINT_TYPE",
+        "message": "Tipo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_COVERAGE_CHILDREN_U5",
+        "message": "Cobertura de Crianças menores de 5 anos protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_COVERAGE_PREGNANT_WOMEN",
+        "message": "Cobertura de Gestantes protegida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_CREATED_TIME",
+        "message": "Hora de criação",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DETAILS",
+        "message": "Detalhes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DIARRHOEA",
+        "message": "Número total de crianças registadas com diarreia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DISTRIBUTORS",
+        "message": "Distribuidor",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DISTRICT_SUPERVISORS_CHECKLIST_FILL_RATE",
+        "message": "Contagem de listas de verificação dos supervisores distritais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_DRUG_ADMINISTERED",
+        "message": "Número total de medicamentos administrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_FACILITY",
+        "message": "Instalação",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_FEVER",
+        "message": "Número total de crianças registradas com febre",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_GEO_COORDINATES_NOT_ENABLED",
+        "message": "Coordenadas não capturadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_CLOSED",
+        "message": "Casa elegível para pulverização, mas não pulverizada porque não havia nenhum adulto ou a casa estava fechada",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_FUNERAL",
+        "message": "Casa elegível para pulverização, mas não pulverizada porque houve um funeral ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_INCOMPATIBLE",
+        "message": "Casa não elegível ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_OTHER_REASON",
+        "message": "Casa elegível para pulverização, mas não pulverizada por outras razões",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_REFUSED",
+        "message": "Casa elegível para pulverização, mas não pulverizada porque o chefe do agregado familiar recusou",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_NON_DELIVERY_SICK",
+        "message": "Casa elegível para pulverização, mas não pulverizada por outras razões",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_NOT_SPRAYED",
+        "message": "Total de Casas não pulverizadas incluindo as elegíveis e as não elegíveis ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_SPRAYED",
+        "message": "Total de casas pulverizadas ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLDS_VISITED",
+        "message": "Número total de domicílios visitados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLD_REQUIRED_SECONDARY_SPRAYING",
+        "message": "Total de casas elegíveis para pulverização, mas não pulverizadas ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLD_WITH_MORE_THAN_10_ROOMS_COUNT",
+        "message": "Domicílios com mais de 10 quartos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLD_WITH_MORE_THAN_20_MEMBERS_COUNT",
+        "message": "Domicílios com mais de 20 membros",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSEHOLD_WITH_MORE_THAN_2_BOTTLES_USED_COUNT",
+        "message": "Mais de 2 recargas usadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSES_COVERAGE_RATIO",
+        "message": "Taxa de cobertura da casa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_HOUSES_VISITED_COVERAGE",
+        "message": "Cobertura das Casas Visitadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_INCOMING_STOCK",
+        "message": "Inseticida recebido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_INCOMPLETE_HOUSES",
+        "message": "Nº de registros incompletos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_INCOMPLETE_RECORDS",
+        "message": "Número de crianças elegíveis que não foram administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_INSECTICIDES_SPRAYED",
+        "message": "Inseticida usado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_INSECTICIDE_USAGE_EFFICIENCY",
+        "message": "Eficiência no uso de inseticidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_NATIONAL_SUPERVISORS_CHECKLIST_FILL_RATE",
+        "message": "Contagem de listas de verificação dos supervisores nacionais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_NON_DELIVERY_HH_REFUSED",
+        "message": "Não entrega (recusada)",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_NOT_PROTECTED_CHILDREN_U5",
+        "message": "Total de crianças menores de 5 anos não protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_NOT_PROTECTED_POPULATION",
+        "message": "População total não protegida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_NOT_PROTECTED_PREGNANT_WOMEN",
+        "message": "Total de gestantes não protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_OTHERS",
+        "message": "Número total de crianças encaminhadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_OUTGOING_STOCK",
+        "message": "Inseticida usado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PRODUCT_TARGET_TO_RECEIVE",
+        "message": "Inseticida para receber conforme microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PROTECTED_CHILDREN_U5",
+        "message": "Total de crianças menores de 5 anos protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PROTECTED_PREGNANT_WOMEN",
+        "message": "Total de gestantes protegidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_PROVINCIAL_SUPERVISORS_CHECKLIST_FILL_RATE",
+        "message": "Contagem de listas de verificação dos supervisores provinciais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_REFERRED_FOR_FEVER",
+        "message": "Número total de referências com Fever",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_RETURNED_STOCK",
+        "message": "Inseticida devolvido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SKIN_REACTION",
+        "message": "Número total de crianças registradas com reação cutânea",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SPRAY_OPERATORS_ATTENDANCE_COUNT",
+        "message": "Presença",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_STOCK_LEFT",
+        "message": "Inseticida em estoque",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_STOCK_TARGET_TO_RECEIVE",
+        "message": "Nº de estoque que deveria ter recebido conforme microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SUMMARY_DISTRIBUTOR",
+        "message": "Nome de usuário do distribuidor",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SUPERVISOR_CONTACT_NUMBER",
+        "message": "Número de contato do supervisor",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_SUSPECTED_FRAUDS",
+        "message": "Número de distribuidores que administraram mais de 3 crianças em 1 minuto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TARGET_ACHIEVEMENT_CHILDREN_ADMINISTERED",
+        "message": "Cobertura da administração alcançada em relação à meta do microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TARGET_ACHIEVEMENT_HOUSEHOLD",
+        "message": "Casas pulverizadas contra alvos de microplanos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TARGET_ACHIEVEMENT_HOUSEHOLD_VISITED",
+        "message": "Cobertura familiar alcançada em relação às metas do microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TEAM_SUPERVISORS_CHECKLIST_FILL_RATE",
+        "message": "Contagem de listas de verificação dos supervisores da equipe",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_CHILDREN_ADMINISTERED",
+        "message": "Total de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_HOUSES_SPRAYED",
+        "message": "Número total de casas visitadas no período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_HOUSES_SPRAYED_COUNT",
+        "message": "Total de casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_INCOMING_STOCK",
+        "message": "Nº de estoque recebido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_OUTGOING_STOCK",
+        "message": "Nº de Estoque emitidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_POPULATION_PROTECTED",
+        "message": "População Total Protegida",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_RETURNED_STOCK",
+        "message": "Nº de estoque devolvido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_ROOMS_SPRAYED",
+        "message": "Número total de salas pulverizadas para o período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_ROOMS_SPRAYED_COUNT",
+        "message": "Total de salas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_SPRAY_OPERATORS",
+        "message": "Número total de Rociadores para o período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_STOCK_BALANCE",
+        "message": "Estoque total disponível em cada UO de acordo com os últimos dados atualizados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_TOTAL_USERS_SPRAYED_MORE_THAN_15",
+        "message": "Mais de 15 casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_USERS_SPRAYED_MORE_THAN_15_TIMES",
+        "message": "Suspeitas de Fraudes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_VILLAGES",
+        "message": "Resumo de entrega por aldeia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_VOMITTING",
+        "message": "Número total de crianças registradas com vômito",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_WEAKNESS",
+        "message": "Número total de crianças registradas com fraqueza",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_WM_STOCK_ENTRIES",
+        "message": "Número total de entradas do gerente de armazém",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEADER_WM_STOCK_ENTRIES_COUNT",
+        "message": "Contagem de entradas do fiel de Armazem",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_ACTUAL_VS_PLANNED_LINE_GRAPH",
+        "message": "Exibe a progressão da campanha para a data planejada versus real e esperada para atingir a meta",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_ADMINISTERED_BY_AGE_GROUP",
+        "message": "Total de crianças administradas para cada faixa etária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_ADMINISTERED_BY_GENDER",
+        "message": "Total de crianças administradas categorizadas por sexo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_ADMINISTRATION_COVERAGE",
+        "message": "Total de crianças administradas (Cobertura) por % e por número absoluto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_ALL_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Sincronização de dados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_ATTENDANCE_SPRAY_OPERATOR",
+        "message": "Operadores de pulverização presentes (#) e % de presença de operadores de pulverização por dia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_CHILDREN_COVERAGE",
+        "message": "Total de crianças atendidas / Total de crianças cadastradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_CHILDREN_COVERAGE_RANKING",
+        "message": "Cobertura administrativa dos UOs classificados do mais alto para o mais baixo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_CHILDREN_NOT_ADMINISTERED",
+        "message": "Número total de crianças não administradas devido a recusas, eventos adversos, encaminhamentos, inelegíveis",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_CHILDREN_NOT_ADMINISTERED_BY_REASON",
+        "message": "Número total de crianças não administradas por motivo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_DATA_QUALITY_EXCESS_SUMMARY",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_DATA_QUALITY_RECORDS_SUMMARY",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_DAYS_INVENTORY_CAN_LAST",
+        "message": "Número de dias que o estoque pode durar a partir de hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_DIDE_EFFECTS_BY_TYPE",
+        "message": "Clique na fatia para detalhar por faixa etária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_ENTRIES_DONE_BY_WMS",
+        "message": "Número de entradas feitas pelos gerentes de armazém em um dia",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_HOUSEHOLDS_COVERAGE_HEATMAP_PROVINCE",
+        "message": "Cobertura alcançada em relação às metas do microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Número total de casas não pulverizadas por seguintes motivos Funeral, Doença, Recusa, casa fechada ou Não PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_HOUSEHOLD_COVERAGE_RANKING",
+        "message": "Classificação baseada no alcance da cobertura das famílias",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_HOUSE_COVERAGE",
+        "message": "Taxa de Cobertura da Casa",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_HOUSE_STRUCTURE_TYPES_COVERAGE",
+        "message": "Clique na fatia para detalhar por Unidade Organizacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_IECS_NOT_VISITED",
+        "message": "Mobilizadores não visitados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_INCOMPATIBLE_HOUSES",
+        "message": "Número total de casas não PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_INCOMPATIBLE_HOUSES_STRUCTURE_TYPES",
+        "message": "Mostra a cobertura para casas não PIDOM em UO",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_INCOMPLETE_RECORDS",
+        "message": "Número de casas onde a pulverização não foi feita",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_INCOMPLETE_RECORDS_CHILDREN",
+        "message": "Número de crianças elegíveis que não foram administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_INSECTICIDE_USAGE_EFFICIENCY",
+        "message": "Eficiência no uso de inseticidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_INVENTORY_STOCK_IN_HAND",
+        "message": "Total de estoques disponíveis em cada UO de acordo com os últimos dados atualizados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_INVENTORY_SUMMARY",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_KIBANA_SCREEN",
+        "message": "Painel externo",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_LOCATION_NOT_ENABLED",
+        "message": "Coordenadas geográficas não ativadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_MORE_THAN_TWO_BOTTLES_USED",
+        "message": "Estruturas onde foram utilizados mais de 2 frascos de inseticidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_CHILDREN_ADMINISTERED_TODAY",
+        "message": "Número de crianças administradas hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_DISTRIBUTIONS_DATE_RANGE",
+        "message": "Recargas usadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_DISTRIBUTION_COVERAGE",
+        "message": "Cobertura de recargas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_DISTRIBUTION_COVERAGE_DISTRICT",
+        "message": "Cobertura de recargas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_DISTRIBUTION_TARGET_DISTRICT",
+        "message": "Meta de Recargas ",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_DISTRIBUTION_TARGET_PROVINCE",
+        "message": "Meta de Recargas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_HOUSEHOLDS_REGISTERED_TODAY",
+        "message": "Número de domicílios cadastrados hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_HOUSEHOLDS_SPRAYED_TODAY",
+        "message": "Casas pulverizadas hoje em todas as províncias",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TODAY_DRUGS_USED_QUANTITY",
+        "message": "Número de medicamentos administrados hoje",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TODAY_USED_QUANTITY",
+        "message": "Recargas usadas hoje em todas as províncias",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TOTAL_CHILDREN_ADMINISTERED_NATIONAL",
+        "message": "Número total de crianças administradas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TOTAL_DISTRIBUTED_TILL_TODAY",
+        "message": "Total de recargas usadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TOTAL_DRUDS_USED_QUANTITY",
+        "message": "Número total de medicamentos administrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Casas não pulverizadas pela razão",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_REGISTERED_NATIONAL",
+        "message": "Número total de domicílios cadastrados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_SPRAYED",
+        "message": "Número total de casas pulverizadas desde o início das campanhas em todas as províncias",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TOTAL_HOUSEHOLD_SPRAYED_NATIONAL",
+        "message": "Total de casas pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_NATIONAL_TOTAL_USED_QUANTITY",
+        "message": "Número total de frascos de spray desde o início das campanhas em todas as províncias",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem geral de conclusão de listas de verificação",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_CHILDREN_ADMINISTERED",
+        "message": "Total de crianças administradas no período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_CHILDREN_ADMINISTERED_ACHIEVED",
+        "message": "Cobertura da administração alcançada em relação à meta do microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_CHILDREN_TARGETED",
+        "message": "Total de crianças segmentadas de acordo com o microplano para o período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_DASHBOARD_IRS_HEADING",
+        "message": "Painel de campanha do PIDOM para spray de inseticidas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTIONS_DATE_RANGE",
+        "message": "Número total de medicamentos administrados no período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTION_COVERAGE",
+        "message": "Medicamentos administrados contra o alvo do microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_DRUG_DISTRIBUTION_TARGET",
+        "message": "Número de medicamentos direcionados de acordo com o microplano para o intervalo de datas selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_HOUSEHOLDS_SPRAYED_OVER_DATERANGE",
+        "message": "Famílias pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_POPULATION_COVERAGE_ACHIEVED",
+        "message": "Cobertura populacional alcançada em relação à meta do microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_POPULATION_COVERAGE_ACHIEVED_DISTRICT",
+        "message": "Cobertura populacional",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_POPULATION_COVERED",
+        "message": "População total coberta no período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_POPULATION_TARGETED",
+        "message": "População total segmentada de acordo com o microplano para o período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_POPULATION_TARGETED_DISTRICT",
+        "message": "Meta População",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_SPRAYED_DISTRICT",
+        "message": "Meta de agregados familiares",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_SPRAYED_PROVINCE",
+        "message": "Famílias segmentadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TARGET_HOUSEHOLD_VISITED",
+        "message": "Número de domicílios visados ​​de acordo com o microplano para o intervalo de datas selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TOTAL_CHILDREN_ADMINISTERED",
+        "message": "Total de crianças administradas desde o início da campanha",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TOTAL_COMPLAINTS",
+        "message": "Número total de reclamações por status para o período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_SPRAYED_PROVINCE",
+        "message": "Cobertura Domiciliar",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_VISITED",
+        "message": "Cobertura familiar alcançada em relação à meta do microplano",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TOTAL_COVERAGE_HOUSEHOLD_VISITS_DISTRICT",
+        "message": "Total de domicílios pulverizados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TOTAL_DRUG_DISTRIBUTED_TILL_TODAY",
+        "message": "Número total de medicamentos administrados desde o início da campanha",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TOTAL_HOUSEHOLD_VISITED",
+        "message": "Número total de domicílios visitados desde o início da campanha",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_OVERVIEW_TOTAL_POPULATION_COVERED",
+        "message": "População total abrangida desde o início da campanha",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_PRODUCT_RETURNED",
+        "message": "% de frascos de inseticida devolvidos por Rociadores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_REFERRAL_SUMMARY",
+        "message": "Resumo dos detalhes de encaminhamento para as crianças",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SECONDARY_SPRAYING_HOUSES",
+        "message": "Mostra o resumo das casas que necessitam de pulverização secundária",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_STOCK_TRANSACTIONS",
+        "message": "TransEstoque de estoque agregadas dentro de cada UO de acordo com os últimos dados atualizados",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUCCESS_ADMINISTRATION_ACROSS_CYCLES",
+        "message": "Administração bem-sucedida entre ciclos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUMMARY_OF_REFERRED_CHILDREN",
+        "message": "Resumo das crianças encaminhadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUMMARY_OF_SIDE_EFFECTS",
+        "message": "Resumo dos efeitos colaterais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUMMARY_TEAM_PERFORMANCE",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUPERVISION_DISTRICT_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem de conclusão das listas de verificação dos supervisores distritais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUPERVISION_NATIONAL_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem de conclusão das listas de verificação dos supervisores nacionais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUPERVISION_PROVINCIAL_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem de conclusão das listas de verificação dos supervisores provinciais",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUPERVISION_SUMMARY",
+        "message": "Relatório resumido",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUPERVISION_TEAM_SUPERVISORS_CHECKLISTS_COMPLETION_RATE",
+        "message": "Contagem de conclusão de listas de verificação de supervisores de equipe",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUSPECTED_FRAUDS",
+        "message": "Suspeitas de Fraudes",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_SUSPECTED_FRAUDS_CHILDREN",
+        "message": "Número de distribuidores que administraram mais de 3 crianças em 1 minuto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_THEORETICAL_VS_MANUAL_STOCK",
+        "message": "Contagem de estoque teórico versus manual",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_TOTAL_CHILDREN_NOT_ADMINISTERED_BY_REASON_OVERVIEW",
+        "message": "Número total de crianças não administradas dividido por motivo, para o período selecionado",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_TOTAL_CHILDREN_REFUSED",
+        "message": "Número de crianças cuja administração foi recusada",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON",
+        "message": "Mostra diferentes tipos de razões para os agregados familiares não serem pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_TOTAL_HOUSEHOLDS_NOT_SPRAYED_BY_REASON_OVERVIEW",
+        "message": "Casas não pulverizadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_TOTAL_HOUSEHOLDS_REFUSED",
+        "message": "Número de casas recusadas",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_TOTAL_INCOMPATIBLE_HOUSES_PROVINCE",
+        "message": "Total de famílias em casas nao PIDOM",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_VULNERABLE_POPULATION_COVERAGE_CHILDREN_U5",
+        "message": "Cobertura da população de crianças com menos de 5 anos por % e número absoluto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_VULNERABLE_POPULATION_COVERAGE_PREGNANT_WOMEN",
+        "message": "Cobertura populacional de mulheres grávidas por % e número absoluto",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HEALTH_WH_DISTRIBUTION_LATLONG",
+        "message": "Coordenadas geográficas dos armazéns e seus estados de estoque",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HOUSE_WITH_MORE_THAN_TEN_ROOMS",
+        "message": "Domicílios com mais de 10 quartos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_HOUSE_WITH_MORE_THAN_TWENTY_MEMBERS",
+        "message": "Domicílios com mais de 20 membros",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_DISTRIBUTORS",
+        "message": "Total de Distribuidores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_SPRAY_OPERATORS",
+        "message": "Rociadores total",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_SUPERVISORS",
+        "message": "Total de Supervisores",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_SUPERVISORS_SYNCED_AT_LEAST_ONCE",
+        "message": "Total de supervisores sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_TEAM_LEADS",
+        "message": "Total de Supervisores de Equipe",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_TEAM_LEADS_SYNCED_AT_LEAST_ONCE",
+        "message": "Total de supervisores da equipe sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_WMS",
+        "message": "Total de fiel de armazém",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_TOTAL_WMS_SYNCED_AT_LEAST_ONCE",
+        "message": "Total de fiel de armazém sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_UNIQUE_DISTRIBUTORS_SYNCED",
+        "message": "Total de Distribuidores sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TIP_DSS_UNIQUE_SPRAY_OPERATORS_SYNCED",
+        "message": "Total de Rociadores sincronizados pelo menos uma vez",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "TRAINING_SUPERVISION",
+        "message": "Supervisão de Treinamento",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "Technicalissues",
+        "message": "Problemas técnicos",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "VOMITTING",
+        "message": "Vômito",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "WEAKNESS",
+        "message": "Fraqueza",
+        "module": "rainmaker-dss",
+        "locale": "pt_MZ"
+    }
+]
