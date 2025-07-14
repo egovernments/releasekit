@@ -1,0 +1,180 @@
+[
+  {
+    "title": "boundaryManagement",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "numberProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_LAT",
+          "type": "number",
+          "isRequired": true,
+          "description": "Latitude",
+          "orderNumber": 4
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_LONG",
+          "type": "number",
+          "isRequired": true,
+          "description": "Longitude",
+          "orderNumber": 5
+        }
+      ],
+      "stringProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+          "type": "string",
+          "isRequired": true,
+          "description": "Boundary Code",
+          "orderNumber": 1,
+          "freezeColumn": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_FRENCH_LOCALIZATION_MESSAGE",
+          "type": "string",
+          "isRequired": true,
+          "description": "French Localization Message",
+          "orderNumber": 2
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_PORTUGESE_LOCALIZATION_MESSAGE",
+          "type": "string",
+          "isRequired": true,
+          "description": "Portugese Localization Message",
+          "orderNumber": 3
+        }
+      ]
+    },
+    "campaignType": "all"
+  },
+  {
+    "title": "user",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "enumProperties": [
+        {
+          "enum": [
+            "Temporary",
+            "Permanent"
+          ],
+          "name": "HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE",
+          "isRequired": true,
+          "description": "Employement Type",
+          "orderNumber": 4
+        },
+        {
+          "enum": [
+            "Active",
+            "Inactive"
+          ],
+          "name": "HCM_ADMIN_CONSOLE_USER_USAGE",
+          "isRequired": true,
+          "description": "User Usage",
+          "orderNumber": 5
+        }
+      ],
+      "numberProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER",
+          "type": "number",
+          "maximum": 9999999999,
+          "minimum": 1000000000,
+          "isUnique": true,
+          "isRequired": true,
+          "description": "Phone Number",
+          "orderNumber": 2,
+          "errorMessage": "HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER_ERROR"
+        }
+      ],
+      "stringProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_USER_ROLE",
+          "prefix": "ACCESSCONTROL_ROLES_ROLES_",
+          "hideColumn": true,
+          "description": "User Role",
+          "orderNumber": 3,
+          "multiSelectDetails": {
+            "enum": [
+              "DISTRIBUTOR",
+              "HEALTH_FACILITY_WORKER",
+              "WAREHOUSE_MANAGER",
+              "NATIONAL_SUPERVISOR",
+              "PROVINCIAL_SUPERVISOR",
+              "DISTRICT_SUPERVISOR",
+              "FIELD_SUPERVISOR",
+              "REGISTRAR",
+              "SUPERVISOR",
+              "HELPDESK_USER",
+              "MONITOR_LOCAL",
+              "LOGISTICAL_OFFICER",
+              "TEAM_SUPERVISOR"
+            ],
+            "maxSelections": 5,
+            "minSelections": 1
+          }
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_USER_NAME",
+          "type": "string",
+          "maxLength": 128,
+          "minLength": 2,
+          "isRequired": true,
+          "description": "User Name",
+          "orderNumber": 1
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE_MANDATORY",
+          "type": "string",
+          "isRequired": true,
+          "description": "Boundary Code (Mandatory)",
+          "orderNumber": 7,
+          "errorMessage": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE_MANDATORY_ERROR"
+        },
+        {
+          "name": "#status#",
+          "type": "string",
+          "isUpdate": true,
+          "hideColumn": true,
+          "description": "status",
+          "orderNumber": 9,
+          "freezeColumn": true
+        },
+        {
+          "name": "UserService Uuids",
+          "type": "string",
+          "isUpdate": true,
+          "hideColumn": true,
+          "description": "uuid",
+          "orderNumber": 11,
+          "freezeColumn": true
+        },
+        {
+          "name": "#errorDetails#",
+          "type": "string",
+          "isUpdate": true,
+          "hideColumn": true,
+          "description": "error details",
+          "orderNumber": 10,
+          "freezeColumn": true
+        },
+        {
+          "name": "UserName",
+          "type": "string",
+          "description": "user name",
+          "orderNumber": 7,
+          "freezeColumn": false
+        },
+        {
+          "name": "Password",
+          "type": "string",
+          "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[!@#$%^&*()_+\\-=\\[\\]{};':\"\\\\|,.<>/?]).{8,}$",
+          "minLength": 8,
+          "description": "password",
+          "orderNumber": 8,
+          "hideColumn": true,
+          "freezeColumn": false
+        }
+      ]
+    },
+    "campaignType": "all"
+  }
+]
