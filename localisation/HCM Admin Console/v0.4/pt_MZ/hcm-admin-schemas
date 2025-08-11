@@ -1,0 +1,74 @@
+[
+        {
+            "code": "USER_CREDENTIAL_BODY_DETAILS",
+            "message": "<strong>Detalhes da campanha:</strong><br/><strong>Campanha:</strong> {campaignName}<br/><strong>Link de acesso à credencial do usuário:</strong> <a href='{accessLink}'>Link de acesso</a><br/><strong>Download do aplicativo:</strong> <a href='{appLink}'>Link do aplicativo</a>",
+            "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USER_CREDENTIAL_BODY_INTRO",
+        "message": "Olá, {campaignManagerName},<br/><br/>A configuração da sua campanha de saúde foi concluída! O aplicativo foi configurado e as credenciais de usuário foram geradas para sua equipe.",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USER_CREDENTIAL_BODY_NOTES",
+        "message": "<strong>Observações importantes:</strong><br/>Todas as credenciais da equipe estão ativas e prontas para uso.<br/>O aplicativo inclui todas as configurações específicas para os requisitos da sua campanha.<br/>Distribua as credenciais com segurança apenas para membros autorizados da equipe.",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USER_CREDENTIAL_BODY_SUPPORT",
+        "message": "<strong>Precisa de suporte?</strong><br/>Se você encontrar algum problema durante o download ou tiver dúvidas sobre a configuração, entre em contato com nossa equipe de suporte em <a href='mailto:support@egov.org.in'>support@egov.org.in</a>.",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USER_CREDENTIAL_BODY_THANKS",
+        "message": "Sua campanha está pronta para ser lançada.<br/><br/>Obrigado por usar o Console para o gerenciamento de sua campanha de saúde.<br/>Atenciosamente,<br/>Equipe do Console",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "USER_CREDENTIAL_SUBJECT",
+        "message": "{campaignName} - Suas credenciais de equipe e aplicativo prontos para download",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_ROLE_MULTISELECT_2",
+        "message": "Função do Usuário 2",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_ROLE_MULTISELECT_3",
+        "message": "Função do Usuário 3",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_ROLE_MULTISELECT_4",
+        "message": "Função do Usuário 4",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_USER_ROLE_MULTISELECT_5",
+        "message": "Função do Usuário 5",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET_BEDNET_COLUMN_2",
+        "message": "População-alvo",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "HCM_ADMIN_CONSOLE_TARGET_BEDNET_COLUMN_3",
+        "message": "Número de mosquiteiros a serem distribuídos",
+        "module": "hcm-admin-schemas",
+        "locale": "pt_MZ"
+    }
+]
