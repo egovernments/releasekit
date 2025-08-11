@@ -1,92 +1,46 @@
-[
-  {
-    "entity": "Individual",
-    "displayFields": [
-      {
-        "fieldKey": "locality",
-        "jsonPath": "Individual.address[0].locality.code",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "name",
-        "jsonPath": "Individual.name.givenName",
-        "mandatory": "true"
-      },
-      {
-        "fieldKey": "gender",
-        "jsonPath": "Individual.gender",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "identifierId",
-        "jsonPath": "Individual.identifiers[0].identifierId",
-        "mandatory": "false"
-      },
-      {
-        "isList": "true",
-        "fieldKey": "identifierType",
-        "jsonPath": "Individual.identifiers[0].identifierType",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "mobileNumber",
-        "jsonPath": "Individual.mobileNumber",
-        "mandatory": "false"
-      }
-    ]
-  },
-  {
-    "entity": "Task",
-    "displayFields": [
-      {
-        "fieldKey": "doseIndex",
-        "jsonPath": "Task.additionalFields",
-        "mandatory": "false",
-        "additionalField": "true"
-      },
-      {
-        "fieldKey": "status",
-        "jsonPath": "Task.status",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "createdTime",
-        "jsonPath": "Task.auditDetails.createdTime",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "cycleIndex",
-        "jsonPath": "Task.additionalFields",
-        "mandatory": "false",
-        "additionalField": "true"
-      }
-    ]
-  },
-  {
-    "entity": "Household",
-    "displayFields": [
-      {
-        "fieldKey": "locality",
-        "jsonPath": "Household.address.locality.code",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "memberCount",
-        "jsonPath": "Household.memberCount",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "pregnantWomenCount",
-        "jsonPath": "Household.additionalFields",
-        "mandatory": "false",
-        "additionalField": "true"
-      },
-      {
-        "fieldKey": "childrenCount",
-        "jsonPath": "Household.additionalFields",
-        "mandatory": "false",
-        "additionalField": "true"
-      }
-    ]
-  }
-]
+ {
+        "tenantId": "{{tenantId}}",
+        "code": "HCM-ADMIN-CONSOLE.DETAILS_RENDERER_CONFIG",
+        "description": "HCM-ADMIN-CONSOLE.DETAILS_RENDERER_CONFIG",
+        "definition":{
+                "type": "object",
+                "title": "Generated schema for Root",
+                "$schema": "http://json-schema.org/draft-07/schema#",
+                "required": [
+                    "entity",
+                    "displayFields"
+                ],
+                "x-unique": [
+                    "entity"
+                ],
+                "properties": {
+                    "entity": {
+                        "type": "string"
+                    },
+                    "displayFields": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "isEnum": {
+                                    "type": "string"
+                                },
+                                "isList": {
+                                    "type": "string"
+                                },
+                                "fieldKey": {
+                                    "type": "string"
+                                },
+                                "jsonPath": {
+                                    "type": "string"
+                                },
+                                "mandatory": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+        "isActive": true
+    }
