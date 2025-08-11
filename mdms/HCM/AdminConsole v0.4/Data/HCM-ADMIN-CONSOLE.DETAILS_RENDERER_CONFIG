@@ -1,5 +1,59 @@
 [
   {
+    "entity": "Household",
+    "displayFields": [
+      {
+        "fieldKey": "locality",
+        "jsonPath": "Household.address.locality.code",
+        "mandatory": "false"
+      },
+      {
+        "fieldKey": "memberCount",
+        "jsonPath": "Household.memberCount",
+        "mandatory": "false"
+      },
+      {
+        "fieldKey": "pregnantWomenCount",
+        "jsonPath": "Household.additionalFields",
+        "mandatory": "false",
+        "additionalField": "true"
+      },
+      {
+        "fieldKey": "childrenCount",
+        "jsonPath": "Household.additionalFields",
+        "mandatory": "false",
+        "additionalField": "true"
+      }
+    ]
+  },
+  {
+    "entity": "Task",
+    "displayFields": [
+      {
+        "fieldKey": "doseIndex",
+        "jsonPath": "Task.additionalFields",
+        "mandatory": "false",
+        "additionalField": "true"
+      },
+      {
+        "fieldKey": "status",
+        "jsonPath": "Task.status",
+        "mandatory": "false"
+      },
+      {
+        "fieldKey": "createdTime",
+        "jsonPath": "Task.auditDetails.createdTime",
+        "mandatory": "false"
+      },
+      {
+        "fieldKey": "cycleIndex",
+        "jsonPath": "Task.additionalFields",
+        "mandatory": "false",
+        "additionalField": "true"
+      }
+    ]
+  },
+  {
     "entity": "Individual",
     "displayFields": [
       {
@@ -32,60 +86,6 @@
         "fieldKey": "mobileNumber",
         "jsonPath": "Individual.mobileNumber",
         "mandatory": "false"
-      }
-    ]
-  },
-  {
-    "entity": "Task",
-    "displayFields": [
-      {
-        "fieldKey": "doseIndex",
-        "jsonPath": "Task.additionalFields",
-        "mandatory": "false",
-        "additionalField": "true"
-      },
-      {
-        "fieldKey": "status",
-        "jsonPath": "Task.status",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "createdTime",
-        "jsonPath": "Task.auditDetails.createdTime",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "cycleIndex",
-        "jsonPath": "Task.additionalFields",
-        "mandatory": "false",
-        "additionalField": "true"
-      }
-    ]
-  },
-  {
-    "entity": "Household",
-    "displayFields": [
-      {
-        "fieldKey": "locality",
-        "jsonPath": "Household.address.locality.code",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "memberCount",
-        "jsonPath": "Household.memberCount",
-        "mandatory": "false"
-      },
-      {
-        "fieldKey": "pregnantWomenCount",
-        "jsonPath": "Household.additionalFields",
-        "mandatory": "false",
-        "additionalField": "true"
-      },
-      {
-        "fieldKey": "childrenCount",
-        "jsonPath": "Household.additionalFields",
-        "mandatory": "false",
-        "additionalField": "true"
       }
     ]
   }
