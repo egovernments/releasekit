@@ -1,0 +1,108 @@
+{
+  "tenantId": "mz",
+  "moduleName": "HCM",
+  "dashboardConfig": [
+    {
+      "id": 1,
+      "charts": [
+        {
+          "name": "totalHouseholdSprayedIRS",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "totalBottlesUsedIRS",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "percentTargetAchievementTodayIRS",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "coverageByUserIRS",
+          "active": true,
+          "vizType": "null",
+          "chartType": "TABLE"
+        },
+        {
+          "name": "performanceByUserIRS",
+          "active": true,
+          "vizType": "null",
+          "chartType": "TABLE"
+        }
+      ],
+      "enableDashboard": true,
+      "projectTypeCode": "IRS-mz",
+      "projectTypeId": "192a20d1-0edd-4108-925a-f37bf544d6c4"
+    },
+    {
+      "id": 2,
+      "charts": [
+        {
+          "name": "childrenAdministeredSmc",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "spaqUsedSmc",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "childrenAdministeredCoverageSmc",
+          "active": true,
+          "vizType": "row",
+          "chartType": "TABLE"
+        },
+        {
+          "name": "childrenAdministrationSummarySmc",
+          "active": true,
+          "vizType": "null",
+          "chartType": "TABLE"
+        }
+      ],
+      "enableDashboard": true,
+      "projectTypeCode": "MR-DN",
+      "projectTypeId": "ea1bb2e7-06d8-4fe4-ba1e-f4a6363a21be"
+    },
+     {
+      "id": 3,
+      "charts": [
+        {
+          "name": "householdsDistributedLLIN",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "bednetsDistributedLLIN",
+          "active": true,
+          "vizType": "row",
+          "chartType": "METRIC"
+        },
+        {
+          "name": "householdsDistributionCoverageLLIN",
+          "active": true,
+          "vizType": "row",
+          "chartType": "TABLE"
+        },
+        {
+          "name": "bednetsDistributionSummaryLLIN",
+          "active": true,
+          "vizType": "null",
+          "chartType": "TABLE"
+        }
+      ],
+      "enableDashboard": true,
+      "projectTypeCode": "LLIN-mz",
+      "projectTypeId": "84e28a7b-8c6d-4505-a7ef-5d714e0361f6"
+    }
+  ]
+}
