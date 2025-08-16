@@ -155,6 +155,18 @@
             "message": "Calculated Count",
             "module": "hcm-inventory-details",
             "locale": "en_MZ"
+        },
+        {
+            "code": "INVENTORY_REPORT_DETAILS_NO_FILTER_MESSAGE",
+            "message": "Please select the warehouse and a product to generate a report",
+            "module": "hcm-inventory-details",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "INVENTORY_REPORT_DETAILS_WAYBILL_LABEL",
+            "message": "Waybill Number",
+            "module": "hcm-inventory-details",
+            "locale": "en_MZ"
         }
     ]
 }
