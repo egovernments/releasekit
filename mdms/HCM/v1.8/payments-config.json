@@ -1,0 +1,11 @@
+{
+    "tenantId": "mz",
+    "moduleName": "HCM",
+    "paymentsConfig": [
+       {
+           "tenantId": "mz",
+           "enableApprovalAnyTime": true,
+           "lowestLevelBoundary": "DISTRICT"
+       }
+    ]
+}
