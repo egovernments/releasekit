@@ -1,0 +1,318 @@
+{
+  "tenantId": "mz",
+  "moduleName": "HCM",
+  "WORKER_RATES": [
+    {
+      "name": "SMC Demo",
+      "rates": [
+        {
+          "skillCode": "CDD",
+          "rateBreakup": {
+            "FOOD": 5,
+            "TRAVEL": 3,
+            "PER_DAY": 2
+          }
+        },
+        {
+          "skillCode": "HEALTH_FACILITY_WORKER",
+          "rateBreakup": {
+            "FOOD": 2.5,
+            "TRAVEL": 4,
+            "PER_DAY": 6
+          }
+        },
+        {
+          "skillCode": "PROXIMITY_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 7,
+            "TRAVEL": 5,
+            "PER_DAY": 3
+          }
+        },
+        {
+          "skillCode": "PAYMENT_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 8,
+            "TRAVEL": 6,
+            "PER_DAY": 6
+          }
+        },
+        {
+          "skillCode": "MUNICIPAL_ADVISOR",
+          "rateBreakup": {
+            "FOOD": 9,
+            "TRAVEL": 7,
+            "PER_DAY": 6.5
+          }
+        },
+        {
+          "skillCode": "NATIONAL_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 10,
+            "TRAVEL": 8,
+            "PER_DAY": 12
+          }
+        },
+        {
+          "skillCode": "DISTRICT_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 5,
+            "TRAVEL": 5,
+            "PER_DAY": 5.5
+          }
+        },
+        {
+          "skillCode": "DISTRIBUTOR",
+          "rateBreakup": {
+            "FOOD": 5,
+            "TRAVEL": 5,
+            "PER_DAY": 6.5
+          }
+        },
+        {
+          "skillCode": "WAREHOUSE_MANAGER",
+          "rateBreakup": {
+            "FOOD": 5.5,
+            "TRAVEL": 5.5,
+            "PER_DAY": 6.5
+          }
+        }
+      ],
+      "currency": "USD",
+      "eventType": "CAMPAIGN",
+      "campaignId": "486d06d6-e35f-47b8-acf2-96ebb2ce5dd4"
+    },
+    {
+      "name": "SMC Demo",
+      "rates": [
+        {
+          "skillCode": "CDD",
+          "rateBreakup": {
+            "FOOD": 5,
+            "TRAVEL": 3,
+            "PER_DAY": 2
+          }
+        },
+        {
+          "skillCode": "HEALTH_FACILITY_WORKER",
+          "rateBreakup": {
+            "FOOD": 2.5,
+            "TRAVEL": 4,
+            "PER_DAY": 6
+          }
+        },
+        {
+          "skillCode": "PROXIMITY_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 7,
+            "TRAVEL": 5,
+            "PER_DAY": 3
+          }
+        },
+        {
+          "skillCode": "PAYMENT_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 8,
+            "TRAVEL": 6,
+            "PER_DAY": 6
+          }
+        },
+        {
+          "skillCode": "MUNICIPAL_ADVISOR",
+          "rateBreakup": {
+            "FOOD": 9,
+            "TRAVEL": 7,
+            "PER_DAY": 6.5
+          }
+        },
+        {
+          "skillCode": "NATIONAL_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 10,
+            "TRAVEL": 8,
+            "PER_DAY": 12
+          }
+        },
+        {
+          "skillCode": "DISTRICT_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 5,
+            "TRAVEL": 5,
+            "PER_DAY": 5.5
+          }
+        },
+        {
+          "skillCode": "DISTRIBUTOR",
+          "rateBreakup": {
+            "FOOD": 5,
+            "TRAVEL": 5,
+            "PER_DAY": 6.5
+          }
+        },
+        {
+          "skillCode": "WAREHOUSE_MANAGER",
+          "rateBreakup": {
+            "FOOD": 5.5,
+            "TRAVEL": 5.5,
+            "PER_DAY": 6.5
+          }
+        }
+      ],
+      "currency": "USD",
+      "eventType": "CAMPAIGN",
+      "campaignId": "d2913c8c-b35d-4bac-9bf2-2cb7be98cbf1"
+    },
+    {
+      "name": "SMC_campaign_payments_test_2",
+      "rates": [
+        {
+          "skillCode": "CDD",
+          "rateBreakup": {
+            "FOOD": 2,
+            "TRAVEL": 1,
+            "PER_DAY": 2
+          }
+        },
+        {
+          "skillCode": "HEALTH_FACILITY_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 4.5,
+            "TRAVEL": 5,
+            "PER_DAY": 5.5
+          }
+        },
+        {
+          "skillCode": "PROXIMITY_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 3.5,
+            "TRAVEL": 5,
+            "PER_DAY": 11.5
+          }
+        },
+        {
+          "skillCode": "PAYMENT_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 6,
+            "TRAVEL": 6.5,
+            "PER_DAY": 12.5
+          }
+        },
+        {
+          "skillCode": "MUNICIPAL_ADVISOR",
+          "rateBreakup": {
+            "FOOD": 6.5,
+            "TRAVEL": 7,
+            "PER_DAY": 9.5
+          }
+        },
+        {
+          "skillCode": "NATIONAL_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 8,
+            "TRAVEL": 8,
+            "PER_DAY": 12
+          }
+        },
+        {
+          "skillCode": "DISTRICT_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 6,
+            "TRAVEL": 8,
+            "PER_DAY": 10
+          }
+        },
+        {
+          "skillCode": "WAREHOUSE_MANAGER",
+          "rateBreakup": {
+            "FOOD": 5.5,
+            "TRAVEL": 6.5,
+            "PER_DAY": 10
+          }
+        },
+        {
+          "skillCode": "HEALTH_FACILITY_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 5.5,
+            "TRAVEL": 6.5,
+            "PER_DAY": 11.5
+          }
+        },
+        {
+          "skillCode": "DISTRIBUTOR",
+          "rateBreakup": {
+            "FOOD": 5.5,
+            "TRAVEL": 6.5,
+            "PER_DAY": 12.5
+          }
+        },
+        {
+          "skillCode": "HEALTH_FACILITY_WORKER",
+          "rateBreakup": {
+            "FOOD": 5.5,
+            "TRAVEL": 6.5,
+            "PER_DAY": 9.5
+          }
+        }
+      ],
+      "currency": "USD",
+      "eventType": "CAMPAIGN",
+      "campaignId": "c2220d30-aafb-474e-97c6-8f5a4f6da7b0"
+    },
+    {
+      "name": "SMC Campaign Registration Training Rates",
+      "rates": [
+        {
+          "skillCode": "CDD",
+          "rateBreakup": {
+            "FOOD": 5,
+            "TRAVEL": 3,
+            "PER_DAY": 2
+          }
+        },
+        {
+          "skillCode": "HEALTH_FACILITY_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 6,
+            "TRAVEL": 4,
+            "PER_DAY": 2.5
+          }
+        },
+        {
+          "skillCode": "PROXIMITY_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 7,
+            "TRAVEL": 5,
+            "PER_DAY": 3
+          }
+        },
+        {
+          "skillCode": "PAYMENT_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 8,
+            "TRAVEL": 6,
+            "PER_DAY": 6
+          }
+        },
+        {
+          "skillCode": "MUNICIPAL_ADVISOR",
+          "rateBreakup": {
+            "FOOD": 9,
+            "TRAVEL": 7,
+            "PER_DAY": 6.5
+          }
+        },
+        {
+          "skillCode": "NATIONAL_SUPERVISOR",
+          "rateBreakup": {
+            "FOOD": 10,
+            "TRAVEL": 8,
+            "PER_DAY": 12
+          }
+        }
+      ],
+      "currency": "USD",
+      "eventType": "TRAINING",
+      "campaignId": "8e082a63-0c9d-4e6c-a89e-de56f7517a89"
+    }
+  ]
+}
