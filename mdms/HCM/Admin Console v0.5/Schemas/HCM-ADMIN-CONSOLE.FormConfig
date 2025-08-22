@@ -1,8 +1,4 @@
- {
-        "tenantId": "{{tenantId}}",
-        "code": "HCM-ADMIN-CONSOLE.FormConfig",
-        "description": "HCM-ADMIN-CONSOLE.FormConfig",
-        "definition": {
+{
                 "type": "object",
                 "title": "Generated schema for Root",
                 "$schema": "http://json-schema.org/draft-07/schema#",
@@ -193,5 +189,3 @@
                     }
                 }
             },
-        "isActive": true
-    }
