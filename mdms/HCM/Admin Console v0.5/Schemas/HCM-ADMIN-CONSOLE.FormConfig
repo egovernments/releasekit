@@ -1,8 +1,4 @@
 {
-        "tenantId": "{{tenantId}}",
-        "code": "HCM-ADMIN-CONSOLE.FormConfig",
-        "description": "HCM-ADMIN-CONSOLE.FormConfig",
-        "definition": {
                 "type": "object",
                 "title": "Generated schema for Root",
                 "$schema": "http://json-schema.org/draft-07/schema#",
@@ -23,7 +19,8 @@
                             "INVENTORYFLOW",
                             "ATTENDANCEFLOW",
                             "COMPLAINTFLOW",
-                            "DELIVERYFLOW"
+                            "DELIVERYFLOW",
+                            "HFREFERALFLOW"
                         ],
                         "type": "string"
                     },
@@ -166,6 +163,26 @@
                                             },
                                             "includeInSummary": {
                                                 "type": "boolean"
+                                            },
+                                            "autoFillCondition": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "value": {},
+                                                        "expression": {
+                                                            "type": "string"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "visibilityCondition": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "expression": {
+                                                        "type": "string"
+                                                    }
+                                                }
                                             }
                                         }
                                     }
@@ -192,6 +209,4 @@
                         "type": "boolean"
                     }
                 }
-            },
-        "isActive": true
-    }
+            }
