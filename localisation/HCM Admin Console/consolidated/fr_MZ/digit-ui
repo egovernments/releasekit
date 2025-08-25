@@ -1,0 +1,914 @@
+[
+        {
+            "code": "ABG_COMMON_TABLE_COL_ACTION",
+            "message": "Action",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_BILL_AMOUNT",
+            "message": "Montant de la facture (Rs)",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_BILL_DATE",
+            "message": "Date de la facture",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_BILL_NO",
+            "message": "Projet de loi n°",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_CONSUMER_NAME",
+            "message": "Nom du consommateur",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ABG_COMMON_TABLE_COL_STATUS",
+            "message": "Statut",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ABG_PAY",
+            "message": "Payer",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ABG_PT_CONSUMER_CODE_LABEL",
+            "message": "Code de la consommation",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ABG_WS_CONSUMER_CODE_LABEL",
+            "message": "Numéro de consommateur",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_AE_CREATOR",
+            "message": "Créateur d'estimations abstraites",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_ANONYMOUS",
+            "message": "Utilisateur anonyme",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_CAMPAIGN_ADMIN",
+            "message": "Administrateur de campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_CAMPAIGN_MANAGER",
+            "message": "Gestionnaire de campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_COMMUNITY_DISTRIBUTOR",
+            "message": "Distributeur communautaire",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_COMMUNITY_SUPERVISOR",
+            "message": "Superviseur communautaire",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_HEALTH_FACILITY_SUPERVISOR",
+            "message": "Superviseur d'établissement de santé",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_HEALTH_FACILITY_WORKER",
+            "message": "Agent d'établissement de santé",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_LOCAL_MONITOR",
+            "message": "Moniteur local",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_LOC_ADMIN",
+            "message": "Administrateur de localisation",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_MDMS_ADMIN",
+            "message": "Administrateur MDMS",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_MDMS_SCHEMA_CREATOR",
+            "message": "Créateur de schéma MDMS",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_REGISTRAR2",
+            "message": "Greffier",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_SYSTEM_ADMINISTRATOR1",
+            "message": "Administrateur du système",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_9HRMS",
+            "message": "User Management",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_9MDMS",
+            "message": "Gérer les données de base",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_ACTIONS_TEST",
+            "message": "Test d'action",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_APP_CONFIGURATION",
+            "message": "Configuration de l'application",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_APP_CONFIGURATION_3.0",
+            "message": "Configuration de l'application",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_APP_CONFIGURATION_PARENT_MOBILE",
+            "message": "Configuration de l'application mobile",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_APP_CONFIGURATION_PARENT_WEB",
+            "message": "Configuration de l'application Web",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_CAMPAIGN",
+            "message": "Console d'administration HCM",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_CREATE_CAMPAIGN",
+            "message": "Créer une campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_CREATE_EMPLOYEE",
+            "message": "Créer un utilisateur",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_HOME",
+            "message": "Maison",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_HRMS",
+            "message": "Gestion des utilisateurs",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_LOCALISATION",
+            "message": "Localisation",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_MDMS",
+            "message": "MDMS",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_MY_CAMPAIGN",
+            "message": "Mes campagnes",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_MY_CAMPAIGN_NEW",
+            "message": "Ma campagnes",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_ROLEACTIONS",
+            "message": "Action de rôle",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_ROLES",
+            "message": "Rôles",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_SETUP_CAMPAIGN",
+            "message": "Créer une campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_SETUP_CAMPAIGN_FROM_MICROPLAN",
+            "message": "Configurer une campagne à partir de Microplan",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_TENANT",
+            "message": "Locataire",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_UPLOAD_BOUNDARY",
+            "message": "Gérer les limites",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTION_TEST_WORKBENCH",
+            "message": "Établi",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ACTIVE_EMPLOYEES",
+            "message": "Employés actifs",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "BOUNDARY_MANAGEMENT",
+            "message": "Gestion des limites",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CAMPAIGN_RESPONSE_UPDATE_ACTION_ERROR",
+            "message": "Échec de la mise à jour des détails de la campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "COMMON_GENDER_OTHER",
+            "message": "Autres",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_CHANGE_PASSWORD",
+            "message": "Changer le mot de passe",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_CITY",
+            "message": "Pays/État/Ville",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_CLOSE",
+            "message": "Fermer",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_CONTINUE",
+            "message": "Continuer",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_FORGOT_PASSWORD",
+            "message": "Mot de passe oublié",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_FORGOT_PASSWORD_LABEL",
+            "message": "Mot de passe oublié",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_LOGIN",
+            "message": "Se connecter",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_LOGOUT",
+            "message": "Déconnexion",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_PROFILE_CITY",
+            "message": "Ville",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_PROFILE_EMAIL",
+            "message": "E-mail",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_PROFILE_GENDER",
+            "message": "Genre",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_PROFILE_MOBILE_NUMBER",
+            "message": "Numéro de portable",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_PROFILE_NAME",
+            "message": "Nom",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_COMMON_SAVE",
+            "message": "Sauvegarder",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_DESCRIPTION_FIVE",
+            "message": "Application mobile facile à utiliser avec des flux utilisateurs et des analyses qui simplifient les tâches de routine avec des vérifications intégrées pour réduire les erreurs et offre une assistance à distance en un clic.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_DESCRIPTION_FOUR",
+            "message": "Application mobile facile à utiliser avec des flux utilisateurs et des analyses qui simplifient les tâches de routine avec des vérifications intégrées pour réduire les erreurs et offre une assistance à distance en un clic.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_DESCRIPTION_ONE",
+            "message": "Application mobile facile à utiliser avec des flux utilisateurs et des analyses qui simplifient les tâches de routine avec des vérifications intégrées pour réduire les erreurs et offre une assistance à distance en un clic.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_DESCRIPTION_SEVEN",
+            "message": "Application mobile facile à utiliser avec des flux utilisateurs et des analyses qui simplifient les tâches de routine avec des vérifications intégrées pour réduire les erreurs et offre une assistance à distance en un clic.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_DESCRIPTION_SIX",
+            "message": "Application mobile facile à utiliser avec des flux utilisateurs et des analyses qui simplifient les tâches de routine avec des vérifications intégrées pour réduire les erreurs et offre une assistance à distance en un clic.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_DESCRIPTION_THREE",
+            "message": "Application mobile facile à utiliser avec des flux utilisateurs et des analyses qui simplifient les tâches de routine avec des vérifications intégrées pour réduire les erreurs et offre une assistance à distance en un clic.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_DESCRIPTION_TWO",
+            "message": "Application mobile facile à utiliser avec des flux utilisateurs et des analyses qui simplifient les tâches de routine avec des vérifications intégrées pour réduire les erreurs et offre une assistance à distance en un clic.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_TITLE_FIVE",
+            "message": "Un partenaire numérique pour les travailleurs de première ligne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_TITLE_FOUR",
+            "message": "Un partenaire numérique pour les travailleurs de première ligne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_TITLE_ONE",
+            "message": "Un partenaire numérique pour les travailleurs de première ligne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_TITLE_SEVEN",
+            "message": "Un partenaire numérique pour les travailleurs de première ligne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_TITLE_SIX",
+            "message": "Un partenaire numérique pour les travailleurs de première ligne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_TITLE_THREE",
+            "message": "Un partenaire numérique pour les travailleurs de première ligne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_HCM_TITLE_TWO",
+            "message": "Un partenaire numérique pour les travailleurs de première ligne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_LOGIN_CITY",
+            "message": "Pays/État/Ville",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_LOGIN_PASSWORD",
+            "message": "Mot de passe",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_LOGIN_USERNAME",
+            "message": "Nom d'utilisateur",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_LOGOUT_CANCEL",
+            "message": "Annuler",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_LOGOUT_MESSAGE",
+            "message": "se déconnecter ?",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_LOGOUT_WEB_CONFIRMATION_MESSAGE",
+            "message": "Etes-vous sûr de vouloir",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_LOGOUT_WEB_HEADER",
+            "message": "Déconnexion",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_LOGOUT_WEB_YES",
+            "message": "Oui, déconnexion",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CORE_SOMETHING_WENT_WRONG",
+            "message": "Quelque chose s'est mal passé",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CREATE_BOUNDARY_HIERARCHY_TYPE",
+            "message": "Créer une hiérarchie de limites",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CS_EMAIL_NOT_CONFIGURED",
+            "message": "L'e-mail n'est pas configuré",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CS_NO_PROJECTS_ASSIGNED",
+            "message": "Aucun projet attribué à l'utilisateur",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CS_REJECTION_REASON2",
+            "message": "Informations fournies insuffisantes",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CS_REJECTION_REASON3",
+            "message": "Plainte en double",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CS_REJECTION_REASON4",
+            "message": "Hors de portée",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CS_REJECTION_REASON5",
+            "message": "Problème déjà résolu",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "Campaign",
+            "message": "Campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "Create Campaign",
+            "message": "Créer une campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "CreateCampaign",
+            "message": "Créer une campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "DELETE_LEVEL",
+            "message": "Supprimer le niveau",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "DIGIT_I_ACCEPT",
+            "message": "J'accepte",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "DIGIT_I_DO_NOT_ACCEPT",
+            "message": "Je n'accepte pas",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "EDIT_PROFILE",
+            "message": "Modifier le profil",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "EGOV_HRMS_EMPLOYEETYPE_OTHERS",
+            "message": "Autres",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ERR_HRMS_INVALID_CITY",
+            "message": "Veuillez sélectionner un « Pays/État/Ville » valide.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ERR_PASSWORD_REQUIRED",
+            "message": "Champ obligatoire !",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ERR_USERNAME_REQUIRED",
+            "message": "Champ obligatoire !",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ES_BY_CLICKING",
+            "message": "En cliquant, j'accepte le",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ES_COMMON_HOME",
+            "message": "Maison",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ES_COMMON_PAGE_1",
+            "message": "Modifier le profil",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ES_COMMON_SEARCH",
+            "message": "Recherche",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ES_FORGOT_PASSWORD_DESC",
+            "message": "Veuillez entrer votre numéro de téléphone pour réinitialiser le mot de passe.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ES_PRIVACY_POLICY",
+            "message": "politique de confidentialité",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "FORGOT",
+            "message": "Mot de passe oublié",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "HCM_CREATE_BOUNDARY_HIERARCHY",
+            "message": "Créer une hiérarchie de limites",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "HCM_CREATE_BOUNDARY_HIERARCHY_DESCRIPTION",
+            "message": "Vous pouvez créer une nouvelle hiérarchie de limites en définissant le nombre de niveaux dans la hiérarchie et en nommant les niveaux.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "HCM_LEVEL 1",
+            "message": "Niveau",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "HRMS",
+            "message": "Gestion des utilisateurs",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "HR_COMMON_CREATE_EMPLOYEE_HEADER",
+            "message": "Créer un utilisateur",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "HR_HOME_SEARCH_RESULTS_HEADING",
+            "message": "Rechercher un utilisateur",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "HR_NATIONAL_CAMPAIGN_NAME_LABEL",
+            "message": "Nom de la campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "HR_UPDATE_PASSWORD_SUCCESS_MESSAGE",
+            "message": "Mot de passe de l'employé mis à jour avec succès",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "Home",
+            "message": "Maison",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "My Campaign",
+            "message": "Ma campagnes",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "My Campaign search ",
+            "message": "Ma campagnes",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PASSWORD",
+            "message": "mot de passe ?",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PRIVACY_HEADER_2_SUB_1",
+            "message": "Conditions préalables",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PRIVACY_HEADER_2_SUB_1_DESC_1",
+            "message": "Vous avez ajouté une colonne ou un champ portant le nom de la caractéristique aux fichiers de formes pour lesquels vous souhaitez charger des formes. Si vous utilisez des caractéristiques composées, vous avez ajouté plusieurs colonnes. Plus d'informations : Préparation des fichiers de formes",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PRIVACY_HEADER_2_SUB_1_DESC_2",
+            "message": "Pour mettre à jour la géotable avec les formes téléchargées sur le Business Document Server, vous avez besoin de SAP HANA 2.0 Rev 45.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PRIVACY_HEADER_2_SUB_2",
+            "message": "Procédure",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PRIVACY_HEADER_2_SUB_2_DESC_1",
+            "message": "1. Vous êtes sur l'onglet Clients BI dans l'écran d'édition des caractéristiques dans les outils de modélisation BW. Vous avez choisi Formes ou Formes et données de points comme type géographique.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PRIVACY_HEADER_2_SUB_2_DESC_2",
+            "message": "2. Choisissez Télécharger des fichiers de formes sous Actions. Choisissez Aller. Le back-end BW/4 s’ouvre.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PRIVACY_HEADER_2_SUB_2_DESC_3",
+            "message": "3. Sélectionnez vos fichiers de formes. Vous avez besoin des trois fichiers de formes suivants : .dbf, . shp, .shx. Les fichiers de formes doivent figurer dans l'ID de référence spatiale 4326 et doivent tous avoir le même nom avant la fin.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PRIVACY_HEADER_2_SUB_2_DESC_4",
+            "message": "4. Choisissez Mettre à jour la géotable sous Actions. Choisissez Aller. Vous pouvez choisir entre la mise à jour Delta ou la mise à jour complète.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "PRIVACY_HEADER_2_SUB_2_DESC_5",
+            "message": "5. Les formes téléchargées sont transformées et stockées dans SRID (Spatial Reference ID) 3857.",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "SERVICEDEFS.DATAISSUES",
+            "message": "Problème de données",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "SERVICEDEFS.NOTENOUGHSTOCK",
+            "message": "Pas assez de stock",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "SERVICEDEFS.OTHER",
+            "message": "Autre",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "SERVICEDEFS.PERFORMANCEISSUE",
+            "message": "Problème de performances",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "SERVICEDEFS.SECURITYISSUES",
+            "message": "Problème de sécurité",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "SERVICEDEFS.SYNCNOTWORKING",
+            "message": "La synchronisation ne fonctionne pas",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "SERVICEDEFS.TECHNICALISSUES",
+            "message": "Problème technique",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "SERVICEDEFS.USERACCOUNTISSUES",
+            "message": "Problème de compte utilisateur",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "Search",
+            "message": "Recherche",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "TENANT_TENANTS_MZ",
+            "message": "Afrique",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "TENANT_TENANTS_MZ CORPORATION",
+            "message": "Afrique",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "TOTAL_EMPLOYEES",
+            "message": "Nombre total d'employés",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ULBGRADE KC1",
+            "message": "Consortium de la Malaria",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "ULBGRADE_KC1",
+            "message": "Consortium de la Malaria",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "WBH_ADD_LEVEL",
+            "message": "Ajouter un niveau",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "WBH_CONFIRM_UPLOAD",
+            "message": "Confirmer le téléchargement",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "WORKBENCH_HCM_WORKBENCH",
+            "message": "Paramètres",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "WORKBENCH_HOME",
+            "message": "Maison",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        },
+        {
+            "code": "WORKBENCH_MASTER",
+            "message": "Paramètres de la campagne",
+            "module": "digit-ui",
+            "locale": "fr_MZ"
+        }
+    ]

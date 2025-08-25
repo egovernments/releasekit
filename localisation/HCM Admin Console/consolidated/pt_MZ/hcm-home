@@ -1,0 +1,764 @@
+ [
+        {
+            "code": "ADMINISTRATIVEPOST",
+            "message": "Posto Administrativo",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "ADMINSTRATIVEPOST",
+            "message": "Posto administrativo",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "APPCONFIG_ERROR",
+            "message": "Falha ao buscar a configuração do aplicativo!",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "CHECKLIST_DATA_SHOWCASE_ADMINISTRATIVE_UNIT",
+            "message": "O sistema captura o limite administrativo e não é editável",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "CHECKLIST_DATA_SHOWCASE_DATE",
+            "message": "Exibe a data atual por padrão e não é editável",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "CHECKLIST_LIST_SHOWCASE_OPEN",
+            "message": "Clique neste botão para abrir uma lista de verificação preenchida",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINTS_VALIDATION_REQUIRED_ERROR",
+            "message": "O campo não pode estar vazio",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_SHOWCASE_CONTACT",
+            "message": "Forneça os detalhes de contato do reclamante",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_SHOWCASE_DATE",
+            "message": "Exibe a data atual por padrão e não é editável",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_SHOWCASE_DESCRIPTION",
+            "message": "Forneça uma descrição da reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_SHOWCASE_NAME",
+            "message": "Insira o nome do reclamante",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_SHOWCASE_ORGANIZATION_UNIT",
+            "message": "O sistema captura o limite administrativo e não é editável",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_SHOWCASE_SELF_OR_OTHER",
+            "message": "Você pode fazer a reclamação em nome de outro usuário",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_SHOWCASE_SUBMIT",
+            "message": "Clique neste botão para enviar a reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_SHOWCASE_SUPERVISOR_CONTACT",
+            "message": "Insira os detalhes de contato do supervisor",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_SHOWCASE_SUPERVISOR_NAME",
+            "message": "Digite o nome do supervisor",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_VIEW_CONTACT",
+            "message": "Exibe os detalhes de contato do reclamante",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_VIEW_SHOWCASE_AREA",
+            "message": "Exibe a área administrativa da reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_VIEW_SHOWCASE_CLOSE",
+            "message": "Clique neste botão para encerrar a reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_VIEW_SHOWCASE_DATE",
+            "message": "Exibe a data em que a reclamação foi registrada",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_VIEW_SHOWCASE_DESCRIPTION",
+            "message": "Exibe a descrição fornecida",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_VIEW_SHOWCASE_NAME",
+            "message": "Exibe o nome do reclamante",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_VIEW_SHOWCASE_NUMBER",
+            "message": "Exibe o ID da reclamação gerada pelo sistema",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_VIEW_SHOWCASE_STATUS",
+            "message": "Exibe o status da reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_DETAILS_VIEW_SHOWCASE_TYPE",
+            "message": "Exibe o tipo de reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_AREA",
+            "message": "Exibe a área administrativa da reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_CREATE",
+            "message": "Clique neste botão para registrar uma nova reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_DATE",
+            "message": "Exibe a data em que a reclamação foi registrada",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_FILTER",
+            "message": "Clique neste botão para filtrar reclamações",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_NUMBER",
+            "message": "Exibe o ID da reclamação gerada pelo sistema",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_OPEN",
+            "message": "Clique neste botão para ver os detalhes da reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_SEARCH",
+            "message": "Clique neste botão para pesquisar uma reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_SORT",
+            "message": "Clique neste botão para classificar as reclamações",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_STATUS",
+            "message": "Exibe o status da reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_INBOX_SHOWCASE_TYPE",
+            "message": "Exibe o tipo de reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_TYPE_SHOWCASE_COMPLAINT_TYPE",
+            "message": "Selecione o tipo de reclamação na lista",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "COMPLAINT_TYPE_SHOWCASE_COMPLAINT_TYPE_NEXT",
+            "message": "Selecione o tipo de reclamação na lista",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "CORRESPONDENCE",
+            "message": "Correspondência",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "DATA_SYNC_INFO_CONTENT",
+            "message": "Ainda há {} transações a serem sincronizadas",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "DATA_SYNC_INFO_LABEL",
+            "message": "Dados não sincronizados",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "DB_HELP",
+            "message": "Isto é apenas para fins de teste. Por favor, não clique neste botão.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "DISTRIBUTOR_HOME_SHOWCASE_BENEFICIARIES",
+            "message": "Clique neste botão para realizar o cadastro e distribuição",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "DISTRIBUTOR_HOME_SHOWCASE_FILE_COMPLAINT",
+            "message": "Clique neste botão para registrar uma reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "DISTRIBUTOR_HOME_SHOWCASE_PROGRESS_BAR",
+            "message": "Exibe o progresso do usuário em relação à meta atribuída",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "DISTRIBUTOR_HOME_SHOWCASE_SYNC_DATA",
+            "message": "Clique neste botão para sincronizar registros manualmente",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "Delete all_HELP",
+            "message": "Isto é apenas para fins de teste. Por favor, não clique neste botão.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "FACILITIES_ERROR",
+            "message": "Falha ao buscar instalações!",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HF_HOME_SHOWCASE_BENEFICIARY_LABEL",
+            "message": "Vitrine de Indicação de Beneficiários",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HF_HOME_SHOWCASE_MANAGE_ATTENDANCE",
+            "message": "Clique neste botão para registrar a presença dos usuários",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_BENEFICIARY_LABEL",
+            "message": "Beneficiários",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_BENEFICIARY_LABEL_HELP",
+            "message": "Clique neste botão para visualizar as famílias registradas e realizar a intervenção ou se quiser criar uma nova família.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_BENEFICIARY_REFERRAL_LABEL",
+            "message": "Indicação de Beneficiário",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_CALL_BACK_LABEL",
+            "message": "Supervisor de Chamadas",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_CALL_BACK_LABEL_HELP",
+            "message": "Clique neste botão se quiser ligar para o supervisor e pedir ajuda.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_CLOSE_HOUSEHOLD_LABEL",
+            "message": "Marca Fechada Domiciliar",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_DATA_SHARE_LABEL",
+            "message": "Compartilhar dados",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_DB_LABEL",
+            "message": "Banco de dados",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_FILE_COMPLAINT",
+            "message": "Apresentar reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_FILE_COMPLAINT_HELP",
+            "message": "Clique neste botão se quiser registrar uma reclamação ou ver reclamações anteriores.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_MANAGE_ATTENDANCE_LABEL",
+            "message": "Gerenciar Presença",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_MANAGE_STOCK_LABEL",
+            "message": "Gerenciar estoque",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_MANAGE_STOCK_LABEL_HELP",
+            "message": "Clique neste botão para registrar a entrada e saída de estoques em seu depósito.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_STOCK_RECONCILIATION_LABEL",
+            "message": "Reconciliação de estoque",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_STOCK_RECONCILIATION_LABEL_HELP",
+            "message": "Clique neste botão para verificar a contagem manual do estoque em relação ao estoque calculado disponível no seu depósito até a data.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_SYNC_DATA_LABEL",
+            "message": "Sincronizar dados",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_SYNC_DATA_LABEL_HELP",
+            "message": "Sincronize todos os registros criados clicando no botão de sincronização. Execute esta ação duas vezes a cada vez.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_TRANSIT_POST_LABEL",
+            "message": "Posto de Trânsito",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOME_VIEW_REPORTS_LABEL",
+            "message": "Ver relatórios",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOUSEHOLD_DETAILS_SHOWCASE_DATE_OF_REGISTRATION",
+            "message": "Exibe a data atual por padrão e não é editável",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOUSEHOLD_DETAILS_SHOWCASE_NUMBER_OF_MEMBERS_LIVING_IN_HOUSEHOLD",
+            "message": "Captura o número de membros que vivem na casa",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOUSEHOLD_LOCATION_SHOWCASE_ADDRESS",
+            "message": "Captura detalhes do endereço da família",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOUSEHOLD_LOCATION_SHOWCASE_ADMINISTRATIVE_AREA",
+            "message": "O sistema captura o limite administrativo e não é editável",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOUSEHOLD_LOCATION_SHOWCASE_LANDMARK",
+            "message": "Captura pontos de referência para ajudar a identificar a família",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "HOUSEHOLD_LOCATION_SHOWCASE_POSTAL_CODE",
+            "message": "Captura o código postal do domicílio",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "INDIVIDUAL_DETAILS_SHOWCASE_FIRST_NAME_OF_INDIVIDUAL",
+            "message": "Captura o primeiro nome do indivíduo",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "INELIGIBLE",
+            "message": "Inelegível",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "IRS-mz_ADMINISTRATION_SUCCESS",
+            "message": "Sucesso na Administração",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "IRS.IEC.DISTRIBUTOR",
+            "message": "CEI",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "IRS.TEAM_FORMATION.DISTRIBUTOR",
+            "message": "Formação da equipe",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "IRS.TRAINING_SUPERVISION.DISTRIBUTOR",
+            "message": "Supervisão de Treinamento",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "LLIN-mz_ADMINISTRATION_SUCCESS",
+            "message": "Sucesso na Administração",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "METERS_NEAR",
+            "message": "metros",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MONTHS",
+            "message": "meses",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MR-DN-mz_ADMINISTRATION_SUCCESS",
+            "message": "Sucesso na Administração",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MR-DN_ADMINISTRATION_SUCCESS",
+            "message": "Sucesso na Administração",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MY_CHECK_LIST_LABEL",
+            "message": "Minha lista de verificação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "MY_CHECK_LIST_LABEL_HELP",
+            "message": "Clique neste botão para criar uma nova lista de verificação ou visualizar listas de verificação enviadas.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "NON_MOBILE_USER_LABEL",
+            "message": "Usuários não móveis",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "NON_MOBILE_USER_QR_BTN_LABEL",
+            "message": "Mostrar código QR",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "NON_MOBILE_USER_QR_LABEL",
+            "message": "Código QR",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "OTHER",
+            "message": "Outros",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "PERMANENT",
+            "message": "Permanente",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "PRODUCTVARIENTS_ERROR",
+            "message": "Falha ao buscar variantes do produto!",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "PROGRESS_INDICATOR_HELP",
+            "message": "Ele mostra o progresso do indivíduo em relação à meta e quanto mais é necessário para completar a meta atribuída.",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "PROGRESS_INDICATOR_PREFIX_LABEL",
+            "message": "concluído",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "PROGRESS_INDICATOR_TITLE",
+            "message": "mais para atingir a meta",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "PROVINCE",
+            "message": "Província",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "QR_ATTENDANCE",
+            "message": "Presença",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "QR_INVENTORY",
+            "message": "Inventário",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "QR_LOGIN",
+            "message": "Login QR",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "SELECT_CHECKLIST_SHOWCASE_SELECT_CHECKLIST",
+            "message": "Clique na lista de verificação que deseja preencher",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "SELECT_STOCK_SHOWCASE_RECORD_STOCK_ISSUED",
+            "message": "Clique neste botão para registrar o estoque emitido",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "SELECT_STOCK_SHOWCASE_RECORD_STOCK_RECEIPT",
+            "message": "Clique neste botão para registrar o estoque recebido",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "SELECT_STOCK_SHOWCASE_RECORD_STOCK_RETURNED",
+            "message": "Clique neste botão para registrar o estoque devolvido",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIPT_SHOWCASE_COMMENTS",
+            "message": "Você pode fornecer comentários se necessário",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIPT_SHOWCASE_DRIVER_NAME",
+            "message": "Digite o nome do motorista neste campo",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIPT_SHOWCASE_NUMBER_OF_BEDNETS_RECEIVED",
+            "message": "Insira a quantidade de mosquiteiros recebidos",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIPT_SHOWCASE_NUMBER_OF_NETS_INDICATED_ON_PACKING_SLIP",
+            "message": "Insira a quantidade de redes indicada na embalagem",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIPT_SHOWCASE_PACKING_SLIP_ID",
+            "message": "Insira o ID do comprovante de embalagem",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIPT_SHOWCASE_RECEIVED_FROM",
+            "message": "Selecione o armazém de onde você recebeu o estoque",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIPT_SHOWCASE_TYPE_OF_TRANSPORT",
+            "message": "Selecione o tipo de transporte no menu suspenso",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_RECEIPT_SHOWCASE_VEHICLE_NUMBER",
+            "message": "Digite o número do veículo",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "SUPERVISOR_HOME_SHOWCASE_COMPLAINTS",
+            "message": "Clique neste botão para registrar uma reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "SUPERVISOR_HOME_SHOWCASE_MY_CHECKLIST",
+            "message": "Clique neste botão para preencher as listas de verificação atribuídas",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "SUPERVISOR_HOME_SHOWCASE_PROGRESS_BAR",
+            "message": " ",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "SUPERVISOR_HOME_SHOWCASE_SYNC_DATA",
+            "message": "Clique neste botão para sincronizar registros manualmente",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_DETAILS_SHOWCASE_ADMINISTRATIVE_UNIT",
+            "message": "O sistema captura o limite administrativo e não é editável",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_DETAILS_SHOWCASE_DATE_OF_RECEIPT",
+            "message": "Selecione a data em que a transação de ações está ocorrendo",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_DETAILS_SHOWCASE_WAREHOUSE_NAME",
+            "message": "Selecione o armazém onde a transação de estoque está ocorrendo",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_MANAGER_HOME_SHOWCASE_CHECKLIST",
+            "message": "Clique neste botão para preencher as listas de verificação atribuídas",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_MANAGER_HOME_SHOWCASE_DELETE_ALL",
+            "message": "Clique neste botão para apagar todos os dados disponíveis no dispositivo",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_MANAGER_HOME_SHOWCASE_FILE_COMPLAINT",
+            "message": "Clique neste botão para registrar uma reclamação",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_MANAGER_HOME_SHOWCASE_INVENTORY_REPORT",
+            "message": "Clique neste botão para visualizar relatórios de transações de ações",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_MANAGER_HOME_SHOWCASE_MANAGE_STOCK",
+            "message": "Clique neste botão para registrar dados de transações de ações",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_MANAGER_HOME_SHOWCASE_STOCK_RECONCILIATION",
+            "message": "Clique neste botão para conciliar o estoque disponível no armazém",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "WAREHOUSE_MANAGER_HOME_SHOWCASE_SYNC_DATA",
+            "message": "Clique neste botão para sincronizar registros manualmente",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        },
+        {
+            "code": "YEARS",
+            "message": "anos",
+            "module": "hcm-home",
+            "locale": "pt_MZ"
+        }
+    ]

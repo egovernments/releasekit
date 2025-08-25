@@ -1,0 +1,122 @@
+[
+  {
+    "code": "REGISTRATIONANDDELVFLOW",
+    "features": [
+      {
+        "code": "QR_CODE_SCANNER",
+        "description": "QR_CODE_SCANNER_DESC"
+      },
+      {
+        "code": "PROXIMITY_SEARCH",
+        "description": "PROXIMITY_SEARCH_DESC"
+      },
+      {
+        "code": "MAP_VIEW",
+        "description": "MAP_VIEW_DESC"
+      },
+      {
+        "code": "OFFLINE_DATA_SHARING",
+        "description": "OFFLINE_DATA_SHARING_DESC"
+      }
+    ],
+    "description": "DELIVERY_DESC"
+  },
+  {
+    "code": "REGISTRATIONFLOW",
+    "features": [
+      {
+        "code": "QR_CODE_SCANNER",
+        "type": "form",
+        "order": 1,
+        "format": "scanner",
+        "disabled": false,
+        "description": "QR_CODE_SCANNER_DESC"
+      },
+      {
+        "code": "PROXIMITY_SEARCH",
+        "type": "template",
+        "order": 2,
+        "format": "searchByProximity",
+        "disabled": false,
+        "description": "PROXIMITY_SEARCH_DESC"
+      },
+      {
+        "code": "MAP_VIEW",
+        "type": "form",
+        "order": 3,
+        "format": "map",
+        "disabled": true,
+        "description": "MAP_VIEW_DESC"
+      },
+      {
+        "code": "OFFLINE_DATA_SHARING",
+        "type": "form",
+        "order": 4,
+        "format": "offlinedata",
+        "disabled": true,
+        "description": "OFFLINE_DATA_SHARING_DESC"
+      }
+    ],
+    "description": "REGISTRATION_DESC"
+  },
+  {
+    "code": "DELIVERY",
+    "features": [
+      {
+        "code": "QR_CODE_SCANNER",
+        "description": "QR_CODE_SCANNER_DESC"
+      },
+      {
+        "code": "PROXIMITY_SEARCH",
+        "description": "PROXIMITY_SEARCH_DESC"
+      },
+      {
+        "code": "MAP_VIEW",
+        "description": "MAP_VIEW_DESC"
+      },
+      {
+        "code": "OFFLINE_DATA_SHARING",
+        "description": "OFFLINE_DATA_SHARING_DESC"
+      }
+    ],
+    "description": "DELIVERY_DESC"
+  },
+  {
+    "code": "INVENTORY",
+    "features": [
+      {
+        "code": "QR_CODE_SCANNER",
+        "description": "QR_CODE_SCANNER_DESC"
+      },
+      {
+        "code": "FACILITY_SEARCH",
+        "description": "FACILITY_SEARCH_DESC"
+      }
+    ],
+    "description": "INVENTORY_DESC"
+  },
+  {
+    "code": "COMPLAINTS",
+    "features": [],
+    "description": "COMPLAINTS_DESC"
+  },
+  {
+    "code": "ATTENDANCE",
+    "features": [],
+    "description": "ATTENDANCE_DESC"
+  },
+  {
+    "code": "DELIVERYFLOW",
+    "features": [
+      {
+        "code": "QR_CODE_SCANNER",
+        "type": "form",
+        "order": 1,
+        "format": "scanner",
+        "disabled": false,
+        "description": "QR_CODE_SCANNER_DESC"
+      }
+    ],
+    "description": "DELIVERY_DESC"
+  }
+]
