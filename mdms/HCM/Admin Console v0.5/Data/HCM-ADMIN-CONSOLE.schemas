@@ -1,0 +1,544 @@
+[
+  {
+    "title": "target-POLIO",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "numberProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_POLIO_AGE",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": true,
+          "multipleOf": 1,
+          "description": "Total individual",
+          "orderNumber": 1,
+          "unFreezeColumnTillData": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "target-MR-DN",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "numberProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_3_TO_11",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": true,
+          "multipleOf": 1,
+          "description": "SMC 3 to 11",
+          "orderNumber": 1,
+          "unFreezeColumnTillData": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_AGE_12_TO_59",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": true,
+          "description": "SMC 12 to 59",
+          "orderNumber": 2,
+          "unFreezeColumnTillData": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_COLUUM_HOUSEHOLD",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": false,
+          "description": "HOUSEHOLD",
+          "orderNumber": 3,
+          "unFreezeColumnTillData": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_SMC_COLUUM_PRODUCT",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": false,
+          "description": "PRODUCT",
+          "orderNumber": 3,
+          "unFreezeColumnTillData": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "target-IRS-mz",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "numberProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_TOTAL_POPULATION",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": true,
+          "multipleOf": 1,
+          "description": "Total population",
+          "orderNumber": 1,
+          "unFreezeColumnTillData": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_IRS_TOTAL_ROOM",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": true,
+          "description": "Total rooms",
+          "orderNumber": 2,
+          "unFreezeColumnTillData": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "target-DEFAULT",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "numberProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_INDIVIDUAL",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": true,
+          "multipleOf": 1,
+          "description": "Total population",
+          "orderNumber": 1,
+          "unFreezeColumnTillData": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_HOUSEHOLD",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": true,
+          "description": "Total rooms",
+          "orderNumber": 2,
+          "unFreezeColumnTillData": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "target-Bednet",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "numberProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": true,
+          "multipleOf": 1,
+          "description": "Target at the Selected Boundary Level",
+          "orderNumber": 1,
+          "unFreezeColumnTillData": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_BEDNET_COLUMN_2",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": false,
+          "description": "Target Population",
+          "orderNumber": 2,
+          "unFreezeColumnTillData": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_TARGET_BEDNET_COLUMN_3",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "isRequired": false,
+          "description": "Number of Bednets to be Distributed",
+          "orderNumber": 3,
+          "unFreezeColumnTillData": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "user-readme",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "stringProperties": [
+        {
+          "name": "USERWITHBOUNDARY_README_MAINHEADER",
+          "type": "string",
+          "color": "#f25449",
+          "width": 120,
+          "wrapText": true,
+          "uniqueKey": "userReadmeHeader",
+          "description": "Readme header",
+          "orderNumber": 1,
+          "adjustHeight": true,
+          "freezeColumn": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "user",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "enumProperties": [
+        {
+          "enum": [
+            "Temporary",
+            "Permanent"
+          ],
+          "name": "HCM_ADMIN_CONSOLE_USER_EMPLOYMENT_TYPE",
+          "color": "#93c47d",
+          "uniqueKey": "userEmployementType",
+          "isRequired": true,
+          "description": "Employement Type",
+          "orderNumber": 4,
+          "errorMessage": "Employment Type is missing or invalid.",
+          "freezeColumnIfFilled": true
+        },
+        {
+          "enum": [
+            "Active",
+            "Inactive"
+          ],
+          "name": "HCM_ADMIN_CONSOLE_USER_USAGE",
+          "color": "#93c47d",
+          "uniqueKey": "userUsage",
+          "isRequired": true,
+          "description": "User Usage",
+          "orderNumber": 5,
+          "errorMessage": "User usage is missing or invalid."
+        }
+      ],
+      "numberProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_USER_PHONE_NUMBER",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 9999999999,
+          "minimum": 1000000000,
+          "pattern": "^[0-9]{10}$",
+          "isUnique": true,
+          "uniqueKey": "userPhoneNumber",
+          "isRequired": true,
+          "description": "Phone Number",
+          "orderNumber": 2,
+          "errorMessage": "Phone Number must be a 10-digit number.",
+          "freezeColumnIfFilled": true
+        }
+      ],
+      "stringProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_USER_ROLE",
+          "color": "#93c47d",
+          "prefix": "ACCESSCONTROL_ROLES_ROLES_",
+          "uniqueKey": "userRoles",
+          "hideColumn": true,
+          "description": "User Role",
+          "orderNumber": 3,
+          "errorMessage": "At least one user role is required.",
+          "freezeTillData": true,
+          "multiSelectDetails": {
+            "enum": [
+              "DISTRIBUTOR",
+              "DASHBOARD_VIEWER",
+              "HEALTH_FACILITY_WORKER",
+              "WAREHOUSE_MANAGER",
+              "NATIONAL_SUPERVISOR",
+              "PROVINCIAL_SUPERVISOR",
+              "DISTRICT_SUPERVISOR",
+              "FIELD_SUPERVISOR",
+              "REGISTRAR",
+              "SUPERVISOR",
+              "HELPDESK_USER",
+              "MONITOR_LOCAL",
+              "LOGISTICAL_OFFICER",
+              "TEAM_SUPERVISOR"
+            ],
+            "maxSelections": 5,
+            "minSelections": 1
+          },
+          "freezeColumnIfFilled": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_USER_NAME",
+          "type": "string",
+          "color": "#93c47d",
+          "maxLength": 128,
+          "minLength": 2,
+          "uniqueKey": "userPrefferedName",
+          "isRequired": true,
+          "description": "User Name",
+          "orderNumber": 1,
+          "errorMessage": "Name must be alphanumeric and between 2 to 128 characters.",
+          "freezeColumnIfFilled": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE_MANDATORY",
+          "type": "string",
+          "color": "#93c47d",
+          "uniqueKey": "boundaryCodes",
+          "isRequired": true,
+          "description": "Boundary Code (Mandatory)",
+          "orderNumber": 7,
+          "errorMessage": "Boundary Code is required and must be a valid string."
+        },
+        {
+          "name": "#status#",
+          "type": "string",
+          "color": "#ffff00",
+          "isUpdate": true,
+          "hideColumn": true,
+          "description": "status",
+          "orderNumber": 9,
+          "freezeColumn": true,
+          "showInProcessed": true
+        },
+        {
+          "name": "UserService Uuids",
+          "type": "string",
+          "color": "#ffff00",
+          "isUpdate": true,
+          "uniqueKey": "userServiceUuids",
+          "hideColumn": true,
+          "description": "uuid",
+          "orderNumber": 11,
+          "freezeColumn": true
+        },
+        {
+          "name": "#errorDetails#",
+          "type": "string",
+          "color": "#ffff00",
+          "isUpdate": true,
+          "hideColumn": true,
+          "description": "error details",
+          "orderNumber": 10,
+          "freezeColumn": true,
+          "showInProcessed": true
+        },
+        {
+          "name": "UserName",
+          "type": "string",
+          "color": "#93c47d",
+          "pattern": "^[a-zA-Z][a-zA-Z0-9._-]{2,29}$",
+          "isUnique": true,
+          "uniqueKey": "userUserName",
+          "description": "user name",
+          "orderNumber": 7,
+          "errorMessage": "Username must be 3–30 characters long, start with a letter, and contain only letters, numbers, dots (.), underscores (_), or hyphens (-).",
+          "freezeColumn": false,
+          "freezeTillData": true,
+          "freezeColumnIfFilled": true
+        },
+        {
+          "name": "Password",
+          "type": "string",
+          "color": "#ffff00",
+          "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[!@#$%^&*()_+\\-=\\[\\]{};':\"\\\\|,.<>/?]).{8,}$",
+          "minLength": 8,
+          "uniqueKey": "userPassword",
+          "hideColumn": true,
+          "description": "password",
+          "orderNumber": 8,
+          "freezeColumn": true,
+          "showInProcessed": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "boundary-data",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "stringProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE",
+          "type": "string",
+          "color": "#f3842d",
+          "width": 40,
+          "uniqueKey": "boundaryCodes",
+          "description": "Boundary Code Header",
+          "orderNumber": 1,
+          "freezeColumn": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "target-readme",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "stringProperties": [
+        {
+          "name": "BOUNDARY_README_MAINHEADER",
+          "type": "string",
+          "color": "#f25449",
+          "width": 120,
+          "wrapText": true,
+          "uniqueKey": "boundaryReadmeHeader",
+          "description": "Readme header",
+          "orderNumber": 1,
+          "adjustHeight": true,
+          "freezeColumn": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "facility-readme",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "stringProperties": [
+        {
+          "name": "FACILITYWITHBOUNDARY_README_MAINHEADER",
+          "type": "string",
+          "color": "#f25449",
+          "width": 120,
+          "wrapText": true,
+          "description": "Readme header",
+          "orderNumber": 1,
+          "adjustHeight": true,
+          "freezeColumn": true
+        }
+      ]
+    }
+  },
+  {
+    "title": "facility",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+      "enumProperties": [
+        {
+          "enum": [
+            "Warehouse",
+            "Health Facility",
+            "Storing Resource"
+          ],
+          "name": "HCM_ADMIN_CONSOLE_FACILITY_TYPE",
+          "color": "#93c47d",
+          "uniqueKey": "facilityType",
+          "isRequired": true,
+          "description": "Facility type",
+          "orderNumber": 3,
+          "freezeColumnIfFilled": true
+        },
+        {
+          "enum": [
+            "Temporary",
+            "Permanent"
+          ],
+          "name": "HCM_ADMIN_CONSOLE_FACILITY_STATUS",
+          "color": "#93c47d",
+          "uniqueKey": "facilityStatus",
+          "isRequired": true,
+          "description": "Facility status",
+          "orderNumber": 4,
+          "freezeColumnIfFilled": true
+        },
+        {
+          "enum": [
+            "Active",
+            "Inactive"
+          ],
+          "name": "HCM_ADMIN_CONSOLE_FACILITY_USAGE",
+          "color": "#93c47d",
+          "uniqueKey": "facilityUsage",
+          "isRequired": true,
+          "description": "Facility usage",
+          "orderNumber": 7
+        }
+      ],
+      "numberProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_FACILITY_CAPACITY",
+          "type": "number",
+          "color": "#93c47d",
+          "maximum": 100000000,
+          "minimum": 1,
+          "uniqueKey": "facilityCapacity",
+          "isRequired": true,
+          "description": "Capacity",
+          "orderNumber": 5,
+          "freezeColumnIfFilled": true
+        }
+      ],
+      "stringProperties": [
+        {
+          "name": "HCM_ADMIN_CONSOLE_FACILITY_NAME",
+          "type": "string",
+          "color": "#93c47d",
+          "isUnique": true,
+          "maxLength": 2000,
+          "minLength": 1,
+          "uniqueKey": "facilityName",
+          "isRequired": true,
+          "description": "Facility Name",
+          "orderNumber": 2,
+          "freezeColumnIfFilled": true
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_FACILITY_CODE",
+          "type": "string",
+          "color": "#93c47d",
+          "isUnique": true,
+          "maxLength": 2000,
+          "minLength": 1,
+          "uniqueKey": "facilityCode",
+          "hideColumn": true,
+          "description": "Facility Code",
+          "orderNumber": 1
+        },
+        {
+          "name": "HCM_ADMIN_CONSOLE_BOUNDARY_CODE_MANDATORY",
+          "type": "string",
+          "color": "#93c47d",
+          "uniqueKey": "boundaryCodes",
+          "isRequired": true,
+          "description": "Boundary Code",
+          "orderNumber": 6
+        },
+        {
+          "name": "#status#",
+          "type": "string",
+          "color": "#ffff00",
+          "isUpdate": true,
+          "hideColumn": true,
+          "description": "status",
+          "orderNumber": 8,
+          "freezeColumn": true,
+          "showInProcessed": true
+        },
+        {
+          "name": "#errorDetails#",
+          "type": "string",
+          "color": "#ffff00",
+          "isUpdate": true,
+          "hideColumn": true,
+          "description": "error details",
+          "orderNumber": 9,
+          "freezeColumn": true,
+          "showInProcessed": true
+        }
+      ]
+    }
+  }
+]
