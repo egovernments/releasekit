@@ -5,7 +5,7 @@
     {
       "page": "BeneficiaryDetails",
       "type": "template",
-      "label": "APPONE_REGISTRATION_BENEFICIARYDETAILS_SCREEN_HEADING",
+      "label": "APPONE_DELIVERY_BENEFICIARYDETAILS_SCREEN_HEADING",
       "order": 1,
       "navigateTo": {
         "name": "DELIVERYFLOW",
@@ -30,21 +30,14 @@
               "mandatory": "false"
             },
             {
-              "code": "Individual.dateOfBirth",
-              "name": "dateOfBirth",
-              "fieldKey": "dateOfBirth",
-              "jsonPath": "Individual.dateOfBirth",
-              "mandatory": "false"
-            },
-            {
-              "code": "Individual.identifierId",
-              "name": "identifierId",
-              "fieldKey": "identifierId",
-              "jsonPath": "Individual.identifiers[0].identifierId",
+              "code": "Household.memberCount",
+              "name": "memberCount",
+              "fieldKey": "memberCount",
+              "jsonPath": "Household.memberCount",
               "mandatory": "false"
             }
           ],
-          "label": "APPONE_REGISTRATION_BENEFICIARYDETAILS_TITLE",
+          "label": "APPONE_DELIVERY_BENEFICIARYDETAILS_TITLE",
           "order": 1,
           "value": "",
           "format": "DetailsCard",
@@ -59,7 +52,9 @@
           "systemDate": false,
           "validations": [],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -87,7 +82,7 @@
               "mandatory": "false"
             }
           ],
-          "label": "BENEFICIARYDETAILS_TABLE_HEADER",
+          "label": "DELIVERY_BENEFICIARYDETAILS_TABLE_HEADER",
           "order": 2,
           "value": "",
           "format": "Table",
@@ -102,11 +97,13 @@
           "systemDate": false,
           "validations": [],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
-          "label": "BENEFICIARYDETAILS_RECORD_DELIVERY_PRIMARY_LABEL",
+          "label": "DELIVERY_BENEFICIARYDETAILS_RECORD_DELIVERY_PRIMARY_LABEL",
           "order": 3,
           "value": "",
           "format": "PrimaryButton",
@@ -119,18 +116,26 @@
           "deleteFlag": false,
           "innerLabel": "",
           "systemDate": false,
-          "validations": [],
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "DELIVERY_BENEFICIARYDETAILS_RECORD_DELIVERY_PRIMARY_LABEL_mandatory_message"
+            }
+          ],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         }
       ],
       "actionLabel": "",
-      "description": "APPONE_REGISTRATION_BENEFICIARYDETAILS_SCREEN_DESCRIPTION"
+      "description": "APPONE_DELIVERY_BENEFICIARYDETAILS_SCREEN_DESCRIPTION"
     },
     {
       "page": "DeliveryDetails",
       "type": "object",
-      "label": "APPONE_REGISTRATION_DELIVERYDETAILS_SCREEN_HEADING",
+      "label": "APPONE_DELIVERY_DELIVERYDETAILS_SCREEN_HEADING",
       "order": 2,
       "navigateTo": {
         "name": "household-acknowledgement",
@@ -139,7 +144,7 @@
       "properties": [
         {
           "type": "integer",
-          "label": "APPONE_REGISTRATION_DELIVERYDETAILS_label_dateOfDelivery",
+          "label": "APPONE_DELIVERY_DELIVERYDETAILS_label_dateOfDelivery",
           "order": 1,
           "value": "",
           "format": "date",
@@ -154,7 +159,9 @@
           "systemDate": true,
           "validations": [],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "dynamic",
@@ -176,7 +183,7 @@
               "name": "AQ2"
             }
           ],
-          "label": "APPONE_REGISTRATION_DELIVERYDETAILS_label_resource",
+          "label": "APPONE_DELIVERY_DELIVERYDETAILS_label_resource",
           "order": 2,
           "value": "",
           "format": "custom",
@@ -189,17 +196,25 @@
           "deleteFlag": false,
           "innerLabel": "",
           "systemDate": false,
-          "validations": [],
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "APPONE_DELIVERY_DELIVERYDETAILS_label_resource_mandatory_message"
+            }
+          ],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
-          "label": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_deliveryComments",
+          "label": "APPONE_DELIVERY_BENEFICIARYDETAILS_label_deliveryComments",
           "order": 3,
           "value": "",
           "format": "dropdown",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
@@ -211,15 +226,17 @@
           "systemDate": false,
           "validations": [],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
-          "label": "APPONE_REGISTRATION_DELIVERYDETAILS_label_scanner",
+          "label": "APPONE_DELIVERY_DELIVERYDETAILS_label_scanner",
           "order": 4,
           "value": "",
           "format": "scanner",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
@@ -230,17 +247,222 @@
           "systemDate": false,
           "validations": [],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         }
       ],
-      "actionLabel": "APPONE_REGISTRATION_DELIVERYDETAILS_ACTION_BUTTON_LABEL_1",
-      "description": "APPONE_REGISTRATION_DELIVERYDETAILS_SCREEN_DESCRIPTION"
+      "actionLabel": "APPONE_DELIVERY_DELIVERYDETAILS_ACTION_BUTTON_LABEL_1",
+      "description": "APPONE_DELIVERY_DELIVERYDETAILS_SCREEN_DESCRIPTION"
+    },
+    {
+      "page": "beneficiaryChecklist",
+      "type": "object",
+      "label": "APPONE_DELIVERY_BENEFICIARYCHECKLIST_SCREEN_HEADING",
+      "order": 3,
+      "navigateTo": {
+        "name": "household-acknowledgement",
+        "type": "template"
+      },
+      "properties": [
+        {
+          "type": "boolean",
+          "label": "DELIVERYFLOW_beneficiaryChecklist_c94e6e46-0295-40bd-99ec-82423d6a4b68",
+          "order": 1,
+          "value": "",
+          "format": "checkbox",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "beneficiaryChecklist_e2bcd79b-db07-44f8-a29b-d9ca18cbdd5b_newField1",
+          "deleteFlag": true,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "Required"
+            }
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
+        },
+        {
+          "type": "boolean",
+          "label": "DELIVERYFLOW_beneficiaryChecklist_b9d17971-becc-4089-bf03-cbb51ae49442",
+          "order": 2,
+          "value": "",
+          "format": "checkbox",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "beneficiaryChecklist_e2bcd79b-db07-44f8-a29b-d9ca18cbdd5b_newField2",
+          "deleteFlag": true,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "Required"
+            }
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
+        },
+        {
+          "type": "boolean",
+          "label": "DELIVERYFLOW_beneficiaryChecklist_a20fcab6-e597-4af4-8022-1961fd3afdc8",
+          "order": 3,
+          "value": "",
+          "format": "checkbox",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "beneficiaryChecklist_e2bcd79b-db07-44f8-a29b-d9ca18cbdd5b_newField3",
+          "deleteFlag": true,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "Required"
+            }
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
+        },
+        {
+          "type": "boolean",
+          "label": "DELIVERYFLOW_beneficiaryChecklist_71695da4-e447-4e36-b062-c567024b0e1b",
+          "order": 4,
+          "value": "",
+          "format": "checkbox",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "beneficiaryChecklist_e2bcd79b-db07-44f8-a29b-d9ca18cbdd5b_newField4",
+          "deleteFlag": true,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "Required"
+            }
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
+        },
+        {
+          "type": "boolean",
+          "label": "DELIVERYFLOW_beneficiaryChecklist_9a8710a7-85a4-4cde-a0a8-d1d5ac0907d2",
+          "order": 5,
+          "value": "",
+          "format": "checkbox",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "beneficiaryChecklist_e2bcd79b-db07-44f8-a29b-d9ca18cbdd5b_newField5",
+          "deleteFlag": true,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "Required"
+            }
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
+        },
+        {
+          "type": "boolean",
+          "label": "DELIVERYFLOW_beneficiaryChecklist_3b62cb7a-46c7-4fb9-b17f-cc9176ca09ce",
+          "order": 6,
+          "value": "",
+          "format": "checkbox",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "beneficiaryChecklist_e2bcd79b-db07-44f8-a29b-d9ca18cbdd5b_newField6",
+          "deleteFlag": true,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "Required"
+            }
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
+        },
+        {
+          "type": "boolean",
+          "label": "DELIVERYFLOW_beneficiaryChecklist_efadb5d9-ca1e-41e4-bc06-e16fb7909c11",
+          "order": 7,
+          "value": "",
+          "format": "checkbox",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "beneficiaryChecklist_e2bcd79b-db07-44f8-a29b-d9ca18cbdd5b_newField7",
+          "deleteFlag": true,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "Required"
+            }
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
+        }
+      ],
+      "actionLabel": "APPONE_DELIVERY_BENEFICIARYLOCATION_ACTION_BUTTON_LABEL_1",
+      "description": "APPONE_DELIVERY_BENEFICIARYLOCATION_SCREEN_DESCRIPTION"
     },
     {
       "page": "HouseholdAcknowledgement",
       "type": "template",
       "label": "APPONE_REGISTRATION_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_HEADING",
-      "order": 3,
+      "order": 4,
       "navigateTo": {
         "name": "search-household",
         "type": "template"
@@ -261,9 +483,17 @@
           "deleteFlag": false,
           "innerLabel": "",
           "systemDate": false,
-          "validations": [],
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "HOUSEHOLDACKNOWLEDGEMENT_TITLE_mandatory_message"
+            }
+          ],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -282,7 +512,9 @@
           "systemDate": false,
           "validations": [],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -301,7 +533,9 @@
           "systemDate": false,
           "validations": [],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -322,18 +556,21 @@
             {
               "type": "required",
               "value": true,
-              "message": "Required field cannot be empty"
+              "message": "HOUSEHOLDACKNOWLEDGEMENT_PRIMARY_LABEL_mandatory_message"
             }
           ],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         }
       ],
       "actionLabel": "",
-      "description": "APPONE_REGISTRATION_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_DESCRIPTION"
+      "description": "APPONE_DELIVERY_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_DESCRIPTION"
     }
   ],
-  "project": "LLIN",
-  "version": 1,
-  "disabled": false
+  "project": "CMP-2025-09-06-000068",
+  "version": 17,
+  "disabled": false,
+  "isSelected": true
 }
