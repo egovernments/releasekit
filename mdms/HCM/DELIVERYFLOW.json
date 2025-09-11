@@ -1,0 +1,339 @@
+{
+  "name": "DELIVERYFLOW",
+  "order": 2,
+  "pages": [
+    {
+      "page": "BeneficiaryDetails",
+      "type": "template",
+      "label": "APPONE_REGISTRATION_BENEFICIARYDETAILS_SCREEN_HEADING",
+      "order": 1,
+      "navigateTo": {
+        "name": "DELIVERYFLOW",
+        "type": "form"
+      },
+      "properties": [
+        {
+          "type": "template",
+          "enums": [
+            {
+              "code": "Individual.name",
+              "name": "name",
+              "fieldKey": "name",
+              "jsonPath": "Individual.name.givenName",
+              "mandatory": "true"
+            },
+            {
+              "code": "Household.locality",
+              "name": "locality",
+              "fieldKey": "locality",
+              "jsonPath": "Household.address.locality.code",
+              "mandatory": "false"
+            },
+            {
+              "code": "Individual.dateOfBirth",
+              "name": "dateOfBirth",
+              "fieldKey": "dateOfBirth",
+              "jsonPath": "Individual.dateOfBirth",
+              "mandatory": "false"
+            },
+            {
+              "code": "Individual.identifierId",
+              "name": "identifierId",
+              "fieldKey": "identifierId",
+              "jsonPath": "Individual.identifiers[0].identifierId",
+              "mandatory": "false"
+            }
+          ],
+          "label": "APPONE_REGISTRATION_BENEFICIARYDETAILS_TITLE",
+          "order": 1,
+          "value": "",
+          "format": "DetailsCard",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "DetailsCard",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        },
+        {
+          "type": "template",
+          "enums": [
+            {
+              "code": "Task.doseIndex",
+              "name": "doseIndex",
+              "fieldKey": "doseIndex",
+              "jsonPath": "Task.additionalFields",
+              "mandatory": "false",
+              "additionalField": "true"
+            },
+            {
+              "code": "Task.status",
+              "name": "deliveryStatus",
+              "fieldKey": "status",
+              "jsonPath": "Task.status",
+              "mandatory": "false"
+            },
+            {
+              "code": "Task.createdTime",
+              "name": "createdTime",
+              "fieldKey": "createdTime",
+              "jsonPath": "Task.auditDetails.createdTime",
+              "mandatory": "false"
+            }
+          ],
+          "label": "BENEFICIARYDETAILS_TABLE_HEADER",
+          "order": 2,
+          "value": "",
+          "format": "Table",
+          "hidden": true,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "Table",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        },
+        {
+          "type": "template",
+          "label": "BENEFICIARYDETAILS_RECORD_DELIVERY_PRIMARY_LABEL",
+          "order": 3,
+          "value": "",
+          "format": "PrimaryButton",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "PrimaryButton",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        }
+      ],
+      "actionLabel": "",
+      "description": "APPONE_REGISTRATION_BENEFICIARYDETAILS_SCREEN_DESCRIPTION"
+    },
+    {
+      "page": "DeliveryDetails",
+      "type": "object",
+      "label": "APPONE_REGISTRATION_DELIVERYDETAILS_SCREEN_HEADING",
+      "order": 2,
+      "navigateTo": {
+        "name": "household-acknowledgement",
+        "type": "template"
+      },
+      "properties": [
+        {
+          "type": "integer",
+          "label": "APPONE_REGISTRATION_DELIVERYDETAILS_label_dateOfDelivery",
+          "order": 1,
+          "value": "",
+          "format": "date",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": true,
+          "fieldName": "dateOfRegistration",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": true,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        },
+        {
+          "type": "dynamic",
+          "enums": [
+            {
+              "code": "SP1",
+              "name": "SP1"
+            },
+            {
+              "code": "SP2",
+              "name": "SP2"
+            },
+            {
+              "code": "AQ1",
+              "name": "AQ1"
+            },
+            {
+              "code": "AQ2",
+              "name": "AQ2"
+            }
+          ],
+          "label": "APPONE_REGISTRATION_DELIVERYDETAILS_label_resource",
+          "order": 2,
+          "value": "",
+          "format": "custom",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "resourceCard",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        },
+        {
+          "type": "string",
+          "label": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_deliveryComments",
+          "order": 3,
+          "value": "",
+          "format": "dropdown",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "deliveryComment",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "schemaCode": "HCM.DELIVERY_COMMENT_OPTIONS_POPULATOR",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        },
+        {
+          "type": "string",
+          "label": "APPONE_REGISTRATION_DELIVERYDETAILS_label_scanner",
+          "order": 4,
+          "value": "",
+          "format": "scanner",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "scanner",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        }
+      ],
+      "actionLabel": "APPONE_REGISTRATION_DELIVERYDETAILS_ACTION_BUTTON_LABEL_1",
+      "description": "APPONE_REGISTRATION_DELIVERYDETAILS_SCREEN_DESCRIPTION"
+    },
+    {
+      "page": "HouseholdAcknowledgement",
+      "type": "template",
+      "label": "APPONE_REGISTRATION_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_HEADING",
+      "order": 3,
+      "navigateTo": {
+        "name": "search-household",
+        "type": "template"
+      },
+      "properties": [
+        {
+          "type": "template",
+          "label": "HOUSEHOLDACKNOWLEDGEMENT_TITLE",
+          "order": 1,
+          "value": "",
+          "format": "AcknowledgementTitle",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "AcknowledgementTitle",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        },
+        {
+          "type": "template",
+          "label": "HOUSEHOLDACKNOWLEDGEMENT_DESCRIPTION",
+          "order": 2,
+          "value": "",
+          "format": "AcknowledgementDescription",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "AcknowledgementDescription",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        },
+        {
+          "type": "template",
+          "label": "HOUSEHOLDACKNOWLEDGEMENT_SECONDARY_LABEL",
+          "order": 3,
+          "value": true,
+          "format": "SecondaryButton",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "SecondaryButton",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "isMultiSelect": false
+        },
+        {
+          "type": "template",
+          "label": "HOUSEHOLDACKNOWLEDGEMENT_PRIMARY_LABEL",
+          "order": 4,
+          "value": "",
+          "format": "PrimaryButton",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "PrimaryButton",
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "Required field cannot be empty"
+            }
+          ],
+          "errorMessage": "",
+          "isMultiSelect": false
+        }
+      ],
+      "actionLabel": "",
+      "description": "APPONE_REGISTRATION_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_DESCRIPTION"
+    }
+  ],
+  "project": "LLIN",
+  "version": 1,
+  "disabled": false
+}
