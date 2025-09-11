@@ -1,528 +1,590 @@
-[
-        {
-            "code": "RESOURCE1",
-            "message": "Bednet Grade 1",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "RESOURCE2",
-            "message": "Bednet Grade 2",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "SUCCESSFULDELIVERY",
-            "message": "Successful Delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "UNSUCCESSFULDELIVERY",
-            "message": "Unsuccessful Delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "INSUFFICIENTRESOURCE",
-            "message": "Insufficient Resource",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_dateOfDELIVERY",
-            "message": "Date of delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-      
-       
-        {
-            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_scannerac",
-            "message": "Scan Resources",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "HCM.DELIVERY_COMMENT_OPTIONS_POPULATOR",
-            "message": "Delivery Comments",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "BENEFICIARY_ABSENT",
-            "message": "Beneficiary Absent",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "INSUFFICIENT_RESOURCES",
-            "message": "Insufficient Resource",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "SUCCESSFUL_DELIVERY",
-            "message": "Successful Delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "APPONE_DELIVERYFLOW_DELIVERYDETAILS_label_deliveryComments",
-            "message": "Delivery comments",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
+ [
         {
             "code": "APPONE_DELIVERYFLOW_DELIVERYDETAILS_ACTION_BUTTON_LABEL_1",
             "message": "Submit",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERYFLOW_DELIVERYDETAILS_SCREEN_DESCRIPTION",
             "message": "Capture resources to be delivered details",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERYFLOW_DELIVERYDETAILS_SCREEN_HEADING",
             "message": "Deliver Intervention",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERYFLOW_DELIVERYDETAILS_label_dateOfRegistration",
             "message": "Date of delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERYFLOW_DELIVERYDETAILS_label_deliveryComments",
+            "message": "Delivery comments",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERYFLOW_DELIVERYDETAILS_label_resource",
             "message": "Vaccination details",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERYFLOW_DELIVERYDETAILS_label_scanner",
             "message": "Scan resources",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERYFLOW_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_DESCRIPTION",
             "message": " ",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERYFLOW_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_HEADING",
             "message": " ",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
-            "code": "HOUSEHOLDACKNOWLEDGEMENT_DESCRIPTION",
-            "message": "Data has been recorded successfully. Background sync will start soon",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "HOUSEHOLDACKNOWLEDGEMENT_PRIMARY_LABEL",
-            "message": "View Beneficiary Details",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "HOUSEHOLDACKNOWLEDGEMENT_SECONDARY_LABEL",
-            "message": "Go Back",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "HOUSEHOLDACKNOWLEDGEMENT_TITLE",
-            "message": "Data recorded successfully",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "DELIVERYDETAILS_INSUFFICIENTRESOURCE",
-            "message": "Insufficient Resource",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "DELIVERYDETAILS_RESOURCE1",
-            "message": "Bednet Grade 1",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "DELIVERYDETAILS_RESOURCE2",
-            "message": "Bednet Grade 2",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "DELIVERYDETAILS_SUCCESSFULDELIVERY",
-            "message": "Successful Delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "DELIVERYDETAILS_UNSUCCESSFULDELIVERY",
-            "message": "Unsuccessful Delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Task",
-            "message": "Task",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Task.en_MZIndex",
-            "message": "Delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "en_MZIndex",
-            "message": "Delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Task.status",
-            "message": "Status",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "status",
-            "message": "Administration status",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Task.createdTime",
-            "message": "Completed on",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "createdTime",
-            "message": "Completed on",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Task.cycleIndex",
-            "message": "Delivery Cycle",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "cycleIndex",
-            "message": "Delivery Cycle",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Task.deliveryComment",
-            "message": "Delivery comments",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "deliveryComment",
-            "message": "Delivery comments",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Household",
-            "message": "Household",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Household.memberCount",
-            "message": "Number of members",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Individual",
-            "message": "Individual",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Individual.gender",
-            "message": "Gender",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Individual.identifierId",
-            "message": "ID number",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Individual.identifierType",
-            "message": "ID type",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Individual.mobileNumber",
-            "message": "Mobile number",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Household.pregnantWomenCount",
-            "message": "Number of pregnant women",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Household.childrenCount",
-            "message": "Number of children",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "pregnantWomenCount",
-            "message": "Number of pregnant women",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "childrenCount",
-            "message": "Number of children",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "mobileNumber",
-            "message": "Mobile Number",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "identifierType",
-            "message": "ID Type",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "identifierId",
-            "message": "ID number",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "gender",
-            "message": "Gender",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "name",
-            "message": "Name",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "memberCount",
-            "message": "Number of members",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "RECORD_DELIVERY_PRIMARY_LABEL",
-            "message": "Record Delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "resourceCard",
-            "message": "Card",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "locality",
-            "message": "Locality",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "dateOfBirth",
-            "message": "Date of Birth",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Individual.name",
-            "message": "Name",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Household.locality",
-            "message": "Locality",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "Individual.dateOfBirth",
-            "message": "Date of Birth",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "APPONE_REGISTRATION_BENEFICIARY_DETAILS_SCREEN_HEADING",
-            "message": "Beneficiary Details",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "APPONE_REGISTRATION_BENEFICIARY_DETAILS_SCREEN_DESCRIPTION",
-            "message": "Overview of Household overview",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_dateOfDelivery",
-            "message": "Date of delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "DELIVERY_BENEFICIARYDETAILS_RECORD_DELIVERY_PRIMARY_LABEL",
-            "message": "Record Delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "APPONE_DELIVERY_BENEFICIARYDETAILS_SCREEN_HEADING",
-            "message": "Beneficiary Details",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "APPONE_DELIVERY_BENEFICIARYDETAILS_TITLE",
-            "message": " ",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-        {
-            "code": "DELIVERY_BENEFICIARYDETAILS_TABLE_HEADER",
-            "message": "Resource Details",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "code": "APPONE_DELIVERY_BENEFICIARYCHECKLIST_SCREEN_HEADING",
+            "message": "Please Inform the Household of the following.",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERY_BENEFICIARYDETAILS_SCREEN_DESCRIPTION",
             "message": "Overview of beneficiary's delivery",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-      
-        {
-            "code": "Individual.locality",
-            "message": "Locality",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
-            "code": "APPONE_DELIVERY_DELIVERYDETAILS_SCREEN_HEADING",
-            "message": "Deliver Intervention",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "code": "APPONE_DELIVERY_BENEFICIARYDETAILS_SCREEN_HEADING",
+            "message": "Beneficiary Details",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
-      
         {
-            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_resource",
-            "message": "Resource",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "code": "APPONE_DELIVERY_BENEFICIARYDETAILS_TITLE",
+            "message": " ",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERY_BENEFICIARYDETAILS_label_deliveryComments",
             "message": "Delivery comments",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
-            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_scanner",
-            "message": "Scan Resources",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "code": "APPONE_DELIVERY_BENEFICIARYLOCATION_ACTION_BUTTON_LABEL_1",
+            "message": "Submit",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERY_BENEFICIARYLOCATION_SCREEN_DESCRIPTION",
+            "message": " ",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERY_DELIVERYDETAILS_ACTION_BUTTON_LABEL_1",
             "message": "Submit",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
             "code": "APPONE_DELIVERY_DELIVERYDETAILS_SCREEN_DESCRIPTION",
             "message": "Capture resources to be delivered details",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-         {
-            "code": "DELIVERY_BENEFICIARYDETAILS_RECORD_DELIVERY_PRIMARY_LABEL_mandatory_message",
-            "message": "Required field cannot be empty",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-          {
-            "code": "HOUSEHOLDACKNOWLEDGEMENT_PRIMARY_LABEL_mandatory_message",
-            "message": "Required field cannot be empty",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-         {
-            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_resource_mandatory_message",
-            "message": "Required field cannot be empty",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        }, {
-            "code": "HOUSEHOLDACKNOWLEDGEMENT_TITLE_mandatory_message",
-            "message": "Required field cannot be empty",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-         {
-            "code": "APPONE_DELIVERY_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_HEADING",
-            "message": " ",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        }
-,
- {
-            "code": "APPONE_DELIVERY_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_DESCRIPTION",
-            "message": " ",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
-        },
-         {
-            "code": "APPONE_DELIVERY_BENEFICIARY_DETAILS_deliveryConditiondialog_label",
-            "message": "Delivery Conditions",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         },
         {
-            "code": "deliveryConditiondialog",
-            "message": "Delivery conditions",
-            "module": "hcm-base-deliveryflow-bednet",
-            "locale": "en_MZ"
+            "code": "APPONE_DELIVERY_DELIVERYDETAILS_SCREEN_HEADING",
+            "message": "Deliver Intervention",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_dateOfDELIVERY",
+            "message": "Date of delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_dateOfDelivery",
+            "message": "Date of delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_resource",
+            "message": "Resource",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_resource_mandatory_message",
+            "message": "Required field cannot be empty",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_scanner",
+            "message": "Scan Resources",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERY_DELIVERYDETAILS_label_scannerac",
+            "message": "Scan Resources",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERY_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_DESCRIPTION",
+            "message": " ",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_DELIVERY_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_HEADING",
+            "message": " ",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_REGISTRATION_BENEFICIARY_DETAILS_SCREEN_DESCRIPTION",
+            "message": "Overview of Household overview",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_REGISTRATION_BENEFICIARY_DETAILS_SCREEN_HEADING",
+            "message": "Beneficiary Details",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "APPONE_REGISTRATION_HOUSEHOLDACKNOWLEDGEMENT_SCREEN_HEADING",
+            "message": " ",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "BENEFICIARY_ABSENT",
+            "message": "Beneficiary Absent",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYDETAILS_INSUFFICIENTRESOURCE",
+            "message": "Insufficient Resource",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYDETAILS_RESOURCE1",
+            "message": "Bednet Grade 1",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYDETAILS_RESOURCE2",
+            "message": "Bednet Grade 2",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYDETAILS_SUCCESSFULDELIVERY",
+            "message": "Successful Delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYDETAILS_UNSUCCESSFULDELIVERY",
+            "message": "Unsuccessful Delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYFLOW_beneficiaryChecklist_2a9baa67-cb9e-47b0-ab63-7e85cfad2e70",
+            "message": "“View Household Button” should show",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYFLOW_beneficiaryChecklist_3b62cb7a-46c7-4fb9-b17f-cc9176ca09ce",
+            "message": "The net protects you and your family from mosquitoes that spread malaria.",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYFLOW_beneficiaryChecklist_71695da4-e447-4e36-b062-c567024b0e1b",
+            "message": "When the net is dirty, wash with mild soap; spread under a shade to dry; avoid spreading under the sun.",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYFLOW_beneficiaryChecklist_9a8710a7-85a4-4cde-a0a8-d1d5ac0907d2",
+            "message": "Mend your nets when torn by sewing with thread and needle.",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYFLOW_beneficiaryChecklist_a20fcab6-e597-4af4-8022-1961fd3afdc8",
+            "message": "Roll up net when not in use.",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYFLOW_beneficiaryChecklist_b9d17971-becc-4089-bf03-cbb51ae49442",
+            "message": "Tuck in the net properly under your sleeping material and sleep inside every night.",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYFLOW_beneficiaryChecklist_c0f3e239-7f4f-471a-a0a4-2c052e20ac4a",
+            "message": "“Data Recorded Successfully” Screen to show the generated e-token with a message “ITNs Delivered Successfully” as well as View Household and Back to Search Buttons",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYFLOW_beneficiaryChecklist_c94e6e46-0295-40bd-99ec-82423d6a4b68",
+            "message": "When you receive your net, air it under a shade for 24 hours before you hang over your mat, mattress or bed.",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERYFLOW_beneficiaryChecklist_efadb5d9-ca1e-41e4-bc06-e16fb7909c11",
+            "message": "When you and your family sleep inside the net every night, all of you will be protected from malaria.",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERY_BENEFICIARYDETAILS_RECORD_DELIVERY_PRIMARY_LABEL",
+            "message": "Record Delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERY_BENEFICIARYDETAILS_RECORD_DELIVERY_PRIMARY_LABEL_mandatory_message",
+            "message": "Required field cannot be empty",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "DELIVERY_BENEFICIARYDETAILS_TABLE_HEADER",
+            "message": "Resource Details",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "HCM.DELIVERY_COMMENT_OPTIONS_POPULATOR",
+            "message": "Delivery Comments",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "HOUSEHOLDACKNOWLEDGEMENT_DESCRIPTION",
+            "message": "Data has been recorded successfully. Background sync will start soon",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "HOUSEHOLDACKNOWLEDGEMENT_PRIMARY_LABEL",
+            "message": "View Beneficiary Details",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "HOUSEHOLDACKNOWLEDGEMENT_PRIMARY_LABEL_mandatory_message",
+            "message": "Required field cannot be empty",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "HOUSEHOLDACKNOWLEDGEMENT_SECONDARY_LABEL",
+            "message": "Go to Home screen ",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "HOUSEHOLDACKNOWLEDGEMENT_TITLE",
+            "message": "Data recorded successfully",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "HOUSEHOLDACKNOWLEDGEMENT_TITLE_mandatory_message",
+            "message": "Required field cannot be empty",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Household",
+            "message": "Household",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Household.childrenCount",
+            "message": "Number of children",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Household.locality",
+            "message": "Settlement",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Household.memberCount",
+            "message": "Number of members",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Household.pregnantWomenCount",
+            "message": "Number of pregnant women",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "INSUFFICIENTRESOURCE",
+            "message": "Insufficient Resource",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "INSUFFICIENT_RESOURCES",
+            "message": "Insufficient Resource",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Individual",
+            "message": "Individual",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Individual.dateOfBirth",
+            "message": "Date of Birth",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Individual.gender",
+            "message": "Gender",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Individual.identifierId",
+            "message": "ID number",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Individual.identifierType",
+            "message": "ID type",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Individual.locality",
+            "message": "Locality",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Individual.mobileNumber",
+            "message": "Mobile number",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Individual.name",
+            "message": "Name",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "RECORD_DELIVERY_PRIMARY_LABEL",
+            "message": "Record Delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "RESOURCE1",
+            "message": "Bednet Grade 1",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "RESOURCE2",
+            "message": "Bednet Grade 2",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "SUCCESSFULDELIVERY",
+            "message": "Successful Delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "SUCCESSFUL_DELIVERY",
+            "message": "Successful Delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Task",
+            "message": "Task",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Task.createdTime",
+            "message": "Completed on",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Task.cycleIndex",
+            "message": "Delivery Cycle",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Task.deliveryComment",
+            "message": "Delivery comments",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Task.en_NGIndex",
+            "message": "Delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "Task.status",
+            "message": "Status",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "UNSUCCESSFULDELIVERY",
+            "message": "Unsuccessful Delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "childrenCount",
+            "message": "Number of children",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "createdTime",
+            "message": "Completed on",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "cycleIndex",
+            "message": "Delivery Cycle",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "dateOfBirth",
+            "message": "Date of Birth",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "deliveryComment",
+            "message": "Delivery comments",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "en_NGIndex",
+            "message": "Delivery",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "gender",
+            "message": "Gender",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "identifierId",
+            "message": "ID number",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "identifierType",
+            "message": "ID Type",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "locality",
+            "message": "Locality",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "memberCount",
+            "message": "Number of members",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "mobileNumber",
+            "message": "Mobile Number",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "name",
+            "message": "Name",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "pregnantWomenCount",
+            "message": "Number of pregnant women",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "resourceCard",
+            "message": "Card",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
+        },
+        {
+            "code": "status",
+            "message": "Administration status",
+            "module": "hcm-deliveryflow-CMP-2025-09-06-000068",
+            "locale": "en_NG"
         }
     ]
