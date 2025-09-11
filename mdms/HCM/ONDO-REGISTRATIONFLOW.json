@@ -28,7 +28,10 @@
           "innerLabel": "",
           "systemDate": false,
           "validations": [],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -49,10 +52,13 @@
             {
               "type": "required",
               "value": true,
-              "message": "Required field cannot be empty"
+              "message": "APPONE_REGISTRATION_SEARCHBENEFICIARY_BAR_mandatory_message"
             }
           ],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -70,7 +76,10 @@
           "innerLabel": "",
           "systemDate": false,
           "validations": [],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -91,18 +100,21 @@
             {
               "type": "required",
               "value": true,
-              "message": "Required field cannot be empty"
+              "message": "APPONE_REGISTRATION_SEARCHBENEFICIARY_REGISTRATION_LABEL_mandatory_message"
             }
           ],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
-          "type": "button",
+          "type": "template",
           "label": "APPONE_REGISTRATION_SEARCHBENEFICIARY_QR_LABEL",
           "order": 5,
           "value": true,
-          "format": "qrscanner",
-          "hidden": false,
+          "format": "SecondaryButton",
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
@@ -112,7 +124,10 @@
           "innerLabel": "",
           "systemDate": false,
           "validations": [],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         }
       ],
       "actionLabel": "",
@@ -136,20 +151,24 @@
           "format": "locality",
           "hidden": false,
           "tooltip": "",
-          "helpText": "APPONE_REGISTRATION_BENEFICIARYLOCATION_label_administrativeArea_helpText",
+          "helpText": "",
           "infoText": "",
           "readOnly": true,
           "fieldName": "administrativeArea",
           "deleteFlag": false,
           "innerLabel": "",
+          "systemDate": false,
           "validations": [
             {
               "type": "required",
               "value": true,
-              "message": "Required field cannot be empty"
+              "message": "APPONE_REGISTRATION_BENEFICIARYLOCATION_label_administrativeArea_mandatory_message"
             }
           ],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
@@ -159,19 +178,24 @@
           "format": "latLng",
           "hidden": false,
           "tooltip": "",
-          "helpText": "APPONE_REGISTRATION_BENEFICIARYLOCATION_label_latlong_helpText",
+          "helpText": "",
           "infoText": "",
           "readOnly": true,
           "fieldName": "latLng",
+          "deleteFlag": false,
           "innerLabel": "",
+          "systemDate": false,
           "validations": [
             {
               "type": "required",
               "value": true,
-              "message": "Required field cannot be empty"
+              "message": "APPONE_REGISTRATION_BENEFICIARYLOCATION_label_latlong_mandatory_message"
             }
           ],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
@@ -185,9 +209,14 @@
           "infoText": "",
           "readOnly": false,
           "fieldName": "addressLine1",
+          "deleteFlag": false,
           "innerLabel": "",
+          "systemDate": false,
           "validations": [],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
@@ -199,10 +228,16 @@
           "tooltip": "",
           "helpText": "APPONE_REGISTRATION_BENEFICIARYLOCATION_label_addressLine2_helpText",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "addressLine2",
+          "deleteFlag": false,
           "innerLabel": "",
+          "systemDate": false,
           "validations": [],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
@@ -214,11 +249,16 @@
           "tooltip": "",
           "helpText": "APPONE_REGISTRATION_BENEFICIARYLOCATION_label_landmark_helpText",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "landmark",
           "deleteFlag": false,
           "innerLabel": "",
+          "systemDate": false,
           "validations": [],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "integer",
@@ -230,10 +270,16 @@
           "tooltip": "",
           "helpText": "APPONE_REGISTRATION_BENEFICIARYLOCATION_label_pincode_helpText",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "pincode",
+          "deleteFlag": false,
           "innerLabel": "",
           "systemDate": false,
-          "validations": []
+          "validations": [],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
@@ -255,14 +301,19 @@
           "order": 7,
           "value": "PERMANENT",
           "format": "dropdown",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "typeOfAddress",
+          "deleteFlag": false,
           "innerLabel": "",
+          "systemDate": false,
           "validations": [],
+          "errorMessage": "",
           "includeInForm": true,
+          "isMultiSelect": false,
           "includeInSummary": false
         }
       ],
@@ -291,15 +342,20 @@
           "infoText": "",
           "readOnly": true,
           "fieldName": "dateOfRegistration",
+          "deleteFlag": false,
           "innerLabel": "",
           "systemDate": true,
           "validations": [
             {
               "type": "required",
               "value": true,
-              "message": "Required field cannot be empty"
+              "message": "APPONE_REGISTRATION_HOUSEHOLDDETAILS_label_dateOfRegistration_mandatory_message"
             }
-          ]
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "integer",
@@ -307,12 +363,20 @@
           "order": 2,
           "value": "0",
           "format": "numeric",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "childrenCount",
-          "innerLabel": ""
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "integer",
@@ -320,12 +384,20 @@
           "order": 3,
           "value": "0",
           "format": "numeric",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "pregnantWomenCount",
-          "innerLabel": ""
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "integer",
@@ -337,25 +409,32 @@
           "tooltip": "",
           "helpText": "",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "memberCount",
+          "deleteFlag": false,
           "innerLabel": "",
+          "systemDate": false,
           "validations": [
             {
-              "type": "required",
-              "value": true,
-              "message": "Please fill the required field."
+              "type": "max",
+              "value": false,
+              "message": "APPONE_REGISTRATION_HOUSEHOLDDETAILS_label_memberCount_max_message"
             },
             {
               "type": "min",
               "value": "1",
-              "message": "Total household members cannot be less than 1"
+              "message": "APPONE_REGISTRATION_HOUSEHOLDDETAILS_label_memberCount_min_message"
             },
             {
-              "type": "max",
-              "value": "10",
-              "message": "Total household members cannot be more than 10"
+              "type": "required",
+              "value": true,
+              "message": "APPONE_REGISTRATION_HOUSEHOLDDETAILS_label_memberCount_mandatory_message"
             }
-          ]
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         }
       ],
       "actionLabel": "APPONE_REGISTRATION_HOUSEHOLDDETAILS_ACTION_BUTTON_LABEL_1",
@@ -381,50 +460,91 @@
           "tooltip": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_nameOfIndividual_tooltip",
           "helpText": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_nameOfIndividual_helpText",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "nameOfIndividual",
+          "deleteFlag": false,
           "innerLabel": "",
+          "systemDate": false,
           "validations": [
             {
               "type": "required",
               "value": true,
-              "message": "Required field cannot be empty"
-            },
-            {
-              "type": "minLength",
-              "value": "2",
-              "message": "Size must be 2 to 200 characters"
+              "message": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_nameOfIndividual_mandatory_message"
             },
             {
               "type": "maxLength",
               "value": "200",
-              "message": "Size must be 2 to 200 characters"
+              "message": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_nameOfIndividual_max_message"
+            },
+            {
+              "type": "minLength",
+              "value": "2",
+              "message": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_nameOfIndividual_min_message"
             }
-          ]
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
+        },
+        {
+          "type": "string",
+          "label": "REGISTRATIONFLOW_beneficiaryDetails_3f69f406-8387-4f03-a7a9-0b8327f65ccb",
+          "order": 2,
+          "value": "",
+          "format": "text",
+          "hidden": false,
+          "tooltip": "",
+          "helpText": "",
+          "infoText": "",
+          "readOnly": false,
+          "fieldName": "beneficiaryDetails_473ac77e-eb2e-4dce-92be-b21b99727c90_newField1",
+          "deleteFlag": true,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "CMP-2025-08-28-000056_REGISTRATIONFLOW_beneficiaryDetails_toArray.required.message_beneficiaryDetails_473ac77e-eb2e-4dce-92be-b21b99727c90_newField1"
+            }
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "boolean",
           "label": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_isHeadOfFamily",
-          "order": 2,
-          "value": false,
+          "order": 3,
+          "value": "true",
           "format": "checkbox",
           "hidden": false,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "isHeadOfFamily",
+          "deleteFlag": false,
           "innerLabel": "",
+          "systemDate": false,
           "validations": [
             {
               "type": "required",
               "value": true,
-              "message": "Required field cannot be empty"
+              "message": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_isHeadOfFamily_mandatory_message"
             }
-          ]
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
           "label": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_identifiers",
-          "order": 3,
+          "order": 4,
           "value": "",
           "format": "idPopulator",
           "hidden": true,
@@ -433,16 +553,14 @@
           "infoText": "",
           "readOnly": false,
           "fieldName": "identifiers",
+          "deleteFlag": false,
           "innerLabel": "",
           "schemaCode": "HCM.ID_TYPE_OPTIONS_POPULATOR",
-          "validations": [
-            {
-              "type": "required",
-              "value": true,
-              "message": "Required field cannot be empty"
-            }
-          ],
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
           "includeInForm": true,
+          "isMultiSelect": false,
           "includeInSummary": false
         },
         {
@@ -451,13 +569,20 @@
           "order": 5,
           "value": "",
           "format": "dob",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_dobPicker_tooltip",
           "helpText": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_dobPicker_helpText",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "dobPicker",
+          "deleteFlag": false,
           "innerLabel": "",
-          "validations": []
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
@@ -465,14 +590,21 @@
           "order": 6,
           "value": "",
           "format": "select",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "gender",
+          "deleteFlag": false,
           "innerLabel": "",
           "schemaCode": "common-masters.GenderType",
-          "validations": []
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "integer",
@@ -484,8 +616,27 @@
           "tooltip": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_phone_tooltip",
           "helpText": "APPONE_REGISTRATION_BENEFICIARYDETAILS_label_phone_helpText",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "phone",
-          "innerLabel": ""
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [
+            {
+              "type": "max",
+              "value": false,
+              "message": "Should have 11 digits"
+            },
+            {
+              "type": "maxLength",
+              "value": "11",
+              "message": "Should have 11 digits"
+            }
+          ],
+          "errorMessage": "CMP-2025-08-18-000034_REGISTRATIONFLOW_beneficiaryDetails_errorMessage_phone",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "string",
@@ -493,12 +644,20 @@
           "order": 8,
           "value": "",
           "format": "scanner",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
+          "readOnly": false,
           "fieldName": "scanner",
-          "innerLabel": ""
+          "deleteFlag": false,
+          "innerLabel": "",
+          "systemDate": false,
+          "validations": [],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         }
       ],
       "actionLabel": "APPONE_REGISTRATION_BENEFICIARYDETAILS_ACTION_BUTTON_LABEL_1",
@@ -520,7 +679,7 @@
           "order": 1,
           "value": true,
           "format": "editHousehold",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
@@ -530,7 +689,10 @@
           "innerLabel": "",
           "systemDate": false,
           "validations": [],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -555,7 +717,7 @@
               "name": "memberCount",
               "fieldKey": "memberCount",
               "jsonPath": "Household.memberCount",
-              "mandatory": "true"
+              "mandatory": "false"
             }
           ],
           "label": " ",
@@ -573,7 +735,9 @@
           "systemDate": false,
           "validations": [],
           "errorMessage": "",
-          "isMultiSelect": false
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -581,7 +745,7 @@
           "order": 3,
           "value": "",
           "format": "editIndividual",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
@@ -591,7 +755,10 @@
           "innerLabel": "",
           "systemDate": false,
           "validations": [],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -599,7 +766,7 @@
           "order": 4,
           "value": [],
           "format": "addMember",
-          "hidden": false,
+          "hidden": true,
           "tooltip": "",
           "helpText": "",
           "infoText": "",
@@ -609,7 +776,10 @@
           "innerLabel": "",
           "systemDate": false,
           "validations": [],
-          "isMultiSelect": false
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         },
         {
           "type": "template",
@@ -626,16 +796,26 @@
           "deleteFlag": false,
           "innerLabel": "",
           "systemDate": false,
-          "validations": [],
-          "isMultiSelect": false
+          "validations": [
+            {
+              "type": "required",
+              "value": true,
+              "message": "APPONE_REGISTRATION_HOUSEHOLDOVERVIEW_DELIVERY_DETAILS_LABEL_mandatory_message"
+            }
+          ],
+          "errorMessage": "",
+          "includeInForm": true,
+          "isMultiSelect": false,
+          "includeInSummary": true
         }
       ],
       "actionLabel": "",
       "description": "APPONE_REGISTRATION_HOUSEHOLDOVERVIEW_SCREEN_DESCRIPTION"
     }
   ],
-  "project": "LLIN",
+  "project": "CMP-2025-09-06-000068",
   "summary": true,
-  "version": 1,
-  "disabled": false
+  "version": 22,
+  "disabled": false,
+  "isSelected": true
 }
