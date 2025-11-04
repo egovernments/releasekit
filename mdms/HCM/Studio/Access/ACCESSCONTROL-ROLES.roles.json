@@ -1,0 +1,47 @@
+[
+    {
+        "code": "STUDIO_DESIGNER",
+        "name": "Studio Designer",
+        "description": "Studio Designer"
+    },
+    {
+        "code": "INTERNAL_MICROSERVICE_ROLE",
+        "name": "Internal Microservice Role",
+        "description": "Internal role for plain access"
+    },
+    {
+        "code": "STUDIO_ADMIN",
+        "name": "STUDIO ADMIN",
+        "description": "studio service admin"
+    },
+    {
+        "code": "LOC_ADMIN",
+        "name": "Localisation admin",
+        "description": "LOC_ADMIN"
+    },
+    {
+        "code": "MDMS_ADMIN",
+        "name": "MDMS ADMIN",
+        "description": "MDMS User that can create and search schema"
+    },
+    {
+        "code": "HRMS_ADMIN",
+        "name": "HRMS Admin",
+        "description": "HRMS Admin"
+    },
+    {
+        "code": "CITIZEN",
+        "name": "Citizen",
+        "description": "Citizen who can raise complaint"
+    },
+    {
+        "code": "EMPLOYEE",
+        "name": "Employee",
+        "description": "Employee who can raise complaint"
+    },
+    {
+        "code": "SUPERUSER",
+        "name": "Super User",
+        "description": "Super User. Can change all master data and has access to all the system screens."
+    }
+]

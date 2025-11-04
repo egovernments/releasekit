@@ -1,0 +1,58 @@
+{
+                "type": "object",
+                "$schema": "http://json-schema.org/draft-07/schema#",
+                "required": [
+                    "module"
+                ],
+                "x-unique": [
+                    "module"
+                ],
+                "properties": {
+                    "index": {
+                        "type": "string"
+                    },
+                    "module": {
+                        "type": "string"
+                    },
+                    "sortBy": {
+                        "type": "object",
+                        "properties": {
+                            "path": {
+                                "type": "string"
+                            },
+                            "defaultOrder": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "sourceFilterPathList": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "allowedSearchCriteria": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "name": {
+                                    "type": "string"
+                                },
+                                "path": {
+                                    "type": "string"
+                                },
+                                "operator": {
+                                    "type": "string"
+                                },
+                                "isMandatory": {
+                                    "type": "boolean"
+                                },
+                                "isHashingRequired": {
+                                    "type": "boolean"
+                                }
+                            }
+                        }
+                    }
+                }
+            }

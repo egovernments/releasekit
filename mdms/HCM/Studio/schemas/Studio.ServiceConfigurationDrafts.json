@@ -1,0 +1,280 @@
+{
+                "type": "object",
+                "title": "Studio Service Configuration Draft",
+                "$schema": "http://json-schema.org/draft-07/schema#",
+                "required": [
+                    "module",
+                    "service"
+                ],
+                "x-unique": [
+                    "module",
+                    "service"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "pdf": {
+                        "type": "array",
+                        "items": {
+                            "type": "object"
+                        }
+                    },
+                    "bill": {
+                        "type": "object"
+                    },
+                    "idgen": {
+                        "type": "array",
+                        "items": {
+                            "type": "object"
+                        }
+                    },
+                    "inbox": {
+                        "type": "object"
+                    },
+                    "rules": {
+                        "type": "object"
+                    },
+                    "access": {
+                        "type": "object"
+                    },
+                    "fields": {
+                        "type": "array",
+                        "items": {
+                            "type": "object"
+                        }
+                    },
+                    "module": {
+                        "type": "string"
+                    },
+                    "enabled": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "payment": {
+                        "type": "object"
+                    },
+                    "service": {
+                        "type": "string"
+                    },
+                    "uiforms": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "formName": {
+                                    "type": "string"
+                                },
+                                "isActive": {
+                                    "type": "boolean"
+                                },
+                                "formConfig": {
+                                    "type": "object",
+                                    "properties": {
+                                        "screens": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "name": {
+                                                        "type": "string"
+                                                    },
+                                                    "cards": {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "object"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "localization": {
+                                    "type": "object"
+                                },
+                                "formDescription": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "uiroles": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "id": {
+                                    "type": "integer"
+                                },
+                                "code": {
+                                    "type": "string"
+                                },
+                                "active": {
+                                    "type": "boolean"
+                                },
+                                "category": {
+                                    "type": "string"
+                                },
+                                "description": {
+                                    "type": "string"
+                                },
+                                "additionalDetails": {
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "boundary": {
+                        "type": "object"
+                    },
+                    "workflow": {
+                        "type": "object"
+                    },
+                    "apiconfig": {
+                        "type": "array",
+                        "items": {
+                            "type": "object"
+                        }
+                    },
+                    "applicant": {
+                        "type": "object"
+                    },
+                    "documents": {
+                        "type": "array",
+                        "items": {
+                            "type": "object"
+                        }
+                    },
+                    "calculator": {
+                        "type": "object"
+                    },
+                    "uiworkflow": {
+                        "type": "object"
+                    },
+                    "localization": {
+                        "type": "object"
+                    },
+                    "notification": {
+                        "type": "object"
+                    },
+                    "uichecklists": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "data": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "id": {
+                                                "type": "string"
+                                            },
+                                            "key": {
+                                                "type": "number"
+                                            },
+                                            "type": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "code": {
+                                                        "type": "string"
+                                                    }
+                                                }
+                                            },
+                                            "level": {
+                                                "type": "number"
+                                            },
+                                            "title": {
+                                                "type": "string"
+                                            },
+                                            "value": {},
+                                            "options": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "id": {
+                                                            "type": "string"
+                                                        },
+                                                        "key": {
+                                                            "type": "number"
+                                                        },
+                                                        "label": {
+                                                            "type": "string"
+                                                        },
+                                                        "comment": {
+                                                            "type": "string"
+                                                        },
+                                                        "optionComment": {
+                                                            "type": "boolean"
+                                                        },
+                                                        "optionDependency": {
+                                                            "type": "boolean"
+                                                        },
+                                                        "parentQuestionId": {
+                                                            "type": "string"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "parentId": {},
+                                            "isRequired": {
+                                                "type": "boolean"
+                                            }
+                                        }
+                                    }
+                                },
+                                "name": {
+                                    "type": "string"
+                                },
+                                "description": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "uinotifications": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "title": {
+                                    "type": "string"
+                                },
+                                "subject": {
+                                    "type": "string"
+                                },
+                                "workflow": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "code": {
+                                                "type": "string"
+                                            },
+                                            "name": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    }
+                                },
+                                "variables": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "string"
+                                    }
+                                },
+                                "messageBody": {
+                                    "type": "string"
+                                },
+                                "additionalDetails": {
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                }
+            }

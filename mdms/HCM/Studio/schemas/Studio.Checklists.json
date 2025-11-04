@@ -1,0 +1,93 @@
+{
+                "type": "object",
+                "title": "Generated schema for Root",
+                "$schema": "http://json-schema.org/draft-07/schema#",
+                "required": [
+                    "module",
+                    "service",
+                    "data",
+                    "name"
+                ],
+                "x-unique": [
+                    "name"
+                ],
+                "properties": {
+                    "data": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "id": {
+                                    "type": "string"
+                                },
+                                "key": {
+                                    "type": "number"
+                                },
+                                "type": {
+                                    "type": "object",
+                                    "required": [
+                                        "code"
+                                    ],
+                                    "properties": {
+                                        "code": {
+                                            "type": "string"
+                                        }
+                                    }
+                                },
+                                "level": {
+                                    "type": "number"
+                                },
+                                "title": {
+                                    "type": "string"
+                                },
+                                "value": {},
+                                "options": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "id": {
+                                                "type": "string"
+                                            },
+                                            "key": {
+                                                "type": "number"
+                                            },
+                                            "label": {
+                                                "type": "string"
+                                            },
+                                            "comment": {
+                                                "type": "string"
+                                            },
+                                            "optionComment": {
+                                                "type": "boolean"
+                                            },
+                                            "optionDependency": {
+                                                "type": "boolean"
+                                            },
+                                            "parentQuestionId": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    }
+                                },
+                                "parentId": {},
+                                "isRequired": {
+                                    "type": "boolean"
+                                }
+                            }
+                        }
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "module": {
+                        "type": "string"
+                    },
+                    "service": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    }
+                }
+            }
