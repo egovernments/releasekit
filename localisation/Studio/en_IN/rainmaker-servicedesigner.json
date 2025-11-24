@@ -1231,7 +1231,7 @@
     },
     {
         "code": "UPDATE_SERVICE_CONFIG",
-        "message": "Update service config",
+        "message": "Publish Application",
         "module": "rainmaker-servicedesigner",
         "locale": "en_IN"
     },
@@ -1878,12 +1878,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "mobileNumber",
-        "message": "Mobilenumber",
-        "module": "rainmaker-servicedesigner",
-        "locale": "en_IN"
-    },
-    {
         "code": "text",
         "message": "Text",
         "module": "rainmaker-servicedesigner",
@@ -2022,18 +2016,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "FORM_HEADER_DESCRIPTION",
-        "message": "Create and manage forms to capture service details.",
-        "module": "rainmaker-servicedesigner",
-        "locale": "en_IN"
-    },
-    {
-        "code": "SERVICE_CONFIG_PUBLISHED_SUCCESSFULLY",
-        "message": "Service configuration published successfully!",
-        "module": "rainmaker-servicedesigner",
-        "locale": "en_IN"
-    },
-    {
         "code": "IMPORT_INFO",
         "message": "Import Information",
         "module": "rainmaker-servicedesigner",
@@ -2094,12 +2076,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "CHECKLIST_OPTIONS_ERROR",
-        "message": "Atleaset 2 options are mandatory",
-        "module": "rainmaker-servicedesigner",
-        "locale": "en_IN"
-    },
-    {
         "code": "NO_VARIABLES_FOUND",
         "message": "No variables found",
         "module": "rainmaker-servicedesigner",
@@ -2120,18 +2096,6 @@
     {
         "code": "TYPE_YOUR_QUESTION_HERE",
         "message": "Please type your question here",
-        "module": "rainmaker-servicedesigner",
-        "locale": "en_IN"
-    },
-    {
-        "code": "NAME_OF_CHECKLIST_TOOLTIP",
-        "message": "Enter a name for this checklist so it’s easy to identify later.",
-        "module": "rainmaker-servicedesigner",
-        "locale": "en_IN"
-    },
-    {
-        "code": "CHECKLIST_HELP_TEXT_TOOLTIP",
-        "message": "Add information to help users understand how to complete this checklist.",
         "module": "rainmaker-servicedesigner",
         "locale": "en_IN"
     },
@@ -2232,12 +2196,6 @@
         "locale": "en_IN"
     },
     {
-        "code": "ADDRESS_SECTION_INFO",
-        "message": "Coming Soon!",
-        "module": "rainmaker-servicedesigner",
-        "locale": "en_IN"
-    },
-    {
         "code": "CMP_DRAWER_WHAT_IS_VALIDATION",
         "message": "Set Validation Rules",
         "module": "rainmaker-servicedesigner",
@@ -2276,6 +2234,432 @@
     {
         "code": "CMP_DRAWER_WHAT_IS_LOGIC",
         "message": "Define the rules and behaviors that control how this field responds to user input. Add visibility conditions, dependencies, validations, and expressions to make your form dynamic.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ONLY_ONE_TEMPLATE_ALLOWED",
+        "message": "Please mention either template pdf key or download URL",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CMP_DRAWER_NO_CONFIG_ERROR_LOGIC",
+        "message": "Not Applicable",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NOTIFICATION_MSG_INFO",
+        "message": "Enter the message content that will be sent to users as part of this notification.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "FORM_HEADER_DESCRIPTION",
+        "message": "Create, manage, and reuse forms for your services with ease.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PERSONALIZE_TITLE_INFO",
+        "message": "Add personalized variables (e.g., {userName}, {applicationNo}) — these will be replaced with real user or service details when the notification is sent.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACCESS_INFO_TEXT",
+        "message": "Define user access permissions — choose whether users can create, edit, or view records.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SERVICE_ALREADY_EXISTS",
+        "message": "A service with this application and module name already exists.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROWS_PER_PAGE",
+        "message": "Rows per page",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SERVICE_CONFIG_NOT_EMPTY_ERROR",
+        "message": "Service configuration should not be empty",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INVALID_FORMAT_ERROR",
+        "message": "Invalid configuration format, please paste a valid service config is hardcoded for import",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MODULE_NAME_REQUIRED",
+        "message": "Enter application name to proceed",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SERVICE_NAME_REQUIRED",
+        "message": "Enter module name to proceed",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MODULE_AND_SERVICE_NAME_REQUIRED",
+        "message": "Enter module and application name to proceed",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SERVICE_CONFIG_PUBLISHED_SUCCESSFULLY",
+        "message": "Service configuration published successfully, please wait 10 mins to proceed with application flow",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_DATA_UPDATED_SUCCESSFULLY",
+        "message": "Action details updated successfully",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SUBJECT_IS_REQUIRED",
+        "message": "Provide email subject to proceed",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "STATE_DATA_UPDATED_SUCCESSFULLY",
+        "message": "State details updated successfully",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CHECKLIST_OPTIONS_ERROR",
+        "message": "Atleaset 2 options are mandatory and fill the details",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NO_DRAFTS_AVAILABLE_SUB_HEADER",
+        "message": "Create a new service to see it here as a draft until published",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SECTIONS_CANNOT_BE_EMPTY",
+        "message": "Please check some section details are empty",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "AT_LEAST_ONE_FIELD_REQUIRED_IN_CUSTOM_SECTIONS",
+        "message": "Field details are required, section cannot be left empty",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ENTER_STATE_NAME",
+        "message": "Mention state name",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ENTER_ACTION_NAME",
+        "message": "Mention action name",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TITLE_CANNOT_CONTAIN_SLASHES",
+        "message": "Please do not include slashes in the notification title.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "REGEX_AND_ERROR_MESSAGE_REQUIRED_TOGETHER",
+        "message": "Mention both regex and error message for these fields",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DUPLICATE_QUESTIONS_ERROR",
+        "message": "Please check duplicate questions were added",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_ADD_FIELD_TYPE",
+        "message": "Specifies the type of field being added",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_ADD_FIELD_LABEL",
+        "message": "The label or title shown to the user for the newly added field",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_FIELDTYPE",
+        "message": "Field type will display to user",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_LABEL",
+        "message": "The text displayed to the user as the field’s name",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_REGEX",
+        "message": "A regular expression used to validate the field’s value",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_ERRORMESSAGE",
+        "message": "The message shown to the user when validation fails",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_ISDCODEPREFIX",
+        "message": "Indicates whether an international dialing code prefix should be applied",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_MIN_LENGTH",
+        "message": "Minimum number of characters the field value must have",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_MAX_LENGTH",
+        "message": "Maximum allowed length of the field value",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_FORM_NAME",
+        "message": "Mention the name or title of the form.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_FORM_DESCRIPTION",
+        "message": "Provide a short explanation or purpose of the form.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "mobileNumber",
+        "message": "Mobile Number",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_NAME_ALPHANUMERIC_INFO",
+        "message": "Provide a name for this role as it will appear in the workflow",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "STUDIO_CHECKLIST_VIEW",
+        "message": "View checklist",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "IMPORT_DATA_REQUIRED",
+        "message": "Please add service configuration JSON",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MODULE_NAME_REQ",
+        "message": "Application name is required",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SERVICE_NAME_REQ",
+        "message": "Service name is required",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SERVICE_CONFIG_PUBLISH_FAILED",
+        "message": "Service Creation Failed",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PREFIX_SHOULD_ONLY_CONTAIN_NUMBERS_AND_PLUS",
+        "message": "Please check and provide valid country code prefix",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MIN_LENGTH_CANNOT_BE_GREATER_THAN_MAX_LENGTH",
+        "message": "The minimum length value cannot be greater than the maximum length value",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INVALID_REGEX_PATTERN",
+        "message": "The provided regular expression is invalid. Please check the pattern and try again.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PLEASE_SELECT_ATLEAST_ONE_ROLE",
+        "message": "Please select the role to proceed",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BUSSINESS_SERVICE_REQUIRED",
+        "message": "Select the business service",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INFO_TEMPLATEDOWNLOADURL",
+        "message": "Mention any one valid URL",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SESSION_EXPIRED",
+        "message": "Service is temporarily unavailable. Please try again in 10 minutes.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "COMMON_DOC_UPLOAD_HINT",
+        "message": "Please upload the required documents",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_DOCUMENTAION_SUPPORT",
+        "message": "Help & Support",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_DOCUMENTAION_SUPPORT_LINK",
+        "message": "Discussion Board",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PUBLISH_INFO",
+        "message": "Publish Information",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PUBLISH_INFO_DEFINITION",
+        "message": "Your application will go live instantly and appear in My Applications after you click Publish; please check it after about 10 minutes for full functionality.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_CONFIRMATION_MESSAGE_ARE_YOU_SURE",
+        "message": "Are you sure you want to perform this action?",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ROLE_NAME_CITIZEN_RESERVED",
+        "message": "The role “Citizen” already exists. Please modify access using the existing role.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "INVALID_TEMPLATE_URL_SINGLE_URL_ONLY",
+        "message": "Invalid URL provided. Please enter a single valid URL.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ALREADY_ADDED",
+        "message": "Already added",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CLEAR_CANVAS_HEADING",
+        "message": "Are you sure you want to clear the canvas?",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "YES_CLEAR",
+        "message": "Clear",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CLEAR_CANVAS_DESCRIPTION",
+        "message": "All elements will be permanently removed. This action cannot be undone.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CHAR_LIMIT_EXCEEDED",
+        "message": "Please shorten the message to stay within the character limit.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TEMPLATES_COMING_SOON",
+        "message": "Templates will be available soon!",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ENTER_SUBJECT",
+        "message": "Enter email subject",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ENTER_NOTIFICATION_TITLE",
+        "message": "Enter notification title",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ENTER_MESSAGE_BODY",
+        "message": "Write your message here…",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ADDRESS_SECTION_INFO",
+        "message": "This section will be configurable soon!",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NAME_OF_CHECKLIST_TOOLTIP",
+        "message": "This name is visible to users and will appear while creating workflows.",
+        "module": "rainmaker-servicedesigner",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CHECKLIST_HELP_TEXT_TOOLTIP",
+        "message": "This description is for internal reference and is not visible to users.",
         "module": "rainmaker-servicedesigner",
         "locale": "en_IN"
     }
