@@ -1,0 +1,79 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "code"
+    ],
+    "x-unique": [
+        "code"
+    ],
+    "properties": {
+        "code": {
+            "type": "string"
+        },
+        "name": {
+            "type": "string"
+        },
+        "logoUrl": {
+            "type": "string"
+        },
+        "bannerUrl": {
+            "type": "string"
+        },
+        "languages": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "label": {
+                        "type": "string"
+                    },
+                    "value": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "defaultCity": {
+            "type": "string"
+        },
+        "digitLogoUrl": {
+            "type": "string"
+        },
+        "defaultLanguage": {
+            "type": "string"
+        },
+        "hasLocalisation": {
+            "type": "boolean"
+        },
+        "isForgotPwdDisabled": {
+            "type": "boolean"
+        },
+        "localizationModules": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "label": {
+                        "type": "string"
+                    },
+                    "value": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "headerProgramLogoUrl": {
+            "type": "string"
+        },
+        "customReportsDriveLink": {
+            "type": "string"
+        },
+        "isCitySelectionDisabled": {
+            "type": "boolean"
+        },
+        "isLanguageSelectionDisabled": {
+            "type": "boolean"
+        }
+    }
+}

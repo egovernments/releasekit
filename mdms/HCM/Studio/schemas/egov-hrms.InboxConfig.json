@@ -1,0 +1,448 @@
+{
+    "type": "object",
+    "title": "Generated schema for Root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "type",
+        "label",
+        "sections",
+        "apiDetails",
+        "persistFormData",
+        "additionalSections",
+        "showAsRemovableTagsInMobile"
+    ],
+    "x-unique": [
+        "type"
+    ],
+    "properties": {
+        "type": {
+            "type": "string"
+        },
+        "label": {
+            "type": "string"
+        },
+        "sections": {
+            "type": "object",
+            "properties": {
+                "links": {
+                    "type": "object",
+                    "properties": {
+                        "show": {
+                            "type": "boolean"
+                        },
+                        "children": {
+                            "type": "object",
+                            "required": [],
+                            "properties": {}
+                        },
+                        "uiConfig": {
+                            "type": "object",
+                            "properties": {
+                                "label": {
+                                    "type": "string"
+                                },
+                                "links": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "url": {
+                                                "type": "string"
+                                            },
+                                            "text": {
+                                                "type": "string"
+                                            },
+                                            "roles": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "string"
+                                                }
+                                            },
+                                            "hyperlink": {
+                                                "type": "boolean"
+                                            }
+                                        }
+                                    }
+                                },
+                                "logoIcon": {
+                                    "type": "object",
+                                    "properties": {
+                                        "component": {
+                                            "type": "string"
+                                        },
+                                        "customClass": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "filter": {
+                    "type": "object",
+                    "properties": {
+                        "show": {
+                            "type": "boolean"
+                        },
+                        "label": {
+                            "type": "string"
+                        },
+                        "uiConfig": {
+                            "type": "object",
+                            "properties": {
+                                "type": {
+                                    "type": "string"
+                                },
+                                "fields": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "type": {
+                                                "type": "string"
+                                            },
+                                            "label": {
+                                                "type": "string"
+                                            },
+                                            "disable": {
+                                                "type": "boolean"
+                                            },
+                                            "addDivider": {
+                                                "type": "boolean"
+                                            },
+                                            "populators": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "name": {
+                                                        "type": "string"
+                                                    },
+                                                    "error": {
+                                                        "type": "string"
+                                                    },
+                                                    "options": {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "object",
+                                                            "properties": {
+                                                                "code": {
+                                                                    "type": "boolean"
+                                                                },
+                                                                "name": {
+                                                                    "type": "string"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "required": {
+                                                        "type": "boolean"
+                                                    },
+                                                    "mdmsConfig": {
+                                                        "type": "object",
+                                                        "properties": {
+                                                            "masterName": {
+                                                                "type": "string"
+                                                            },
+                                                            "moduleName": {
+                                                                "type": "string"
+                                                            },
+                                                            "localePrefix": {
+                                                                "type": "string"
+                                                            }
+                                                        }
+                                                    },
+                                                    "optionsKey": {
+                                                        "type": "string"
+                                                    },
+                                                    "alignVertical": {
+                                                        "type": "boolean"
+                                                    },
+                                                    "isDropdownWithChip": {
+                                                        "type": "boolean"
+                                                    }
+                                                }
+                                            },
+                                            "isMandatory": {
+                                                "type": "boolean"
+                                            }
+                                        }
+                                    }
+                                },
+                                "headerStyle": {},
+                                "minReqFields": {
+                                    "type": "number"
+                                },
+                                "primaryLabel": {
+                                    "type": "string"
+                                },
+                                "defaultValues": {
+                                    "type": "object",
+                                    "properties": {
+                                        "roles": {
+                                            "type": "array",
+                                            "items": {}
+                                        },
+                                        "isActive": {
+                                            "type": "object",
+                                            "properties": {
+                                                "code": {
+                                                    "type": "boolean"
+                                                },
+                                                "name": {
+                                                    "type": "string"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "secondaryLabel": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                },
+                "search": {
+                    "type": "object",
+                    "properties": {
+                        "show": {
+                            "type": "boolean"
+                        },
+                        "label": {
+                            "type": "string"
+                        },
+                        "children": {
+                            "type": "object",
+                            "required": [],
+                            "properties": {}
+                        },
+                        "uiConfig": {
+                            "type": "object",
+                            "properties": {
+                                "type": {
+                                    "type": "string"
+                                },
+                                "fields": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "type": {
+                                                "type": "string"
+                                            },
+                                            "label": {
+                                                "type": "string"
+                                            },
+                                            "disable": {
+                                                "type": "boolean"
+                                            },
+                                            "populators": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "name": {
+                                                        "type": "string"
+                                                    },
+                                                    "error": {
+                                                        "type": "string"
+                                                    },
+                                                    "style": {
+                                                        "type": "object",
+                                                        "properties": {
+                                                            "marginBottom": {
+                                                                "type": "string"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "isMandatory": {
+                                                "type": "boolean"
+                                            }
+                                        }
+                                    }
+                                },
+                                "typeMobile": {
+                                    "type": "string"
+                                },
+                                "headerLabel": {
+                                    "type": "string"
+                                },
+                                "headerStyle": {},
+                                "minReqFields": {
+                                    "type": "number"
+                                },
+                                "primaryLabel": {
+                                    "type": "string"
+                                },
+                                "defaultValues": {
+                                    "type": "object",
+                                    "properties": {
+                                        "codes": {
+                                            "type": "string"
+                                        },
+                                        "limit": {
+                                            "type": "number"
+                                        },
+                                        "names": {
+                                            "type": "string"
+                                        },
+                                        "phone": {
+                                            "type": "string"
+                                        },
+                                        "roles": {
+                                            "type": "string"
+                                        },
+                                        "offset": {
+                                            "type": "number"
+                                        },
+                                        "tenantId": {
+                                            "type": "string"
+                                        },
+                                        "sortOrder": {
+                                            "type": "string"
+                                        }
+                                    }
+                                },
+                                "secondaryLabel": {
+                                    "type": "string"
+                                },
+                                "searchWrapperStyles": {
+                                    "type": "object",
+                                    "required": [],
+                                    "properties": {}
+                                }
+                            }
+                        },
+                        "labelMobile": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "searchResult": {
+                    "type": "object",
+                    "properties": {
+                        "show": {
+                            "type": "boolean"
+                        },
+                        "children": {
+                            "type": "object",
+                            "required": [],
+                            "properties": {}
+                        },
+                        "uiConfig": {
+                            "type": "object",
+                            "properties": {
+                                "columns": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "label": {
+                                                "type": "string"
+                                            },
+                                            "jsonPath": {
+                                                "type": "string"
+                                            },
+                                            "additionalCustomization": {
+                                                "type": "boolean"
+                                            }
+                                        }
+                                    }
+                                },
+                                "rowClassName": {
+                                    "type": "string"
+                                },
+                                "tableClassName": {
+                                    "type": "string"
+                                },
+                                "resultsJsonPath": {
+                                    "type": "string"
+                                },
+                                "enableColumnSort": {
+                                    "type": "boolean"
+                                },
+                                "enableGlobalSearch": {
+                                    "type": "boolean"
+                                },
+                                "isPaginationRequired": {
+                                    "type": "boolean"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "apiDetails": {
+            "type": "object",
+            "properties": {
+                "masterName": {
+                    "type": "string"
+                },
+                "moduleName": {
+                    "type": "string"
+                },
+                "requestBody": {
+                    "type": "object",
+                    "required": [],
+                    "properties": {}
+                },
+                "serviceName": {
+                    "type": "string"
+                },
+                "requestParam": {
+                    "type": "object",
+                    "properties": {
+                        "limit": {
+                            "type": "number"
+                        },
+                        "names": {
+                            "type": "string"
+                        },
+                        "roles": {
+                            "type": "string"
+                        },
+                        "offset": {
+                            "type": "number"
+                        },
+                        "sortBy": {
+                            "type": "string"
+                        },
+                        "tenantId": {
+                            "type": "string"
+                        },
+                        "sortOrder": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "tableFormJsonPath": {
+                    "type": "string"
+                },
+                "filterFormJsonPath": {
+                    "type": "string"
+                },
+                "searchFormJsonPath": {
+                    "type": "string"
+                },
+                "minParametersForFilterForm": {
+                    "type": "number"
+                },
+                "minParametersForSearchForm": {
+                    "type": "number"
+                }
+            }
+        },
+        "persistFormData": {
+            "type": "boolean"
+        },
+        "additionalSections": {
+            "type": "object",
+            "required": [],
+            "properties": {}
+        },
+        "showAsRemovableTagsInMobile": {
+            "type": "boolean"
+        }
+    }
+}

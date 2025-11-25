@@ -1,0 +1,198 @@
+[
+    {
+        "code": "DSS",
+        "order": 1,
+        "active": true,
+        "module": "DSS",
+        "tenants": [
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "PGR",
+        "order": 2,
+        "active": true,
+        "module": "PGR",
+        "tenants": [
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "HRMS",
+        "order": 3,
+        "active": true,
+        "module": "HRMS",
+        "tenants": [
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "HCMWORKBENCH",
+        "order": 14,
+        "active": true,
+        "module": "HCMWORKBENCH",
+        "tenants": [
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "Campaign",
+        "order": 10,
+        "active": true,
+        "module": "Campaign",
+        "tenants": [
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "Utilities",
+        "order": 1,
+        "active": true,
+        "module": "Utilities",
+        "tenants": [
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "Workbench",
+        "order": 13,
+        "active": true,
+        "module": "Workbench",
+        "tenants": [
+            {
+                "code": "pg.cityb"
+            },
+            {
+                "code": "pg.cityc"
+            },
+            {
+                "code": "pg.citya"
+            }
+        ]
+    },
+    {
+        "code": "Sample",
+        "order": 12,
+        "active": true,
+        "module": "Sample",
+        "tenants": [
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "Microplanning",
+        "order": 14,
+        "active": false,
+        "module": "Microplanning",
+        "tenants": [
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "Microplan",
+        "order": 14,
+        "active": true,
+        "module": "Microplan",
+        "tenants": [
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "Project",
+        "order": 8,
+        "active": true,
+        "module": "Project",
+        "tenants": [
+            {
+                "code": "mz"
+            }
+        ]
+    },
+    {
+        "code": "Payments",
+        "order": 12,
+        "active": true,
+        "module": "Payments",
+        "tenants": [
+            {
+                "code": "mz"
+            }
+        ]
+    },
+    {
+        "code": "PublicServices",
+        "order": 1,
+        "active": true,
+        "module": "PublicServices",
+        "tenants": [
+            {
+                "code": "pg.citya"
+            },
+            {
+                "code": "pg.cityb"
+            },
+            {
+                "code": "pg.cityc"
+            }
+        ],
+        "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png"
+    },
+    {
+        "code": "OpenPayment",
+        "order": 1,
+        "active": true,
+        "module": "OpenPayment",
+        "tenants": [
+            {
+                "code": "pg.citya"
+            },
+            {
+                "code": "pg.cityb"
+            },
+            {
+                "code": "pg.cityc"
+            },
+            {
+                "code": "dev"
+            }
+        ]
+    },
+    {
+        "code": "ServiceDesigner",
+        "order": 1,
+        "active": true,
+        "module": "ServiceDesigner",
+        "tenants": [
+            {
+                "code": "pg.citya"
+            },
+            {
+                "code": "pg.cityb"
+            },
+            {
+                "code": "pg.cityc"
+            },
+            {
+                "code": "dev"
+            }
+        ]
+    }
+]

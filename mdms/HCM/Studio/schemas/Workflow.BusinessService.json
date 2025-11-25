@@ -1,0 +1,92 @@
+{
+    "type": "object",
+    "title": "Generated schema for Root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "businessService"
+    ],
+    "x-unique": [
+        "businessService"
+    ],
+    "properties": {
+        "uuid": {
+            "type": "string"
+        },
+        "getUri": {
+            "type": "string"
+        },
+        "states": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "uuid": {
+                        "type": "string"
+                    },
+                    "state": {
+                        "type": "string"
+                    },
+                    "actions": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "uuid": {
+                                    "type": "string"
+                                },
+                                "roles": {
+                                    "type": "string"
+                                },
+                                "action": {
+                                    "type": "string"
+                                },
+                                "stateId": {
+                                    "type": "string"
+                                },
+                                "tenantId": {
+                                    "type": "string"
+                                },
+                                "nextStateId": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "tenantId": {
+                        "type": "string"
+                    },
+                    "isStartState": {
+                        "type": "string"
+                    },
+                    "UpdateAllowed": {
+                        "type": "string"
+                    },
+                    "isTerminateState": {
+                        "type": "string"
+                    },
+                    "applicableActions": {
+                        "type": "string"
+                    },
+                    "businessServiceId": {
+                        "type": "string"
+                    },
+                    "docUploadRequired": {
+                        "type": "string"
+                    },
+                    "applicableNextStates": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "postUri": {
+            "type": "string"
+        },
+        "tenantId": {
+            "type": "string"
+        },
+        "businessService": {
+            "type": "string"
+        }
+    }
+}

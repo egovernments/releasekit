@@ -1,0 +1,50 @@
+{
+    "texts": {
+        "header": "CORE_COMMON_LOGIN",
+        "submitButtonLabel": "CORE_COMMON_LOGIN",
+        "secondaryButtonLabel": "CORE_COMMON_FORGOT_PASSWORD"
+    },
+    "title": "Studio login screen",
+    "inputs": [
+        {
+            "key": "username",
+            "type": "text",
+            "label": "CORE_LOGIN_USERNAME",
+            "populators": {
+                "name": "username",
+                "error": "ERR_USERNAME_REQUIRED",
+                "validation": {
+                    "required": true
+                }
+            },
+            "isMandatory": true
+        },
+        {
+            "key": "password",
+            "type": "password",
+            "label": "CORE_LOGIN_PASSWORD",
+            "populators": {
+                "name": "password",
+                "error": "ERR_PASSWORD_REQUIRED",
+                "validation": {
+                    "required": true
+                }
+            },
+            "isMandatory": true
+        },
+        {
+            "key": "check",
+            "type": "component",
+            "disable": false,
+            "component": "PrivacyComponent",
+            "populators": {
+                "name": "check"
+            },
+            "customProps": {
+                "module": "HCM"
+            },
+            "isMandatory": false,
+            "withoutLabel": true
+        }
+    ]
+}

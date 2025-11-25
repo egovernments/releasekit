@@ -1,0 +1,95 @@
+[
+    {
+        "body": [
+            {
+                "key": "SelectEmployeeId",
+                "type": "component",
+                "component": "SelectEmployeeId",
+                "withoutLabel": true
+            },
+            {
+                "key": "SelectEmployeePassword",
+                "type": "component",
+                "component": "SelectEmployeePassword",
+                "withoutLabel": true
+            }
+        ],
+        "head": "HR_LOGIN_DETAILS_HEADER"
+    },
+    {
+        "body": [
+            {
+                "key": "SelectEmployeeName",
+                "type": "component",
+                "component": "SelectEmployeeName",
+                "withoutLabel": true
+            },
+            {
+                "key": "SelectEmployeePhoneNumber",
+                "type": "component",
+                "component": "SelectEmployeePhoneNumber",
+                "withoutLabel": true
+            },
+            {
+                "key": "SelectEmployeeGender",
+                "type": "component",
+                "component": "SelectEmployeeGender",
+                "withoutLabel": true
+            },
+            {
+                "key": "SelectDateofBirthEmployment",
+                "type": "component",
+                "component": "SelectDateofBirthEmployment",
+                "withoutLabel": true
+            },
+            {
+                "key": "SelectEmployeeEmailId",
+                "type": "component",
+                "component": "SelectEmployeeEmailId",
+                "withoutLabel": true
+            },
+            {
+                "key": "SelectEmployeeCorrespondenceAddress",
+                "type": "component",
+                "component": "SelectEmployeeCorrespondenceAddress",
+                "withoutLabel": true
+            }
+        ],
+        "head": "HR_PERSONAL_DETAILS_HEADER"
+    },
+    {
+        "body": [
+            {
+                "key": "SelectEmployeeType",
+                "type": "component",
+                "component": "SelectEmployeeType",
+                "withoutLabel": true
+            },
+            {
+                "key": "SelectDateofEmployment",
+                "type": "component",
+                "component": "SelectDateofEmployment",
+                "withoutLabel": true
+            },
+            {
+                "key": "SelectEmployeeDepartment",
+                "type": "component",
+                "component": "SelectEmployeeDepartment",
+                "withoutLabel": true
+            }
+        ],
+        "head": "HR_NEW_EMPLOYEE_FORM_HEADER"
+    },
+    {
+        "body": [
+            {
+                "key": "Jurisdictions",
+                "type": "component",
+                "component": "Jurisdictions",
+                "isMandatory": true,
+                "withoutLabel": true
+            }
+        ],
+        "head": "HR_JURISDICTION_DETAILS_HEADER"
+    }
+]

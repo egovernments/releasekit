@@ -1,0 +1,132 @@
+{
+    "type": "object",
+    "title": "Generated schema for Root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "title"
+    ],
+    "x-unique": [
+        "title"
+    ],
+    "properties": {
+        "texts": {
+            "type": "object",
+            "required": [
+                "header",
+                "submitButtonLabel",
+                "secondaryButtonLabel"
+            ],
+            "properties": {
+                "header": {
+                    "type": "string"
+                },
+                "submitButtonLabel": {
+                    "type": "string"
+                },
+                "secondaryButtonLabel": {
+                    "type": "string"
+                }
+            }
+        },
+        "title": {
+            "type": "string"
+        },
+        "inputs": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "type",
+                    "key",
+                    "isMandatory",
+                    "populators"
+                ],
+                "properties": {
+                    "key": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "label": {
+                        "type": "string"
+                    },
+                    "disable": {
+                        "type": "boolean"
+                    },
+                    "component": {
+                        "type": "string"
+                    },
+                    "populators": {
+                        "type": "object",
+                        "required": [
+                            "name"
+                        ],
+                        "properties": {
+                            "name": {
+                                "type": "string"
+                            },
+                            "error": {
+                                "type": "string"
+                            },
+                            "mdmsConfig": {
+                                "type": "object",
+                                "required": [
+                                    "masterName",
+                                    "moduleName",
+                                    "localePrefix",
+                                    "select"
+                                ],
+                                "properties": {
+                                    "select": {
+                                        "type": "string"
+                                    },
+                                    "masterName": {
+                                        "type": "string"
+                                    },
+                                    "moduleName": {
+                                        "type": "string"
+                                    },
+                                    "localePrefix": {
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "optionsKey": {
+                                "type": "string"
+                            },
+                            "validation": {
+                                "type": "object",
+                                "required": [
+                                    "required"
+                                ],
+                                "properties": {
+                                    "required": {
+                                        "type": "boolean"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "customProps": {
+                        "type": "object",
+                        "required": [
+                            "module"
+                        ],
+                        "properties": {
+                            "module": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "isMandatory": {
+                        "type": "boolean"
+                    },
+                    "withoutLabel": {
+                        "type": "boolean"
+                    }
+                }
+            }
+        }
+    }
+}

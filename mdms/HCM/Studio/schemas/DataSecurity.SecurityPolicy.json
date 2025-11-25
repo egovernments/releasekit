@@ -1,0 +1,78 @@
+{
+    "type": "object",
+    "title": "Generated schema for Root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "model"
+    ],
+    "x-unique": [
+        "model"
+    ],
+    "properties": {
+        "model": {
+            "type": "string"
+        },
+        "attributes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "jsonPath": {
+                        "type": "string"
+                    },
+                    "patternId": {
+                        "type": "string"
+                    },
+                    "defaultVisibility": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "uniqueIdentifier": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "jsonPath": {
+                    "type": "string"
+                }
+            }
+        },
+        "roleBasedDecryptionPolicy": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "roles": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "attributeAccessList": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "attribute": {
+                                    "type": "string"
+                                },
+                                "firstLevelVisibility": {
+                                    "type": "string"
+                                },
+                                "secondLevelVisibility": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

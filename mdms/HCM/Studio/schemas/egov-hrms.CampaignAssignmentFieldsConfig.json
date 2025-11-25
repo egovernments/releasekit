@@ -1,0 +1,35 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "head"
+    ],
+    "x-unique": [
+        "head"
+    ],
+    "properties": {
+        "body": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "key": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "component": {
+                        "type": "string"
+                    },
+                    "withoutLabel": {
+                        "type": "boolean"
+                    }
+                }
+            }
+        },
+        "head": {
+            "type": "string"
+        }
+    }
+}

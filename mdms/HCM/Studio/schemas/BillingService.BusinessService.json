@@ -1,0 +1,43 @@
+{
+    "type": "object",
+    "title": "Generated schema for Root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "code"
+    ],
+    "x-unique": [
+        "code"
+    ],
+    "properties": {
+        "code": {
+            "type": "string"
+        },
+        "billGineiURL": {
+            "type": "string"
+        },
+        "businessService": {
+            "type": "string"
+        },
+        "demandUpdateTime": {
+            "type": "number"
+        },
+        "isAdvanceAllowed": {
+            "type": "boolean"
+        },
+        "minAmountPayable": {
+            "type": "number"
+        },
+        "partPaymentAllowed": {
+            "type": "boolean"
+        },
+        "isVoucherCreationEnabled": {
+            "type": "boolean"
+        },
+        "collectionModesNotAllowed": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        }
+    }
+}

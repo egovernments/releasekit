@@ -1,0 +1,52 @@
+{
+    "index": "public-service-index",
+    "module": "public-services",
+    "sortBy": {
+        "path": "Data.auditDetails.createdTime",
+        "defaultOrder": "DESC"
+    },
+    "sourceFilterPathList": [
+        "Data.businessService",
+        "Data.applicationNumber",
+        "Data.currentProcessInstance",
+        "Data.auditDetails",
+        "Data.module",
+        "Data.locality",
+        "Data.status",
+        "Data.serviceCode"
+    ],
+    "allowedSearchCriteria": [
+        {
+            "name": "status",
+            "path": "Data.currentProcessInstance.state.uuid.keyword",
+            "isMandatory": false
+        },
+        {
+            "name": "applicationNumber",
+            "path": "Data.applicationNumber.keyword",
+            "isMandatory": false
+        },
+        {
+            "name": "module",
+            "path": "Data.module.keyword",
+            "operator": "EQUAL",
+            "isMandatory": true
+        },
+        {
+            "name": "businessService",
+            "path": "Data.businessService.keyword",
+            "operator": "EQUAL",
+            "isMandatory": true
+        },
+        {
+            "name": "locality",
+            "path": "Data.address.locality.keyword",
+            "isMandatory": false
+        },
+        {
+            "name": "assignee",
+            "path": "Data.currentProcessInstance.assignes.uuid.keyword",
+            "isMandatory": false
+        }
+    ]
+}
