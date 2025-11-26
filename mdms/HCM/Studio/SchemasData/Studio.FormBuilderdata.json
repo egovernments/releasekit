@@ -1,24 +1,26 @@
-{
-    "name": "REGISTRATIONFLOW",
-    "order": 1,
-    "pages": [
-        {
-            "page": "beneficiaryLocation",
-            "type": "object",
-            "label": "APPONE_REGISTRATION_BENEFICIARY_LOCATION_SCREEN_HEADING",
-            "order": 1,
-            "navigateTo": {
-                "name": "householdDetails",
-                "type": "form"
-            },
-            "properties": [],
-            "actionLabel": "APPONE_REGISTRATION_BENEFICIARY_LOCATION_ACTION_BUTTON_LABEL_1",
-            "description": "APPONE_REGISTRATION_BENEFICIARY_LOCATION_SCREEN_DESCRIPTION"
-        }
-    ],
-    "project": "CMP-2025-07-24-006759",
-    "summary": true,
-    "version": 1,
-    "disabled": false,
-    "isSelected": true
-}
+[
+    {
+        "name": "REGISTRATIONFLOW",
+        "order": 1,
+        "pages": [
+            {
+                "page": "beneficiaryLocation",
+                "type": "object",
+                "label": "APPONE_REGISTRATION_BENEFICIARY_LOCATION_SCREEN_HEADING",
+                "order": 1,
+                "navigateTo": {
+                    "name": "householdDetails",
+                    "type": "form"
+                },
+                "properties": [],
+                "actionLabel": "APPONE_REGISTRATION_BENEFICIARY_LOCATION_ACTION_BUTTON_LABEL_1",
+                "description": "APPONE_REGISTRATION_BENEFICIARY_LOCATION_SCREEN_DESCRIPTION"
+            }
+        ],
+        "project": "CMP-2025-07-24-006759",
+        "summary": true,
+        "version": 1,
+        "disabled": false,
+        "isSelected": true
+    }
+]
