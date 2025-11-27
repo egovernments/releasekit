@@ -1,0 +1,48 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "key"
+    ],
+    "x-unique": [
+        "key"
+    ],
+    "properties": {
+        "key": {
+            "type": "string"
+        },
+        "roleAttributeAccessList": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "roleCode"
+                ],
+                "properties": {
+                    "roleCode": {
+                        "type": "string"
+                    },
+                    "attributeAccessList": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "attribute": {
+                                    "type": "object",
+                                    "properties": {
+                                        "jsonPath": {
+                                            "type": "string"
+                                        }
+                                    }
+                                },
+                                "accessType": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

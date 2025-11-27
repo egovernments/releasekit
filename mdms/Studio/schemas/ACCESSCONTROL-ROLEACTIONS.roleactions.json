@@ -1,0 +1,36 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "actionid",
+        "rolecode"
+    ],
+    "x-unique": [
+        "actionid",
+        "rolecode"
+    ],
+    "properties": {
+        "actionid": {
+            "type": "string"
+        },
+        "rolecode": {
+            "type": "string"
+        },
+        "tenantId": {
+            "type": "string"
+        },
+        "actioncode": {
+            "type": "string"
+        }
+    },
+    "x-ref-schema": [
+        {
+            "fieldPath": "actionid",
+            "schemaCode": "ACCESSCONTROL-ACTIONS-TEST.actions-test"
+        },
+        {
+            "fieldPath": "rolecode",
+            "schemaCode": "ACCESSCONTROL-ROLES.roles"
+        }
+    ]
+}

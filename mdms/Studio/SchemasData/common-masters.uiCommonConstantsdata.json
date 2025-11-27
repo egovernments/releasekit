@@ -1,0 +1,159 @@
+[
+    {
+        "id": "common-masters.uiCommonConstants.iccd.maps",
+        "iccd-maps": {
+            "iframe-routes": {
+                "checklist-filled-map": {
+                    "title": "DASHBOARD_MAPS_CHECKLIST_FILLED",
+                    "isOrigin": true,
+                    "routePath": "/kibana/s/iccd/app/dashboards?auth_provider_hint=anonymous1#/view/df46b330-1e68-11f0-84d3-47fc81e4fdef?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
+                    "Authorization": false,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "successful-administrations-map": {
+                    "title": "DASHBOARD_MAP_SUCCESSFUL_ADMINISTRATIONS",
+                    "isOrigin": true,
+                    "routePath": "/kibana/s/iccd/app/dashboards?auth_provider_hint=anonymous1#/view/d9d49880-1b44-11f0-b361-5fc98388291f?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
+                    "Authorization": false,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "unsuccessful-administrations-map": {
+                    "title": "DASHBOARD_MAP_UNSUCCESSFUL_ADMINISTRATIONS",
+                    "isOrigin": true,
+                    "routePath": "/kibana/s/iccd/app/dashboards?auth_provider_hint=anonymous1#/view/43d1db60-1b47-11f0-b361-5fc98388291f?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
+                    "Authorization": false,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                }
+            }
+        }
+    },
+    {
+        "id": "common-masters.uiCommonConstants.elastic",
+        "irs": {
+            "iframe-routes": {
+                "checklists-fill-national": {
+                    "title": "DASHBOARD_CHECKLISTS_FILL",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/1077cb40-8a14-11ef-82da-9bbcdc91995d?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "spray-successful-national": {
+                    "title": "DASHBOARD_SPRAY_SUCCESSFUL",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/ecd5c1a0-861d-11ef-b1f1-89448f531358?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "spray-unsuccessful-national": {
+                    "title": "DASHBOARD_SPRAY_UNSUCCESSFUL",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/8f573320-8635-11ef-b1f1-89448f531358?embed=true&_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                }
+            }
+        },
+        "smc": {
+            "iframe-routes": {
+                "hf": {
+                    "title": "DASHBOARD_HF",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&hide-filter-bar=true&_g=(time:(from:now-15m,to:now))&_a=()",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "hcm": {
+                    "title": "DASHBOARD_HCM",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&hide-filter-bar=true&_g=(time:(from:now-15m,to:now))&_a=()",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "district": {
+                    "title": "DASHBOARD_DISTRICT",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/4e5e95b4-92df-405c-94fa-e38366028471?embed=true&hide-filter-bar=true&_g=(filters:!(),time:(from:'2024-07-11T18:30:00.000Z',to:'2024-07-12T18:29:00.000Z'))",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "national": {
+                    "title": "DASHBOARD_NATIONAL",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&hide-filter-bar=true&_g=(time:(from:now-15m,to:now))&_a=()",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "province": {
+                    "title": "DASHBOARD_PROVINCE",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/855439a2-4b15-4db8-b033-5118ca8d76ec?embed=true&hide-filter-bar=true&_g=(filters:!(),time:(from:'2024-07-11T18:30:00.000Z',to:'2024-07-12T18:29:00.000Z'))",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "administration-successful-national": {
+                    "title": "DASHBOARD_ADMINISTRATION_SUCCESSFUL",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards#/view/580ff9e0-9c30-11ef-b5ae-178f84f1de57?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                },
+                "administration-unsuccessful-national": {
+                    "title": "DASHBOARD_ADMINISTRATION_UNSUCCESSFUL",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards#/view/8cbc4020-9c32-11ef-b5ae-178f84f1de57?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&hide-filter-bar=true",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/",
+                    "overwriteTimeFilter": true
+                }
+            }
+        },
+        "elastic": {
+            "iframe-routes": {
+                "hf": {
+                    "title": "LOCALITY_DASHBOARD",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards#/view/f3275f70-d2ed-11ee-a631-9d8465121de3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))"
+                },
+                "hcm": {
+                    "title": "DASHBOARD_HCM",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
+                    "Authorization": true,
+                    "base-kibana-path": "/kibana/"
+                },
+                "home": {
+                    "isOrigin": true,
+                    "routePath": "/kibana/login"
+                },
+                "district": {
+                    "title": "DISTRICT_DASHBOARD",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards#/view/69d01c30-d00e-11ee-a631-9d8465121de3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))"
+                },
+                "national": {
+                    "title": "NATIONAL_DASHBOARD",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards#/view/1d7222a0-0152-11ef-821a-2fe4b3554139?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))"
+                },
+                "province": {
+                    "title": "PROVINCE_DASHBOARD",
+                    "isOrigin": true,
+                    "routePath": "/kibana/app/dashboards#/view/95cef51b-9ec0-4ca0-aee0-d312ffbf3f23?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,169 @@
+{
+  "type": "object",
+  "title": "ui Home page",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "required": [
+    "module"
+  ],
+  "x-unique": [
+    "module"
+  ],
+  "properties": {
+    "module": {
+      "type": "string"
+    },
+    "redirectURL": {
+      "type": "string"
+    },
+    "appBannerMobile": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "bannerUrl": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    },
+    "whatsNewSection": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "sideOption": {
+          "type": "object"
+        },
+        "headerLabel": {
+          "type": "string"
+        }
+      }
+    },
+    "appBannerDesktop": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "bannerUrl": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    },
+    "citizenServicesCard": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "props": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "sideOption": {
+          "type": "object"
+        },
+        "headerLabel": {
+          "type": "string"
+        }
+      }
+    },
+    "whatsAppBannerMobile": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "bannerUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "navigationUrl": {
+          "type": "string"
+        }
+      }
+    },
+    "whatsAppBannerDesktop": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "bannerUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "navigationUrl": {
+          "type": "string"
+        }
+      }
+    },
+    "informationAndUpdatesCard": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "props": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "sideOption": {
+          "type": "object"
+        },
+        "headerLabel": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "serviceName": "localization",
+        "cacheTimeInSecs": 86400
+    },
+    {
+        "serviceName": "egov-mdms-service",
+        "moduleSettings": [
+            {
+                "moduleName": "FSM",
+                "cacheTimeInSecs": 7200
+            }
+        ],
+        "cacheTimeInSecs": 3600,
+        "debounceTimeInMS": 100
+    }
+]

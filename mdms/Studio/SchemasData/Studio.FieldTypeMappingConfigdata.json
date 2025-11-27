@@ -1,0 +1,111 @@
+[
+    {
+        "type": "documentUpload",
+        "order": 18,
+        "metadata": {
+            "type": "file",
+            "format": "documentUpload"
+        },
+        "fieldType": "documentUpload",
+        "attributeToRename": {
+            "helpText": "helpText",
+            "maxFiles": "maxFiles",
+            "maxFileSize": "maxFileSize",
+            "allowedFileTypes": "allowedFileTypes"
+        }
+    },
+    {
+        "type": "documentUploadAndDownload",
+        "order": 19,
+        "metadata": {
+            "type": "file",
+            "format": "documentUploadAndDownload"
+        },
+        "fieldType": "documentUploadAndDownload",
+        "attributeToRename": {
+            "helpText": "helpText",
+            "maxFiles": "maxFiles",
+            "maxFileSize": "maxFileSize",
+            "allowedFileTypes": "allowedFileTypes",
+            "showDownloadButton": "showDownloadButton",
+            "showReUploadButton": "showReUploadButton"
+        }
+    },
+    {
+        "type": "number",
+        "order": 2,
+        "metadata": {
+            "type": "integer",
+            "format": "text"
+        },
+        "fieldType": "number",
+        "attributeToRename": {
+            "helpText": "helpText"
+        }
+    },
+    {
+        "type": "dropdown",
+        "order": 3,
+        "metadata": {
+            "type": "string",
+            "format": "dropdown"
+        },
+        "fieldType": "dropdown",
+        "attributeToRename": {
+            "schemaCode": "schemaCode",
+            "isMultiSelect": "isMultiSelect",
+            "dropDownOptions": "enums"
+        }
+    },
+    {
+        "type": "radio",
+        "order": 5,
+        "metadata": {
+            "type": "string",
+            "format": "radio"
+        },
+        "fieldType": "radio",
+        "attributeToRename": {
+            "helpText": "helpText",
+            "schemaCode": "schemaCode",
+            "dropDownOptions": "enums"
+        }
+    },
+    {
+        "type": "date",
+        "order": 3,
+        "metadata": {
+            "type": "integer",
+            "format": "date"
+        },
+        "fieldType": "datePicker",
+        "attributeToRename": {
+            "endDate": "endDate",
+            "helpText": "helpText",
+            "startDate": "startDate"
+        }
+    },
+    {
+        "type": "mobileNumber",
+        "order": 8,
+        "metadata": {
+            "type": "integer",
+            "format": "mobileNumber"
+        },
+        "fieldType": "mobileNumber",
+        "attributeToRename": {
+            "helpText": "helpText"
+        }
+    },
+    {
+        "type": "text",
+        "metadata": {
+            "type": "string",
+            "format": "text"
+        },
+        "fieldType": "textInput",
+        "attributeToRename": {
+            "helpText": "helpText"
+        }
+    }
+]

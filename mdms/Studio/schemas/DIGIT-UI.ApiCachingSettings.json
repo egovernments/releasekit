@@ -1,0 +1,36 @@
+{
+    "type": "object",
+    "title": "Generated schema for Root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "serviceName"
+    ],
+    "x-unique": [
+        "serviceName"
+    ],
+    "properties": {
+        "serviceName": {
+            "type": "string"
+        },
+        "moduleSettings": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "moduleName": {
+                        "type": "string"
+                    },
+                    "cacheTimeInSecs": {
+                        "type": "number"
+                    }
+                }
+            }
+        },
+        "cacheTimeInSecs": {
+            "type": "number"
+        },
+        "debounceTimeInMS": {
+            "type": "number"
+        }
+    }
+}

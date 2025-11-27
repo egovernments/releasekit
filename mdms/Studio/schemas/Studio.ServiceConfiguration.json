@@ -1,0 +1,1350 @@
+{
+                "type": "object",
+                "title": "Generated schema for Root",
+                "$schema": "http://json-schema.org/draft-07/schema#",
+                "required": [
+                    "bill",
+                    "idgen",
+                    "inbox",
+                    "rules",
+                    "access",
+                    "fields",
+                    "module",
+                    "service",
+                    "enabled",
+                    "payment",
+                    "workflow",
+                    "apiconfig",
+                    "calculator",
+                    "localization",
+                    "notification"
+                ],
+                "x-unique": [
+                    "module",
+                    "service"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "pdf": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "key",
+                                "type",
+                                "states"
+                            ],
+                            "properties": {
+                                "key": {
+                                    "type": "string"
+                                },
+                                "type": {
+                                    "type": "string"
+                                },
+                                "states": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "string"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "bill": {
+                        "type": "object",
+                        "required": [
+                            "taxHead",
+                            "taxPeriod",
+                            "BusinessService"
+                        ],
+                        "properties": {
+                            "taxHead": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "code",
+                                        "name",
+                                        "order",
+                                        "isDebit",
+                                        "service",
+                                        "category",
+                                        "isRequired",
+                                        "isActualDemand"
+                                    ],
+                                    "properties": {
+                                        "code": {
+                                            "type": "string"
+                                        },
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "order": {
+                                            "type": "string"
+                                        },
+                                        "isDebit": {
+                                            "type": "boolean"
+                                        },
+                                        "service": {
+                                            "type": "string"
+                                        },
+                                        "category": {
+                                            "type": "string"
+                                        },
+                                        "isRequired": {
+                                            "type": "boolean"
+                                        },
+                                        "isActualDemand": {
+                                            "type": "boolean"
+                                        }
+                                    }
+                                }
+                            },
+                            "taxPeriod": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "code",
+                                        "toDate",
+                                        "service",
+                                        "fromDate",
+                                        "periodCycle",
+                                        "financialYear"
+                                    ],
+                                    "properties": {
+                                        "code": {
+                                            "type": "string"
+                                        },
+                                        "toDate": {
+                                            "type": "number"
+                                        },
+                                        "service": {
+                                            "type": "string"
+                                        },
+                                        "fromDate": {
+                                            "type": "number"
+                                        },
+                                        "periodCycle": {
+                                            "type": "string"
+                                        },
+                                        "financialYear": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            },
+                            "BusinessService": {
+                                "type": "object",
+                                "required": [
+                                    "code",
+                                    "businessService",
+                                    "demandUpdateTime",
+                                    "isAdvanceAllowed",
+                                    "minAmountPayable",
+                                    "partPaymentAllowed",
+                                    "isVoucherCreationEnabled",
+                                    "collectionModesNotAllowed"
+                                ],
+                                "properties": {
+                                    "code": {
+                                        "type": "string"
+                                    },
+                                    "businessService": {
+                                        "type": "string"
+                                    },
+                                    "demandUpdateTime": {
+                                        "type": "number"
+                                    },
+                                    "isAdvanceAllowed": {
+                                        "type": "boolean"
+                                    },
+                                    "minAmountPayable": {
+                                        "type": "number"
+                                    },
+                                    "partPaymentAllowed": {
+                                        "type": "boolean"
+                                    },
+                                    "isVoucherCreationEnabled": {
+                                        "type": "boolean"
+                                    },
+                                    "collectionModesNotAllowed": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "idgen": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "type",
+                                "format",
+                                "idname"
+                            ],
+                            "properties": {
+                                "type": {
+                                    "type": "string"
+                                },
+                                "format": {
+                                    "type": "string"
+                                },
+                                "idname": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "inbox": {
+                        "type": "object",
+                        "required": [
+                            "index",
+                            "module",
+                            "sortBy",
+                            "sourceFilterPathList",
+                            "allowedSearchCriteria"
+                        ],
+                        "properties": {
+                            "index": {
+                                "type": "string"
+                            },
+                            "module": {
+                                "type": "string"
+                            },
+                            "sortBy": {
+                                "type": "object",
+                                "required": [
+                                    "path",
+                                    "defaultOrder"
+                                ],
+                                "properties": {
+                                    "path": {
+                                        "type": "string"
+                                    },
+                                    "defaultOrder": {
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "sourceFilterPathList": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            },
+                            "allowedSearchCriteria": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "name",
+                                        "path",
+                                        "isMandatory"
+                                    ],
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "path": {
+                                            "type": "string"
+                                        },
+                                        "operator": {
+                                            "type": "string"
+                                        },
+                                        "isMandatory": {
+                                            "type": "boolean"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "rules": {
+                        "type": "object",
+                        "required": [
+                            "registry",
+                            "calculator",
+                            "references",
+                            "validation"
+                        ],
+                        "properties": {
+                            "registry": {
+                                "type": "object",
+                                "required": [
+                                    "type",
+                                    "service"
+                                ],
+                                "properties": {
+                                    "type": {
+                                        "type": "string"
+                                    },
+                                    "service": {
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "calculator": {
+                                "type": "object",
+                                "required": [
+                                    "type",
+                                    "service",
+                                    "customFunction"
+                                ],
+                                "properties": {
+                                    "type": {
+                                        "type": "string"
+                                    },
+                                    "service": {
+                                        "type": "string"
+                                    },
+                                    "customFunction": {
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "references": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "type",
+                                        "service"
+                                    ],
+                                    "properties": {
+                                        "type": {
+                                            "type": "string"
+                                        },
+                                        "service": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            },
+                            "validation": {
+                                "type": "object",
+                                "required": [
+                                    "type",
+                                    "service",
+                                    "schemaCode",
+                                    "customFunction"
+                                ],
+                                "properties": {
+                                    "type": {
+                                        "type": "string"
+                                    },
+                                    "service": {
+                                        "type": "string"
+                                    },
+                                    "schemaCode": {
+                                        "type": "string"
+                                    },
+                                    "customFunction": {
+                                        "type": "string"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "access": {
+                        "type": "object",
+                        "required": [
+                            "roles"
+                        ],
+                        "properties": {
+                            "roles": {
+                                "type": "object",
+                                "required": [],
+                                "properties": {
+                                    "editor": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "viewer": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "creator": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            },
+                            "actions": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "url"
+                                    ],
+                                    "properties": {
+                                        "url": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "fields": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "name",
+                                "type",
+                                "label"
+                            ],
+                            "properties": {
+                                "name": {
+                                    "type": "string"
+                                },
+                                "type": {
+                                    "type": "string"
+                                },
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "type",
+                                        "properties"
+                                    ],
+                                    "properties": {
+                                        "type": {
+                                            "type": "string"
+                                        },
+                                        "properties": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "required": [
+                                                    "name",
+                                                    "type",
+                                                    "label",
+                                                    "format",
+                                                    "schema",
+                                                    "required",
+                                                    "reference",
+                                                    "orderNumber"
+                                                ],
+                                                "properties": {
+                                                    "name": {
+                                                        "type": "string"
+                                                    },
+                                                    "type": {
+                                                        "type": "string"
+                                                    },
+                                                    "label": {
+                                                        "type": "string"
+                                                    },
+                                                    "format": {
+                                                        "type": "string"
+                                                    },
+                                                    "schema": {
+                                                        "type": "string"
+                                                    },
+                                                    "required": {
+                                                        "type": "boolean"
+                                                    },
+                                                    "reference": {
+                                                        "type": "string"
+                                                    },
+                                                    "orderNumber": {
+                                                        "type": "number"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "label": {
+                                    "type": "string"
+                                },
+                                "properties": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "required": [
+                                            "name",
+                                            "type",
+                                            "label",
+                                            "format",
+                                            "required",
+                                            "orderNumber"
+                                        ],
+                                        "properties": {
+                                            "name": {
+                                                "type": "string"
+                                            },
+                                            "type": {
+                                                "type": "string"
+                                            },
+                                            "label": {
+                                                "type": "string"
+                                            },
+                                            "format": {
+                                                "type": "string"
+                                            },
+                                            "schema": {
+                                                "type": "string"
+                                            },
+                                            "required": {
+                                                "type": "boolean"
+                                            },
+                                            "dependsOn": {
+                                                "type": "string"
+                                            },
+                                            "maxLength": {
+                                                "type": "number"
+                                            },
+                                            "minLength": {
+                                                "type": "number"
+                                            },
+                                            "parentKey": {
+                                                "type": "string"
+                                            },
+                                            "reference": {
+                                                "type": "string"
+                                            },
+                                            "validation": {
+                                                "type": "object",
+                                                "required": [
+                                                    "regex",
+                                                    "message"
+                                                ],
+                                                "properties": {
+                                                    "regex": {
+                                                        "type": "string"
+                                                    },
+                                                    "message": {
+                                                        "type": "string"
+                                                    }
+                                                }
+                                            },
+                                            "orderNumber": {
+                                                "type": "number"
+                                            },
+                                            "defaultValue": {
+                                                "type": "string"
+                                            },
+                                            "dependencies": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "string"
+                                                }
+                                            },
+                                            "valueExpression": {
+                                                "type": "string"
+                                            },
+                                            "visibilityExpression": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "module": {
+                        "type": "string"
+                    },
+                    "enabled": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "payment": {
+                        "type": "object",
+                        "required": [
+                            "gateway"
+                        ],
+                        "properties": {
+                            "gateway": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "service": {
+                        "type": "string"
+                    },
+                    "boundary": {
+                        "type": "object",
+                        "required": [
+                            "lowestLevel",
+                            "hierarchyType"
+                        ],
+                        "properties": {
+                            "lowestLevel": {
+                                "type": "string"
+                            },
+                            "hierarchyType": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "workflow": {
+                        "type": "object",
+                        "required": [
+                            "ACTIVE",
+                            "states",
+                            "INACTIVE",
+                            "business",
+                            "businessService",
+                            "businessServiceSla"
+                        ],
+                        "properties": {
+                            "ACTIVE": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            },
+                            "states": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "actions",
+                                        "isStartState",
+                                        "isStateUpdatable",
+                                        "isTerminateState",
+                                        "docUploadRequired"
+                                    ],
+                                    "properties": {
+                                        "sla": {
+                                            "type": [
+                                                "number",
+                                                "null"
+                                            ]
+                                        },
+                                        "state": {
+                                            "type": [
+                                                "string",
+                                                "null"
+                                            ]
+                                        },
+                                        "actions": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "required": [
+                                                    "roles",
+                                                    "action",
+                                                    "nextState"
+                                                ],
+                                                "properties": {
+                                                    "roles": {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "action": {
+                                                        "type": "string"
+                                                    },
+                                                    "nextState": {
+                                                        "type": "string"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "isStartState": {
+                                            "type": "boolean"
+                                        },
+                                        "generateDemandAt": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "isStateUpdatable": {
+                                            "type": "boolean"
+                                        },
+                                        "isTerminateState": {
+                                            "type": "boolean"
+                                        },
+                                        "applicationStatus": {
+                                            "type": [
+                                                "string",
+                                                "null"
+                                            ]
+                                        },
+                                        "docUploadRequired": {
+                                            "type": "boolean"
+                                        },
+                                        "nextActionAfterPayment": {
+                                            "type": "string"
+                                        },
+                                        "triggerParallelWorkflows": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": [
+                                                    "string",
+                                                    "null"
+                                                ]
+                                            }
+                                        },
+                                        "autoTransitionEnabledStates": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "INACTIVE": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            },
+                            "business": {
+                                "type": "string"
+                            },
+                            "businessService": {
+                                "type": "string"
+                            },
+                            "businessServiceSla": {
+                                "type": "number"
+                            }
+                        }
+                    },
+                    "apiconfig": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "host",
+                                "type",
+                                "method",
+                                "service",
+                                "endpoint"
+                            ],
+                            "properties": {
+                                "host": {
+                                    "type": "string"
+                                },
+                                "type": {
+                                    "type": "string"
+                                },
+                                "method": {
+                                    "type": "string"
+                                },
+                                "service": {
+                                    "type": "string"
+                                },
+                                "endpoint": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "applicant": {
+                        "type": "object",
+                        "required": [
+                            "types",
+                            "config",
+                            "maximum",
+                            "minimum"
+                        ],
+                        "properties": {
+                            "types": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            },
+                            "config": {
+                                "type": "object",
+                                "required": [
+                                    "systemUser",
+                                    "systemRoles",
+                                    "systemUserType"
+                                ],
+                                "properties": {
+                                    "systemUser": {
+                                        "type": "boolean"
+                                    },
+                                    "systemRoles": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "systemUserType": {
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "maximum": {
+                                "type": "number"
+                            },
+                            "minimum": {
+                                "type": "number"
+                            },
+                            "searchby": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [],
+                                    "properties": {
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "path": {
+                                            "type": "string"
+                                        },
+                                        "type": {
+                                            "type": "string"
+                                        },
+                                        "label": {
+                                            "type": "string"
+                                        },
+                                        "format": {
+                                            "type": "string"
+                                        },
+                                        "required": {
+                                            "type": "boolean"
+                                        },
+                                        "maxLength": {
+                                            "type": "number"
+                                        },
+                                        "minLength": {
+                                            "type": "number"
+                                        },
+                                        "validation": {
+                                            "type": "object",
+                                            "required": [
+                                                "regex",
+                                                "message"
+                                            ],
+                                            "properties": {
+                                                "regex": {
+                                                    "type": "string"
+                                                },
+                                                "message": {
+                                                    "type": "string"
+                                                }
+                                            }
+                                        },
+                                        "orderNumber": {
+                                            "type": "number"
+                                        }
+                                    }
+                                }
+                            },
+                            "individal": {
+                                "type": "object",
+                                "required": [
+                                    "properties"
+                                ],
+                                "properties": {
+                                    "properties": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "object",
+                                            "required": [],
+                                            "properties": {
+                                                "name": {
+                                                    "type": "string"
+                                                },
+                                                "path": {
+                                                    "type": "string"
+                                                },
+                                                "type": {
+                                                    "type": "string"
+                                                },
+                                                "label": {
+                                                    "type": "string"
+                                                },
+                                                "format": {
+                                                    "type": "string"
+                                                },
+                                                "hidden": {
+                                                    "type": "boolean"
+                                                },
+                                                "required": {
+                                                    "type": "boolean"
+                                                },
+                                                "maxLength": {
+                                                    "type": "number"
+                                                },
+                                                "minLength": {
+                                                    "type": "number"
+                                                },
+                                                "validation": {
+                                                    "type": "object",
+                                                    "required": [
+                                                        "regex",
+                                                        "message"
+                                                    ],
+                                                    "properties": {
+                                                        "regex": {
+                                                            "type": "string"
+                                                        },
+                                                        "message": {
+                                                            "type": "string"
+                                                        }
+                                                    }
+                                                },
+                                                "orderNumber": {
+                                                    "type": "number"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "organisation": {
+                                "type": "object",
+                                "required": [
+                                    "properties"
+                                ],
+                                "properties": {
+                                    "properties": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "object",
+                                            "required": [],
+                                            "properties": {
+                                                "name": {
+                                                    "type": "string"
+                                                },
+                                                "path": {
+                                                    "type": "string"
+                                                },
+                                                "type": {
+                                                    "type": "string"
+                                                },
+                                                "label": {
+                                                    "type": "string"
+                                                },
+                                                "format": {
+                                                    "type": "string"
+                                                },
+                                                "required": {
+                                                    "type": "boolean"
+                                                },
+                                                "maxLength": {
+                                                    "type": "number"
+                                                },
+                                                "minLength": {
+                                                    "type": "number"
+                                                },
+                                                "validation": {
+                                                    "type": "object",
+                                                    "required": [
+                                                        "regex",
+                                                        "message"
+                                                    ],
+                                                    "properties": {
+                                                        "regex": {
+                                                            "type": "string"
+                                                        },
+                                                        "message": {
+                                                            "type": "string"
+                                                        }
+                                                    }
+                                                },
+                                                "orderNumber": {
+                                                    "type": "number"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "allowLoggedInUser": {
+                                "type": "boolean"
+                            }
+                        }
+                    },
+                    "checklist": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "name",
+                                "state"
+                            ],
+                            "properties": {
+                                "name": {
+                                    "type": "string"
+                                },
+                                "state": {
+                                    "type": "string"
+                                },
+                                "checklistData": {
+                                    "type": "object",
+                                    "properties": {
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "required": [
+                                                    "id",
+                                                    "key",
+                                                    "type",
+                                                    "level",
+                                                    "title",
+                                                    "options",
+                                                    "isActive",
+                                                    "isRequired"
+                                                ],
+                                                "properties": {
+                                                    "id": {
+                                                        "type": "string"
+                                                    },
+                                                    "key": {
+                                                        "type": "number"
+                                                    },
+                                                    "type": {
+                                                        "type": "object",
+                                                        "required": [
+                                                            "code"
+                                                        ],
+                                                        "properties": {
+                                                            "code": {
+                                                                "type": "string"
+                                                            }
+                                                        }
+                                                    },
+                                                    "level": {
+                                                        "type": "number"
+                                                    },
+                                                    "title": {
+                                                        "type": "string"
+                                                    },
+                                                    "value": {
+                                                        "type": [
+                                                            "string",
+                                                            "number",
+                                                            "array",
+                                                            "object",
+                                                            "null"
+                                                        ]
+                                                    },
+                                                    "options": {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "object",
+                                                            "required": [
+                                                                "id",
+                                                                "key",
+                                                                "label",
+                                                                "parentQuestionId"
+                                                            ],
+                                                            "properties": {
+                                                                "id": {
+                                                                    "type": "string"
+                                                                },
+                                                                "key": {
+                                                                    "type": "number"
+                                                                },
+                                                                "label": {
+                                                                    "type": "string"
+                                                                },
+                                                                "subQuestions": {
+                                                                    "type": "array",
+                                                                    "items": {
+                                                                        "type": "object"
+                                                                    }
+                                                                },
+                                                                "optionComment": {
+                                                                    "type": "boolean"
+                                                                },
+                                                                "optionDependency": {
+                                                                    "type": "boolean"
+                                                                },
+                                                                "parentQuestionId": {
+                                                                    "type": "string"
+                                                                }
+                                                            },
+                                                            "additionalProperties": true
+                                                        }
+                                                    },
+                                                    "isActive": {
+                                                        "type": "boolean"
+                                                    },
+                                                    "parentId": {
+                                                        "type": [
+                                                            "string",
+                                                            "null"
+                                                        ]
+                                                    },
+                                                    "isRequired": {
+                                                        "type": "boolean"
+                                                    },
+                                                    "subQuestions": {
+                                                        "type": "array",
+                                                        "items": {
+                                                            "type": "object"
+                                                        }
+                                                    }
+                                                },
+                                                "additionalProperties": true
+                                            }
+                                        },
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "isActive": {
+                                            "type": "boolean"
+                                        },
+                                        "description": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "additionalProperties": true
+                                }
+                            },
+                            "additionalProperties": true
+                        },
+                        "uniqueItems": true
+                    },
+                    "documents": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "module"
+                            ],
+                            "properties": {
+                                "module": {
+                                    "type": "string"
+                                },
+                                "actions": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "required": [
+                                            "action",
+                                            "documents"
+                                        ],
+                                        "properties": {
+                                            "action": {
+                                                "type": "string"
+                                            },
+                                            "assignee": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "show": {
+                                                        "type": "boolean"
+                                                    },
+                                                    "isMandatory": {
+                                                        "type": "boolean"
+                                                    }
+                                                }
+                                            },
+                                            "comments": {
+                                                "type": "object",
+                                                "properties": {
+                                                    "show": {
+                                                        "type": "boolean"
+                                                    },
+                                                    "isMandatory": {
+                                                        "type": "boolean"
+                                                    }
+                                                }
+                                            },
+                                            "documents": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "required": [
+                                                        "code",
+                                                        "name",
+                                                        "active",
+                                                        "isMandatory",
+                                                        "maxSizeInMB",
+                                                        "maxFilesAllowed",
+                                                        "allowedFileTypes"
+                                                    ],
+                                                    "properties": {
+                                                        "code": {
+                                                            "type": "string"
+                                                        },
+                                                        "name": {
+                                                            "type": "string"
+                                                        },
+                                                        "active": {
+                                                            "type": "boolean"
+                                                        },
+                                                        "hintText": {
+                                                            "type": "string"
+                                                        },
+                                                        "isMandatory": {
+                                                            "type": "boolean"
+                                                        },
+                                                        "maxSizeInMB": {
+                                                            "type": "number"
+                                                        },
+                                                        "showHintBelow": {
+                                                            "type": "boolean"
+                                                        },
+                                                        "showTextInput": {
+                                                            "type": "boolean"
+                                                        },
+                                                        "templatePDFKey": {
+                                                            "type": [
+                                                                "string",
+                                                                "null"
+                                                            ]
+                                                        },
+                                                        "maxFilesAllowed": {
+                                                            "type": "number"
+                                                        },
+                                                        "allowedFileTypes": {
+                                                            "type": "array",
+                                                            "items": {
+                                                                "type": "string"
+                                                            }
+                                                        },
+                                                        "templateDownloadURL": {
+                                                            "type": [
+                                                                "string",
+                                                                "null"
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "bannerLabel": {
+                                    "type": "string"
+                                },
+                                "maxSizeInMB": {
+                                    "type": "number"
+                                },
+                                "allowedFileTypes": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "string"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "calculator": {
+                        "type": "object",
+                        "required": [
+                            "type",
+                            "billingSlabs"
+                        ],
+                        "properties": {
+                            "type": {
+                                "type": "string"
+                            },
+                            "billingSlabs": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "key",
+                                        "value"
+                                    ],
+                                    "properties": {
+                                        "key": {
+                                            "type": "string"
+                                        },
+                                        "value": {
+                                            "type": "number"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "localization": {
+                        "type": "object",
+                        "required": [
+                            "modules"
+                        ],
+                        "properties": {
+                            "modules": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "notification": {
+                        "type": "object",
+                        "required": [
+                            "sms",
+                            "email"
+                        ],
+                        "properties": {
+                            "sms": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "code",
+                                        "states",
+                                        "template"
+                                    ],
+                                    "properties": {
+                                        "code": {
+                                            "type": "string"
+                                        },
+                                        "states": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "template": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            },
+                            "email": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "code",
+                                        "states",
+                                        "template"
+                                    ],
+                                    "properties": {
+                                        "code": {
+                                            "type": "string"
+                                        },
+                                        "states": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "subject": {
+                                            "type": "string"
+                                        },
+                                        "template": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }

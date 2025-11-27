@@ -1,0 +1,183 @@
+[
+    {
+        "tab": "content",
+        "label": "templateDownloadURL",
+        "order": 9,
+        "bindTo": "templateDownloadURL",
+        "tabOrder": 2,
+        "fieldType": "text",
+        "defaultValue": false,
+        "conditionalField": [],
+        "showFieldOnToggle": false,
+        "visibilityEnabledFor": [
+            "documentUploadAndDownload"
+        ]
+    },
+    {
+        "tab": "validation",
+        "label": "allowedFileTypes",
+        "order": 9,
+        "bindTo": "allowedFileTypes",
+        "tabOrder": 2,
+        "fieldType": "text",
+        "validation": {
+            "message": "Please enter valid file types separated by commas",
+            "pattern": "^[a-zA-Z0-9,\\s]+$",
+            "required": false
+        },
+        "defaultValue": false,
+        "conditionalField": [],
+        "showFieldOnToggle": false,
+        "visibilityEnabledFor": [
+            "documentUpload",
+            "documentUploadAndDownload"
+        ]
+    },
+    {
+        "tab": "content",
+        "label": "fieldType",
+        "order": 1,
+        "tabOrder": 1,
+        "fieldType": "fieldTypeDropdown",
+        "disableForRequired": true,
+        "visibilityEnabledFor": []
+    },
+    {
+        "tab": "content",
+        "label": "label",
+        "order": 2,
+        "bindTo": "label",
+        "tabOrder": 1,
+        "fieldType": "text",
+        "defaultValue": false,
+        "conditionalField": [],
+        "showFieldOnToggle": true,
+        "visibilityEnabledFor": []
+    },
+    {
+        "tab": "validation",
+        "label": "errorMessage",
+        "order": 4,
+        "bindTo": "errorMessage",
+        "tabOrder": 2,
+        "fieldType": "text",
+        "defaultValue": false,
+        "conditionalField": [],
+        "showFieldOnToggle": false,
+        "visibilityEnabledFor": [
+            "text",
+            "number",
+            "mobileNumber"
+        ]
+    },
+    {
+        "tab": "validation",
+        "label": "regex",
+        "order": 3,
+        "bindTo": "regex",
+        "tabOrder": 2,
+        "fieldType": "text",
+        "defaultValue": false,
+        "conditionalField": [],
+        "showFieldOnToggle": false,
+        "visibilityEnabledFor": [
+            "text",
+            "mobileNumber",
+            "number"
+        ]
+    },
+    {
+        "tab": "content",
+        "label": "isMdms",
+        "order": 8,
+        "tabOrder": 1,
+        "fieldType": "toggle",
+        "defaultValue": false,
+        "conditionalField": [
+            {
+                "type": "MdmsDropdown",
+                "label": "APPCONFIG_SELECT_SCHEMA",
+                "bindTo": "schemaCode",
+                "jsonPath": "schemaCode",
+                "condition": true,
+                "mdmsOptions": [
+                    {
+                        "masterName": "GenderType",
+                        "moduleName": "common-masters",
+                        "schemaCode": "common-masters.GenderType"
+                    }
+                ]
+            },
+            {
+                "type": "options",
+                "bindTo": "dropDownOptions",
+                "condition": false
+            }
+        ],
+        "showFieldOnToggle": true,
+        "visibilityEnabledFor": [
+            "dropdown",
+            "radio"
+        ]
+    },
+    {
+        "tab": "content",
+        "label": "required",
+        "order": 3,
+        "bindTo": "required",
+        "tabOrder": 1,
+        "fieldType": "toggle",
+        "defaultValue": false,
+        "conditionalField": [],
+        "showFieldOnToggle": true,
+        "visibilityEnabledFor": [
+            "text",
+            "number",
+            "dropdown",
+            "radio",
+            "date",
+            "mobileNumber",
+            "documentUpload",
+            "documentUploadAndDownload"
+        ]
+    },
+    {
+        "tab": "validation",
+        "label": "characterCount",
+        "order": 2,
+        "bindTo": "charCount",
+        "tabOrder": 2,
+        "fieldType": "toggle",
+        "defaultValue": false,
+        "conditionalField": [
+            {
+                "type": "number",
+                "label": "Max Length",
+                "bindTo": "maxLength"
+            },
+            {
+                "type": "number",
+                "label": "Min Length",
+                "bindTo": "minLength"
+            }
+        ],
+        "showFieldOnToggle": true,
+        "visibilityEnabledFor": [
+            "text"
+        ]
+    },
+    {
+        "tab": "validation",
+        "label": "isdCodePrefix",
+        "order": 9,
+        "bindTo": "isdCodePrefix",
+        "tabOrder": 2,
+        "fieldType": "text",
+        "defaultValue": false,
+        "conditionalField": [],
+        "showFieldOnToggle": false,
+        "visibilityEnabledFor": [
+            "mobileNumber"
+        ]
+    }
+]
