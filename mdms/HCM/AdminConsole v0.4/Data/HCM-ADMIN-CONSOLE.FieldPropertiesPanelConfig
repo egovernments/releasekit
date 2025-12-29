@@ -188,6 +188,11 @@
             "code": "ALPHANUMERICONLY",
             "pattern": "^[a-zA-Z0-9]+$",
             "description": "Letters and numbers only (no special characters)"
+          },
+          {
+            "code": "ALPHANUMERICWITHSPACE",
+            "pattern": "^[a-zA-Z0-9 ]+$",
+            "description": "Letters and numbers with space only (no special characters)"
           }
         ],
         "jsonPath": "pattern"
@@ -195,12 +200,14 @@
       {
         "type": "text",
         "label": "APPCONFIG_CUSTOM_PATTERN",
-        "bindTo": "toArray.pattern"
+        "bindTo": "toArray.pattern",
+        "options": []
       },
       {
         "type": "text",
         "label": "APPCONFIG_ERRORMESSAGE",
-        "bindTo": "toArray.pattern.message"
+        "bindTo": "toArray.pattern.message",
+        "options": []
       }
     ],
     "showFieldOnToggle": true,
@@ -220,7 +227,8 @@
       {
         "type": "text",
         "label": "APPCONFIG_ERRORMESSAGE",
-        "bindTo": "toArray.required.message"
+        "bindTo": "toArray.required.message",
+        "options": []
       }
     ],
     "showFieldOnToggle": true,
@@ -238,7 +246,8 @@
       "text",
       "latLng",
       "administrativeArea",
-      ""
+      "",
+      "radio"
     ]
   },
   {
@@ -281,7 +290,8 @@
       "PrimaryButton",
       "idPopulator",
       "radio",
-      "deliveryConditionDialog"
+      "deliveryConditionDialog",
+      "searchByID"
     ]
   },
   {
