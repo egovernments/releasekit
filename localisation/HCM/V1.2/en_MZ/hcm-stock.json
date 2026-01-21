@@ -377,6 +377,36 @@
             "message": "Warehouse Details",
             "module": "hcm-stock",
             "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_DAMAGED_ERROR",
+            "message": "Please enter the quantity",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_LOST_ERROR",
+            "message": "Please enter the quantity",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_RETURNED_ERROR",
+            "message": "Please enter the quantity",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_QUANTITY_SENT_ERROR",
+            "message": "Please enter the quantity",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
+        },
+        {
+            "code": "STOCK_DETAILS_SENDER_RECEIVER_ID_VALIDATION",
+            "message": "Sender and receiver can not be same",
+            "module": "hcm-stock",
+            "locale": "en_MZ"
         }
     ]
 }
