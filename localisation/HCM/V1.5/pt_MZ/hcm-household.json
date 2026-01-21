@@ -1,13 +1,37 @@
 [
     {
         "code": "ADMINISTRATION_AREA_FORM_LABEL",
-        "message": "Área administrativa",
+        "message": "Aldeia",
         "module": "hcm-household",
         "locale": "pt_MZ"
     },
     {
         "code": "CAPTURING_LOCATION",
         "message": "Captura da Localização",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CEMENT",
+        "message": "Cimento",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "CLAY",
+        "message": "Argila",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "DELIVER_INTERVENTION_TYPE_OF_INSECTICIDE_USED",
+        "message": "Tipo de inseticida utilizado: Quantidade distribuída",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "GLASS",
+        "message": "Vidro",
         "module": "hcm-household",
         "locale": "pt_MZ"
     },
@@ -186,8 +210,26 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "IRS_TYPE_OF_RESOURCE_USED",
+        "message": "Tipo de inseticida utilizado: Quantidade distribuída",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "LANDMARK_FORM_LABEL",
         "message": "Marco",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN BEDNET_TYPE_OF_RESOURCE_USED",
+        "message": "Recursos utilizados: Quantidade distribuída",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "LLIN_TYPE_OF_RESOURCE_USED",
+        "message": "Recursos utilizados: Quantidade distribuída",
         "module": "hcm-household",
         "locale": "pt_MZ"
     },
@@ -200,6 +242,12 @@
     {
         "code": "MEMBER_COUNT_ERROR",
         "message": "O número de membros não deve ser inferior a 1 ou ao número de dependentes do agregado familiar.",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "METAL",
+        "message": "Metal",
         "module": "hcm-household",
         "locale": "pt_MZ"
     },
@@ -217,7 +265,7 @@
     },
     {
         "code": "NO_OF_MEMBERS_COUNT_LABEL",
-        "message": "Número de membros que moram no domicílio*",
+        "message": "N.º de membros que vivem no agregado familiar",
         "module": "hcm-household",
         "locale": "pt_MZ"
     },
@@ -246,6 +294,18 @@
         "locale": "pt_MZ"
     },
     {
+        "code": "REEDS",
+        "message": "Palha",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "SMC CAMPAIGN_TYPE_OF_RESOURCE_USED",
+        "message": "Recursos utilizados: Quantidade distribuída",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
         "code": "TOTAL_HOUSEHOLD_MEMBERS",
         "message": "Total de membros do agregado familiar",
         "module": "hcm-household",
@@ -260,6 +320,12 @@
     {
         "code": "VIEW_HOUSEHOLD_DETAILS_ACTION_LABEL",
         "message": "Ver detalhes da família",
+        "module": "hcm-household",
+        "locale": "pt_MZ"
+    },
+    {
+        "code": "VILLAGE_LABEL",
+        "message": "Vila",
         "module": "hcm-household",
         "locale": "pt_MZ"
     }
