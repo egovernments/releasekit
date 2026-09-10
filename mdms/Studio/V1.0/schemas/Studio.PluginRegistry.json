@@ -1,0 +1,63 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "pluginCode",
+        "endpoint",
+        "version"
+    ],
+    "x-unique": [
+        "pluginCode"
+    ],
+    "properties": {
+        "emits": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "event": {
+                        "type": "string"
+                    },
+                    "label": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "version": {
+            "type": "string"
+        },
+        "endpoint": {
+            "type": "string"
+        },
+        "pluginCode": {
+            "type": "string"
+        },
+        "configFields": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "key": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "enum": [
+                            "string",
+                            "number",
+                            "boolean",
+                            "select"
+                        ],
+                        "type": "string"
+                    },
+                    "hidden": {
+                        "type": "boolean"
+                    },
+                    "required": {
+                        "type": "boolean"
+                    }
+                }
+            }
+        }
+    }
+}

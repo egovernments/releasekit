@@ -1,0 +1,50 @@
+{
+    "type": "object",
+    "title": "Studio UI Theme Config",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "code",
+        "primaryColor",
+        "secondaryColor",
+        "textColor"
+    ],
+    "x-unique": [
+        "code"
+    ],
+    "properties": {
+        "code": {
+            "type": "string",
+            "description": "Constant marker ('ui-theme') \u2014 one active theme record per tenant. Required by MDMS as the schema's unique attribute; not otherwise meaningful."
+        },
+        "cardBg": {
+            "type": "string",
+            "pattern": "^#[0-9A-Fa-f]{6}$",
+            "description": "Light background tint behind icon-wrapper elements (e.g. .sc-create-card) \u2014 applied via the existing --digitv2-lightTheme-primary-bg CSS var, not a new one."
+        },
+        "textColor": {
+            "type": "string",
+            "pattern": "^#[0-9A-Fa-f]{6}$"
+        },
+        "cardRadius": {
+            "type": "string",
+            "description": "Placeholder \u2014 not yet wired to any CSS var or consuming code."
+        },
+        "fontFamily": {
+            "type": "string",
+            "description": "Placeholder \u2014 not yet wired to any CSS var or consuming code."
+        },
+        "buttonRadius": {
+            "type": "string",
+            "description": "Placeholder \u2014 not yet wired to any CSS var or consuming code."
+        },
+        "primaryColor": {
+            "type": "string",
+            "pattern": "^#[0-9A-Fa-f]{6}$"
+        },
+        "secondaryColor": {
+            "type": "string",
+            "pattern": "^#[0-9A-Fa-f]{6}$"
+        }
+    },
+    "description": "Tenant-level primary/secondary/text colour overrides applied dynamically to the DIGIT Studio UI."
+}

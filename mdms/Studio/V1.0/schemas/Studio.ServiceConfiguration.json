@@ -1,0 +1,808 @@
+{
+    "type": "object",
+    "title": "Generated schema for Root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "idgen",
+        "inbox",
+        "rules",
+        "access",
+        "fields",
+        "module",
+        "service",
+        "enabled",
+        "payment",
+        "workflow",
+        "apiconfig",
+        "localization",
+        "notification"
+    ],
+    "x-unique": [
+        "module",
+        "service"
+    ],
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "pdf": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "key",
+                    "type",
+                    "states"
+                ],
+                "properties": {
+                    "key": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "states": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
+        "bill": {
+            "type": "object",
+            "required": [
+                "taxHead",
+                "taxPeriod",
+                "BusinessService"
+            ],
+            "properties": {
+                "taxHead": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "code",
+                            "name",
+                            "order",
+                            "isDebit",
+                            "service",
+                            "category",
+                            "isActualDemand"
+                        ],
+                        "properties": {
+                            "code": {
+                                "type": "string"
+                            },
+                            "name": {
+                                "type": "string"
+                            },
+                            "order": {
+                                "type": "string"
+                            },
+                            "isDebit": {
+                                "type": "boolean"
+                            },
+                            "service": {
+                                "type": "string"
+                            },
+                            "category": {
+                                "type": "string"
+                            },
+                            "isRequired": {
+                                "type": "boolean"
+                            },
+                            "isActualDemand": {
+                                "type": "boolean"
+                            }
+                        }
+                    }
+                },
+                "taxPeriod": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "code",
+                            "toDate",
+                            "service",
+                            "fromDate",
+                            "periodCycle",
+                            "financialYear"
+                        ],
+                        "properties": {
+                            "code": {
+                                "type": "string"
+                            },
+                            "toDate": {
+                                "type": "number"
+                            },
+                            "service": {
+                                "type": "string"
+                            },
+                            "fromDate": {
+                                "type": "number"
+                            },
+                            "periodCycle": {
+                                "type": "string"
+                            },
+                            "financialYear": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                },
+                "BusinessService": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "code",
+                            "businessService",
+                            "demandUpdateTime",
+                            "isAdvanceAllowed",
+                            "minAmountPayable",
+                            "partPaymentAllowed",
+                            "isVoucherCreationEnabled",
+                            "collectionModesNotAllowed"
+                        ],
+                        "properties": {
+                            "code": {
+                                "type": "string"
+                            },
+                            "businessService": {
+                                "type": "string"
+                            },
+                            "demandUpdateTime": {
+                                "type": "number"
+                            },
+                            "isAdvanceAllowed": {
+                                "type": "boolean"
+                            },
+                            "minAmountPayable": {
+                                "type": "number"
+                            },
+                            "partPaymentAllowed": {
+                                "type": "boolean"
+                            },
+                            "isVoucherCreationEnabled": {
+                                "type": "boolean"
+                            },
+                            "collectionModesNotAllowed": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "idgen": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "type",
+                    "format",
+                    "idname"
+                ],
+                "properties": {
+                    "type": {
+                        "type": "string"
+                    },
+                    "format": {
+                        "type": "string"
+                    },
+                    "idname": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "inbox": {
+            "type": "object",
+            "required": [
+                "index",
+                "module",
+                "sortBy",
+                "sourceFilterPathList",
+                "allowedSearchCriteria"
+            ],
+            "properties": {
+                "index": {
+                    "type": "string"
+                },
+                "module": {
+                    "type": "string"
+                },
+                "sortBy": {
+                    "type": "object",
+                    "required": [
+                        "path",
+                        "defaultOrder"
+                    ],
+                    "properties": {
+                        "path": {
+                            "type": "string"
+                        },
+                        "defaultOrder": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "sourceFilterPathList": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "allowedSearchCriteria": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "name",
+                            "path",
+                            "isMandatory"
+                        ],
+                        "properties": {
+                            "name": {
+                                "type": "string"
+                            },
+                            "path": {
+                                "type": "string"
+                            },
+                            "operator": {
+                                "type": "string"
+                            },
+                            "isMandatory": {
+                                "type": "boolean"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "rules": {
+            "type": "object",
+            "required": [
+                "registry",
+                "calculator",
+                "references",
+                "validation"
+            ],
+            "properties": {
+                "registry": {
+                    "type": "object",
+                    "required": [
+                        "type",
+                        "service"
+                    ],
+                    "properties": {
+                        "type": {
+                            "type": "string"
+                        },
+                        "service": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "calculator": {
+                    "type": "object",
+                    "required": [
+                        "type",
+                        "service",
+                        "customFunction"
+                    ],
+                    "properties": {
+                        "type": {
+                            "type": "string"
+                        },
+                        "service": {
+                            "type": "string"
+                        },
+                        "customFunction": {
+                            "type": "string"
+                        }
+                    }
+                },
+                "references": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "type",
+                            "service"
+                        ],
+                        "properties": {
+                            "type": {
+                                "type": "string"
+                            },
+                            "service": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                },
+                "validation": {
+                    "type": "object",
+                    "required": [
+                        "type",
+                        "service",
+                        "schemaCode",
+                        "customFunction"
+                    ],
+                    "properties": {
+                        "type": {
+                            "type": "string"
+                        },
+                        "service": {
+                            "type": "string"
+                        },
+                        "schemaCode": {
+                            "type": "string"
+                        },
+                        "customFunction": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        },
+        "access": {
+            "type": "object",
+            "required": [
+                "roles"
+            ],
+            "properties": {
+                "roles": {
+                    "type": "object",
+                    "properties": {
+                        "editor": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
+                        },
+                        "viewer": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
+                        },
+                        "creator": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                },
+                "actions": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "url"
+                        ],
+                        "properties": {
+                            "url": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "events": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "id",
+                    "trigger",
+                    "post"
+                ],
+                "x-unique": [
+                    "trigger.type",
+                    "trigger.action"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "post": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "required": [
+                                "order",
+                                "operation",
+                                "required"
+                            ],
+                            "properties": {
+                                "order": {
+                                    "type": "number"
+                                },
+                                "config": {
+                                    "type": "object"
+                                },
+                                "version": {
+                                    "type": "string"
+                                },
+                                "required": {
+                                    "type": "boolean"
+                                },
+                                "operation": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "trigger": {
+                        "type": "object",
+                        "required": [
+                            "type"
+                        ],
+                        "properties": {
+                            "key": {
+                                "type": "string"
+                            },
+                            "type": {
+                                "enum": [
+                                    "ON_ACTION",
+                                    "ON_TRANSITION",
+                                    "ON_STATE"
+                                ],
+                                "type": "string"
+                            },
+                            "event": {
+                                "type": "string"
+                            },
+                            "action": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "fields": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "name",
+                    "type",
+                    "label"
+                ],
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "type": {
+                                "type": "string"
+                            },
+                            "properties": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "label": {
+                        "type": "string"
+                    },
+                    "properties": {
+                        "type": "array",
+                        "items": {
+                            "type": "object"
+                        }
+                    }
+                }
+            }
+        },
+        "module": {
+            "type": "string"
+        },
+        "enabled": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "payment": {
+            "type": "object",
+            "required": [
+                "gateway"
+            ],
+            "properties": {
+                "gateway": {
+                    "type": "string"
+                }
+            }
+        },
+        "plugins": {
+            "type": "object",
+            "additionalProperties": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "required": [
+                        "key"
+                    ],
+                    "properties": {
+                        "key": {
+                            "type": "string"
+                        },
+                        "mode": {
+                            "type": "array",
+                            "items": {
+                                "type": "string"
+                            }
+                        },
+                        "channel": {
+                            "type": "string"
+                        },
+                        "feeType": {
+                            "type": "string"
+                        },
+                        "gateway": {
+                            "type": "string"
+                        },
+                        "templateId": {
+                            "type": "string"
+                        },
+                        "billingSlabs": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "required": [
+                                    "key",
+                                    "feeCategory",
+                                    "feeType"
+                                ],
+                                "properties": {
+                                    "key": {
+                                        "type": "string"
+                                    },
+                                    "value": {
+                                        "type": "number"
+                                    },
+                                    "feeType": {
+                                        "type": "string"
+                                    },
+                                    "feeCategory": {
+                                        "type": "string"
+                                    }
+                                }
+                            }
+                        },
+                        "customApiUrl": {
+                            "type": "string"
+                        },
+                        "outputFormat": {
+                            "type": "string"
+                        },
+                        "minAmountPayable": {
+                            "type": "number"
+                        },
+                        "partPaymentAllowed": {
+                            "type": "boolean"
+                        }
+                    }
+                }
+            }
+        },
+        "service": {
+            "type": "string"
+        },
+        "boundary": {
+            "type": "object",
+            "required": [
+                "lowestLevel",
+                "hierarchyType"
+            ],
+            "properties": {
+                "lowestLevel": {
+                    "type": "string"
+                },
+                "hierarchyType": {
+                    "type": "string"
+                }
+            }
+        },
+        "workflow": {
+            "type": "object",
+            "required": [
+                "ACTIVE",
+                "states",
+                "INACTIVE",
+                "business",
+                "businessService",
+                "businessServiceSla"
+            ],
+            "properties": {
+                "ACTIVE": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "states": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "actions",
+                            "isStartState",
+                            "isStateUpdatable",
+                            "isTerminateState",
+                            "docUploadRequired"
+                        ],
+                        "properties": {
+                            "sla": {
+                                "type": [
+                                    "number",
+                                    "null"
+                                ]
+                            },
+                            "state": {
+                                "type": [
+                                    "string",
+                                    "null"
+                                ]
+                            },
+                            "actions": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "roles",
+                                        "action",
+                                        "nextState"
+                                    ],
+                                    "properties": {
+                                        "roles": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "action": {
+                                            "type": "string"
+                                        },
+                                        "nextState": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            },
+                            "isStartState": {
+                                "type": "boolean"
+                            },
+                            "generateDemandAt": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            },
+                            "isStateUpdatable": {
+                                "type": "boolean"
+                            },
+                            "isTerminateState": {
+                                "type": "boolean"
+                            },
+                            "applicationStatus": {
+                                "type": [
+                                    "string",
+                                    "null"
+                                ]
+                            },
+                            "docUploadRequired": {
+                                "type": "boolean"
+                            },
+                            "nextActionAfterPayment": {
+                                "type": "string"
+                            },
+                            "triggerParallelWorkflows": {
+                                "type": "array",
+                                "items": {
+                                    "type": [
+                                        "string",
+                                        "null"
+                                    ]
+                                }
+                            },
+                            "autoTransitionEnabledStates": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    }
+                },
+                "INACTIVE": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "business": {
+                    "type": "string"
+                },
+                "businessService": {
+                    "type": "string"
+                },
+                "businessServiceSla": {
+                    "type": "number"
+                }
+            }
+        },
+        "apiconfig": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "host",
+                    "type",
+                    "method",
+                    "service",
+                    "endpoint"
+                ],
+                "properties": {
+                    "host": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "method": {
+                        "type": "string"
+                    },
+                    "service": {
+                        "type": "string"
+                    },
+                    "endpoint": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "applicant": {
+            "type": "object"
+        },
+        "checklist": {
+            "type": "array",
+            "items": {
+                "type": "object"
+            }
+        },
+        "documents": {
+            "type": "array",
+            "items": {
+                "type": "object"
+            }
+        },
+        "calculator": {
+            "type": "object"
+        },
+        "localization": {
+            "type": "object"
+        },
+        "notification": {
+            "type": "object"
+        }
+    }
+}

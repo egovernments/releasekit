@@ -1,0 +1,66 @@
+{
+    "type": "object",
+    "title": "PageConfig",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "code",
+        "name",
+        "blocks"
+    ],
+    "x-unique": [
+        "code"
+    ],
+    "properties": {
+        "code": {
+            "type": "string",
+            "description": "Unique page slug, e.g. city-services-home"
+        },
+        "name": {
+            "type": "string",
+            "description": "Human-readable page name"
+        },
+        "theme": {
+            "type": "object",
+            "properties": {
+                "primaryColor": {
+                    "type": "string"
+                }
+            }
+        },
+        "blocks": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "id",
+                    "type",
+                    "props"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "enum": [
+                            "heroBanner",
+                            "heading",
+                            "paragraph",
+                            "serviceSearch",
+                            "serviceGrid",
+                            "callToAction"
+                        ],
+                        "type": "string"
+                    },
+                    "order": {
+                        "type": "integer"
+                    },
+                    "props": {
+                        "type": "object"
+                    }
+                },
+                "additionalProperties": false
+            },
+            "minItems": 1
+        }
+    }
+}

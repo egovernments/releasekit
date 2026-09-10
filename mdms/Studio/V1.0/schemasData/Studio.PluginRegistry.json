@@ -1,0 +1,16 @@
+[
+    {
+        "emits": [],
+        "version": "1.0",
+        "endpoint": "http://studio-calculator-service:8080/studio-calculator-service/v1/_calculate",
+        "pluginCode": "payment.calculator",
+        "configFields": [
+            {
+                "key": "calculatorKey",
+                "type": "string",
+                "hidden": true,
+                "required": true
+            }
+        ]
+    }
+]
