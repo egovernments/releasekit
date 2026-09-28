@@ -1,0 +1,16 @@
+[
+    {
+        "label": "Billing",
+        "plugins": [
+            "payment.calculator"
+        ],
+        "operationCode": "BILLING"
+    },
+    {
+        "label": "Billing",
+        "plugins": [
+            "payment.calculator"
+        ],
+        "operationCode": "CALCULATOR"
+    }
+]

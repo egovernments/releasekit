@@ -1,0 +1,26 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "required": [
+        "operationCode",
+        "label",
+        "plugins"
+    ],
+    "x-unique": [
+        "operationCode"
+    ],
+    "properties": {
+        "label": {
+            "type": "string"
+        },
+        "plugins": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "operationCode": {
+            "type": "string"
+        }
+    }
+}
